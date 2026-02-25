@@ -1,3 +1,135 @@
-@use "./base.scss";
+/* ============================================================
+   KeeBib 성경 연구소 - 싱글 컬럼(사이드바 없음) 최종 스타일
+   ============================================================ */
 
-// put your custom CSS here!
+/* 1. 전체 페이지 구조: 사이드바 공간을 완전히 제거하고 중앙 정렬 */
+.page {
+  display: block !important;
+  max-width: 850px !important;  /* 본문 읽기 가장 편한 최적의 너비 */
+  margin: 0 auto !important;     /* 화면 중앙 정렬 */
+  padding: 0 1.5rem !important;
+}
+
+#quartz-body {
+  display: block !important;
+}
+
+/* 2. 사이드바 강제 숨김 (혹시 레이아웃 설정에 남아있을 경우 대비) */
+.sidebar.left, 
+.sidebar.right, 
+.sidebar {
+  display: none !important;
+  width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* 3. 본문 영역을 전체 너비로 확장 */
+.center {
+  width: 100% !important;
+  padding-top: 3rem !important;
+}
+
+/* 4. 날짜 및 메타데이터 숨기기 (성경 가독성 방해 요소 제거) */
+.content-meta, 
+.meta, 
+time, 
+.page-listing .meta, 
+.section-li .meta { 
+  display: none !important; 
+}
+
+/* 5. 제목 및 본문 정렬 최적화 */
+.article-title {
+  text-align: center !important; /* 제목 중앙 정렬 */
+  font-size: 2.2rem !important;
+  margin-bottom: 2rem !important;
+  color: #ebebec; /* 다크모드 기준 밝은 색상 */
+}
+
+article {
+  line-height: 2.1 !important; /* 행간 확보 */
+  font-size: 1.2rem !important;
+  text-align: left !important; /* 성경 구절은 왼쪽 정렬 */
+
+  /* 절 번호 강조 스타일 */
+  strong {
+    color: #49cce6;
+    font-weight: 800;
+    margin-right: 10px;
+    font-size: 0.9em;
+  }
+
+  /* 번역 특수 기호 스타일 */
+  .added { color: #888; font-style: italic; } /* 첨가어 */
+  .alt-text { border-bottom: 1px dashed #49cce6; color: #2a9d8f; cursor: help; } /* 대체어 */
+  .alt-label { font-size: 0.75em; color: var(--gray); font-style: italic; }
+  .alt-text { color: var(--secondary); font-size: 0.85em; font-style: normal; }
+  del.deleted-text { color: #bbb; text-decoration: line-through; opacity: 0.7; } /* 삭제권장 */
+}
+
+/* 6. 모바일 대응 (반응형 설정) */
+@media (max-width: 800px) {
+  .page {
+    max-width: 100% !important;
+    padding: 0 1.2rem !important;
+  }
+  .article-title {
+    font-size: 1.7rem !important;
+  }
+}
+
+/* 7. 하단 푸터 중앙 정렬 */
+footer {
+  text-align: center !important;
+  border-top: 1px solid #393639;
+  margin-top: 5rem !important;
+  padding: 2rem 0 !important;
+}
+
+/* 제목의 권위와 가독성 보강 */
+.article-title {
+  color: #1a1a1a !important; /* 훨씬 어둡고 선명한 검정색 */
+  font-weight: 800 !important;
+  font-family: 'Noto Serif KR', serif !important; /* 명조체 계열로 고전미 추가 */
+  letter-spacing: -0.05rem;
+  margin-top: 2rem !important;
+}
+
+/* 상단 네비게이션 버튼(이전/다음 장) 우아하게 만들기 */
+.content-nav {
+  background: #fdfdfd;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 1rem !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+}
+
+/* 본문 배경색을 아주 연한 미색으로 변경 (눈의 피로 감소 및 고급화) */
+body {
+  background-color: #fcfcfc !important; 
+}
+
+.hero-container {
+position: relative;
+width: 100%;
+height: 280px !important;
+margin-bottom: 2.5rem;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.hero-image {
+width: 100% !important;
+height: 100% !important;
+object-fit: cover;
+object-position: center 20% !important; filter: brightness(0.55) contrast(1.1);
+}
+
+.hero-overlay h1 {
+font-family: 'Noto Serif KR', serif !important;
+font-size: 2.5rem !important;
+color: #f1c40f !important; letter-spacing: 0.2rem;
+text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+}

@@ -217,30 +217,27 @@ a {
     @media all and ($mobile) {
       margin: 0 auto;
     }
-
+   
     & .sidebar {
       gap: 1.2rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: $topSpacing 0.5rem 2rem 0.5rem;
       display: flex;
       height: 100vh;
       position: sticky;
-    }
+      
+      @media all and ($tablet) {   ← 추가
+        display: none !important;
+      }
+    }    
 
     & .sidebar.left {
       z-index: 1;
       grid-area: grid-sidebar-left;
       flex-direction: column;
       @media all and ($mobile) {
-        gap: 0;
-        align-items: center;
-        position: initial;
-        display: flex;
-        height: unset;
-        flex-direction: row;
-        padding: 0;
-        padding-top: 2rem;
+        display: none !important;  ← 한 줄로 완전 숨김
       }
     }
 

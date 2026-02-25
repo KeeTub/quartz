@@ -1,12 +1,5 @@
 @use "sass:map";
 
-/**
- * Layout breakpoints
- * $mobile: screen width below this value will use mobile styles
- * $desktop: screen width above this value will use desktop styles
- * Screen width between $mobile and $desktop width will use the tablet layout.
- * assuming mobile < desktop
- */
 $breakpoints: (
   mobile: 800px,
   desktop: 1200px,
@@ -17,40 +10,42 @@ $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.ge
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
 $pageWidth: #{map.get($breakpoints, mobile)};
-$sidePanelWidth: 320px; //380px;
-$topSpacing: 6rem;
+$sidePanelWidth: 280px;
+$topSpacing: 2rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
 
+/* 모바일: 사이드바 없음 */
 $mobileGrid: (
-  templateRows: "auto auto auto auto auto",
+  templateRows: "auto auto auto",
   templateColumns: "auto",
   rowGap: "5px",
-  columnGap: "5px",
+  columnGap: "0px",
   templateAreas:
-    '"grid-sidebar-left"\
-      "grid-header"\
+    '"grid-header"\
       "grid-center"\
-      "grid-sidebar-right"\
       "grid-footer"',
 );
+
+/* 태블릿: 사이드바 없음 */
 $tabletGrid: (
-  templateRows: "auto auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto",
+  templateRows: "auto auto auto",
+  templateColumns: "0px auto",
   rowGap: "5px",
-  columnGap: "5px",
+  columnGap: "0px",
   templateAreas:
     '"grid-sidebar-left grid-header"\
       "grid-sidebar-left grid-center"\
-      "grid-sidebar-left grid-sidebar-right"\
       "grid-sidebar-left grid-footer"',
 );
+
+/* 데스크탑: 사이드바 280px */
 $desktopGrid: (
   templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
+  templateColumns: "#{$sidePanelWidth} auto 0px",
   rowGap: "5px",
-  columnGap: "5px",
+  columnGap: "10px",
   templateAreas:
     '"grid-sidebar-left grid-header grid-sidebar-right"\
       "grid-sidebar-left grid-center grid-sidebar-right"\
