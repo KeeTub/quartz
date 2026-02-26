@@ -22,6 +22,9 @@ title: "프락시스 신약성경 연구소"
   </a>
 </div>
 
+<div style="text-align: center; margin: 2rem 0; font-style: italic; color: #555;">
+  "오직 성경으로 (Sola Scriptura)"
+</div>
 ---
 ### 📖 번역 범례 (Legend)
 > [!info] **번역 기호 안내**
@@ -35,6 +38,3 @@ Legend:
 > **Square brackets [ ]** the word or phrase in the bracket may be omitted to improve sentence flow, or the phrase that need to be moved to another verse during translation.
 ---
 
-<div style="text-align: center; margin: 2rem 0; font-style: italic; color: #555;">
-  "오직 성경으로 (Sola Scriptura)"
-</div>
