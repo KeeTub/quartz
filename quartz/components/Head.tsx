@@ -96,7 +96,23 @@ export default (() => {
           } else {
             return resource
           }
-        })}
+        })} 
+        {/* PWA 설정 시작 */}
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content={cfg.theme.colors.lightMode.secondary} />
+        <link rel="apple-touch-icon" href="/static/icon-192.png" />
+
+        <script dangerouslySetInnerHTML={{ __html: `
+          if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+              navigator.serviceWorker.register('/sw.js')
+                .then(reg => console.log('서비스 워커 등록 성공!'))
+                .catch(err => console.log('서비스 워커 등록 실패', err));
+            });
+          }
+        ` }} />
+        {/* PWA 설정 끝 */}
+     
       </head>
     )
   }
