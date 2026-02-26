@@ -100,7 +100,7 @@ export default (() => {
         {/* PWA 설정 시작 */}
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content={cfg.theme.colors.lightMode.secondary} />
-        <link rel="apple-touch-icon" href="/static/icon-192.png" />
+        <link rel="apple-touch-icon" href="/icon-192.png" />
 
         <script dangerouslySetInnerHTML={{ __html: `
           if ('serviceWorker' in navigator) {
