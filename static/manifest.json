@@ -3,19 +3,18 @@
   "name": "프락시스 신약성경 연구소",
   "icons": [
     {
-      "src": "/static/icon-192.png",
+      "src": "/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/static/icon-512.png",
+      "src": "/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": "/",
-  "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#284b63"
+  "theme_color": "#284b63",
+  "background_color": "#ffffff"
 }
