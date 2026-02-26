@@ -1,14 +1,14 @@
 {
   "short_name": "pxkorBible",
-  "name": "pxkorBible: 성경 연구 플랫폼",
+  "name": "프락시스 신약성경 연구소",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/static/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon-512.png",
+      "src": "/static/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -17,5 +17,5 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#000000"
+  "theme_color": "#284b63"
 }
