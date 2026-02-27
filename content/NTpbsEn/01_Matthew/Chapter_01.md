@@ -4,7 +4,7 @@ book: "Matthew"
 chapter: 1
 tags: [NTpbsEn, Matthew]
 ---
-
+<a href="../../../index.html"><button>홈으로</button></a>
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
 **1** <span class="added">(The)</span> book of <span class="added">(the)</span> genealogy of Jesus Christ, <span class="added">(the)</span> son of David, <span class="added">(the)</span> son of Abraham.
