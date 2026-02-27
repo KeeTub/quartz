@@ -12,3 +12,4 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   event.respondWith(fetch(event.request));
 });
+// 이 경로는quartz/quartz/static이야
