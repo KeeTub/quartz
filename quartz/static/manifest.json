@@ -1,0 +1,24 @@
+{
+  "short_name": "PraxisBibleNT",
+  "name": "프락시스 신약성경 연구소",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#284b63",
+  "background_color": "#ffffff",
+  "scope": "/"
+}

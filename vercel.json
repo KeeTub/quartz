@@ -2,6 +2,11 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
+    { "source": "/manifest.json", "destination": "/static/manifest.json" },
+    { "source": "/sw.js", "destination": "/static/sw.js" },
+    { "source": "/icon-192.png", "destination": "/static/icon-192.png" },
+    { "source": "/icon-512.png", "destination": "/static/icon-512.png" },
+    { "source": "/apple-touch-icon.png", "destination": "/static/icon-192.png" },
     { "source": "/:path*", "destination": "/:path*" }
   ]
 }

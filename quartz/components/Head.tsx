@@ -96,7 +96,24 @@ export default (() => {
           } else {
             return resource
           }
-        })}
+        })} 
+        {/* PWA 설정 시작 */}
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content={cfg.theme.colors.lightMode.secondary} />
+        <link rel="apple-touch-icon" href="/icon-192.png" />
+
+        <script dangerouslySetInnerHTML={{ __html: `
+          if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+              // 경로를 './sw.js'로 수정하여 현재 위치에서 찾도록 강제함
+              navigator.serviceWorker.register('./sw.js', { scope: '/' })
+                .then(reg => console.log('성공: 서비스 워커가 등록되었습니다!', reg))
+                .catch(err => console.log('실패: 서비스 워커 등록 오류:', err));
+            });
+          }
+        ` }} />
+        {/* PWA 설정 끝 */}
+     
       </head>
     )
   }
