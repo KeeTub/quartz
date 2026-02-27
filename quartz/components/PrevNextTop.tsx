@@ -79,6 +79,8 @@ const PrevNextTop: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPro
                 <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
               </svg>
             </button>
+
+            {/* TTS 토글 */}
             <button class="ctrl-btn tts-btn" id="tts-toggle-top" title="읽어주기">
               <svg id="tts-play-icon" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
@@ -90,6 +92,16 @@ const PrevNextTop: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPro
               </svg>
               <span id="tts-label">읽기</span>
             </button>
+
+            {/* 완벽한 홈 버튼 */}
+            <a href="/" class="ctrl-btn home-btn" title="홈으로">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                <polyline points="9 22 9 12 15 12 15 22"></polyline>
+              </svg>
+              <span class="btn-text">홈</span>
+            </a>
+
             <a href={`/${chapterListSlug}`} class="ctrl-btn chapter-btn">장목록</a>
             <a href={`/${bookListSlug}`} class="ctrl-btn book-btn">책목록</a>
           </div>
@@ -187,13 +199,12 @@ PrevNextTop.css = `
 .page-divider { font-size: 0.7rem; color: var(--gray); }
 .page-total { font-size: 0.75rem; color: var(--gray); }
 
-/* 버튼 행 - 항상 가로 배치 */
 .ctrl-row {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 0.6rem;       /* ← 충분한 간격 */
+  gap: 0.5rem;
   flex-wrap: nowrap;
 }
 
@@ -221,6 +232,15 @@ PrevNextTop.css = `
   background: var(--highlight);
 }
 
+.home-btn {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}
+.home-btn:hover {
+  background: var(--secondary);
+  color: var(--light);
+}
+
 .tts-btn.tts-active {
   background: var(--secondary);
   border-color: var(--secondary);
@@ -236,14 +256,9 @@ PrevNextTop.css = `
   color: var(--light);
 }
 
-/* 다크모드 버튼 */
 .dark-btn {
   border-color: var(--lightgray);
   color: var(--gray);
-}
-.dark-btn:hover {
-  border-color: var(--secondary);
-  color: var(--secondary);
 }
 
 .nav-btn-empty {
@@ -253,23 +268,12 @@ PrevNextTop.css = `
   visibility: hidden;
 }
 
-/* 데스크탑: 장목록/책목록 숨김 */
-@media (min-width: 1200px) {
-  .btn-title { max-width: 130px; }
-}
-
-/* 태블릿 */
-@media (min-width: 800px) and (max-width: 1199px) {
-  .btn-title { max-width: 100px; }
-}
-
-/* 모바일 */
 @media (max-width: 799px) {
-  .btn-title { display: none; }
+  .btn-title, .btn-text { display: none; }
   .nav-btn { padding: 0.3rem 0.5rem; max-width: 28%; }
   .prevnext-top-inner { padding: 0.35rem 0.6rem; }
-  .ctrl-btn { font-size: 0.68rem; padding: 0.18rem 0.5rem; }
-  .ctrl-row { gap: 0.45rem; }
+  .ctrl-btn { font-size: 0.68rem; padding: 0.18rem 0.45rem; }
+  .ctrl-row { gap: 0.35rem; }
 }
 `
 
