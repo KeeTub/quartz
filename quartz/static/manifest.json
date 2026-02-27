@@ -20,30 +20,5 @@
   "orientation": "portrait",
   "theme_color": "#284b63",
   "background_color": "#ffffff",
-  "scope": "/"{
-  "short_name": "pxkorBible",
-  "name": "프락시스 신약성경 연구소",
-  "description": "김기천 목사의 신약성경 연구소 앱입니다.",
-  "icons": [
-    {
-      "src": "/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
-    }
-  ],
-  "start_url": "/",
-  "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#284b63",
-  "background_color": "#ffffff",
-  "scope": "/",
-  "lang": "ko-KR"
-}
+  "scope": "/"
 }
