@@ -1,19 +1,14 @@
-// 서비스 워커 설치
+// static/sw.js
 self.addEventListener('install', (event) => {
-  console.log('pxkorBible Service Worker 설치됨');
+  console.log('Service Worker installed');
   self.skipWaiting();
 });
 
-// 서비스 워커 활성화
 self.addEventListener('activate', (event) => {
-  console.log('pxkorBible Service Worker 활성화됨');
+  console.log('Service Worker activated');
 });
 
-// 설치 아이콘이 뜨기 위한 필수 조건 (Fetch 이벤트 처리)
+// 이 fetch 이벤트가 있어야 브라우저가 '설치 가능'으로 인식합니다.
 self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    fetch(event.request).catch(() => {
-      return caches.match(event.request);
-    })
-  );
+  event.respondWith(fetch(event.request));
 });
