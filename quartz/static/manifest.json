@@ -1,0 +1,20 @@
+{
+  "short_name": "pxkorBible",
+  "name": "프락시스 신약성경 연구소",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#284b63",
+  "background_color": "#ffffff"
+}
