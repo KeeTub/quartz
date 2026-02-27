@@ -105,9 +105,10 @@ export default (() => {
         <script dangerouslySetInnerHTML={{ __html: `
           if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-              navigator.serviceWorker.register('/sw.js')
-                .then(reg => console.log('서비스 워커 등록 성공!'))
-                .catch(err => console.log('서비스 워커 등록 실패', err));
+              // 경로를 './sw.js'로 수정하여 현재 위치에서 찾도록 강제함
+              navigator.serviceWorker.register('./sw.js', { scope: '/' })
+                .then(reg => console.log('성공: 서비스 워커가 등록되었습니다!', reg))
+                .catch(err => console.log('실패: 서비스 워커 등록 오류:', err));
             });
           }
         ` }} />
