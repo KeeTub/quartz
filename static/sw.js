@@ -1,19 +1,14 @@
 // static/sw.js
-const CACHE_NAME = 'bible-cache-v1';
-
 self.addEventListener('install', (event) => {
+  console.log('Service Worker installed');
   self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
-  event.waitUntil(clients.claim());
+  console.log('Service Worker activated');
 });
 
-// 설치 메뉴가 나타나기 위해 반드시 필요한 fetch 이벤트
+// 이 fetch 이벤트가 있어야 브라우저가 '설치 가능'으로 인식합니다.
 self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    fetch(event.request).catch(() => {
-      return caches.match(event.request);
-    })
-  );
+  event.respondWith(fetch(event.request));
 });
