@@ -1,3 +1,4 @@
 ---
-title: 2 Peter
+title: "2 Peter"
+layout: list
 ---

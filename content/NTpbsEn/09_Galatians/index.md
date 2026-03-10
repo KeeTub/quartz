@@ -1,3 +1,4 @@
 ---
-title: Galatians
+title: "Galatians"
+layout: list
 ---

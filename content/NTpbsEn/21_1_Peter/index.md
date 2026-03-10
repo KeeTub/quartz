@@ -1,3 +1,4 @@
 ---
-title: 1 Peter
+title: "1 Peter"
+layout: list
 ---

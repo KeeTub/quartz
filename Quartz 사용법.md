@@ -6,3 +6,5 @@
 
 # 변경 다음에는 github Desktop 실행
 ### 명목 입력 후에 자동으로 업데이트 됨. 
+
+# **GitHub Desktop** 프로그램 상단의 **[Push origin]** 버튼을 클릭하세요.

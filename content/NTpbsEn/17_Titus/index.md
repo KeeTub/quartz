@@ -1,3 +1,4 @@
 ---
-title: Titus
+title: "Titus"
+layout: list
 ---

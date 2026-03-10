@@ -1,3 +1,4 @@
 ---
-title: James
+title: "James"
+layout: list
 ---

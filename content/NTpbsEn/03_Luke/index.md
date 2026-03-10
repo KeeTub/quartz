@@ -1,3 +1,4 @@
 ---
-title: Luke
+title: "Luke"
+layout: list
 ---

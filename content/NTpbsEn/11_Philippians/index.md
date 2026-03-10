@@ -1,3 +1,4 @@
 ---
-title: Philippians
+title: "Philippians"
+layout: list
 ---

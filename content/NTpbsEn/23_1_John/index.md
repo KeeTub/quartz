@@ -1,3 +1,4 @@
 ---
-title: 1 John
+title: "1 John"
+layout: list
 ---

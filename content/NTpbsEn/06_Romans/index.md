@@ -1,3 +1,4 @@
 ---
-title: Romans
+title: "Romans"
+layout: list
 ---

@@ -1,3 +1,4 @@
 ---
-title: Mark
+title: "Mark"
+layout: list
 ---

@@ -1,3 +1,4 @@
 ---
-title: Philemon
+title: "Philemon"
+layout: list
 ---

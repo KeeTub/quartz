@@ -1,3 +1,4 @@
 ---
-title: Ephesians
+title: "Ephesians"
+layout: list
 ---

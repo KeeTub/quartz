@@ -1,3 +1,4 @@
 ---
-title: Jude
+title: "Jude"
+layout: list
 ---

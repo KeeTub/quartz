@@ -1,3 +1,4 @@
 ---
-title: Matthew
+title: "Matthew"
+layout: list
 ---

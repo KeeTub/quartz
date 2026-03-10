@@ -1,3 +1,4 @@
 ---
-title: Revelation
+title: "Revelation"
+layout: list
 ---

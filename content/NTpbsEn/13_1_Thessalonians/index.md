@@ -1,3 +1,4 @@
 ---
-title: 1 Thessalonians
+title: "1 Thessalonians"
+layout: list
 ---

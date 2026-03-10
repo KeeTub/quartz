@@ -1,3 +1,4 @@
 ---
-title: Hebrews
+title: "Hebrews"
+layout: list
 ---

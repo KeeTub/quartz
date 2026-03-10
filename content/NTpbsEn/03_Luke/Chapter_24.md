@@ -1,121 +1,130 @@
 ---
-title: "Luke Chapter 24"
+title: "24"
+description: "Luke Chapter 24"
 book: "Luke"
 chapter: 24
+order: 24
 tags: [NTpbsEn, Luke]
 ---
 
-<small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
+# Luke 24
 
-**1** And <span class="added">(on)</span> the first <span class="added">(day)</span> of the <span class="alt-label">Sabbaths</span><span class="alt-text">(=week)</span>, <span class="added">(at)</span> early dawn, they came to the tomb, taking spices which they prepared.
+<div class="bible-legend">
+  <span class="legend-item"><span class="dot alt"></span>(=alt.word)</span>
+  <span class="legend-item"><span class="dot added"></span>(added)</span>
+  <span class="legend-item"><span class="dot deleted"></span>[omit]</span>
+</div>
 
-**2** And they found the stone having been rolled away from the tomb.
 
-**3** And having entered, they did not found the body of the Lord Jesus.
+<span class="v-num">1</span> And <span class="added-text">(on)</span> the first <span class="added-text">(day)</span> of the <span class="alt-label">Sabbaths</span><span class="alt-text">(=week)</span>, <span class="added-text">(at)</span> early dawn, they came to the tomb, taking spices which they prepared.
 
-**4** And it was <span class="alt-label">in the them to be perplexed</span><span class="alt-text">(=while they were perplexed)</span>[^1] about this, <span class="added">(that)</span> <del class="deleted-text">[and]</del> behold, two men stood by them in dazzling cloths.
+<span class="v-num">2</span> And they found the stone having been rolled away from the tomb.
 
-**5** And <span class="alt-label">their having been terrified and bending</span><span class="alt-text">(=as the women were terrified and bowed)</span>[^2] <span class="alt-label">the</span><span class="alt-text">(=their)</span> faces to the ground, they said <span class="added">(to)</span> them, “Why do you seek the living one with the dead?”
+<span class="v-num">3</span> And having entered, they did not found the body of the Lord Jesus.
 
-**6** “He is not here, but is risen! Remember how he told you, <span class="alt-label">being</span><span class="alt-text">(=while he was)</span> still in <del class="deleted-text">[the]</del> Galilee,”
+<span class="v-num">4</span> And it was <span class="alt-label">in the them to be perplexed</span><span class="alt-text">(=while they were perplexed)</span>[^1] about this, <span class="added-text">(that)</span> <del class="deleted-text">[and]</del> behold, two men stood by them in dazzling cloths.
 
-**7** “saying, ‘It is necessary <span class="added">(for)</span> the Son of Man to be delivered into <span class="added">(the)</span> hands of sinners and to be crucified and <span class="added">(on)</span> the third day to rise again.’”
+<span class="v-num">5</span> And <span class="alt-label">their having been terrified and bending</span><span class="alt-text">(=as the women were terrified and bowed)</span>[^2] <span class="alt-label">the</span><span class="alt-text">(=their)</span> faces to the ground, they said <span class="added-text">(to)</span> them, “Why do you seek the living one with the dead?”
 
-**8** And they remembered his words.
+<span class="v-num">6</span> “He is not here, but is risen! Remember how he told you, <span class="alt-label">being</span><span class="alt-text">(=while he was)</span> still in <del class="deleted-text">[the]</del> Galilee,”
 
-**9** And having returned from the tomb, they announced all these things to the eleven and all the rest.
+<span class="v-num">7</span> “saying, ‘It is necessary <span class="added-text">(for)</span> the Son of Man to be delivered into <span class="added-text">(the)</span> hands of sinners and to be crucified and <span class="added-text">(on)</span> the third day to rise again.’”
 
-**10** And <span class="alt-label">they were</span><span class="alt-text">(=it was)</span> Mary Magdalene, Joanna, Mary the <span class="added">(mother)</span> of James, and the other <span class="added">(women)</span> with them, who was telling these things to the apostles.
+<span class="v-num">8</span> And they remembered his words.
 
-**11** And these sayings seemed <span class="alt-label">before</span><span class="alt-text">(=to)</span> them like nonsense, and they were not believing them.
+<span class="v-num">9</span> And having returned from the tomb, they announced all these things to the eleven and all the rest.
 
-**12** And <del class="deleted-text">[the]</del> Peter, having risen, ran <span class="alt-label">on</span><span class="alt-text">(=to)</span> the tomb. And having stooped down, he <span class="alt-label">sees</span><span class="alt-text">(=saw)</span> the linen clothes <span class="added">(lying)</span> by themselves. And he went away, wandering to himself the thing having <span class="alt-label">happened</span><span class="alt-text">(=what had happened)</span>.
+<span class="v-num">10</span> And <span class="alt-label">they were</span><span class="alt-text">(=it was)</span> Mary Magdalene, Joanna, Mary the <span class="added-text">(mother)</span> of James, and the other <span class="added-text">(women)</span> with them, who was telling these things to the apostles.
 
-**13** And behold, on the same day two of them <u>were going</u><span class="added">(# periphrastic imperfect)</span> to a village being away <span class="alt-label">sixty stadia</span><span class="alt-text">(=about seven miles)</span> from Jerusalem, to which name <span class="added">(was)</span> Emmaus.
+<span class="v-num">11</span> And these sayings seemed <span class="alt-label">before</span><span class="alt-text">(=to)</span> them like nonsense, and they were not believing them.
 
-**14** And they were talking with each other about all these things having happened.
+<span class="v-num">12</span> And <del class="deleted-text">[the]</del> Peter, having risen, ran <span class="alt-label">on</span><span class="alt-text">(=to)</span> the tomb. And having stooped down, he <span class="alt-label">sees</span><span class="alt-text">(=saw)</span> the linen clothes <span class="added-text">(lying)</span> by themselves. And he went away, wandering to himself the thing having <span class="alt-label">happened</span><span class="alt-text">(=what had happened)</span>.
 
-**15** And it happened, <span class="alt-label">in the them to talk and discuss</span><span class="alt-text">(=while they were talking and discussing)</span>, <del class="deleted-text">[and]</del> <span class="added">(that)</span> Jesus himself, having come near, was going with them.
+<span class="v-num">13</span> And behold, on the same day two of them <u>were going</u><span class="added-text">(# periphrastic imperfect)</span> to a village being away <span class="alt-label">sixty stadia</span><span class="alt-text">(=about seven miles)</span> from Jerusalem, to which name <span class="added-text">(was)</span> Emmaus.
 
-**16** But their eyes <span class="alt-label">were being restrained not to recognize him</span><span class="alt-text">(=were kept from recognizing him)</span>.
+<span class="v-num">14</span> And they were talking with each other about all these things having happened.
 
-**17** And he said <span class="added">(to)</span> them, “What <span class="added">(are)</span> these words that you exchange with one another, walking along?” And they stood still, <span class="alt-label">sad-faced</span><span class="alt-text">(=and looked sad)</span>.
+<span class="v-num">15</span> And it happened, <span class="alt-label">in the them to talk and discuss</span><span class="alt-text">(=while they were talking and discussing)</span>, <del class="deleted-text">[and]</del> <span class="added-text">(that)</span> Jesus himself, having come near, was going with them.
 
-**18** And having answered, one <span class="added">(of them)</span>, Cleopas <span class="added">(by)</span> name, said <span class="added">(to)</span> him, “Are you only visitor <span class="added">(to)</span> Jerusalem <del class="deleted-text">[and]</del> <span class="added">(who)</span> <span class="alt-label">did</span><span class="alt-text">(=does)</span> not know the things having happened in it in these days?”
+<span class="v-num">16</span> But their eyes <span class="alt-label">were being restrained not to recognize him</span><span class="alt-text">(=were kept from recognizing him)</span>.
 
-**19** And he said <span class="added">(to)</span> them, “What things?” And they said <span class="added">(to)</span> him, “The things about Jesus of Nazareth who was a prophet, mighty man in deed and word before <del class="deleted-text">[the]</del> God and all the people,”
+<span class="v-num">17</span> And he said <span class="added-text">(to)</span> them, “What <span class="added-text">(are)</span> these words that you exchange with one another, walking along?” And they stood still, <span class="alt-label">sad-faced</span><span class="alt-text">(=and looked sad)</span>.
 
-**20** “and how both the high priests and our rulers delivered him to <span class="added">(the)</span> sentence of death, and crucified him.”
+<span class="v-num">18</span> And having answered, one <span class="added-text">(of them)</span>, Cleopas <span class="added-text">(by)</span> name, said <span class="added-text">(to)</span> him, “Are you only visitor <span class="added-text">(to)</span> Jerusalem <del class="deleted-text">[and]</del> <span class="added-text">(who)</span> <span class="alt-label">did</span><span class="alt-text">(=does)</span> not know the things having happened in it in these days?”
 
-**21** “But we were hoping that he <span class="alt-label">is</span><span class="alt-text">(=was)</span> the one being about to redeem <del class="deleted-text">[the]</del> Israel. But also <span class="alt-label">with all these things</span><span class="alt-text">(=in addition)</span>, this day <span class="alt-label">leads</span><span class="alt-text">(=is)</span> <span class="added">(the)</span> third day since these things happened.”
+<span class="v-num">19</span> And he said <span class="added-text">(to)</span> them, “What things?” And they said <span class="added-text">(to)</span> him, “The things about Jesus of Nazareth who was a prophet, mighty man in deed and word before <del class="deleted-text">[the]</del> God and all the people,”
 
-**22** “But also some women among us amazed us, having been at the tomb early in the morning,”
+<span class="v-num">20</span> “and how both the high priests and our rulers delivered him to <span class="added-text">(the)</span> sentence of death, and crucified him.”
 
-**23** “and having not found his body, they came, saying, to have seen a vision of angels who <span class="alt-label">say</span><span class="alt-text">(=said)</span> <span class="alt-label">him to live</span><span class="alt-text">(=that he was alive)</span>.”
+<span class="v-num">21</span> “But we were hoping that he <span class="alt-label">is</span><span class="alt-text">(=was)</span> the one being about to redeem <del class="deleted-text">[the]</del> Israel. But also <span class="alt-label">with all these things</span><span class="alt-text">(=in addition)</span>, this day <span class="alt-label">leads</span><span class="alt-text">(=is)</span> <span class="added-text">(the)</span> third day since these things happened.”
 
-**24** “And some of the ones with us went to the tomb, and they found <span class="added">(it)</span> just as the women also said, but they did not see him.”
+<span class="v-num">22</span> “But also some women among us amazed us, having been at the tomb early in the morning,”
 
-**25** And he said <span class="added">(to)</span> them, “O foolish men, and slow <span class="alt-label">in</span><span class="alt-text">(=of)</span> heart to believe <span class="alt-label">on</span><span class="alt-text">(=in)</span> all things that the prophets have spoken!”
+<span class="v-num">23</span> “and having not found his body, they came, saying, to have seen a vision of angels who <span class="alt-label">say</span><span class="alt-text">(=said)</span> <span class="alt-label">him to live</span><span class="alt-text">(=that he was alive)</span>.”
 
-**26** “Was it not necessary <span class="added">(for)</span> the Christ to suffer these things and <del class="deleted-text">[to]</del> enter to his glory?”
+<span class="v-num">24</span> “And some of the ones with us went to the tomb, and they found <span class="added-text">(it)</span> just as the women also said, but they did not see him.”
 
-**27** And having begun <span class="alt-label">from</span><span class="alt-text">(=with)</span> Moses and <del class="deleted-text">[from]</del> all the prophets, he explained <span class="added">(to)</span> them the things about himself in all the Scriptures.
+<span class="v-num">25</span> And he said <span class="added-text">(to)</span> them, “O foolish men, and slow <span class="alt-label">in</span><span class="alt-text">(=of)</span> heart to believe <span class="alt-label">on</span><span class="alt-text">(=in)</span> all things that the prophets have spoken!”
 
-**28** And they came near to the village to which they were going. And he pretended to be going farther.
+<span class="v-num">26</span> “Was it not necessary <span class="added-text">(for)</span> the Christ to suffer these things and <del class="deleted-text">[to]</del> enter to his glory?”
 
-**29** And they urged him, saying, “Stay with us, for it is toward evening and the day has declined now.” And he went in to stay with them.
+<span class="v-num">27</span> And having begun <span class="alt-label">from</span><span class="alt-text">(=with)</span> Moses and <del class="deleted-text">[from]</del> all the prophets, he explained <span class="added-text">(to)</span> them the things about himself in all the Scriptures.
 
-**30** And it happened, <span class="alt-label">in the him to recline</span><span class="alt-text">(=as he sat at the table)</span>[^3] with them, that he, having taken the bread, blessed and <span class="alt-label">having broken</span><span class="alt-text">(=broke)</span> <span class="added">(it)</span>, <span class="added">(and)</span> he was giving <span class="added">(it to)</span> them.
+<span class="v-num">28</span> And they came near to the village to which they were going. And he pretended to be going farther.
 
-**31** And their eyes were opened, and they recognized him. And he <span class="alt-label">became invisible</span><span class="alt-text">(=disappeared)</span> from <span class="alt-label">them</span><span class="alt-text">(=their sight)</span>.
+<span class="v-num">29</span> And they urged him, saying, “Stay with us, for it is toward evening and the day has declined now.” And he went in to stay with them.
 
-**32** And they said <span class="added">(to)</span> each other, <span class="alt-label">“Was</span><span class="alt-text">(=Were)</span> not our <span class="alt-label">heart</span><span class="alt-text">(=hearts)</span> burning <span class="alt-label">in</span><span class="alt-text">(=within)</span> us while he was talking <span class="added">(with)</span> us on the road, while he was opening the Scriptures to us?”
+<span class="v-num">30</span> And it happened, <span class="alt-label">in the him to recline</span><span class="alt-text">(=as he sat at the table)</span>[^3] with them, that he, having taken the bread, blessed and <span class="alt-label">having broken</span><span class="alt-text">(=broke)</span> <span class="added-text">(it)</span>, <span class="added-text">(and)</span> he was giving <span class="added-text">(it to)</span> them.
 
-**33** And having gotten up <span class="alt-label">the</span><span class="alt-text">(=that)</span> same hour, they returned to Jerusalem, and they found the eleven and the ones with them having gathered together,
+<span class="v-num">31</span> And their eyes were opened, and they recognized him. And he <span class="alt-label">became invisible</span><span class="alt-text">(=disappeared)</span> from <span class="alt-label">them</span><span class="alt-text">(=their sight)</span>.
 
-**34** saying, “<del class="deleted-text">[that]</del> the Lord has risen indeed, and has appeared <span class="added">(to)</span> Simon!”
+<span class="v-num">32</span> And they said <span class="added-text">(to)</span> each other, <span class="alt-label">“Was</span><span class="alt-text">(=Were)</span> not our <span class="alt-label">heart</span><span class="alt-text">(=hearts)</span> burning <span class="alt-label">in</span><span class="alt-text">(=within)</span> us while he was talking <span class="added-text">(with)</span> us on the road, while he was opening the Scriptures to us?”
 
-**35** And they were telling the things on the road, and how he was known to them in the breaking of the bread.
+<span class="v-num">33</span> And having gotten up <span class="alt-label">the</span><span class="alt-text">(=that)</span> same hour, they returned to Jerusalem, and they found the eleven and the ones with them having gathered together,
 
-**36** And their <span class="alt-label">saying</span><span class="alt-text">(=as they were saying)</span>[^4] these things, he himself stood in the midst of them, and <span class="alt-label">say</span><span class="alt-text">(=said)</span> to them, “Peace <span class="added">(be with)</span> you.”
+<span class="v-num">34</span> saying, “<del class="deleted-text">[that]</del> the Lord has risen indeed, and has appeared <span class="added-text">(to)</span> Simon!”
 
-**37** And having been startled and <del class="deleted-text">[having been]</del> terrified, they were thinking <span class="alt-label">to see</span><span class="alt-text">(=that they were seeing)</span> a spirit.
+<span class="v-num">35</span> And they were telling the things on the road, and how he was known to them in the breaking of the bread.
 
-**38** And he said <span class="added">(to)</span> them, “Why are you <del class="deleted-text">[having been]</del> troubled? And why do doubts arise in your heart?”
+<span class="v-num">36</span> And their <span class="alt-label">saying</span><span class="alt-text">(=as they were saying)</span>[^4] these things, he himself stood in the midst of them, and <span class="alt-label">say</span><span class="alt-text">(=said)</span> to them, “Peace <span class="added-text">(be with)</span> you.”
 
-**39** “See my hands and my feet, that <span class="alt-label">I am myself</span><span class="alt-text">(=it is I myself)</span>. Touch me and see, for a spirit does not have flesh and bones as you see <span class="alt-label">me having</span><span class="alt-text">(=that I have)</span>.”
+<span class="v-num">37</span> And having been startled and <del class="deleted-text">[having been]</del> terrified, they were thinking <span class="alt-label">to see</span><span class="alt-text">(=that they were seeing)</span> a spirit.
 
-**40** And having said this thing, he showed them <span class="alt-label">the</span><span class="alt-text">(=his)</span> hands and feet.
+<span class="v-num">38</span> And he said <span class="added-text">(to)</span> them, “Why are you <del class="deleted-text">[having been]</del> troubled? And why do doubts arise in your heart?”
 
-**41** And <span class="alt-label">their disbelieving still and marvelling</span><span class="alt-text">(=while they still did not believe and marveled)</span>[^5] <span class="alt-label">from</span><span class="alt-text">(=for)</span> the joy, he said <span class="added">(to)</span> them, “Have you here anything <span class="alt-label">eatable</span><span class="alt-text">(=to eat)</span>?”
+<span class="v-num">39</span> “See my hands and my feet, that <span class="alt-label">I am myself</span><span class="alt-text">(=it is I myself)</span>. Touch me and see, for a spirit does not have flesh and bones as you see <span class="alt-label">me having</span><span class="alt-text">(=that I have)</span>.”
 
-**42** And they gave him a piece of broiled fish.
+<span class="v-num">40</span> And having said this thing, he showed them <span class="alt-label">the</span><span class="alt-text">(=his)</span> hands and feet.
 
-**43** And having taken <span class="added">(it)</span>, he ate before them.
+<span class="v-num">41</span> And <span class="alt-label">their disbelieving still and marvelling</span><span class="alt-text">(=while they still did not believe and marveled)</span>[^5] <span class="alt-label">from</span><span class="alt-text">(=for)</span> the joy, he said <span class="added-text">(to)</span> them, “Have you here anything <span class="alt-label">eatable</span><span class="alt-text">(=to eat)</span>?”
 
-**44** And he said to them, “These <span class="added">(are)</span> my words that I spoke to you, <span class="alt-label">being</span><span class="alt-text">(=while I was)</span> still with you, that it is necessary <span class="added">(for)</span> all things having been written about me in the law of Moses and the Prophets and Psalms to be fulfilled.”
+<span class="v-num">42</span> And they gave him a piece of broiled fish.
 
-**45** Then he opened their <span class="alt-label">mind</span><span class="alt-text">(=minds)</span> <span class="alt-label">the to understand</span><span class="alt-text">(=to understand)</span>[^6] the Scriptures.
+<span class="v-num">43</span> And having taken <span class="added-text">(it)</span>, he ate before them.
 
-**46** and he said <span class="added">(to)</span> them, “<del class="deleted-text">[that]</del> Thus it has been written <span class="alt-label">the Christ to suffer and to rise again</span><span class="alt-text">(=that the Christ will suffer and rise)</span> from <span class="added">(the)</span> dead <span class="added">(on)</span> the third day,”
+<span class="v-num">44</span> And he said to them, “These <span class="added-text">(are)</span> my words that I spoke to you, <span class="alt-label">being</span><span class="alt-text">(=while I was)</span> still with you, that it is necessary <span class="added-text">(for)</span> all things having been written about me in the law of Moses and the Prophets and Psalms to be fulfilled.”
 
-**47** “and <span class="alt-label">repentance for <span class="added">(the)</span> forgiveness of sins to be proclaimed</span><span class="alt-text">(=that repentance for the forgiveness of sins will be proclaimed)</span> <span class="alt-label">on</span><span class="alt-text">(=in)</span> his name to all <del class="deleted-text">[the]</del> nations, beginning from Jerusalem.”
+<span class="v-num">45</span> Then he opened their <span class="alt-label">mind</span><span class="alt-text">(=minds)</span> <span class="alt-label">the to understand</span><span class="alt-text">(=to understand)</span>[^6] the Scriptures.
 
-**48** “You <span class="added">(are)</span> witnesses of these things.”
+<span class="v-num">46</span> and he said <span class="added-text">(to)</span> them, “<del class="deleted-text">[that]</del> Thus it has been written <span class="alt-label">the Christ to suffer and to rise again</span><span class="alt-text">(=that the Christ will suffer and rise)</span> from <span class="added-text">(the)</span> dead <span class="added-text">(on)</span> the third day,”
 
-**49** “And behold, I am going to send<span class="added">(# present for immediate future)</span> the promise of my Father upon you, and you <span class="alt-label">sit</span><span class="alt-text">(=stay)</span> in the city until you might been clothed <span class="added">(with)</span> power from on high.”
+<span class="v-num">47</span> “and <span class="alt-label">repentance for <span class="added-text">(the)</span> forgiveness of sins to be proclaimed</span><span class="alt-text">(=that repentance for the forgiveness of sins will be proclaimed)</span> <span class="alt-label">on</span><span class="alt-text">(=in)</span> his name to all <del class="deleted-text">[the]</del> nations, beginning from Jerusalem.”
 
-**50** And he led them out as far as Bethany, and having lifted up his hands, he blessed them.
+<span class="v-num">48</span> “You <span class="added-text">(are)</span> witnesses of these things.”
 
-**51** And it happened, <span class="alt-label">in the him to bless</span><span class="alt-text">(=while he was blessing)</span>[^7] them, <span class="added">(that)</span> he separated from them and was being taken up into <del class="deleted-text">[the]</del> heaven.
+<span class="v-num">49</span> “And behold, I am going to send<span class="added-text">(# present for immediate future)</span> the promise of my Father upon you, and you <span class="alt-label">sit</span><span class="alt-text">(=stay)</span> in the city until you might been clothed <span class="added-text">(with)</span> power from on high.”
 
-**52** And they, having worshiped him, returned to Jerusalem with great joy.
+<span class="v-num">50</span> And he led them out as far as Bethany, and having lifted up his hands, he blessed them.
 
-**53** And they were continually in the temple, <span class="alt-label">blessing</span><span class="alt-text">(=praising)</span> God.
+<span class="v-num">51</span> And it happened, <span class="alt-label">in the him to bless</span><span class="alt-text">(=while he was blessing)</span>[^7] them, <span class="added-text">(that)</span> he separated from them and was being taken up into <del class="deleted-text">[the]</del> heaven.
+
+<span class="v-num">52</span> And they, having worshiped him, returned to Jerusalem with great joy.
+
+<span class="v-num">53</span> And they were continually in the temple, <span class="alt-label">blessing</span><span class="alt-text">(=praising)</span> God.
 
 ---
 
-### Notes
+### Study Notes
 
 [^1]: temporal infinitive
 [^2]: genitive absolute

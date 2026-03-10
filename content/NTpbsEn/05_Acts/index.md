@@ -1,3 +1,4 @@
 ---
-title: Acts
+title: "Acts"
+layout: list
 ---

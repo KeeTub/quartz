@@ -1,3 +1,4 @@
 ---
-title: 2 Timothy
+title: "2 Timothy"
+layout: list
 ---

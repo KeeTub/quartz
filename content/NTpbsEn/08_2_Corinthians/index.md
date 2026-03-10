@@ -1,3 +1,4 @@
 ---
-title: 2 Corinthians
+title: "2 Corinthians"
+layout: list
 ---
