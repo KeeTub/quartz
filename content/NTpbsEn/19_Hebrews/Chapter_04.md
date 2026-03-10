@@ -39,7 +39,6 @@ tags: [NTpbsEn, Hebrews]
 
 **16** Let us therefore approach with confidence the throne of grace, so that we <span class="alt-label">might</span><span class="alt-text">(=may)</span> receive mercy and <del class="deleted-text">[might]</del> find grace <span class="alt-label">for timely help</span><span class="alt-text">(=in time of need)</span>.
 
-
 ---
 
 ### Notes

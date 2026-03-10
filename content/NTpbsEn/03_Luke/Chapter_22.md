@@ -149,7 +149,6 @@ tags: [NTpbsEn, Luke]
 
 **71** And they said, “Why do we <span class="alt-label">have need</span><span class="alt-text">(=need)</span> <span class="alt-label">still</span><span class="alt-text">(=any more)</span> testimony? For we ourselves have heard <span class="added">(it)</span> from his own mouth.”
 
-
 ---
 
 ### Notes

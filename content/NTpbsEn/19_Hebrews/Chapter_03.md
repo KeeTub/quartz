@@ -45,7 +45,6 @@ tags: [NTpbsEn, Hebrews]
 
 **19** And we see that they were not able to enter because of unbelief.
 
-
 ---
 
 ### Notes

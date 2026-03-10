@@ -95,7 +95,6 @@ tags: [NTpbsEn, Mark]
 
 **44** “For they all put in out of <span class="alt-label">abounding to them</span><span class="alt-text">(=their abundance)</span>, but this <span class="added">(widow)</span> put in out of her poverty all that she was having, her whole living.”
 
-
 ---
 
 ### Notes

@@ -106,7 +106,6 @@ tags: [NTpbsEn, John]
 
 **50** “And I know that his commandment is eternal life. So what I speak, just as the Father has said <span class="added">(to)</span> me, so I speak.
 
-
 ---
 
 ### Notes

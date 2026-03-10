@@ -91,7 +91,6 @@ tags: [NTpbsEn, John]
 
 **42** So because of the day of the Preparation of the Jews, because the tomb was near, they laid <del class="deleted-text">[the]</del> Jesus there.
 
-
 ---
 
 ### Notes

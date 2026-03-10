@@ -93,7 +93,6 @@ tags: [NTpbsEn, Luke]
 
 **43** And immediately he <span class="alt-label">saw again</span><span class="alt-text">(=received his sight)</span> and was following him, glorifying <del class="deleted-text">[the]</del> God. And all the people, having seen <span class="added">(it)</span>, gave praise to God.
 
-
 ---
 
 ### Notes

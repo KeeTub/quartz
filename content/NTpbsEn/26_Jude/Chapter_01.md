@@ -57,7 +57,6 @@ tags: [NTpbsEn, Jude]
 
 **25** to <span class="added">(the)</span> only God our Savoir <span class="added">(be)</span> glory, majesty, power, and authority, through Jesus Christ our Lord, before all the age and now and <span class="alt-label">unto all the ages</span><span class="alt-text">(=for ever)</span>. Amen.
 
-
 ---
 
 ### Notes

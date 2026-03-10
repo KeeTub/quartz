@@ -94,7 +94,6 @@ tags: [NTpbsEn, Acts]
 
 **44** And <span class="added">(he ordered)</span> the rest, some on planks and some on certain things from the ship, <span class="added">(to go onto the land)</span>. And so <span class="alt-label">it came to pass all to be saved</span><span class="alt-text">(=they all were brought safely)</span> <span class="alt-label">on</span><span class="alt-text">(=to)</span> the land.
 
-
 ---
 
 ### Notes

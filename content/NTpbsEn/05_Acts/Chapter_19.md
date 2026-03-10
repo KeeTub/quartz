@@ -89,7 +89,6 @@ tags: [NTpbsEn, Acts]
 
 **41** And having said these things, he dismissed the assembly.
 
-
 ---
 
 ### Notes

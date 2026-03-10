@@ -33,7 +33,6 @@ tags: [NTpbsEn, Hebrews]
 
 **13** <span class="alt-label">In the to say “new”</span><span class="alt-text">(=When he says “a new covenant”)</span>, he has made the first obsolete. And the thing being made obsolete and growing old <span class="added">(is)</span> <span class="alt-label">near disappearing</span><span class="alt-text">(=ready to vanish away)</span>.
 
-
 ---
 
 ### Notes

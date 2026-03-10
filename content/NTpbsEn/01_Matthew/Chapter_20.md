@@ -75,7 +75,6 @@ tags: [NTpbsEn, Matthew]
 
 **34** And having had compassion, <del class="deleted-text">[the]</del> Jesus touched their eyes, and immediately they saw <span class="alt-label">again</span><span class="alt-text">(=received their sight)</span> and followed him.
 
-
 ---
 
 ### Notes

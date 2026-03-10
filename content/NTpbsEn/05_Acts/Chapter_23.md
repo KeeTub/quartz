@@ -77,7 +77,6 @@ tags: [NTpbsEn, Acts]
 
 **35** he said, “I will hear you when your accusers also come”, having commanded him to be kept in Herod’s praetorium.
 
-
 ---
 
 ### Notes

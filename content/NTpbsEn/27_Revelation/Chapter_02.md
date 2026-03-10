@@ -65,7 +65,6 @@ tags: [NTpbsEn, Revelation]
 
 **29** “Let the one having an ear hear what the Spirit says <span class="added">(to)</span> the churches.”
 
-
 ---
 
 ### Notes

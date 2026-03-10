@@ -103,7 +103,6 @@ tags: [NTpbsEn, Luke]
 
 **48** And they did not find anything they <span class="alt-label">might</span><span class="alt-text">(=could)</span> do, for all the people were hanging upon his <span class="added">(words)</span>, <span class="alt-label">hearing</span><span class="alt-text">(=to hear)</span>.
 
-
 ---
 
 ### Notes

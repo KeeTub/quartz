@@ -47,7 +47,6 @@ tags: [NTpbsEn, Matthew]
 
 **20** “Teaching them to observe all things that I have commanded you. And behold, I am with you all the day, until the end of the age.”
 
-
 ---
 
 ### Notes

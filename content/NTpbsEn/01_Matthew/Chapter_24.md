@@ -108,7 +108,6 @@ tags: [NTpbsEn, Matthew]
 
 **51** “And he will cut him off and will put his portion with the hypocrites, there will be the weeping and the gnashing of teeth.”
 
-
 ---
 
 ### Notes

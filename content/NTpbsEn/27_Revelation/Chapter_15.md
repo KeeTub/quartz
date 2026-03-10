@@ -23,7 +23,6 @@ tags: [NTpbsEn, Revelation]
 
 **8** And the temple was filled <span class="alt-label">of</span><span class="alt-text">(=with)</span> smoke from the glory of <del class="deleted-text">[the]</del> God and from His power, and no one was able to enter <del class="deleted-text">[into]</del> the temple until the seven plagues of the seven angels <span class="alt-label">might be completed</span><span class="alt-text">(=were completed)</span>.
 
-
 ---
 
 ### Notes

@@ -73,7 +73,6 @@ tags: [NTpbsEn, Ephesians]
 
 **33** Nevertheless let each of you, one by one, so love <span class="alt-label">the wife of himself</span><span class="alt-text">(=his own wife)</span> as himself, and <span class="added">(let)</span> the wife <span class="added">(see)</span> that she may <span class="alt-label">fear</span><span class="alt-text">(=respect)</span> <span class="alt-label">the</span><span class="alt-text">(=her)</span> husband.
 
-
 ---
 
 ### Notes

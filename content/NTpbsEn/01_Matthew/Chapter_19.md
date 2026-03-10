@@ -67,7 +67,6 @@ tags: [NTpbsEn, Matthew]
 
 **30** “But many <span class="added">(who are)</span> first will be last, and <span class="added">(the)</span> last <span class="added">(will be)</span> first.”
 
-
 ---
 
 ### Notes

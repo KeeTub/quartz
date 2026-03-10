@@ -113,7 +113,6 @@ tags: [NTpbsEn, Luke]
 
 **53** And they were continually in the temple, <span class="alt-label">blessing</span><span class="alt-text">(=praising)</span> God.
 
-
 ---
 
 ### Notes

@@ -77,7 +77,6 @@ tags: [NTpbsEn, Luke]
 
 **35** “Behold, your house is left <span class="added">(to)</span> you. And I say <span class="added">(to)</span> you, you <span class="alt-label">might</span><span class="alt-text">(=will)</span> not see me until <span class="added">(the time)</span> will come when you say, ‘Blessed <span class="added">(is)</span> the one coming in <span class="added">(the)</span> name of <span class="added">(the)</span> Lord.’”
 
-
 ---
 
 ### Notes

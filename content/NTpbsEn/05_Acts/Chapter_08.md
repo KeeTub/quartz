@@ -87,7 +87,6 @@ tags: [NTpbsEn, Acts]
 
 **40** And Philip was found in Azotus, and passing through, he was evangelizing <span class="added">(in)</span> all the cities until <span class="alt-label">for him to come</span><span class="alt-text">(=he came)</span> to Caesarea.
 
-
 ---
 
 ### Notes

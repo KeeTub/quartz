@@ -49,7 +49,6 @@ tags: [NTpbsEn, Galatians]
 
 **21** I do not set aside the grace of God; for if righteousness <span class="added">(comes)</span> through <span class="added">(the)</span> law, then Christ died in vain.
 
-
 ---
 
 ### Notes

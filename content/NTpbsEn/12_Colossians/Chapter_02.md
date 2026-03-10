@@ -7,55 +7,54 @@ tags: [NTpbsEn, Colossians]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** You, therefore, my child, be strong in the grace <span class="added">(that is)</span> in Christ Jesus,
+**1** For I want you to know how greatly I <u>have a struggle</u><span class="added">(am struggling)</span> for you and the ones in Laodicea, and <span class="added">(for)</span> as many as have not seen my face in flesh,
 
-**2** and the things that you have heard from me through many witnesses, commit these to faithful men, who will be able to teach others also.
+**2** that their hearts might be encouraged, having been united in love, and <span class="added">(attaining)</span> to all riches of the <span class="alt-label">assurance of understanding</span><span class="alt-text">(=assured understanding)</span>, to knowledge of the mystery of God, Christ,
 
-**3** Share in suffering as a good soldier of Christ Jesus.
+**3** in whom are hidden all treasures of wisdom and knowledge.
 
-**4** No man serving as a soldier gets entangled <span class="added">(with)</span> the affairs of <span class="added">(his daily)</span> life, that he may please the one having enlisted <span class="added">(him to be a soldier)</span>.
+**4** I say this that no one may deceive you <span class="alt-label">in</span><span class="alt-text">(=with)</span> persuasive arguments.
 
-**5** And also if anyone <del class="deleted-text">[might]</del> competes <span class="added">(in athletics)</span>, he is not crowned unless he <del class="deleted-text">[might]</del> competes lawfully.
+**5** For though I am absent <span class="added">(in)</span> the flesh, but <span class="added">(in)</span> the spirit I am with you, rejoicing and seeing your discipline and the steadfastness of your faith in Christ.
 
-**6** It is right for the hardworking farmer to have a first <span class="added">(share)</span> of the crops.
+**6** Therefore, as you received <del class="deleted-text">[the]</del> Christ Jesus the Lord, walk in him,
 
-**7** Consider what I say, for the Lord will give you understanding in all things.
+**7** being rooted and being built up in him, and being established <span class="added">(in)</span> the faith as you were taught, abounding in thanksgiving.
 
-**8** Remember Jesus Christ having been raised from <span class="added">(the)</span> dead, from <span class="added">(the)</span> seed of David, according to my gospel,
+**8** Beware lest anyone takes you captive through <del class="deleted-text">[the]</del> philosophy and empty deceit, according to the tradition of men, according to the elements of the world, and not according to Christ,
 
-**9** in which I suffer trouble unto chains as an evildoer; but the word of God has not been chained.
+**9** because in him all the fullness of the Godhead dwells bodily,
 
-**10** <span class="alt-label">Through this</span><span class="alt-text">(=Therefore)</span> I endure all things for the sake of the chosen ones, that they also might obtain the salvation <span class="added">(which is)</span> in Christ Jesus with eternal glory.
+**10** and you <span class="alt-label">are having been filled</span><span class="alt-text">(=have been completed)</span>[^1] in him, who is the head of every rule and authority,
 
-**11** Faithful <span class="added">(is)</span> <span class="alt-label">the</span><span class="alt-text">(=this)</span> word, “If we have died with <span class="added">(him)</span>, we shall also live with <span class="added">(him)</span>.”
+**11** in whom you were also circumcised <span class="added">(with)</span> a circumcision made without hands, <span class="alt-label">in</span><span class="alt-text">(=by)</span> the putting off of the body of the flesh, in the circumcision of Christ,
 
-**12** “If we endure, we shall also reign with <span class="added">(him)</span>. If we <del class="deleted-text">[will]</del> deny <span class="added">(him)</span>, that One also will deny us.”
+**12** having been buried together <span class="added">(with)</span> him in <del class="deleted-text">[the]</del> baptism, in which you also were raised together <span class="added">(with him)</span> through the faith <span class="alt-label">of</span><span class="alt-text">(=in)</span> <span class="alt-label">energy</span><span class="alt-text">(=power)</span> of God having raised him from <span class="added">(the)</span> dead.
 
-**13** “If we are faithless, that One remains faithful, for he is not able to deny himself.”
+**13** And you, being dead <span class="added">(in)</span> the trespasses and <span class="added">(in)</span> the uncircumcision of your flesh, he made alive with him, having forgiven us all the trespasses,
 
-**14** Remind <span class="added">(them of)</span> these things, charging <span class="added">(them)</span> before <del class="deleted-text">[the]</del> God not to fight with words to no profit, to ruin of the hearing ones.
+**14** having wiped out the handwriting <span class="added">(with)</span> the regulations against us, which was against us. And he has taken it out of the midst, having nailed it <span class="added">(to)</span> the cross.
 
-**15** Be eager to present yourself to God <span class="added">(as one)</span> approved, a worker having nothing to be ashamed, <span class="alt-label">cutting straightly</span><span class="alt-text">(=explaining rightly)</span> the word of truth.
+**15** Having disarmed the rulers and the authorities, he exposed <span class="added">(them)</span> in openness, having triumphed <span class="added">(over)</span> them in it.
 
-**16** And avoid the profane <span class="added">(and)</span> empty chatter, for <span class="alt-label">they</span><span class="alt-text">(=chatter)</span> will advance to more ungodliness,
+**16** Therefore, do not let anyone judge you in eating and in drinking, or <span class="alt-label">in part of</span><span class="alt-text">(=with regard to)</span> a <span class="added">(religious)</span> feast or a new moon or Sabbaths,
 
-**17** and their word <span class="alt-label">will have pasture</span><span class="alt-text">(=will spread)</span> like <span class="alt-label">gangrene</span><span class="alt-text">(=cancer)</span>, of whom <span class="alt-label">is</span><span class="alt-text">(=are)</span> Hymenaeus and Philetus,
+**17** which <span class="alt-label">is</span><span class="alt-text">(=are)</span> a shadow of the things <span class="alt-label">coming</span><span class="alt-text">(=to come)</span>, but the body <span class="added">(is)</span> of Christ.
 
-**18** who concerning the truth have strayed, saying <span class="alt-label">resurrection to have already become</span><span class="alt-text">(=that the resurrection has already taken place)</span>, and overthrow the faith of some.
+**18** Do not let anyone disqualify you, <span class="alt-label">wishing in</span><span class="alt-text">(=by insisting on)</span> <span class="alt-label">humility</span><span class="alt-text">(=self abasement)</span> and worship of the angels, intruding into what he has seen, vainly being puffed up by the mind of his flesh,
 
-**19** Nevertheless the firm foundation of God stands<span class="added">(# perfect as present)</span>, having this seal: “<span class="added">(The)</span> Lord has known the ones being his,” and, “Let everyone naming the name of <span class="added">(the)</span> Lord stand away from unrighteousness.”
+**19** and not holding fast the Head, from whom all the body, being supplied and having been united <span class="alt-label">through</span><span class="alt-text">(=by)</span> the ligaments and sinews, grows <span class="added">(with)</span> the growth of God.
 
-**20** And in a great house <span class="added">(there)</span> <span class="alt-label">is</span><span class="alt-text">(=are)</span> not only vessels of gold and silver, but also of wood and clay; and some for honor, and some for dishonor.
+**20** If you died with Christ from the elements of the world, why, as living in <span class="added">(the)</span> world, do you submit to the regulations?
 
-**21** Therefore if anyone <del class="deleted-text">[might]</del> cleanses himself from <span class="alt-label">these</span><span class="alt-text">(=latter)</span>, he will be a vessel for honor, having been sanctified, useful to the master, having been prepared for every good work.
+**21** “Do not handle, nor taste, nor touch.”
 
-**22** And flee <del class="deleted-text">[the]</del> youthful lusts, but pursue righteousness, faith, love, peace with the ones calling on the Lord from a pure heart.
+**22** which all things <span class="alt-label">is</span><span class="alt-text">(=are)</span> for decay <span class="added">(with)</span> the using, according to the commands and teachings of men.
 
-**23** And refuse the foolish and unlearned disputes, knowing that they breed quarrels,
+**23** which things <span class="alt-label">is</span><span class="alt-text">(=are)</span>, indeed having a <span class="alt-label">word</span><span class="alt-text">(=reputation)</span> of wisdom in self-imposed worship and <span class="alt-label">humility</span><span class="alt-text">(=self abasement)</span> and severity of <span class="added">(the)</span> body, <span class="alt-label">not in any value</span><span class="alt-text">(=of no value)</span> against indulgence of the flesh.
 
-**24** And it is necessary <span class="added">(for)</span> a slave of <span class="added">(the)</span> Lord not to fight but to be kind to all, able to teach, patient,
+---
 
-**25** in meekness instructing the opposing ones, if <del class="deleted-text">[the]</del> God <span class="alt-label">might</span><span class="alt-text">(=may)</span> give them repentance, <span class="alt-label">to knowledge of truth</span><span class="alt-text">(=so that they may know the truth)</span>,
+### Notes
 
-**26** and they <span class="alt-label">might</span><span class="alt-text">(=may)</span> come to <span class="added">(their)</span> senses from the snare of the devil, having been caught by him unto the will of that one.
-
+[^1]: periphrastic perfect

@@ -12,7 +12,7 @@ title: "프락시스 신약성경 연구소"
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <a href="KOR_PX0723" style="font-size: 1.1rem; font-weight: 600;">
-    신약성경 목록읽기
+    프락시스 신약성경
   </a>
 </div>
 

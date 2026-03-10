@@ -139,7 +139,6 @@ tags: [NTpbsEn, Matthew]
 
 **66** And they, having gone, made the grave secure <span class="alt-label">having sealed</span><span class="alt-text">(=by sealing)</span> the stone with the guard.
 
-
 ---
 
 ### Notes

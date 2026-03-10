@@ -44,7 +44,6 @@ tags: [NTpbsEn, Revelation]
 
 **19** And the temple of <del class="deleted-text">[the]</del> God in <del class="deleted-text">[the]</del> heaven was opened. And the ark of His covenant was seen in His temple. And there were lightnings and <span class="alt-label">voices</span><span class="alt-text">(=rumblings)</span> and <span class="alt-label">thunders</span><span class="alt-text">(=peals of thunder)</span> and an earthquake and a great hail.
 
-
 ---
 
 ### Notes

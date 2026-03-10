@@ -41,7 +41,6 @@ tags: [NTpbsEn, Matthew]
 
 **17** And behold, a voice from the heavens, saying, “This is my beloved son, <span class="alt-label">in</span><span class="alt-text">(=with)</span> whom I was well pleased.”
 
-
 ---
 
 ### Notes

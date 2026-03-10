@@ -7,39 +7,49 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** And working together, we also urge you not to receive the grace of God <span class="alt-label">to empty</span><span class="alt-text">(=in vain)</span>.
+**1** Therefore what shall we say? Shall we stay <span class="added">(in)</span> <del class="deleted-text">[the]</del> sin in order that <del class="deleted-text">[the]</del> grace  may increase?
 
-**2** For He says, “<span class="added">(In)</span> an acceptable time I heard you, and in <span class="added">(the)</span> day of salvation I helped you.” Behold now <span class="added">(is the)</span> acceptable time; behold, now <span class="added">(is the)</span> day of salvation.
+**2** <span class="alt-label">May it not be</span><span class="alt-text">(=Not at all)</span>. How shall we, who died to sin, still live in it?
 
-**3** Giving no obstacle in anything, so that <span class="alt-label">the</span><span class="alt-text">(=our)</span> ministry <span class="alt-label">might</span><span class="alt-text">(=may)</span> not be blamed,
+**3** Or don’t you know that so many of us as we were baptized into Christ Jesus were baptized into his death?
 
-**4** but in everything commending ourselves as ministers of God: in great endurance, in afflictions, in needs, in distresses,
+**4** Therefore we were buried with him through <del class="deleted-text">[the]</del> baptism into <del class="deleted-text">[the]</del> death, in order that as Christ was raised from <span class="added">(the)</span> dead through the glory of the Father, so we also might walk in newness of life.
 
-**5** in beatings, in imprisonments, in riots, in labors, in sleeplessness, in fastings;
+**5** For if we have become united <span class="added">(in)</span> the likeness of his death, certainly we also shall be <span class="added">(united in the likeness of his)</span> resurrection.
 
-**6** in purity, in knowledge, in long-patience, in kindness, in <span class="added">(the)</span> Holy Spirit, in sincere love,
+**6** <span class="alt-label">Knowing</span><span class="alt-text">(=We know)</span> this, that our old man was crucified with <span class="added">(him)</span> so that the body of sin might be destroyed, <span class="alt-label">for us to be enslaved</span><span class="alt-text">(=that we might be enslaved)</span> to sin no longer.
 
-**7** in <span class="added">(the)</span> word of truth, in <span class="added">(the)</span> power of God; through the weapons of righteousness <span class="added">(in)</span> the right <span class="added">(hands)</span> and <span class="added">(in)</span> the left,
+**7** For the one having died has been justified from <del class="deleted-text">[the]</del> sin.
 
-**8** through glory and dishonor, through ill repute and good repute; as deceivers, and yet true;
+**8** But if we died with Christ, we believe that we shall also live with him.
 
-**9** as <span class="added">(the ones)</span> being unknown, and yet <span class="added">(the ones)</span> being well known; as dying ones, and behold we live; as <span class="added">(the ones)</span> being punished, and yet <span class="added">(the ones)</span> not being killed;
+**9** <span class="alt-label">Knowing</span><span class="alt-text">(=We know)</span> that Christ having been raised from <span class="added">(the)</span> dead dies no more, death is lord of him no longer.
 
-**10** as <span class="added">(the ones)</span> being sorrowful, yet always rejoicing <span class="added">(ones)</span>; as poor, yet <span class="added">(the ones)</span> making many rich; as <span class="added">(the ones)</span> having nothing, and yet <span class="added">(the ones)</span> possessing all things.
+**10** For <span class="alt-label">what</span><span class="alt-text">(=the thing which)</span> he died, he died to sin once for all; but <span class="alt-label">what</span><span class="alt-text">(=the thing which)</span> he lives, he lives to <del class="deleted-text">[the]</del> God.
 
-**11** Our mouth has been open to you, Corinthians; our heart has been widened.
+**11** So recognize yourselves also to be dead indeed to sin but living to <del class="deleted-text">[the]</del> God in Christ Jesus.
 
-**12** You are not restricted <span class="alt-label">in</span><span class="alt-text">(=by)</span> us, but you are restricted <span class="alt-label">in</span><span class="alt-text">(=by)</span> your <span class="alt-label">bowels</span><span class="alt-text">(=affections)</span>.
+**12** Therefore do not let <del class="deleted-text">[the]</del> sin reign in your mortal body, for <span class="added">(you)</span> to obey its desires.
 
-**13** And <span class="added">(for)</span> the same recompense – I speak as to children – you also be open.
+**13** Do not yield your members <span class="added">(as)</span> instruments  of unrighteousness to <del class="deleted-text">[the]</del> sin, but offer yourselves to <del class="deleted-text">[the]</del> God as the ones living from <span class="added">(the)</span> dead. And <span class="added">(yield)</span> your members <span class="added">(as)</span> instruments of righteousness to <del class="deleted-text">[the]</del> God.
 
-**14** Do not be unequally yoked <span class="added">(with)</span> unbelievers. For what partnership <span class="added">(is there between)</span> righteousness and lawlessness? Or what fellowship to light <span class="added">(can do)</span> with darkness?
+**14** For sin shall not be lord of you, because you are not under law but under grace.
 
-**15** And what harmony of Christ <span class="added">(can be)</span> with Belial? Or what portion <span class="added">(belonging)</span> to a believer <span class="added">(can be shared)</span> with an unbeliever?
+**15** What then? Shall we sin because we are not under law but under grace? <span class="alt-label">May it not be</span><span class="alt-text">(=Not at all)</span>.
 
-**16** And what agreement <span class="added">(belonging to the)</span> temple of God <span class="added">(can be)</span> with idols? For we are <span class="added">(the)</span> temple of <span class="added">(the)</span> living God. As <del class="deleted-text">[the]</del> God said, “<del class="deleted-text">[that]</del> I will dwell among them, and I will walk among <span class="added">(them)</span>, and I will be their God, and they will be my people.”
+**16** Do you not know that, to whom you yield yourselves <span class="added">(as)</span> slaves for obedience, you are slaves to whom you obey, whether of sin <span class="added">(leading)</span> to death or of obedience <span class="added">(leading)</span> to righteousness.
 
-**17** “Therefore, come out from among them, and be separate <span class="added">(from them)</span>, says the Lord. And do not touch unclean thing, and I will welcome you,”
+**17** But <span class="alt-label">grace</span><span class="alt-text">(=thanks)</span> <span class="added">(be)</span> to God that, though you were slaves of <del class="deleted-text">[the]</del> sin, <del class="deleted-text">[but]</del> you obeyed from heart <span class="added">(the)</span> form of teaching to which you were committed.
 
-**18** “And I will be <span class="added">(to)</span> you <del class="deleted-text">[for]</del> a Father, and you will be to me <del class="deleted-text">[for]</del> sons and daughters, says <span class="added">(the)</span> Lord Almighty.”
+**18** And having been freed from <del class="deleted-text">[the]</del> sin, you were enslaved to <del class="deleted-text">[the]</del> righteousness.
+
+**19** Humanly I say because of the weakness of your flesh. For as you yielded you members <span class="added">(as)</span> slaves to uncleanness and to <span class="alt-label">lawlessness</span><span class="alt-text">(=iniquity)</span> <span class="added">(leading)</span> into <span class="alt-label">lawlessness</span><span class="alt-text">(=iniquity)</span>, so now yield your members <span class="added">(as)</span> slaves to righteousness <span class="added">(leading)</span> into sanctification.
+
+**20** For when you were slaves of <del class="deleted-text">[the]</del> sin, you were free to <del class="deleted-text">[the]</del> righteousness.
+
+**21** Therefore what fruit did you have then? About which now you are ashamed. For the end of those things <span class="added">(is)</span> death.
+
+**22** But now having been freed from <del class="deleted-text">[the]</del> sin, having been enslaved to <del class="deleted-text">[the]</del> God, you have your fruit <span class="added">(leading)</span> into sanctification, and the end <span class="added">(is)</span> eternal life.
+
+**23** For the wages of <del class="deleted-text">[the]</del> sin <span class="added">(is)</span> death, but the free gift of God <span class="added">(is)</span> eternal life in Christ Jesus our Lord.
 

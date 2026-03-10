@@ -91,7 +91,6 @@ tags: [NTpbsEn, Luke]
 
 **42** “But one thing is <span class="alt-label">need</span><span class="alt-text">(=needed)</span>, for Mary chose the good part, which will not be taken away from her.”
 
-
 ---
 
 ### Notes

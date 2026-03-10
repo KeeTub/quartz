@@ -88,7 +88,6 @@ tags: [NTpbsEn, Acts]
 
 **41** And he went through the Syria and Cilicia, confirming the churches.
 
-
 ---
 
 ### Notes

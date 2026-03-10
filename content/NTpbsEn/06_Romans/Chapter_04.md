@@ -7,47 +7,53 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** Therefore, having this ministry, as we have received mercy, we do not lose heart.
+**1** Therefore what shall we say <span class="added">(that)</span> Abraham, our forefather, <span class="alt-label">to have found</span><span class="alt-text">(=had found)</span> according to flesh?
 
-**2** But we have renounced the hidden things of shame, not walking in craftiness nor falsifying the word of God, but <span class="added">(by)</span> the manifestation of the truth commending ourselves to every conscience of men before God.
+**2** For if Abraham was justified <span class="alt-label">from</span><span class="alt-text">(=by)</span> works, he has a boast, but not before God.
 
-**3** And even if our gospel <span class="alt-label">is having been veiled</span><span class="alt-text">(=has been veiled)</span>[^1], it <span class="alt-label">is having been veiled</span><span class="alt-text">(=has been veiled)</span>[^2] <span class="alt-label">in</span><span class="alt-text">(=to)</span> the perishing ones,
+**3** For what does the Scripture say? “Abraham believed <del class="deleted-text">[the]</del> God, and it was recognized to him for righteousness.”
 
-**4** <span class="alt-label">in</span><span class="alt-text">(=to)</span> whom the god of this age has blinded the minds of the unbelieving ones, <span class="alt-label">to the not to see</span><span class="alt-text">(=so that they cannot see)</span> the light of the gospel of the glory of Christ, who is <span class="added">(the)</span> image of God.
+**4** And to the one working is the wage not recognized <span class="alt-label">according to grace</span><span class="alt-text">(=as a grace)</span>, but <span class="alt-label">according to debt</span><span class="alt-text">(=as a due)</span>.
 
-**5** For we proclaim not ourselves but Christ Jesus <span class="added">(as)</span> the Lord, and ourselves <span class="added">(as)</span> your slaves for Jesus’ sake.
+**5** But to the one not working but believing on the One justifying the ungodly is his faith recognized for righteousness.
 
-**6** For <span class="added">(it is)</span> the God <span class="alt-label">saying</span><span class="alt-text">(=who said)</span>, “Light shall shine out of the darkness,” who has shone in our hearts <span class="alt-label">for</span><span class="alt-text">(=to give)</span> <span class="added">(the)</span> light of the knowledge of the glory of God in <span class="added">(the)</span> face of Christ.
+**6** Even as David also says the blessedness of the man to whom God recognizes righteousness without works,
 
-**7** And we have this treasure in earthen jars, so that the excellence of the power may be of God not from us.
+**7** Blessed <span class="added">(are they)</span> whose <span class="alt-label">lawlessnesses</span><span class="alt-text">(=transgressions)</span> were forgiven and whose sins were covered.
 
-**8** <span class="alt-label">Being pressed</span><span class="alt-text">(=We are pressed)</span> in every <span class="added">(way)</span>, but not being crushed; being <span class="alt-label">perplexed</span><span class="alt-text">(=we are perplexed)</span>, but not despairing;
+**8** Blessed <span class="added">(is the)</span> man whose sin the Lord will not recognize
 
-**9** being <span class="alt-label">persecuted</span><span class="alt-text">(=we are persecuted)</span>, but not being abandoned; being struck <span class="alt-label">down</span><span class="alt-text">(=we are struck down)</span>, but not being destroyed;
+**9** Is this blessedness, therefore, upon <span class="alt-label">the circumcision</span><span class="alt-text">(=the circumcised)</span> or upon <span class="alt-label">the uncircumcision</span><span class="alt-text">(=the uncircumcised)</span> also? For we say, “To Abraham was <span class="alt-label">the</span><span class="alt-text">(=his)</span> faith recognized for righteousness.”
 
-**10** always carrying around in <span class="alt-label">the</span><span class="alt-text">(=our)</span> body the dying of Jesus, so that the life of Jesus also <span class="alt-label">might</span><span class="alt-text">(=may)</span> be manifested in our body.
+**10** How then was it recognized? <span class="alt-label">Being</span><span class="alt-text">(=Was it)</span> in circumcision or in uncircumcision? Not in circumcision but in uncircumcision.
 
-**11** For we <span class="added">(who are)</span> living are always being delivered to death for Jesus’ sake, so that the life of Jesus also <span class="alt-label">might</span><span class="alt-text">(=may)</span> be manifested in our mortal flesh.
+**11** And he received a sign of circumcision, a seal of the righteousness of the faith <span class="alt-label">in uncircumcision</span><span class="alt-text">(=while he was still uncircumcised)</span>, <u>for him to be</u><span class="added">(#infinitive of consequence)</span> <span class="added">(the)</span> father of all <span class="alt-label">of believing</span><span class="alt-text">(=who believe)</span> <span class="alt-label">through uncircumcision</span><span class="alt-text">(=while they have not been circumcised)</span>, <u>for <span class="added">(the)</span> righteousness to be recognized</u><span class="added">(#infinitive of consequence)</span> to them.
 
-**12** So <del class="deleted-text">[the]</del> death is at work in us, but <del class="deleted-text">[the]</del> life in you.
+**12** And <span class="added">(he is the)</span> father of circumcision not only to the ones <span class="alt-label">from</span><span class="alt-text">(=of)</span> circumcision but also to the ones walking <span class="added">(in)</span> the footsteps of the faith of our father Abraham <span class="alt-label">in uncircumcision</span><span class="alt-text">(=before he was circumcised)</span>
 
-**13** And having the same spirit of faith, according to the thing having been written, “I believed; therefore I spoke,” we also believe and therefore we speak,
+**13** For the promise to Abraham or to his <span class="alt-label">seed</span><span class="alt-text">(=offspring)</span>, <span class="alt-label">him to be</span><span class="alt-text">(=that he would be)</span> heir of <span class="added">(the)</span> world, <span class="added">(was)</span> not through <span class="added">(the)</span> law but through the righteousness of faith.
 
-**14** knowing<span class="added">(#perfect as present)</span> that the One having raised the Lord Jesus will also raise us with Jesus, and will present <span class="added">(us)</span> with you.
+**14** For if <span class="alt-label">the ones from law</span><span class="alt-text">(=those who live by the law)</span> <span class="added">(are)</span> heirs, <del class="deleted-text">[the]</del> faith has been emptied and the promise has been nullified.
 
-**15** For all things <span class="added">(are)</span> for your sake, so that the grace, having increased through <span class="alt-label">the greater <span class="added">(number)</span></span><span class="alt-text">(=the many)</span>, <span class="alt-label">might</span><span class="alt-text">(=may)</span> cause <del class="deleted-text">[the]</del> thanksgiving <span class="added">(to)</span> overflow, to the glory of God.
+**15** For the law brings wrath. For where there is not law, there is not transgression.
 
-**16** Therefore we do not lose heart. <span class="alt-label">But if</span><span class="alt-text">(=Even though)</span> our outward man is wasting away, yet our inward <span class="added">(man)</span> is being renewed day <span class="alt-label">and</span><span class="alt-text">(=by)</span> day.
+**16** Therefore <span class="added">(it is)</span> from faith, in order that <span class="added">(it may be)</span> according to grace, <u>for the promise to be</u><span class="added">(#infinitive of consequence)</span> guaranteed to all the <span class="alt-label">seed</span><span class="alt-text">(=offspring)</span>, not only to the <span class="added">(seed)</span> from the law but also to the <span class="added">(seed)</span> from faith of Abraham, who is father of us all.
 
-**17** For the momentary lightness of our affliction is <span class="alt-label">working</span><span class="alt-text">(=achieving)</span> for us an eternal weight of glory <span class="alt-label">throughout excess to excess</span><span class="alt-text">(=beyond all measure)</span>,
+**17** As it has been written, “I have made you <span class="added">(the)</span> father of many nations.” <span class="added">(He is our father)</span> before the God, whom he believed, <span class="alt-label">giving</span><span class="alt-text">(=who gives)</span> life to the dead and <span class="alt-label">calling</span><span class="alt-text">(=who calls)</span> the things <span class="alt-label">not being</span><span class="alt-text">(=that do not exist)</span> <span class="alt-label">as <span class="added">(the things)</span> being</span><span class="alt-text">(=into existence)</span>,
 
-**18** <span class="alt-label">Our looking</span><span class="alt-text">(=because we look)</span>[^3] not the things <span class="alt-label">being seen</span><span class="alt-text">(=which are seen)</span>, but the things <span class="alt-label">not being seen</span><span class="alt-text">(=which are not seen)</span>; for the things <span class="alt-label">being seen</span><span class="alt-text">(=which are seen)</span> <span class="added">(are)</span> temporary, but the things <span class="alt-label">not being seen</span><span class="alt-text">(=which are not seen)</span> <span class="added">(are)</span> eternal.
+**18** who against hope believed <span class="alt-label">on</span><span class="alt-text">(=in)</span> hope, <span class="alt-label">for him to become</span><span class="alt-text">(=that he should become)</span> <span class="added">(the)</span> father of many nations according to the thing having been said, “So shall your seed be.”
 
+**19** And having not weakened <span class="added">(in)</span> faith, he considered his body having died, <span class="alt-label">being</span><span class="alt-text">(=since he was)</span> about a hundred years <span class="added">(old)</span>, and the deadness of Sarah’s womb.
 
----
+**20** But he did not doubt by disbelief the promise of God, but was strengthened by faith, having given glory to God,
 
-### Notes
+**21** and having <span class="alt-label">been fully persuaded</span><span class="alt-text">(=convinced)</span> that he is able to do what he has promised.
 
-[^1]: periphrastic perfect
-[^2]: periphrastic perfect
-[^3]: genitive absolute
+**22** And therefore it was recognized to him for righteousness.
+
+**23** And it was written <span class="alt-label">not because of him only</span><span class="alt-text">(=not for his sake alone)</span>, that it was recognized to him,
+
+**24** but <span class="alt-label">also because of us</span><span class="alt-text">(=for our sake also)</span>, to whom it is about to be recognized, <span class="alt-label">to the ones believing</span><span class="alt-text">(=for us who believe)</span> on Him having raised Jesus our Lord from <span class="added">(the)</span> dead,
+
+**25** who was delivered because of the trespasses and was raised because of our justification.
+

@@ -61,7 +61,6 @@ tags: [NTpbsEn, Acts]
 
 **27** “For it seem unreasonable to me <span class="alt-label">sending</span><span class="alt-text">(=to send)</span> a prisoner <del class="deleted-text">[and]</del> <span class="alt-label">not to indicate</span><span class="alt-text">(=without indicating)</span> <span class="added">(the)</span> charges against him.”
 
-
 ---
 
 ### Notes

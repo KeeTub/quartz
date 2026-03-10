@@ -109,7 +109,6 @@ tags: [NTpbsEn, Luke]
 
 **52** And Jesus was <span class="alt-label">advancing</span><span class="alt-text">(=growing)</span> in <del class="deleted-text">[the]</del> wisdom and stature, and <span class="added">(in)</span> favor with God and men.
 
-
 ---
 
 ### Notes

@@ -85,7 +85,6 @@ tags: [NTpbsEn, Matthew]
 
 **39** And having sent the crowds away, he got into the boat and went to the territories of Magadan.
 
-
 ---
 
 ### Notes

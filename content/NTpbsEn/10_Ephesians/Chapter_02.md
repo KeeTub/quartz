@@ -51,7 +51,6 @@ tags: [NTpbsEn, Ephesians]
 
 **22** in whom you also are being built together for a dwelling of God in <span class="added">(the)</span> Spirit.
 
-
 ---
 
 ### Notes

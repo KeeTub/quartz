@@ -60,7 +60,6 @@ tags: [NTpbsEn, John]
 
 **27** “And you also testify, because you <span class="alt-label">are</span><span class="alt-text">(=have been)</span> with me from <span class="added">(the)</span> beginning.”
 
-
 ---
 
 ### Notes

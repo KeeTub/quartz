@@ -115,7 +115,6 @@ tags: [NTpbsEn, Luke]
 
 **54** lying in wait for him, to catch at something out of his mouth.
 
-
 ---
 
 ### Notes

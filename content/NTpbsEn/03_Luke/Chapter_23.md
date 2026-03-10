@@ -119,7 +119,6 @@ tags: [NTpbsEn, Luke]
 
 **56** And having returned, <span class="added">(the women)</span> prepared spices and ointments. And <span class="added">(on)</span> the Sabbath, they indeed rested according to the commandment.
 
-
 ---
 
 ### Notes

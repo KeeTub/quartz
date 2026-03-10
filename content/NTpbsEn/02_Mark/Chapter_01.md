@@ -97,7 +97,6 @@ tags: [NTpbsEn, Mark]
 
 **45** But having gone out, <span class="alt-label">the one</span><span class="alt-text">(=he)</span> began to proclaim <span class="added">(it)</span> much and to spread the <span class="alt-label">word</span><span class="alt-text">(=matter)</span>, <span class="alt-label">so as him to be able to enter</span><span class="alt-text">(=so that he can enter)</span> no longer openly into a city, but he was outside in desert places. And they were coming to him from everywhere.
 
-
 ---
 
 ### Notes

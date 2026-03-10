@@ -75,7 +75,6 @@ tags: [NTpbsEn, Acts]
 
 **34** And having joined him, some men believed, among whom also <span class="added">(was)</span> Dionysius the Areopagite, and a woman <span class="alt-label">by name</span><span class="alt-text">(=named)</span> Damaris, and others with them.
 
-
 ---
 
 ### Notes

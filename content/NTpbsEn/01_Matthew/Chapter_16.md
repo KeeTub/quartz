@@ -63,7 +63,6 @@ tags: [NTpbsEn, Matthew]
 
 **28** Truly I say <span class="added">(to)</span> you <del class="deleted-text">[that]</del> <span class="added">(there)</span> are some of the ones standing<span class="added">(#perfect ptc. as present)</span> here who will not taste <del class="deleted-text">[of]</del> death until they <del class="deleted-text">[might]</del> see the Son of Man coming in his kingdom.
 
-
 ---
 
 ### Notes

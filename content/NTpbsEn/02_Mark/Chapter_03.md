@@ -77,7 +77,6 @@ tags: [NTpbsEn, Mark]
 
 **35** “Whoever <span class="alt-label">might do</span><span class="alt-text">(=does)</span> the will of God, the same is my brother, and sister, mother.”
 
-
 ---
 
 ### Notes

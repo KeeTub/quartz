@@ -79,7 +79,6 @@ tags: [NTpbsEn, John]
 
 **36** “The one believing in the Son has eternal life; but the one disobeying the Son will not see life, but the wrath of God remains on him.”
 
-
 ---
 
 ### Notes

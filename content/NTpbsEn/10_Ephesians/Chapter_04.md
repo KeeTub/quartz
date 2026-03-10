@@ -71,7 +71,6 @@ tags: [NTpbsEn, Ephesians]
 
 **32** And be kind <span class="added">(and)</span> compassionate to one another, forgiving <span class="alt-label">yourselves</span><span class="alt-text">(=one another)</span>, just as <del class="deleted-text">[the]</del> God in Christ forgave you.
 
-
 ---
 
 ### Notes

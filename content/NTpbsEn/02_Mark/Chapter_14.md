@@ -150,7 +150,6 @@ tags: [NTpbsEn, Mark]
 
 **72** And immediately a rooster crowed the second time. And <del class="deleted-text">[the]</del> Peter remembered the word that <del class="deleted-text">[the]</del> Jesus said <span class="added">(to)</span> him, “<del class="deleted-text">[that]</del> Before a rooster <span class="alt-label">to crow</span><span class="alt-text">(=crows)</span> twice, you will deny me three times.” And <span class="alt-label">having put on</span><span class="alt-text">(=having thought about it, !! uncertain meaning here)</span>, he was crying.
 
-
 ---
 
 ### Notes

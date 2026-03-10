@@ -47,7 +47,6 @@ tags: [NTpbsEn, Revelation]
 
 **20** “<span class="added">(As for)</span> the mystery of the seven stars which you saw in my right <span class="added">(hand)</span>, and the seven golden lampstands, the seven stars are <span class="added">(the)</span> angels of the seven churches, and the seven lampstands are the seven churches.”
 
-
 ---
 
 ### Notes

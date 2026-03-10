@@ -131,7 +131,6 @@ tags: [NTpbsEn, Luke]
 
 **62** And <del class="deleted-text">[the]</del> Jesus said <span class="added">(to)</span> him, “No one having put <span class="alt-label">the</span><span class="alt-text">(=his)</span> hand to <span class="added">(the)</span> plow and looking at the things behind is fit for the kingdom of God.”
 
-
 ---
 
 ### Notes

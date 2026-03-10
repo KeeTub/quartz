@@ -71,7 +71,6 @@ tags: [NTpbsEn, Acts]
 
 **32** And Agrippa said <span class="added">(to)</span> <del class="deleted-text">[the]</del> Festus, “This man <span class="alt-label">was able to</span><span class="alt-text">(=could)</span> have been set free if he had not appealed to Caesar.”
 
-
 ---
 
 ### Notes

@@ -79,7 +79,6 @@ tags: [NTpbsEn, Matthew]
 
 **36** And they begged him that they might only touch the edge of his garment. And as many as touched <span class="added">(it)</span> were made well.
 
-
 ---
 
 ### Notes

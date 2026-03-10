@@ -49,7 +49,6 @@ tags: [NTpbsEn, Philippians]
 
 **21** who will transform <span class="alt-label">the body of our humiliation</span><span class="alt-text">(=our humble body)</span> <span class="added">(that it may be)</span> conformed to the body of his glory, according to the power <span class="alt-label">of the him to be able to</span><span class="alt-text">(=by which he is able to)</span> subject all things to himself.
 
-
 ---
 
 ### Notes

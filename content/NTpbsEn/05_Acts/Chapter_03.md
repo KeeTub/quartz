@@ -59,7 +59,6 @@ tags: [NTpbsEn, Acts]
 
 **26** “Unto you firstly God, having raised his child, sent him <span class="alt-label">blessing</span><span class="alt-text">(=to bless)</span> you <span class="alt-label">in each one to turn away</span><span class="alt-text">(=by turning each one away)</span> from your iniquities.”
 
-
 ---
 
 ### Notes

@@ -105,7 +105,6 @@ tags: [NTpbsEn, Luke]
 
 **49** “But the one having heard and having not done is like a man <span class="alt-label">having built</span><span class="alt-text">(=who built)</span> a house on the ground without a foundation, against which the <span class="alt-label">river</span><span class="alt-text">(=torrents)</span> dashed, and immediately it fell, and the ruin of that house was great.”
 
-
 ---
 
 ### Notes

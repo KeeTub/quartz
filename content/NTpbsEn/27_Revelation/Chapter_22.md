@@ -49,7 +49,6 @@ tags: [NTpbsEn, Revelation]
 
 **21** The grace of the Lord Jesus <span class="added">(be)</span> with you[^2] all. Amen[^3].
 
-
 ---
 
 ### Notes

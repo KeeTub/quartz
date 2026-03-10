@@ -87,7 +87,6 @@ tags: [NTpbsEn, John]
 
 **40** So they cried again, saying, “Not this <span class="added">(man)</span>, but <del class="deleted-text">[the]</del> Barabbas!” And <del class="deleted-text">[the]</del> Barabbas was a bandit.
 
-
 ---
 
 ### Notes

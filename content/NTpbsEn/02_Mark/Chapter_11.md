@@ -73,7 +73,6 @@ tags: [NTpbsEn, Mark]
 
 **33** And having answered to <del class="deleted-text">[the]</del> Jesus, they say, “We do not know.” And <del class="deleted-text">[the]</del> Jesus says <span class="added">(to)</span> them, “Neither <span class="added">(will)</span> I tell you by what authority I do these things.”
 
-
 ---
 
 ### Notes

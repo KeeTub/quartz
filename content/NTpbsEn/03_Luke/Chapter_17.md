@@ -81,7 +81,6 @@ tags: [NTpbsEn, Luke]
 
 **37** And having answered, they say to him, “Where, Lord?” And he said <span class="added">(to)</span> them, “Where the body <span class="added">(is)</span>, there the eagles also will be gathered together.”
 
-
 ---
 
 ### Notes

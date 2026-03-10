@@ -53,7 +53,6 @@ tags: [NTpbsEn, Matthew]
 
 **23** And having come, he lived in a city called Nazareth, so that the thing <del class="deleted-text">[having been]</del> spoken through the prophets might be fulfilled: <del class="deleted-text">[that]</del> “He will be called a Nazarene.”
 
-
 ---
 
 ### Notes

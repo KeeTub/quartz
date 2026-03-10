@@ -82,7 +82,6 @@ tags: [NTpbsEn, Hebrews]
 
 **39** But we are not <span class="alt-label">of drawing back</span><span class="alt-text">(=of those who draw back)</span> to destruction, but <span class="alt-label">of faith to acquiring</span><span class="alt-text">(=of those who believe to the saving)</span> of the soul.
 
-
 ---
 
 ### Notes

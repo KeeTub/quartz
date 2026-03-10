@@ -83,7 +83,6 @@ tags: [NTpbsEn, Mark]
 
 **38** “For whoever <del class="deleted-text">[might]</del> is ashamed of me and my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he <del class="deleted-text">[might]</del> comes in the glory of his Father with the holy angels.”
 
-
 ---
 
 ### Notes

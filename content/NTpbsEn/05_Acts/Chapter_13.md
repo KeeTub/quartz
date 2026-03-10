@@ -110,7 +110,6 @@ tags: [NTpbsEn, Acts]
 
 **52** And the disciples were being filled <span class="alt-label">of</span><span class="alt-text">(=with)</span> joy and <span class="added">(the)</span> Holy Spirit.
 
-
 ---
 
 ### Notes

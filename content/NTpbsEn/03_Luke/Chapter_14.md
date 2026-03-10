@@ -77,7 +77,6 @@ tags: [NTpbsEn, Luke]
 
 **35** “It is fit neither for <span class="added">(the)</span> land nor for <span class="added">(the)</span> manure. They throw it outside. The one having ears to hear, let him hear!”
 
-
 ---
 
 ### Notes

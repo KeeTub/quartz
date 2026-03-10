@@ -41,7 +41,6 @@ tags: [NTpbsEn, Revelation]
 
 **17** “For the great day of their wrath has come, and who is able to stand?”
 
-
 ---
 
 ### Notes

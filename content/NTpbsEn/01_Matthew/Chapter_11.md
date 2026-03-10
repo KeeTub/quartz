@@ -67,7 +67,6 @@ tags: [NTpbsEn, Matthew]
 
 **30** “For my yoke <span class="added">(is)</span> easy and my burden is light.”
 
-
 ---
 
 ### Notes

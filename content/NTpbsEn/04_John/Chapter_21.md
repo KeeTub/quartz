@@ -57,7 +57,6 @@ tags: [NTpbsEn, John]
 
 **25** And there <span class="alt-label">is</span><span class="alt-text">(=are)</span> also many other things which <del class="deleted-text">[the]</del> Jesus did, which if they <del class="deleted-text">[may]</del> are written one by one, I suppose <span class="alt-label">the world itself not to contain</span><span class="alt-text">(=that the world itself could not contain)</span> the books being written.
 
-
 ---
 
 ### Notes

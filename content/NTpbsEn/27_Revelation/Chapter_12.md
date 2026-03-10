@@ -43,7 +43,6 @@ tags: [NTpbsEn, Revelation]
 
 **18** And he stood on the sand of the sea.
 
-
 ---
 
 ### Notes

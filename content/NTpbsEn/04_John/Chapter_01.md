@@ -109,7 +109,6 @@ tags: [NTpbsEn, John]
 
 **51** And he says <span class="added">(to)</span> him, “Truly truly I say <span class="added">(to)</span> you, you will see <del class="deleted-text">[the]</del> heaven having opened and the angels of God ascending and descending upon the Son of Man.”
 
-
 ---
 
 ### Notes

@@ -149,7 +149,6 @@ tags: [NTpbsEn, John]
 
 **71** And he was speaking <span class="added">(of)</span> Judas the <span class="added">(son)</span> of Simon Iscariot, for this one, one of the twelve, was about to betray him.
 
-
 ---
 
 ### Notes

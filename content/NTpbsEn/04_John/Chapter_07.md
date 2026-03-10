@@ -113,7 +113,6 @@ tags: [NTpbsEn, John]
 
 **53** And each <span class="added">(of them)</span> went into his house.
 
-
 ---
 
 ### Notes

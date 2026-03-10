@@ -47,7 +47,6 @@ tags: [NTpbsEn, Hebrews]
 
 **20** where Jesus, a forerunner, entered for us, having become a high priest <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span> according to the order of Melchizedek.
 
-
 ---
 
 ### Notes

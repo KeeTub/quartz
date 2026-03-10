@@ -43,7 +43,6 @@ tags: [NTpbsEn, Revelation]
 
 **18** “And the woman whom you saw is the great city having <span class="alt-label">kingdom</span><span class="alt-text">(=domain)</span> over the kings of the earth.”
 
-
 ---
 
 ### Notes

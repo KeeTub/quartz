@@ -57,7 +57,6 @@ tags: [NTpbsEn, John]
 
 **25** and because he had no need that anyone should testify about the man; for he was knowing what was in the man.
 
-
 ---
 
 ### Notes

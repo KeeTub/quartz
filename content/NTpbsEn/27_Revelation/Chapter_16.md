@@ -49,7 +49,6 @@ tags: [NTpbsEn, Revelation]
 
 **21** And a great hailstone, <span class="added">(heavy)</span> as the weight of <span class="alt-label">a talent</span><span class="alt-text">(=about a hundred pounds)</span>, <span class="alt-label">comes down</span><span class="alt-text">(=fell)</span> from <del class="deleted-text">[the]</del> heaven upon the men. And the men blasphemed <del class="deleted-text">[the]</del> God <span class="alt-label">from</span><span class="alt-text">(=because of)</span> the plague of the hail, for its plague <span class="alt-label">is</span><span class="alt-text">(=was)</span> exceedingly great.
 
-
 ---
 
 ### Notes

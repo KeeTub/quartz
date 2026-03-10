@@ -99,7 +99,6 @@ tags: [NTpbsEn, Matthew]
 
 **46** And seeking to arrest him, they feared the crowds, because they were <span class="alt-label">having</span><span class="alt-text">(=regarding)</span> him <span class="alt-label">for</span><span class="alt-text">(=as)</span> a prophet.
 
-
 ---
 
 ### Notes

@@ -77,7 +77,6 @@ tags: [NTpbsEn, Matthew]
 
 **35** “So also my heavenly Father will do to you, unless you each one should <span class="alt-label">cancel</span><span class="alt-text">(=forgive)</span> his brother from your hearts.”
 
-
 ---
 
 ### Notes

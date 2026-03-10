@@ -81,7 +81,6 @@ tags: [NTpbsEn, Acts]
 
 **37** <span class="alt-label">Field’s belonging to him</span><span class="alt-text">(=as a field was to him)</span>[^5], having sold <span class="added">(it)</span>, he brought the money, and put at the apostles’ feet.
 
-
 ---
 
 ### Notes

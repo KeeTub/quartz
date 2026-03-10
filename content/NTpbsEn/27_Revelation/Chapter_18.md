@@ -55,7 +55,6 @@ tags: [NTpbsEn, Revelation]
 
 **24** “And in her was found <span class="added">(the)</span> blood of prophets and of saints, and of all the ones having been slain on the earth.”
 
-
 ---
 
 ### Notes

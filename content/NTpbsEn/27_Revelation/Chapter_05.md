@@ -35,7 +35,6 @@ tags: [NTpbsEn, Revelation]
 
 **14** And the four living creatures were saying, “Amen!” And the <u>twenty-four</u>[^6] elders fell down and worshipped <u>the One living unto the ages of the ages</u>[^7].
 
-
 ---
 
 ### Notes

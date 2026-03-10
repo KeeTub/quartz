@@ -125,7 +125,6 @@ tags: [NTpbsEn, Acts]
 
 **60** And <span class="alt-label">having put the knees</span><span class="alt-text">(=having fallen his knees)</span>, he cried out with a great voice, “Lord, do not place to them this sin.” And having said this, he fell asleep.
 
-
 ---
 
 ### Notes

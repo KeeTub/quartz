@@ -37,7 +37,6 @@ tags: [NTpbsEn, Acts]
 
 **15** And having gazed at him, all the ones sitting in the council saw his face as the face of angel.
 
-
 ---
 
 ### Notes

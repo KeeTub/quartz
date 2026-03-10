@@ -63,7 +63,6 @@ tags: [NTpbsEn, Mark]
 
 **28** “Therefore the Son of Man is Lord also of the Sabbath.”
 
-
 ---
 
 ### Notes

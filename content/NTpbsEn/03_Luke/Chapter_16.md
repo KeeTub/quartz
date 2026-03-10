@@ -69,7 +69,6 @@ tags: [NTpbsEn, Luke]
 
 **31** “And he said <span class="added">(to)</span> him, ‘If they do not hear Moses and the prophets, neither will they be persuaded if someone <del class="deleted-text">[might]</del> rises from the dead.’”
 
-
 ---
 
 ### Notes

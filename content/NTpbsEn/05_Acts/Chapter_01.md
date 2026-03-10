@@ -59,7 +59,6 @@ tags: [NTpbsEn, Acts]
 
 **26** And they gave lots for them. and the lot fell on Matthias. And he was reckoned along with the eleven apostles.
 
-
 ---
 
 ### Notes

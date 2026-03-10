@@ -4,6 +4,7 @@ book: "Matthew"
 chapter: 1
 tags: [NTpbsEn, Matthew]
 ---
+
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
 **1** <span class="added">(The)</span> book of <span class="added">(the)</span> genealogy of Jesus Christ, <span class="added">(the)</span> son of David, <span class="added">(the)</span> son of Abraham.
@@ -55,7 +56,6 @@ tags: [NTpbsEn, Matthew]
 **24** Joseph, having <span class="alt-label">been raised</span><span class="alt-text">(=awoke)</span> from <span class="alt-label">the</span><span class="alt-text">(=his)</span> sleep, did as the angel of <span class="added">(the)</span> Lord commanded him, and took his wife,
 
 **25** and he <span class="alt-label">was not knowing</span><span class="alt-text">(=did not know)</span>[^6] her until she <span class="alt-label">bore</span><span class="alt-text">(=had born)</span> a son, and he called his name Jesus.
-
 
 ---
 

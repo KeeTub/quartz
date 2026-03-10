@@ -62,7 +62,6 @@ tags: [NTpbsEn, Hebrews]
 
 **28** For the law appoints <span class="added">(as)</span> high priests men having weakness, but the word of oath after the law <span class="added">(appoints the)</span> Son having been perfected <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span>.
 
-
 ---
 
 ### Notes

@@ -29,7 +29,6 @@ tags: [NTpbsEn, Revelation]
 
 **11** “You are worthy, our Lord and God, to receive <del class="deleted-text">[the]</del> glory and <del class="deleted-text">[the]</del> honor and <del class="deleted-text">[the]</del> power, for You created all things, and by Your will they <span class="alt-label">were</span><span class="alt-text">(=existed)</span> and were created.”
 
-
 ---
 
 ### Notes

@@ -83,7 +83,6 @@ tags: [NTpbsEn, Luke]
 
 **38** And early in the morning all the people were coming to him in the temple to hear him.
 
-
 ---
 
 ### Notes

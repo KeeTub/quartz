@@ -63,7 +63,6 @@ tags: [NTpbsEn, Acts]
 
 **28** For he vigorously was refuting the Jews publicly, proving through the Scriptures <span class="added">(for)</span> Jesus to be the Christ.
 
-
 ---
 
 ### Notes

@@ -123,7 +123,6 @@ tags: [NTpbsEn, Matthew]
 
 **58** And he did not do there many mighty works because of their unbelief.
 
-
 ---
 
 ### Notes

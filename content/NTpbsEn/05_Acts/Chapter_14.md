@@ -62,7 +62,6 @@ tags: [NTpbsEn, Acts]
 
 **28** And they were staying with the disciples <span class="added">(for)</span> <span class="alt-label">not a little</span><span class="alt-text">(=a long)</span> time.
 
-
 ---
 
 ### Notes

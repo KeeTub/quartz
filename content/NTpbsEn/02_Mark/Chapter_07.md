@@ -81,7 +81,6 @@ tags: [NTpbsEn, Mark]
 
 **37** And beyond measure they were being astonished, saying, “He has done all things well. He makes both the deaf to hear and the dumb to speak.”
 
-
 ---
 
 ### Notes

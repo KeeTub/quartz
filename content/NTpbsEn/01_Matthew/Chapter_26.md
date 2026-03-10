@@ -157,7 +157,6 @@ tags: [NTpbsEn, Matthew]
 
 **75** And <del class="deleted-text">[the]</del> Peter remembered the word of Jesus <span class="alt-label">having said</span><span class="alt-text">(=who had said)</span>, “<del class="deleted-text">[that]</del> Before <span class="added">(for)</span> a cock to crow, you will deny me three times.” And having gone outside, he wept bitterly.
 
-
 ---
 
 ### Notes

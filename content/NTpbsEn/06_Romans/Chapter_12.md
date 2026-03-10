@@ -7,51 +7,52 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** It is necessary to boast; it is not profitable <span class="added">(for me)</span>, but I will go on to visions and revelations of <span class="added">(the)</span> Lord.
+**1** Therefore I beseech you, brothers, through the <span class="alt-label">compassions</span><span class="alt-text">(=mercies)</span> of God, to present your bodies <span class="added">(as)</span> a living sacrifice, holy <span class="added">(and)</span> pleasing to God, <span class="added">(which is)</span> your <span class="alt-label">reasonable</span><span class="alt-text">(=spiritual)</span> service.
 
-**2** I know a man in Christ, such a man, fourteen years ago, <span class="alt-label">having been caught up</span><span class="alt-text">(=who was caught up)</span> to <span class="added">(the)</span> third heaven– I do not know whether in <span class="added">(the)</span> body or out of the body – <del class="deleted-text">[the]</del> God knows.
+**2** And do not be conformed to this <span class="alt-label">age</span><span class="alt-text">(=world)</span>, but be transformed by the renewing of your mind, <span class="alt-label">the for you to prove</span><span class="alt-text">(=so that you may prove)</span> what <span class="added">(is)</span> the will of God, <span class="added">(which is)</span> good and pleasing and perfect.
 
-**3** I know such a man – whether in <span class="added">(the)</span> body or without the body I do not know, God knows -
+**3** For I say, through the grace given to me, to everyone being among you, not to think <span class="added">(of himself)</span> more highly than <del class="deleted-text">[what]</del> he ought to think, but to think in order to think soberly, <span class="added">(according)</span> to <span class="added">(the)</span> measure of faith <del class="deleted-text">[the]</del> God has assigned to each.
 
-**4** was caught into the paradise and heard inexpressible words, which it is not permitted for a man to tell.
+**4** For as in one body we have many members, but all the members do not have the same function,
 
-**5** On behalf of such a <span class="added">(man)</span> I will boast, but on my own behalf I will not boast except in <span class="alt-label">the</span><span class="alt-text">(=my)</span> weaknesses.
+**5** so we, <span class="added">(though)</span> many, are one body in Christ, and individually <span class="added">(we are)</span> members of one another.
 
-**6** <span class="alt-label">For if</span><span class="alt-text">(=Even if)</span> I might want to boast, I will not be foolish, for I will speak <span class="added">(the)</span> truth. But I refrain, so that no one <span class="alt-label">might</span><span class="alt-text">(=may)</span> think of me beyond what he sees me or hears from me.
+**6** And <span class="alt-label">having gifts differing</span><span class="alt-text">(=we have different gifts)</span> according to the grace given to us, whether <span class="added">(it is)</span> prophecy, <span class="added">(we should prophesy)</span> according to the proportion of faith,
 
-**7** And <span class="added">(because of)</span> the abundance of the revelations, therefore, lest I may be exalted, there was given to me a thorn <span class="added">(in)</span> the flesh, a messenger of Satan, that he may buffet me, lest I may be exalted.
+**7** or <span class="added">(it is)</span> ministry, <span class="added">(we should do)</span> in the ministry, or the one <span class="alt-label">teaching</span><span class="alt-text">(=who teaches)</span> <span class="added">(should do)</span> in the teaching,
 
-**8** For this thing, I pleaded <span class="added">(with)</span> the Lord three times that it might depart from me.
+**8** or the one <span class="alt-label">exhorting</span><span class="alt-text">(=who exhorts)</span> <span class="added">(should do)</span> in the exhortation, <span class="added">(or)</span> the one <span class="alt-label">sharing</span><span class="alt-text">(=who contributes)</span> <span class="added">(should do)</span> in generosity, <span class="added">(or)</span> the one <span class="alt-label">leading</span><span class="alt-text">(=who take the lead)</span> <span class="added">(should do)</span> in diligence, <span class="added">(or)</span> the one <span class="alt-label">showing mercy</span><span class="alt-text">(=who shows mercy)</span> <span class="added">(should do)</span> in cheerfulness.
 
-**9** And he has said <span class="added">(to)</span> me, “My grace is sufficient <span class="added">(for)</span> you, For <span class="alt-label">the</span><span class="alt-text">(=my)</span> power is made perfect in weakness.” Therefore the most gladly I will boast in <span class="alt-label">the</span><span class="alt-text">(=my)</span> weaknesses, so that the power of Christ <span class="alt-label">might</span><span class="alt-text">(=may)</span> rest upon me.
+**9** <span class="added">(Let)</span> <del class="deleted-text">[the]</del> Love be without hypocrisy. <span class="alt-label">Abhorring</span><span class="alt-text">(=Hate)</span>[^1] the evil. <span class="alt-label">Clinging</span><span class="alt-text">(=Hold fast)</span>[^2] to the good.
 
-**10** Therefore I delight in weaknesses, in insults, in hardships, in persecutions and distresses, for Christ’s sake. For when I <del class="deleted-text">[may]</del> am weak, then I am strong.
+**10** Love<span class="added">(#imperative of participle)</span> warmly <del class="deleted-text">[to]</del> one another <span class="added">(in)</span> brotherly love. Consider<span class="added">(#imperative of participle)</span> highly one another in honor.
 
-**11** I have become foolish. You forced me <span class="added">(to it)</span>. For I ought to have been commended by you; for <span class="alt-label">I lacked nothing of</span><span class="alt-text">(=I am not at all inferior to)</span> the super-apostles, even if I am nothing.
+**11** Never <span class="alt-label">inert</span><span class="alt-text">(=lag)</span>[^3] <span class="added">(in)</span> zeal. Being fervent <span class="added">(in)</span> the Spirit, serve<span class="added">(#imperative of participle)</span> the Lord.
 
-**12** Indeed the signs of the apostle were performed among you in all endurance, <span class="added">(in)</span> signs and wonders and mighty works.
+**12** Rejoice<span class="added">(#imperative of participle)</span> <span class="added">(in)</span> <del class="deleted-text">[the]</del> hope. <span class="added">(Be)</span> patient<span class="added">(#imperative of participle)</span> <span class="added">(in)</span> <del class="deleted-text">[the]</del> trouble. Continue<span class="added">(#imperative of participle)</span> faithfully <span class="added">(in)</span> <del class="deleted-text">[the]</del> prayer.
 
-**13** For what is it <span class="added">(in)</span> which you were inferior to the <span class="alt-label">remaining</span><span class="alt-text">(=other)</span> churches, except that I myself was not a burden to you? Forgive me this wrong!
+**13** Distribute<span class="added">(#imperative of participle)</span> to the needy of the saints. Practice<span class="added">(#imperative of participle)</span> <del class="deleted-text">[the]</del> hospitality.
 
-**14** Behold, <span class="added">(for)</span> this third time I am ready to come <span class="added">(to)</span> you. And I will not be a burden <span class="added">(to you)</span>; for I do not seek <span class="alt-label">your things</span><span class="alt-text">(=yours)</span>, but you. For the children ought not to lay up <span class="added">(for)</span> the parents, but the parents <span class="added">(for)</span> the children.
+**14** Bless the ones <span class="alt-label">persecuting</span><span class="alt-text">(=who persecute)</span> you. Bless, and do not curse.
 
-**15** But I will most gladly spend and <del class="deleted-text">[will]</del> be spent for your souls. If I love you more abundantly, am I loved <span class="added">(the)</span> less?
+**15** Rejoice<span class="added">(#imperative of infinitive)</span> with the ones <span class="alt-label">rejoicing</span><span class="alt-text">(=who rejoice)</span>. Weep<span class="added">(#imperative of infinitive)</span> with the ones <span class="alt-label">weeping</span><span class="alt-text">(=who weep)</span>.
 
-**16** But so be it, I did not burden you. But being crafty, I took you <span class="added">(with)</span> deceit!
+**16** Think<span class="added">(#imperative of participle)</span> the same thing toward another. Do not think<span class="added">(#imperative of participle)</span> <span class="alt-label">the high things</span><span class="alt-text">(=proud)</span>, but associate<span class="added">(#imperative of participle)</span> <span class="added">(with)</span> the <span class="alt-label">humble</span><span class="alt-text">(=people of low position)</span>. Never be <span class="alt-label">wise with yourselves</span><span class="alt-text">(=conceited)</span>
 
-**17** <del class="deleted-text">[Not<span class="added">(# expecting the answer ‘No’)</span>]</del> <span class="added">(Is there)</span> any of those whom I sent you, through <span class="alt-label">him</span><span class="alt-text">(=whom)</span> I took advantage of you?
+**17** Repay<span class="added">(#imperative of participle)</span> no one evil for evil. Think<span class="added">(#imperative of participle)</span> beforehand good things before all men.
 
-**18** I urged Titus <span class="added">(to go)</span>, and sent the brother with <span class="added">(him)</span>. <del class="deleted-text">[Not<span class="added">(# expecting the answer ‘No’)</span>]</del> Did Titus take advantage of you? Did we not walk <span class="added">(in)</span> the same spirit? <span class="added">(Did we not walk in)</span> the same step?
+**18** If possible, <span class="alt-label">the from you</span><span class="alt-text">(=as far as it depends on you)</span>, <u>live at peace</u><span class="added">(#imperative of participle)</span> with all men.
 
-**19** Up to now, do you think that we have been defending <span class="added">(ourselves before)</span> you? We speak before God in Christ. All things, beloved, <span class="added">(are)</span> for your edification.
+**19** Do not avenge<span class="added">(#imperative of participle)</span> yourselves, beloved, but <span class="alt-label">give place</span><span class="alt-text">(=leave)</span> <span class="added">(it)</span> to wrath <span class="added">(of God)</span>, for it has been written, “Vengeance <span class="added">(is)</span> <span class="alt-label">to me</span><span class="alt-text">(=mine)</span>, I will repay,” says <span class="added">(the)</span> Lord.
 
-**20** For I fear that I, coming, <span class="alt-label">might</span><span class="alt-text">(=may)</span> not find you such as I wish, and that I <span class="alt-label">might</span><span class="alt-text">(=may)</span> be found <span class="added">(by)</span> you such as you do not wish. <span class="added">(I fear that there may be)</span> quarreling, jealousy, angers, selfish ambitions, backbitings, gossips, arrogance and disturbances.
+**20** But if your enemy may be hungry, feed him. If he is thirsty, give him drink; for <span class="added">(by)</span> doing this you will heap <span class="alt-label">coals of fire</span><span class="alt-text">(=burning coals)</span> upon his head.
 
-**21** <span class="added">(I fear that)</span>, <span class="alt-label">my having come again</span><span class="alt-text">(=when I come again)</span>[^1], my God <span class="alt-label">might</span><span class="alt-text">(=will)</span> humble me before you, and I will mourn <span class="added">(for)</span> many of the ones having previously sinned and having not repented of the uncleanness, <del class="deleted-text">[and]</del> fornication, and debauchery which they have practiced.
-
+**21** Do not be conquered by <del class="deleted-text">[the]</del> evil, but conquer <del class="deleted-text">[the]</del> evil by <del class="deleted-text">[the]</del> good.
 
 ---
 
 ### Notes
 
-[^1]: genitive absolute
+[^1]: imperative of participle
+[^2]: imperative of participle
+[^3]: imperative of adjective

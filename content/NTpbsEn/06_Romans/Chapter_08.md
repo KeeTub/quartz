@@ -7,56 +7,80 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** And we make known to you, brothers, the grace of God having been given in the churches of Macedonia,
+**1** Therefore there is now no condemnation to the <span class="added">(ones)</span> in Christ Jesus,
 
-**2** that in severe trial of affliction the abundance of their joy and their <span class="alt-label">poverty according to depth</span><span class="alt-text">(=extreme poverty)</span> have overflowed in the riches of their generosity,
+**2** because the law of sprit of life in Christ Jesus freed you from the law of sin and death.
 
-**3** that <span class="added">(they gave)</span> according to <span class="added">(their)</span> power, I testify, and beyond <span class="added">(their)</span> power, <span class="alt-label">of their own will</span><span class="alt-text">(=voluntarily)</span>,
+**3** For the impossible thing of the law in which it was weak through the flesh, <del class="deleted-text">[the]</del> God did <span class="added">(by)</span> having sent his own son in likeness of flesh of sin and for sin; <del class="deleted-text">[and]</del> he condemned <del class="deleted-text">[the]</del> sin in the flesh,
 
-**4** <span class="alt-label">with much appeal</span><span class="alt-text">(=much earnestly)</span> begging us the <span class="alt-label">grace</span><span class="alt-text">(=gift)</span> and the fellowship <span class="alt-label">of the ministry</span><span class="alt-text">(=in the ministering)</span> to the saints,
+**4** in order that the righteous requirement of the law may be fulfilled in us walking not according to flesh but according to spirit.
 
-**5** and not only as we hoped, but first they gave themselves to the Lord and <span class="added">(then)</span> to us <span class="alt-label">through</span><span class="alt-text">(=by)</span> the will of God,
+**5** For the ones <span class="alt-label">being</span><span class="alt-text">(=living)</span> according to the flesh <span class="alt-label">mind</span><span class="alt-text">(=set their minds on)</span> the things of flesh, but the ones <span class="added">(living)</span> according to Spirit (=set their minds on) the things of the Spirit.
 
-**6** <span class="alt-label">for the us to urge Titus</span><span class="alt-text">(=so we urged Titus)</span>, as he had already began, so he would also complete this grace among you.
-7 But as you abound in everything – <span class="added">(in)</span> faith, <del class="deleted-text">[and]</del> <span class="added">(in)</span> speech, <del class="deleted-text">[and]</del> <span class="added">(in)</span> knowledge, <del class="deleted-text">[and]</del> all eagerness, and in your love for us - that you may abound in this grace also.
+**6** For the mind of the flesh <span class="added">(is)</span> death; the mind of the Spirit <span class="added">(is)</span> life and peace.
 
-**8** I do not say by commandment, but <span class="alt-label">testifying</span><span class="alt-text">(=I am testing)</span> the sincerity of your love through the eagerness of others.
+**7** Therefore the mind of the flesh <span class="added">(is)</span> enmity against God, for it is not subjected to the law of God, nor can it <span class="added">(do so)</span>,
 
-**9** For you know the grace of our Lord Jesus Christ, that for your sake he became poor, <span class="alt-label">being rich</span><span class="alt-text">(=though he was rich)</span>, so that you <span class="alt-label"><span class="added">(through)</span> the poverty of that One</span><span class="alt-text">(=by his poverty)</span> might become rich.
+**8** and the ones being in <span class="added">(the)</span> flesh are not able to please God.
 
-**10** And in this I give advice, for this is appropriate <span class="added">(for)</span> you, who began <span class="alt-label">from last year</span><span class="alt-text">(=a year ago)</span>, not only to do but also <span class="alt-label">to will</span><span class="alt-text">(=to desire)</span>.
+**9** But you are not in <span class="added">(the)</span> flesh but in <span class="added">(the)</span> Spirit if <span class="added">(the)</span> Spirit of God dwells in you. But if anyone does not have <span class="added">(the)</span> Spirit of Christ, this one <span class="alt-label">is not His</span><span class="alt-text">(=does not belong to Him)</span>.
 
-**11** And finish now the thing to do, that as <span class="added">(there was)</span> the eagerness <span class="alt-label"><del class="deleted-text">[of the]</del> to will</span><span class="alt-text">(=to desire)</span>, <span class="alt-label">so also the to finish</span><span class="alt-text">(=so there also may be the completion)</span> out of <span class="alt-label">the thing to have</span><span class="alt-text">(=what you have)</span>.
+**10** But if Christ <span class="added">(is)</span> in you, the body <span class="added">(is)</span> dead because of sin, but the spirit <span class="added">(is)</span> <span class="alt-label">life</span><span class="alt-text">(=alive)</span> because of righteousness.
 
-**12** For if the eagerness is there, it is acceptable according to what one <del class="deleted-text">[may]</del> has, not according to what one does not have.
+**11** But if the Spirit of the One having raised <del class="deleted-text">[the]</del> Jesus from <span class="added">(the)</span> dead dwells in you, the One having raised Christ from the dead will give life also your mortal bodies through His Spirit dwelling in you.
 
-**13** For <span class="added">(I)</span> do not <span class="added">(mean)</span> that <span class="added">(there should be)</span> relief <span class="added">(for)</span> others <span class="added">(and)</span> hardship <span class="added">(on)</span> you, but by equality,
+**12** Therefore, brothers, we are debtors not to <span class="added">(the)</span> flesh, to live according to <span class="added">(the)</span> flesh.
 
-**14** at the present time, your abundance <span class="added">(may be)</span> for their lack, that their abundance also <span class="alt-label">might</span><span class="alt-text">(=may)</span> be for your lack, that there <span class="alt-label">might</span><span class="alt-text">(=may)</span> be equality.
+**13** For if you live according to <span class="added">(the)</span> flesh, you <span class="alt-label">are about to</span><span class="alt-text">(=will)</span> die. But if <span class="added">(by)</span> the Spirit you put to death the deeds of the body, you will live.
 
-**15** As it has been written, “He <span class="added">(who gathered)</span> <del class="deleted-text">[the]</del> much did not <span class="alt-label">abound</span><span class="alt-text">(=have too much)</span>, and he <span class="added">(who gathered)</span> little did not have too little.”
+**14** For as many as are led <span class="added">(by the)</span> Spirit of God, these are sons of God.
 
-**16** And thanks <span class="added">(be)</span> to <del class="deleted-text">[the]</del> God giving the same eagerness for you into the heart of Titus.
+**15** For you did not receive a spirit of slavery again unto fear, but you received <span class="added">(the)</span> spirit of adoption, in which we cry, “Abba, Father”
 
-**17** For he not only accepted <span class="alt-label">the</span><span class="alt-text">(=our)</span> appeal, but being more eager, he went <span class="added">(to)</span> you <span class="alt-label">of his own accord</span><span class="alt-text">(=voluntarily)</span>.
+**16** The Spirit itself bears witness with our spirit that we are children of God.
 
-**18** And we sent with him the brother whose praise <span class="added">(is)</span> in the gospel throughout all the churches,
+**17** And if <span class="added">(we are)</span> children, <span class="added">(we are)</span> also heirs, heirs of God, co-heirs with Christ, if indeed we suffer with <span class="added">(him)</span> so that we may be also glorified with <span class="added">(him)</span>.
 
-**19** and not only that, but also <span class="alt-label">having been elected</span><span class="alt-text">(=he has been appointed)</span> by the churches <span class="alt-label"><span class="added">(as)</span> our travelling companion</span><span class="alt-text">(=to travel with us)</span> with this <span class="alt-label">grace</span><span class="alt-text">(=gift)</span> being administered by us to the glory of the Lord himself and <span class="added">(to show)</span> our eagerness,
+**18** For I consider that the sufferings of the present time <span class="added">(are)</span> not worthy <span class="added">(to be compared)</span> with the glory being about to be revealed to us.
 
-**20** <span class="alt-label">avoiding this</span><span class="alt-text">(=We want to avoid this)</span>, <del class="deleted-text">[not]</del> <span class="added">(that)</span> anyone should blame us in this <span class="alt-label">abundance</span><span class="alt-text">(=generous gift)</span> being administered by us.
+**19** For the eager expectation of the creation waits for the revealing of the sons of God.
 
-**21** For we have a care for good <span class="alt-label">things</span><span class="alt-text">(=what is honorable)</span> not only before <span class="added">(the)</span> Lord but also before men.
+**20** For the creation was subjected to the vanity, not willingly, but because of the One subjecting <span class="added">(it)</span> in hope.
 
-**22** And we have sent with them our bother whom we have often proved, <span class="alt-label">being</span><span class="alt-text">(=and who has been)</span> eager in many things, but <span class="added">(who is)</span> now much more eager <span class="added">(because of his)</span> great confidence in you.
+**21** Because the creation itself also will be freed from the slavery of corruption into the freedom of the glory of the children of God.
 
-**23** As for Titus, <span class="added">(he is)</span> my partner and fellow worker for you; as for our brothers, <span class="added">(they are)</span> <span class="alt-label">apostles</span><span class="alt-text">(=messengers)</span> of <span class="added">(the)</span> churches, <span class="added">(the)</span> glory of Christ.
+**22** For we know that the whole creation groans together and travails together until now.
 
-**24** Therefore <span class="alt-label">showing</span><span class="alt-text">(=demonstrate)</span>[^1] to them, <span class="alt-label">in front of</span><span class="alt-text">(=before)</span> the churches, the proof of your love and our boasting about you.
+**23** And not only <span class="added">(the creation)</span>, but also we ourselves having the firstfruit of the Spirit, groan within ourselves, eagerly waiting for adoption, the redemption of our body.  
+24 For by <del class="deleted-text">[the]</del> hope we were saved, but hope being seen is not hope, because who hope for what he sees?
 
+**25** But if we hope for what we do not see, we eagerly wait for <span class="added">(it)</span> with patience.
 
----
+**26** And likewise the Spirit also helps our weakness. For we do not know what we <span class="alt-label">may</span><span class="alt-text">(=should)</span> pray for as we ought, but the Spirit Himself intercedes for us with groans <span class="added">(that are)</span> unutterable.
 
-### Notes
+**27** And the One examining the hearts knows what is the mind of the Spirit, because He intercedes for the saints according to <span class="added">(the will of)</span> God.
 
-[^1]: participle with imperative force
+**28** And we know that all things work together for good to the ones loving <del class="deleted-text">[the]</del> God, to the ones being called according to <span class="added">(his)</span> purpose.
+
+**29** For <span class="added">(those)</span> whom He foreknew, He also predestined <span class="added">(to be)</span> confirmed <span class="alt-label">of</span><span class="alt-text">(=to)</span> the image of His Son, <span class="alt-label">in order for him to be</span><span class="alt-text">(=so that he might be)</span> <span class="added">(the)</span> firstborn among many brothers.
+
+**30** And these whom he predestined, he also called; and these whom he called, he also justified; and these whom he justified, he also glorified.
+
+**31** What then shall we say to these things? If <del class="deleted-text">[the]</del> God <span class="added">(is)</span> for us, who <span class="added">(is)</span> against us?
+
+**32** He who did not spare <span class="added">(His)</span> own Son, but delivered him for us all, how will He not also freely give us all things with him?
+
+**33** Who will bring any charge against <span class="added">(the)</span> chosen ones of God? <span class="added">(It is)</span> God <span class="alt-label">justifying</span><span class="alt-text">(=who justifies)</span>.
+
+**34** Who is the one <span class="alt-label">condemning</span><span class="alt-text">(=who condemns)</span>? <span class="added">(It is)</span> Christ Jesus that having died, but rather having been raised, who also is at the right hand of God, who also intercedes for us.
+
+**35** Who shall separate us from the love of Christ? Shall trouble, or distress, or persecution, or famine, or nakedness, or peril, or sward?
+
+**36** As it is written, “<del class="deleted-text">[that]</del> For your sake we are being killed all day <span class="added">(long)</span>. We were regarded as sheep <span class="alt-label">of</span><span class="alt-text">(=for)</span> slaughter.”
+
+**37** But we fully conquer in all these things through the One having loved us.
+
+**38** For I have been <span class="alt-label">persuaded</span><span class="alt-text">(=convinced)</span> that neither death nor life, neither angels nor rulers, neither things being present nor things being about to come, nor powers,
+
+**39** neither height nor depth, nor any other creature, will be able to separate us from the love of <del class="deleted-text">[the]</del> God in Christ Jesus our Lord.
+

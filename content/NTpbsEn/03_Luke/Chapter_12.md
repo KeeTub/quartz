@@ -125,7 +125,6 @@ tags: [NTpbsEn, Luke]
 
 **59** “I say <span class="added">(to)</span> you, you <span class="alt-label">might</span><span class="alt-text">(=will)</span> never come out from there until you <span class="alt-label">might</span><span class="alt-text">(=have)</span> paid the very last <span class="alt-label">lepton</span><span class="alt-text">(=penny)</span>.”
 
-
 ---
 
 ### Notes

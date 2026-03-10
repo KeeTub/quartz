@@ -83,7 +83,6 @@ tags: [NTpbsEn, Acts]
 
 **38** Being distressed most for the word which he had said that they are going to see his face no more, they were accompanied him to the ship.
 
-
 ---
 
 ### Notes

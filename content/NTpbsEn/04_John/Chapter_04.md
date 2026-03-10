@@ -111,7 +111,6 @@ tags: [NTpbsEn, John]
 
 **54** And this again <span class="added">(was the)</span> second sign <del class="deleted-text">[the]</del> Jesus, having come from <del class="deleted-text">[the]</del> Judea into <del class="deleted-text">[the]</del> Galilee, did
 
-
 ---
 
 ### Notes

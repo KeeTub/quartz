@@ -99,7 +99,6 @@ tags: [NTpbsEn, Mark]
 
 **47** And Mary the Magdalene and Mary the <span class="added">(mother)</span> of Joses were watching where he <span class="alt-label">has been laid</span><span class="alt-text">(=was laid)</span>.
 
-
 ---
 
 ### Notes

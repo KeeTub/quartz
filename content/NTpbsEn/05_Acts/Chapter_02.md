@@ -102,7 +102,6 @@ blood and fire and steam of smoke.’
 
 **47** praising <del class="deleted-text">[the]</del> God, and having favour with the whole people. And the Lord was adding to them the ones being saved day by day.
 
-
 ---
 
 ### Notes

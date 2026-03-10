@@ -7,39 +7,67 @@ tags: [NTpbsEn, Colossians]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** Paul, an apostle of Christ Jesus by <span class="added">(the)</span> will of God, according to <span class="added">(the)</span> promise of life <span class="added">(which is)</span> in Christ Jesus
+**1** Paul, an apostle of Christ Jesus, through <span class="added">(the)</span> will of God and Timothy the brother,
 
-**2** <span class="added">(To)</span> Timothy, <span class="added">(my)</span> beloved child: Grace, mercy, peace from God <span class="added">(the)</span> Father and Christ Jesus our Lord.
+**2** To the <span class="alt-label">saints</span><span class="alt-text">(=holy)</span> and faithful brothers in Christ at Colosse. Grace <span class="added">(to)</span> you and peace from God our Father.
 
-**3** I <span class="alt-label">have thanks</span><span class="alt-text">(=thank)</span> God, whom I serve, <span class="alt-label">from ancestors</span><span class="alt-text">(=as my ancestors did)</span>, <span class="alt-label">in</span><span class="alt-text">(=with)</span> pure conscience, when I <span class="alt-label">unceasingly have the remembrance about</span><span class="alt-text">(=constantly remember)</span> you in my supplications night and day,
+**3** We give thanks to <del class="deleted-text">[the]</del> God, <span class="added">(the)</span> Father our Lord Jesus Christ, praying always for you,
 
-**4** longing to see you, having remembered your tears, so that I might be filled <span class="added">(with)</span> joy.
+**4** having heard your faith in Christ Jesus and the love which you have toward all the saints,
 
-**5** Having taken recollection of the sincere faith in you, which dwelt first in your grandmother Lois and in your mother Eunice, and I <span class="alt-label">have been persuaded</span><span class="alt-text">(=convinced)</span> that <span class="added">(it dwells)</span> also in you.
+**5** because of the hope being laid up <span class="added">(for)</span> you in <del class="deleted-text">[the]</del> heavens, which you have already heard in the word of the truth of the gospel
 
-**6** <span class="alt-label">For which reason</span><span class="alt-text">(=For this reason)</span> I remind you to rekindle the gift of God which is in you through the laying on of my hands.
+**6** <span class="alt-label">having come</span><span class="alt-text">(=which has come)</span> to you, as also in all the world it is bearing fruit and growing, so also in you, from <span class="added">(the)</span> day which you heard and understood God’s grace in truth,
 
-**7** For <del class="deleted-text">[the]</del> God did not give us a spirit of timidity, but <span class="added">(a spirit)</span> of power and love and self-discipline.
+**7** as you learned from Epaphras, our beloved fellow servant, who is a faithful minister of Christ for you,
 
-**8** Therefore do not be ashamed of the testimony of our Lord, nor of me his prisoner, but join with <span class="added">(me)</span> in suffering <span class="added">(for)</span> the gospel according to <span class="added">(the)</span> power of God,
+**8** the one having also told us <span class="added">(of)</span> your love in <span class="added">(the)</span> Spirit.
 
-**9** <span class="alt-label">of the One</span><span class="alt-text">(=who)</span> having saved us and having called <span class="added">(with)</span> a holy calling, not according to our works but according to <span class="added">(his)</span> own purpose and grace <span class="added">(which was)</span> given us in Christ Jesus before <span class="alt-label">eternal times</span><span class="alt-text">(=the beginning of time)</span>,
+**9** Therefore we also, from <span class="added">(the)</span> day which we heard, do not cease praying for you and asking that you might be filled <span class="added">(with)</span> the knowledge of His will in all spiritual wisdom and understanding,
 
-**10** and having now been revealed through the appearance of the our Savor Christ Jesus, <span class="alt-label">having</span><span class="alt-text">(=who has)</span> destroyed <del class="deleted-text">[the]</del> death and having brought life and immortality to light through the gospel,
+**10** to walk <span class="alt-label">worthily</span><span class="alt-text">(=worthy)</span> of the Lord, <span class="alt-label">to all pleasing</span><span class="alt-text">(=fully pleasing to Him)</span>, bearing fruit in every good work and growing <span class="added">(in)</span> the knowledge of God.
 
-**11** for which I was appointed a <span class="alt-label">herald</span><span class="alt-text">(=preacher)</span> and an apostle and a teacher.
+**11** being strengthened <span class="alt-label">in</span><span class="alt-text">(=with)</span> all power according to the might of his <span class="alt-label">glory</span><span class="alt-text">(=glorious might)</span>[^1] <span class="alt-label">to</span><span class="alt-text">(=for)</span> all endurance and patience, with joy,
 
-**12** <span class="alt-label">Through which cause</span><span class="alt-text">(=For this reason)</span> I also suffer these things. But I am not ashamed, for I know whom I have believed, and I have been persuaded that he is able to guard <span class="alt-label">my deposit</span><span class="alt-text">(=what I have entrusted to him)</span> <span class="alt-label">to</span><span class="alt-text">(=until)</span> that day.
+**12** giving thanks to the Father having qualified us <span class="alt-label">for the part of</span><span class="alt-text">(=to share in)</span> the inheritance of the saints in the light,
 
-**13** <span class="alt-label">Have</span><span class="alt-text">(=Hold)</span> <span class="added">(the)</span> pattern of the <span class="alt-label">being healthy</span><span class="alt-text">(=sound)</span> words which you heard from me, in faith and love <span class="added">(which are)</span> in Christ Jesus.
+**13** who has delivered us from the authority of the darkness and transferred <span class="added">(us)</span> into the kingdom of <span class="alt-label">the Son of his love</span><span class="alt-text">(=his beloved Son)</span>[^2],
 
-**14** Guard the good <span class="alt-label">deposit</span><span class="alt-text">(=thing which was entrusted to you)</span> through <span class="added">(the)</span> Holy Spirit dwelling in us.
+**14** in whom we have the redemption, the forgiveness of <del class="deleted-text">[the]</del> sins,
 
-**15** You know this, that all the ones in <del class="deleted-text">[the]</del> Asia turned away from me, among whom are Phygelus and Hermogenes.
+**15** who is <span class="alt-label">an</span><span class="alt-text">(=the)</span> image of the invisible God, <span class="added">(the)</span> firstborn of all creation,
 
-**16** The Lord <span class="alt-label">might</span><span class="alt-text">(=may)</span> give mercy to the household of Onesiphorus, because he often refreshed me <span class="added">(and)</span> was not ashamed of my chain,
+**16** for in him all things in the heavens and on the earth were created: the visible and the invisible, whether thrones or lordships or rulers or authorities. All things were created through him and for him.
 
-**17** but having come in Rome, he eagerly searched for me and found <span class="added">(me)</span>.
+**17** and he is before all things and all things have consisted in him,
 
-**18** May the Lord grant him to find mercy from <span class="added">(the)</span> Lord <span class="alt-label">in</span><span class="alt-text">(=on)</span> that day. You know well how much he served <span class="added">(me)</span> in Ephesus.
+**18** and he is the head of the body, <del class="deleted-text">[of]</del> the church, who is <span class="added">(the)</span> beginning, <span class="added">(the)</span> firstborn from the dead, that in all things he might be the One being preeminent,
 
+**19** for <span class="alt-label">he</span><span class="alt-text">(=the Father)</span> was pleased <span class="added">(to have)</span> all the fullness dwell in him,
+
+**20** and through him to reconcile all things to Himself, through him, whether the things on the earth or the things in <del class="deleted-text">[the]</del> heavens, <span class="added">(by)</span> having made peace through the blood of his cross.
+
+**21** And you, once being having been alienated and enemies <span class="added">(in)</span> the mind <span class="alt-label">in</span><span class="alt-text">(=by)</span> <span class="alt-label">the</span><span class="alt-text">(=your)</span> evil works,
+
+**22** but now he reconciled in the body of his flesh through <span class="alt-label">the</span><span class="alt-text">(=his)</span> death, to present you holy and blameless and irreproachable before Him,
+
+**23** if indeed you continue <span class="added">(in)</span> the faith, having been founded and steadfast, and not being moved away from the hope of the gospel which you heard, <span class="alt-label"><del class="deleted-text">[the]</del> having been preached</span><span class="alt-text">(=which was preached)</span> in every creature under <del class="deleted-text">[the]</del> heaven, of which I, Paul, became a <span class="alt-label">servant</span><span class="alt-text">(=minister)</span>.
+
+**24** Now I rejoice in <span class="alt-label">the</span><span class="alt-text">(=my)</span> sufferings for you, and in my flesh I fill up <span class="alt-label">the things lacking</span><span class="alt-text">(=what is lacking)</span> <span class="added">(in)</span> the afflictions of Christ for the sake of his body, which is the church,
+
+**25** of which I became a <span class="alt-label">servant</span><span class="alt-text">(=minister)</span> according to the stewardship of God <del class="deleted-text">[the]</del> <span class="added">(which was)</span> given to me for you, to fulfill the word of God,
+
+**26** the mystery <del class="deleted-text">[the]</del> having been hidden from the ages and from the generations, but now has been revealed to his saints,
+
+**27** to whom <del class="deleted-text">[the]</del> God willed to make known what <span class="added">(is)</span> the riches of the glory of this mystery <span class="alt-label">in</span><span class="alt-text">(=among)</span> the Gentiles, which is Christ in you, the hope of <del class="deleted-text">[the]</del> glory.
+
+**28** whom we proclaim, warning every man and teaching every man in all wisdom, that we might present every man perfect in Christ,
+
+**29** for which I labor also, struggling according to <span class="alt-label">the</span><span class="alt-text">(=his)</span> energy energizing in me in power.
+
+---
+
+### Notes
+
+[^1]: Hebraic syntax
+[^2]: Hebraic syntax

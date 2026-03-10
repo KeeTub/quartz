@@ -57,7 +57,6 @@ tags: [NTpbsEn, Hebrews]
 
 **25** <del class="deleted-text">[The]</del> Grace <span class="added">(be)</span> with you all. <u>Amen. It was written to Hebrews from Italy through Timothy</u>[^3]
 
-
 ---
 
 ### Notes

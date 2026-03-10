@@ -43,7 +43,6 @@ tags: [NTpbsEn, Hebrews]
 
 **18** For in that he himself has suffered, having been tempted, he is able to help the ones being tempted.
 
-
 ---
 
 ### Notes

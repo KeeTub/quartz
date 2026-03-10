@@ -69,7 +69,6 @@ tags: [NTpbsEn, John]
 
 **31** “But so that the world <span class="alt-label">might</span><span class="alt-text">(=may)</span> know that I love the Father, and as the Father commanded me, so I do. Rise, let us go from here.”
 
-
 ---
 
 ### Notes

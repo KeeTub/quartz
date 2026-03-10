@@ -68,7 +68,6 @@ tags: [NTpbsEn, Acts]
 
 **31** preaching the kingdom of God and teaching the things about the Lord Jesus Christ with all boldness without hindrance.
 
-
 ---
 
 ### Notes

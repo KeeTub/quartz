@@ -83,7 +83,6 @@ tags: [NTpbsEn, John]
 
 **38** Jesus answers, “Will you lay down your life for me? Truly, truly, I say <span class="added">(to)</span> you, a cock <span class="alt-label">might</span><span class="alt-text">(=will)</span> not crow until you <span class="alt-label">might</span><span class="alt-text">(=will)</span> deny me three times.”
 
-
 ---
 
 ### Notes

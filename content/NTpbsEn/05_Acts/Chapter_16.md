@@ -87,7 +87,6 @@ tags: [NTpbsEn, Acts]
 
 **40** And having gone out from the prison, they entered to <span class="added">(the house)</span> of Lydia. And having seen, they exhorted the brothers and went out.
 
-
 ---
 
 ### Notes

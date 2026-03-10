@@ -7,29 +7,35 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** This <span class="added">(is the)</span> third time <span class="added">(that)</span> I am coming <span class="added">(to)</span> you. “Every <span class="alt-label">word</span><span class="alt-text">(=matter)</span> shall be established <span class="alt-label">at</span><span class="alt-text">(=by)</span> <span class="added">(the)</span> mouth of two or three witnesses.”
+**1** Let every <span class="alt-label">soul</span><span class="alt-text">(=man)</span>[^1] be subject <span class="added">(to the)</span> <span class="alt-label">authorities being above</span><span class="alt-text">(=governing authorities)</span>. For there is no authority except by God. And the <span class="alt-label">ones</span><span class="alt-text">(=authorities)</span> <span class="alt-label">existing</span><span class="alt-text">(=that exist)</span> have been appointed by God.
 
-**2** I have already said and foretell, <span class="alt-label">as being present</span><span class="alt-text">(=as if I were present)</span> the second time, and now being absent, to the ones having previously sinned and all the others, that <u>if I <del class="deleted-text">[might]</del> come</u><span class="added">(# eventual condition)</span> <span class="alt-label">in the again</span><span class="alt-text">(=another time)</span>, I will not spare <span class="added">(them)</span>,
+**2** Therefore the one opposing the authority <u>has opposed</u><span class="added">(# perfect as present)</span> the direction of God. And the ones having opposed will receive judgment <span class="added">(to)</span> themselves.
 
-**3** since you seek a proof <span class="alt-label">of Christ speaking</span><span class="alt-text">(=that Christ is speaking)</span> in me, who is not weak toward you, but is powerful in you.
+**3** For the rulers are not a terror to the good work but to the evil <span class="added">(work)</span>. And do you want not to fear the authority? Do <del class="deleted-text">[the]</del> good <span class="added">(work)</span>, and you will have praise from <span class="alt-label">it</span><span class="alt-text">(=authority)</span>.
 
-**4** For he was crucified <span class="alt-label">from</span><span class="alt-text">(=in)</span> weakness, but he lives <span class="alt-label">from</span><span class="alt-text">(=by)</span> <span class="added">(the)</span> power of God. For we are weak in him, but we will live with him <span class="alt-label">from</span><span class="alt-text">(=by)</span> <span class="added">(the)</span> power of God toward you.
+**4** For he is God’s servant <span class="added">(to)</span> you for the good. But if you <del class="deleted-text">[may]</del> do the evil, be afraid; for he does not bear the sword in vain. For he is God’s servant, avenger <del class="deleted-text">[for]</del> wrath <span class="alt-label"><span class="added">(to)</span> the one practicing evil</span><span class="alt-text">(=to the one who does evil)</span>.
 
-**5** Examine yourselves, whether you are in the faith. Test yourselves. Do you not <span class="alt-label">realize</span><span class="alt-text">(=know)</span> yourselves, that Jesus Christ <span class="added">(is)</span> in you? - unless, you are <span class="alt-label">ones not passing the test</span><span class="alt-text">(=those who fail the test)</span>?
+**5** Therefore it is necessary to be subject, not only because of <del class="deleted-text">[the]</del> wrath but also because of <del class="deleted-text">[the]</del> conscience.
 
-**6** And I hope that you will know that we are not <span class="alt-label">ones not passing the test</span><span class="alt-text">(=those who have failed the test)</span>.
+**6** For because of this you also pay taxes, for they are God’s ministers, attending constantly <span class="alt-label">for</span><span class="alt-text">(=to)</span> this very thing.
 
-**7** And we pray to <del class="deleted-text">[the]</del> God <span class="alt-label">you not to do</span><span class="alt-text">(=that you will not do)</span> anything wrong, not that we <span class="alt-label">might</span><span class="alt-text">(=may)</span> be shown <span class="alt-label">ones passing the test</span><span class="alt-text">(=those who have passed the test)</span>, but that you may do <span class="alt-label">the good</span><span class="alt-text">(=what is right)</span>, <span class="alt-label">and</span><span class="alt-text">(=even though)</span> we <span class="alt-label">may be as ones not passing the test</span><span class="alt-text">(=may seem to have failed)</span>.
+**7** Pay to everyone <span class="alt-label">the</span><span class="alt-text">(=your)</span> <span class="alt-label">dues</span><span class="alt-text">(=debts)</span>, the tax to <span class="added">(whom)</span> the tax <span class="added">(is due)</span>, the tribute to <span class="added">(whom)</span> the tribute <span class="added">(is due)</span>, the fear to <span class="added">(whom)</span> the fear <span class="added">(is due)</span>, the honor to <span class="added">(whom)</span> the honor <span class="added">(is due)</span>.  
+8 Owe no one <span class="alt-label">nothing</span><span class="alt-text">(=anything)</span> except to love one another, for the one loving the other has fulfilled <span class="added">(the)</span> law.
 
-**8** For we cannot do anything against the truth, but for the truth.
+**9** For the <span class="added">(commandments)</span>, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and if <span class="added">(there be)</span> any other commandment, are summed up in this word, “You shall love your neighbor as yourself.”
 
-**9** For we rejoice when we <del class="deleted-text">[may]</del> are weak and you are strong. <span class="added">(And)</span> this also we pray for, your perfection.
+**10** <del class="deleted-text">[The]</del> Love does not wrong to <span class="alt-label">the</span><span class="alt-text">(=a)</span> neighbor; therefore <del class="deleted-text">[the]</del> love <span class="added">(is the)</span> fulfillment of <span class="added">(the)</span> law.
 
-**10** Therefore I write these things <span class="alt-label">being absent</span><span class="alt-text">(=while I am absent)</span>, so that <span class="alt-label">being present</span><span class="alt-text">(=when I come)</span> I <span class="alt-label">might</span><span class="alt-text">(=may)</span> not treat severely according to the authority that the Lord gave me for <span class="alt-label">edification</span><span class="alt-text">(=building up)</span> and not for <span class="alt-label">destruction</span><span class="alt-text">(=tearing down)</span>.
+**11** And having <span class="alt-label">known</span><span class="alt-text">(=you have known)</span> this time, that it is already <span class="added">(the)</span> hour <span class="added">(for)</span> you <span class="alt-label">to be raised</span><span class="alt-text">(=to wake up)</span> from sleep, for now is salvation nearer to us than when we believed.
 
-**11** Finally, brothers, farewell. Be perfect, be comforted, be of one mind, live at peace; and <del class="deleted-text">[the]</del> God of love and peace will be with you.
+**12** The night is far advanced, and the day has come near. Therefore let us put off the works of <del class="deleted-text">[the]</del> darkness, and let us put on the armor of <del class="deleted-text">[the]</del> light.
 
-**12** Greet one another <span class="alt-label">in</span><span class="alt-text">(=with)</span> a holy kiss. All saints greet you.
+**13** Let us walk decently, as in <span class="added">(the)</span> day, not in orgies and drunkenness, not in beds and debaucheries, not in strife and jealousy.
 
-**13** The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit <span class="added">(be)</span> with you all.
+**14** But put on the Lord Jesus Christ, and do not make provision <span class="added">(for)</span> the flesh, <span class="alt-label">for</span><span class="alt-text">(=to fulfill the)</span> lusts.
 
+---
+
+### Notes
+
+[^1]: Hebraic expression

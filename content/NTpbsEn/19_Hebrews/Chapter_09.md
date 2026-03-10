@@ -63,7 +63,6 @@ tags: [NTpbsEn, Hebrews]
 
 **28** and so <del class="deleted-text">[the]</del> Christ, having been once offered <del class="deleted-text">[for]</del> to bear the sins of many, will appear <del class="deleted-text">[from]</del> a second <span class="added">(time)</span> without sin to the ones eagerly waiting for him, unto salvation.
 
-
 ---
 
 ### Notes

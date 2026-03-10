@@ -106,7 +106,6 @@ tags: [NTpbsEn, Matthew]
 
 **50** “For whoever might do the will of my Father in heavens, he is my brother and sister and mother.”
 
-
 ---
 
 ### Notes

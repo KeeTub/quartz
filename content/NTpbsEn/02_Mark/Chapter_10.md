@@ -111,7 +111,6 @@ tags: [NTpbsEn, Mark]
 
 **52** And <del class="deleted-text">[the]</del> Jesus said <span class="added">(to)</span> him, “Go, your faith has saved you.” And immediately he <span class="alt-label">received his sight</span><span class="alt-text">(=regained his sight)</span> and followed him <span class="alt-label">in</span><span class="alt-text">(=on)</span> the way.
 
-
 ---
 
 ### Notes

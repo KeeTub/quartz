@@ -7,59 +7,57 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** And about the collection for the saints, as I directed the churches of Galatia, you also, do so.
+**1** And I recommend <span class="added">(to)</span> you our sister Phoebe, <span class="alt-label">being</span><span class="alt-text">(=who is)</span> also a deaconess of the church in Cenchrea,
 
-**2** On <span class="alt-label">the first <span class="added">(day)</span> of every week</span><span class="alt-text">(=Sunday)</span>[^1], let each of you put <span class="added">(something)</span> aside, storing up whatever he may afford, that there may not be collections when I come.
+**2** in order that you may receive her in <span class="added">(the)</span> Lord, worthily of saints, and you may assist her in whatever matter she may need of you; for she indeed became a helper of many and of myself also.
 
-**3** And when I <del class="deleted-text">[might]</del> arrive, I will sent those whom you <del class="deleted-text">[might]</del> approve by letters to carry your <span class="alt-label">grace</span><span class="alt-text">(=gift)</span> to Jerusalem.
+**3** Greet Priscilla and Aquila, my fellow workers in Christ Jesus,
 
-**4** And if it <del class="deleted-text">[may]</del> is <span class="alt-label">fitting</span><span class="alt-text">(=advisable)</span> <span class="added">(for)</span> me to go also, they will go with me.
+**4** who risked their own neck for my life, to whom not only I give thanks, but also all the churches of the Gentiles.
 
-**5** And I will come to you when I go through Macedonia, for I am going through Macedonia.
+**5** And <span class="added">(greet)</span> the church at their house. Greet my beloved Epenetus, who is <span class="added">(the)</span> first fruit of Asia for Christ.
 
-**6** And perhaps I will stay with you or even spend the winter, so that you <span class="alt-label">might</span><span class="alt-text">(=may)</span> send me <span class="added">(on my journey)</span> wherever I <del class="deleted-text">[may]</del> go.
+**6** Greet Mary, who much labored for you.
 
-**7** For I do not want to see you now in passing, for I hope to stay some time with you, if the Lord <del class="deleted-text">[might]</del> allows.
+**7** Greet Andronicus and Junias, my relatives and my fellow prisoners, who are notable among the apostles, and who have been before me in Christ.
 
-**8** And I will stay in Ephesus until <del class="deleted-text">[the]</del> Pentecost,
+**8** Greet Ampliatus, my beloved in <span class="added">(the)</span> Lord.
 
-**9** for a great and effective door has opened to me, and <span class="added">(there are)</span> many opposing ones.
+**9** Greet Urbanus, our fellow worker in Christ, and Stachys, my beloved.
 
-**10** And if Timothy <del class="deleted-text">[might]</del> comes, see that he <span class="alt-label">might</span><span class="alt-text">(=may)</span> be fearlessly with you, for he does the work of <span class="added">(the)</span> Lord, as I also <span class="added">(do)</span>.
+**10** Greet Apelles, approved in Christ. Greet the ones from the <span class="added">(household)</span> of Aristobulus.
 
-**11** Therefore let no one despise him. And send him <span class="added">(on his way)</span> in peace, so that he <span class="alt-label">might</span><span class="alt-text">(=may)</span> come to me; for I am expecting him with the brothers.
+**11** Greet Herodion, my relative. Greet the ones from the <span class="added">(household)</span> of Narcissus, <span class="alt-label">being</span><span class="alt-text">(=who are)</span> in <span class="added">(the)</span> Lord.
 
-**12** And about Apollos, the brother: I urged strongly<span class="added">(# accusative for adverbial)</span> him <span class="alt-label">that he would go to</span><span class="alt-text">(=to visit)</span> you with the brothers, and it was not at all <span class="added">(his)</span> will <span class="alt-label">that he would go to</span><span class="alt-text">(=to visit)</span> now, but he will go when he <del class="deleted-text">[might]</del> has opportunity.
+**12** Greet Tryphena and Tryphosa, the ones laboring in <span class="added">(the)</span> Lord. Greet the beloved Persis, who much labored in <span class="added">(the)</span> Lord.
 
-**13** Watch, stand firm in the faith, be brave, be strong.
+**13** Greet Rufus, chosen in <span class="added">(the)</span> Lord, and his mother and mine.
 
-**14** Let your all things be in love.
+**14** Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them.
 
-**15** And I urge you, brothers – you know the household of Stephanas, that it is <span class="added">(the)</span> first fruit of Achaia, and they have devoted themselves to the ministry <span class="added">(for)</span> the saints
+**15** Greet Philologus and Julia, Nereus and his sister, and Olympas and all <span class="added">(the)</span> saints with them.
 
-**16** that you also may submit to such ones and to everyone working together and laboring. 
-17 And I rejoice at the coming of Stephanas, Fortunatus and Achaicus, that these have filled up <span class="added">(for)</span> your absence.
+**16** Greet one another <span class="alt-label">in</span><span class="alt-text">(=with)</span> holy kiss. All the churches of Christ greet you.
 
-**18** For they refreshed my spirit and yours. Therefore, recognize such ones.
+**17** I request you, brothers, to watch out the ones making the divisions and the offences against the teaching which you have learned. And Keep away from them.
 
-**19** The churches of Asia greet you. Aquila and Priscilla greet you <span class="alt-label">many</span><span class="alt-text">(=warmly)</span>[^2] in <span class="added">(the)</span> Lord, with the church in their house.
+**18** For such <span class="added">(people)</span> do not serve our Lord Christ, but <span class="alt-label">the belly of themselves</span><span class="alt-text">(=their own belly)</span>. And through the fair words and flattering words, they deceive the hearts of the simple.
 
-**20** All brothers greet you. Greet one another <span class="alt-label">in</span><span class="alt-text">(=with)</span> a holy kiss.
+**19** For your obedience <span class="alt-label">has reached</span><span class="alt-text">(=has been known)</span> to all. Therefore I rejoice over you; but I want you to be wise to the good, but guiltless to the evil.
 
-**21** <span class="added">(I am writing)</span> <span class="alt-label">the</span><span class="alt-text">(=this)</span> greeting <span class="added">(with)</span> my own hand, Paul’s.
+**20** And <del class="deleted-text">[the]</del> God of peace will soon crush <del class="deleted-text">[the]</del> Satan under your feet. The grace of our Lord Jesus <span class="added">(be)</span> with you.
 
-**22** If anyone does not love the Lord, let him be a curse. <span class="alt-label">Maran</span><span class="alt-text">(=Our Lord)</span>[^3] <span class="alt-label">atha</span><span class="alt-text">(=has come)</span>[^4]!
+**21** Timothy, my fellow worker, and Lucius, and Jason and Sosipater, my relatives greet you.
 
-**23** The grace of the Lord Jesus <span class="added">(be)</span> with you.
+**22** I, Tertius, <span class="alt-label">having written</span><span class="alt-text">(=who wrote)</span> <span class="alt-label">the epistle</span><span class="alt-text">(=this letter)</span> greet you in <span class="added">(the)</span> Lord.
 
-**24** My love <span class="added">(be)</span> with you all in Christ Jesus. Amen.
+**23** Gaius, the host to me and to all the church, greets you. Erastus, the treasurer of the city, and brother Quartus greet you.
 
+**24** <span class="added">(The grace of our Lord Jesus Christ be with you all, Amen)</span>
 
----
+**25** And to the One being able to strengthen you according to my gospel and the proclamation of Jesus Christ, according to <span class="added">(the)</span> revelation of <span class="added">(the)</span> mystery having been kept in silence for long ages
 
-### Notes
+**26** but now having been revealed, <span class="added">(and)</span> through the writings of prophets according to the command of the eternal God, having been known to all nations for obedience of faith,
 
-[^1]: Hebraic
-[^2]: accusative for adverbial
-[^3]: Aramaic
-[^4]: Aramaic
+**27** to only wise God <span class="added">(be)</span> the glory forever, through Jesus Christ. Amen.
+

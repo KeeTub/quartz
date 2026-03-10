@@ -167,7 +167,6 @@ tags: [NTpbsEn, Luke]
 
 **80** And the child was growing and becoming strong <span class="added">(in)</span> spirit, and he was in the wildernesses until the days of his appearing publicly to <del class="deleted-text">[the]</del> Israel.
 
-
 ---
 
 ### Notes

@@ -67,7 +67,6 @@ tags: [NTpbsEn, Acts]
 
 **30** which indeed they did, having sent to the elders through <span class="added">(the)</span> hand of Barnabas and Saul.
 
-
 ---
 
 ### Notes

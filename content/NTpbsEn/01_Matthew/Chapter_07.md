@@ -65,7 +65,6 @@ tags: [NTpbsEn, Matthew]
 
 **29** For he <span class="alt-label">was teaching</span><span class="alt-text">(=taught)</span>[^2] them as <span class="added">(the one)</span> having authority, and not as their scribes.
 
-
 ---
 
 ### Notes

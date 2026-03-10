@@ -43,7 +43,6 @@ tags: [NTpbsEn, Revelation]
 
 **18** Here is the wisdom: let the one having understanding count the number of the beast, for it is <span class="added">(the)</span> number of a man, and his number <span class="added">(is)</span> six hundred <span class="added">(and)</span> sixty-six.
 
-
 ---
 
 ### Notes

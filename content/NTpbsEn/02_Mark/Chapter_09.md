@@ -107,7 +107,6 @@ tags: [NTpbsEn, Mark]
 
 **50** “<del class="deleted-text">[The]</del> Salt <span class="added">(is)</span> good. But if the salt <del class="deleted-text">[might]</del> becomes saltless, <span class="alt-label">by what</span><span class="alt-text">(=how)</span> will you season it? Have salt in yourselves, and be at peace with one another.”
 
-
 ---
 
 ### Notes

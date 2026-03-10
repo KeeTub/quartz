@@ -81,7 +81,6 @@ tags: [NTpbsEn, Mark]
 
 **37** “And what I say <span class="added">(to)</span> you, I say <span class="added">(to)</span> all: Watch!”
 
-
 ---
 
 ### Notes

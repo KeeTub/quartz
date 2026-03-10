@@ -93,7 +93,6 @@ tags: [NTpbsEn, Mark]
 
 **43** And he ordered them strictly that no one should know this, and he told <span class="added">(them)</span> <span class="alt-label">to be given her to eat</span><span class="alt-text">(=to give her something to eat)</span>.
 
-
 ---
 
 ### Notes

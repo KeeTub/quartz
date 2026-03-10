@@ -7,43 +7,67 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** And I decided this <span class="added">(in)</span> myself <span class="alt-label"><del class="deleted-text">[the]</del> not to come</span><span class="alt-text">(=that I would not come)</span> again <span class="added">(to)</span> you in grief.
+**1** Therefore you are inexcusable, O man, whoever <span class="added">(you are)</span> <span class="added">(who are)</span> judging, because in whatever you judge another, you condemn yourself. For you <span class="added">(who are)</span> judging practice the same things.
 
-**2** For if I grieve you, who <span class="added">(is)</span> the one <span class="alt-label">cheering me</span><span class="alt-text">(=making me glad)</span> but the one being grieved <span class="alt-label">from</span><span class="alt-text">(=by)</span> me?
+**2** But we know that the judgement of God is according to truth <span class="alt-label">on</span><span class="alt-text">(=against)</span> the ones practicing such things.
 
-**3** And I wrote this very thing, lest I, having come, might have grief from those <span class="alt-label">whom it is necessary for me to rejoice</span><span class="alt-text">(=who ought to make me rejoice)</span>, having confidence<span class="added">(# perfect as present)</span> in you all that my joy is <span class="added">(the joy)</span> of you all.
+**3** And do you think this, O man <span class="added">(who are)</span> judging the ones practicing such things and doing the same things, that you will escape the judgment of God?
 
-**4** For out of much affliction and anguish of heart I wrote you <span class="alt-label">through</span><span class="alt-text">(=with)</span> many tears, not that you should be grieved, but that you should know the love which I have more abundantly for you.
+**4** Or do you despise the riches of his kindness and tolerance and longsuffering, not knowing that the kindness of God leads you to repentance?
 
-**5** And if anyone has grieved, he has not grieved me, but you all <span class="alt-label">from part</span><span class="alt-text">(=to some extend)</span>, lest I exaggerate <span class="added">(it)</span>.
+**5** And according to your hardness and impenitent heart, you store up wrath for yourself <span class="alt-label">in</span><span class="alt-text">(=on)</span> <span class="added">(the)</span> day of wrath and of revelation of <span class="added">(the)</span> righteous judgment of God,
 
-**6** This punishment by the majority is enough for such a one;
+**6** who will render to every <span class="added">(man)</span> according to his works.
 
-**7** so, on the contrary, rather you <span class="added">(ought)</span> to forgive and comfort him, lest such a one <span class="alt-label">might</span><span class="alt-text">(=may)</span> be overwhelmed <span class="added">(by)</span> <span class="alt-label">the more abundant grief</span><span class="alt-text">(=excessive sorrow)</span>.
+**7** On the one hand, to the ones seeking glory and honor and immortality by patience <span class="alt-label">of</span><span class="alt-text">(=in)</span> good work, <span class="added">(he will render)</span> eternal life;
 
-**8** Therefore, I urge you to reaffirm <span class="added">(your)</span> love for him.
+**8** on the other, to the ones <span class="alt-label">from self-seeking</span><span class="alt-text">(=being factious)</span> and disobeying the truth but obeying the unrighteousness, wrath and anger <span class="added">(will be)</span>.
 
-**9** For I indeed wrote for this <span class="added">(reason)</span>, that I might know the proof of you, whether you are obedient in all things.
+**9** <span class="added">(There will be)</span> tribulation and anguish on every soul of man working the evil, the Jew first and also the Greek.
 
-**10** And whom you forgive anything, I also <span class="added">(forgive)</span>. For what I have forgiven, if I have forgiven anything, <span class="added">(has been)</span> for your sake in the presence of Christ,
+**10** But <span class="added">(there will be)</span> glory and honor and peace to everyone working the good, both to the Jew first and also to the Greek.
 
-**11** lest we should be cheated by <del class="deleted-text">[the]</del> Satan; for we are not ignorant his schemes.
+**11** For there is no partiality with God.
 
-**12** And <span class="alt-label">having come</span><span class="alt-text">(=when I came)</span> to <del class="deleted-text">[the]</del> Troas for the gospel of Christ, and <span class="alt-label">door’s having been opened</span><span class="alt-text">(=when a door was opened)</span>[^1] to me <span class="alt-label">in</span><span class="alt-text">(=by)</span> the Lord,
+**12** For as many as have sinned without <span class="added">(the)</span> law will also perish without <span class="added">(the)</span> law. And as many as have sinned in <span class="added">(the)</span> law will be judged through <span class="added">(the)</span> law.
 
-**13** I have had no rest <span class="added">(in)</span> my spirit <span class="alt-label">the me not to find</span><span class="alt-text">(=because I did not find)</span> my brother Titus; but having said farewell to them, I went on to Macedonia.
+**13** For not the hearers of <span class="added">(the)</span> law <span class="added">(are)</span> righteous <span class="alt-label">with</span><span class="alt-text">(=before)</span> <del class="deleted-text">[the]</del> God, but the doers of <span class="added">(the)</span> law will be justified.
 
-**14** But thanks <span class="added">(be)</span> to <del class="deleted-text">[the]</del> God <span class="added">(who is)</span> always leading us in triumph in <del class="deleted-text">[the]</del> Christ and <span class="alt-label">revealing</span><span class="alt-text">(=spreading)</span> the smell of his knowledge through us in every place.
+**14** For when the Gentiles not having <span class="added">(the)</span> law do the things of the law by nature, these, <span class="alt-label">not having <span class="added">(the)</span> law</span><span class="alt-text">(=even though they do not have the law)</span> are <span class="added">(the)</span> law to themselves.
 
-**15** For we are <span class="added">(the)</span> aroma of Christ to God among the ones being saved and among the perishing ones,
+**15** who show the work of the law written in their hearts, <span class="alt-label">their conscience’s witnessing</span><span class="alt-text">(=while their conscience bears witness)</span>[^1] and <span class="alt-label">thoughts’ accusing or even defending</span><span class="alt-text">(=while their thoughts accuse or even excuse)</span>[^2] between themselves.
 
-**16** to the ones a smell from death to death and to the others a smell from life to life. And who <span class="added">(is)</span> sufficient for these things?
+**16** <span class="added">(This will take place)</span> <span class="alt-label">in</span><span class="alt-text">(=on)</span> <span class="added">(the)</span> day when <del class="deleted-text">[the]</del> God judges the hidden things of men according to my gospel through Christ Jesus.
 
-**17** For we are not, as <span class="alt-label">the</span><span class="alt-text">(=so)</span> many, peddling the word of God; but as from sincerity, but as from God, we speak before God in Christ.
+**17** But if you are called a Jew and rely on <span class="added">(the)</span>aw and boast <span class="alt-label">in</span><span class="alt-text">(=of)</span> God,
 
+**18** and know the will and approve the excelling things, being instructed <span class="alt-label">from</span><span class="alt-text">(=in)</span> the law,
+
+**19** and <span class="alt-label">having been persuaded</span><span class="alt-text">(=having believed)</span> yourself to be a guide of the blind, a light of the ones in darkness,
+
+**20** a tutor of the foolish, a teacher of infants, having the <span class="alt-label">form</span><span class="alt-text">(=embodiment)</span> of knowledge and of the truth in the law,
+
+**21** you then <span class="alt-label">teaching</span><span class="alt-text">(=who teach)</span> other, do you not teach yourself? You <span class="alt-label">preaching</span><span class="alt-text">(=who preach)</span> not to steal, do you steal?
+
+**22** You <span class="alt-label">saying</span><span class="alt-text">(=who say)</span> not to commit adultery, do you commit adultery? You <span class="alt-label">detesting</span><span class="alt-text">(=who abhor)</span> the idols, do you rob temples?
+
+**23** You who boast in <span class="added">(the)</span> law, do you dishonor <del class="deleted-text">[the]</del> God <span class="alt-label">through</span><span class="alt-text">(=by)</span> <span class="alt-label">the transgression of</span><span class="alt-text">(=breaking)</span> the law.
+
+**24** For the name of God is blasphemed because of you among the Gentiles, as it has been written.
+
+**25** For indeed  circumcision profits if you practice <span class="added">(the)</span> law. But if you are a transgressor of <span class="added">(the)</span> law, your circumcision has become uncircumcision.
+
+**26** Therefore if the uncircumcision keeps the ordinances of the law, will not his uncircumcision be regarded <span class="alt-label">for</span><span class="alt-text">(=as)</span> circumcision?
+
+**27** and will <span class="added">(not)</span> the uncircumcision <span class="alt-label">from nature</span><span class="alt-text">(=physically)</span> <span class="alt-label">keeping</span><span class="alt-text">(=who keeps)</span> the law judge you, the transgressor of <span class="added">(the)</span> law, <span class="alt-label">through <span class="added">(the)</span> letter and circumcision</span><span class="alt-text">(=who have the written code and circumcision)</span>.
+
+**28** For the one <span class="alt-label">in the apparent</span><span class="alt-text">(=outwardly)</span> is not a Jew, nor is circumcision <span class="alt-label">in the apparent</span><span class="alt-text">(=outwardly)</span> <span class="alt-label">in <span class="added">(the)</span> flesh</span><span class="alt-text">(=physical)</span>.
+
+**29** But the one <span class="alt-label">in the secret</span><span class="alt-text">(=inwardly)</span> <span class="added">(is)</span> a Jew, and circumcision is <span class="added">(that)</span> of heart, in Spirit not in <span class="added">(the)</span> letter, whose praise is not from men but from <del class="deleted-text">[the]</del> God.
 
 ---
 
 ### Notes
 
 [^1]: genitive absolute
+[^2]: genitive absolute

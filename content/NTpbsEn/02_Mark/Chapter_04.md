@@ -89,7 +89,6 @@ tags: [NTpbsEn, Mark]
 
 **41** And they feared <span class="alt-label">great fear</span><span class="alt-text">(=exceedingly)</span>[^5], and were saying to one another, “Who then is this, that even the wind and the sea obey him?”
 
-
 ---
 
 ### Notes

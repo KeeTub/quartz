@@ -7,51 +7,52 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** For we know that if our earthly house <span class="alt-label">of</span><span class="alt-text">(=with)</span> tent <span class="alt-label">might be</span><span class="alt-text">(=is)</span> destroyed, we have a building from God, a house not made with hands, eternal in <del class="deleted-text">[the]</del> heavens.
+**1** Therefore, having been justified <span class="alt-label">from</span><span class="alt-text">(=by)</span> faith, we have peace with <del class="deleted-text">[the]</del> God through our Lord Jesus Christ,
 
-**2** For in this <span class="added">(tent)</span> indeed we groan, longing to be clothed our dwelling from heaven.
+**2** through whom we also have had the access by faith into this grace in which we have stood; and we boast on hope of the glory of God.
 
-**3** If indeed having been clothed, we shall not be found naked.
+**3** And not only so, but also we boast in the sufferings, having known that <del class="deleted-text">[the]</del> suffering produces patience.
 
-**4** For we <span class="added">(who are)</span> being in the tent groan, being burdened, because we do not want to be unclothed but to be clothed, so that the mortality <span class="alt-label">might</span><span class="alt-text">(=may)</span> be swallowed up by <del class="deleted-text">[the]</del> life.
+**4** And <del class="deleted-text">[the]</del> patience <span class="added">(produces)</span> character, and <del class="deleted-text">[the]</del> character <span class="added">(produces)</span> hope.
 
-**5** And the One having prepared us for this very thing <span class="added">(is)</span> God <span class="alt-label">having given</span><span class="alt-text">(=who has given)</span> us the guarantee of the Spirit.
+**5** And <del class="deleted-text">[the]</del> hope does not put to shame, because the love of God has been poured out in our hearts through <span class="added">(the)</span> Holy Spirit given to us.
 
-**6** So being always confident and knowing<span class="added">(#perfect as present)</span> that we, being at home in the body, are away from the Lord.
+**6** For, <span class="alt-label">our being</span><span class="alt-text">(=when we were)</span>[^1] weak yet, Christ died for <span class="added">(the)</span> ungodly <span class="alt-label">according to time</span><span class="alt-text">(=at the right time)</span>
 
-**7** For we <span class="alt-label">walk</span><span class="alt-text">(=live)</span> <span class="alt-label">through</span><span class="alt-text">(=by)</span> faith, not <span class="alt-label">through</span><span class="alt-text">(=by)</span> sight.
+**7** For rarely will anyone die for a righteous <span class="added">(man)</span>, for perhaps someone dares to die for the good <span class="added">(man)</span>.
 
-**8** And we are confident, and we would rather <del class="deleted-text">[to]</del> be away from the body and be at home <span class="alt-label">to</span><span class="alt-text">(=with)</span> the Lord.
+**8** But <del class="deleted-text">[the]</del> God shows his own love to us <span class="added">(in)</span> that, <span class="alt-label">our being</span><span class="alt-text">(=while we were)</span>[^2] yet sinners, Christ died for us.
 
-**9** And so we make it our ambition, whether being at home or being away, to be pleasing to him.
+**9** Therefore having now been justified by his blood, all the more, we shall be saved through him from the wrath.
 
-**10** For <span class="alt-label">it is necessary for us all to appear</span><span class="alt-text">(=we must all appear)</span> before the judgment seat of Christ, so that each one <span class="alt-label">might</span><span class="alt-text">(=may)</span> receive the things <span class="added">(done)</span> through the body, according to what he has done, whether good or bad.
+**10** For if, <span class="alt-label">being enemies</span><span class="alt-text">(=when we were enemies)</span>, we were reconciled to God through the death of his son, all the more, having been reconciled, we shall be saved <span class="alt-label">in</span><span class="alt-text">(=by)</span> his life,
 
-**11** Therefore, knowing<span class="added">(#perfect as present)</span> the fear of the Lord, we persuade men. But we are well known to God, and I also hope <span class="alt-label">to be well known</span><span class="alt-text">(=it is well known)</span> in your consciences.
+**11** And not only <span class="added">(so)</span>, but also <span class="alt-label">boasting</span><span class="alt-text">(=we boast)</span> in <del class="deleted-text">[the]</del> God through our Lord Jesus Christ, through whom now we received the reconciliation.
 
-**12** We do not commend ourselves again to you, but <span class="alt-label">giving</span><span class="alt-text">(=give)</span> you opportunity <span class="alt-label">of boast</span><span class="alt-text">(=to boast)</span> on our behalf, so that you may have <span class="added">(an answer)</span> for the ones boasting <span class="alt-label">in face</span><span class="alt-text">(=in appearance)</span> and not in heart.
+**12** Therefore, as <del class="deleted-text">[the]</del> sin entered <del class="deleted-text">[into]</del> the world through one man, and <del class="deleted-text">[the]</del> death through <del class="deleted-text">[the]</del> sin, and so <del class="deleted-text">[the]</del> death spread to all men because all sinned.
 
-**13** For if we are beside ourselves, <span class="added">(it is)</span> for God; or if we are in our right mind, <span class="added">(it is)</span> for you.
+**13** For <span class="alt-label">until law</span><span class="alt-text">(=before the law was given)</span> sin was in <span class="added">(the)</span> world, but sin is not counted <span class="alt-label">law’s not being</span><span class="alt-text">(=when there is no law)</span>[^3].
 
-**14** For the love of Christ compels us, <span class="added">(who)</span> having judged this, that One died for all, then all died.
+**14** But <del class="deleted-text">[the]</del> death reigned from Adam to Moses even over those <span class="alt-label">not having sinned</span><span class="alt-text">(=who did not sin)</span> <span class="alt-label">on the likeness</span><span class="alt-text">(=after the same way)</span> of the transgression of Adam, who is a type of the one coming.
 
-**15** And he died for all, so that the ones <span class="alt-label">living</span><span class="alt-text">(=who live)</span> <span class="alt-label">may</span><span class="alt-text">(=should)</span> no longer live for themselves but for the One having died for them and having been raised.
+**15** But the free gift also <span class="added">(is)</span> not like the trespass. For if the many died <span class="added">(through)</span> the trespass of the one, much more have the grace of God and the gift in the grace of the one man, Jesus Christ, overflowed to the many.
 
-**16** So, from <del class="deleted-text">[the]</del> now on, we know no one according to <span class="added">(the)</span> flesh. Even though we have known Christ according to <span class="added">(the)</span> flesh, yet now we know <span class="added">(him thus)</span> no longer.
+**16** And the gift <span class="added">(is)</span> not like <span class="added">(the thing)</span> through <span class="added">(the)</span> one <span class="alt-label">having sinned</span><span class="alt-text">(=who sinned)</span>. For the judgement from one <span class="added">(leads)</span> to condemnation, but the free gift from many trespasses <span class="added">(leads)</span> to justification.
 
-**17** So if anyone <span class="added">(is)</span> in Christ, <span class="added">(he is)</span> a new creation; the old things have passed away, behold, all things have become new.
+**17** For if <span class="added">(by)</span> the trespass of the one <span class="added">(man)</span> <del class="deleted-text">[the]</del> death reigned through the one <span class="added">(man)</span>, much more will the ones receiving the abundance of the grace and of the gift of righteousness reign in life through the one <span class="added">(man)</span> Jesus Christ.
 
-**18** And all things <span class="added">(are)</span> from <del class="deleted-text">[the]</del> God having reconciled us to Himself through Christ and having given us the ministry of reconciliation,
+**18** Therefore, as through <span class="alt-label">one’s</span><span class="alt-text">(=one man’s)</span> trespass <span class="added">(the judgement leads)</span> <del class="deleted-text">[to]</del> all men to condemnation, so also through <span class="alt-label">one’s</span><span class="alt-text">(=one man’s)</span> act of righteousness <span class="added">(the free gift leads)</span> <del class="deleted-text">[to]</del> all men to justification of life.
 
-**19** that is, that God was in Christ reconciling <span class="added">(the)</span> world to Himself, not counting their trespasses <span class="alt-label">to</span><span class="alt-text">(=against)</span> them, and <span class="alt-label">having placed in us</span><span class="alt-text">(=having committed to us)</span> the word of reconciliation.
+**19** For as through the disobedience of the one man <del class="deleted-text">[the]</del> many were made sinners, so also through the obedience of the one <span class="added">(man)</span> <del class="deleted-text">[the]</del> many will be made righteous.
 
-**20** Therefore we are ambassadors for Christ, <span class="alt-label">as God’s appealing</span><span class="alt-text">(=as though God were pleading)</span>[^1] through us. We beg <span class="added">(you)</span> on Christ’s behalf, be reconciled to <del class="deleted-text">[the]</del> God.
+**20** And <span class="added">(the)</span> law entered <u>so that</u><span class="added">(# consequence)</span> the trespass might increase. But where <del class="deleted-text">[the]</del> sin increased, <del class="deleted-text">[the]</del> grace greatly overflowed,
 
-**21** He made the One having not known sin <span class="added">(to be)</span> sin for us, so that we might become <span class="added">(the)</span> righteousness of God in him.
-
+**21** so that, as <del class="deleted-text">[the]</del> sin reigned <span class="alt-label">in</span><span class="alt-text">(=by)</span> <del class="deleted-text">[the]</del> death, <del class="deleted-text">[the]</del> grace also might reign through righteousness to eternal life through Jesus Christ our Lord.
 
 ---
 
 ### Notes
 
 [^1]: genitive absolute
+[^2]: genitive absolute
+[^3]: genitive absolute

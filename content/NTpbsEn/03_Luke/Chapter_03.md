@@ -83,7 +83,6 @@ tags: [NTpbsEn, Luke]
 
 **38** <span class="added">(the son)</span> of Enos, <span class="added">(the son)</span> of Seth, <span class="added">(the son)</span> of Adam, <span class="added">(the son)</span> of God.
 
-
 ---
 
 ### Notes

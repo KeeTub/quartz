@@ -61,7 +61,6 @@ tags: [NTpbsEn, Revelation]
 
 **27** And nothing <span class="alt-label">common</span><span class="alt-text">(=unclean)</span> <span class="alt-label">might</span><span class="alt-text">(=will)</span> enter into it, nor the one making an abomination or a lie, but only the ones having been written in the book of life of the Lamb.
 
-
 ---
 
 ### Notes

@@ -67,7 +67,6 @@ tags: [NTpbsEn, Acts]
 
 **30** The next day, wishing to know <span class="alt-label">a certain thing</span><span class="alt-text">(=real reason)</span> why he <span class="alt-label">is</span><span class="alt-text">(=was)</span> accused by the Jews, he released him, and ordered to come together the high priests and all the council. And having brought down <del class="deleted-text">[the]</del> Paul, he made <span class="added">(him)</span> stand before them.
 
-
 ---
 
 ### Notes

@@ -47,7 +47,6 @@ tags: [NTpbsEn, Revelation]
 
 **20** And the winepress was trodden outside the city, and blood <span class="alt-label">came</span><span class="alt-text">(=flowed)</span> out of the winepress, up to the bridles of the horses, <span class="alt-label">from</span><span class="alt-text">(=for a distance of)</span> one thousand six hundred stadia.
 
-
 ---
 
 ### Notes

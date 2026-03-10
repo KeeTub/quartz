@@ -75,7 +75,6 @@ tags: [NTpbsEn, Matthew]
 
 **34** And behold, all the city came out for a meeting<span class="added">(# public welcome meeting)</span> <span class="added">(with)</span> <del class="deleted-text">[the]</del> Jesus. And they, having seen, begged him that he might depart from their territories.
 
-
 ---
 
 ### Notes

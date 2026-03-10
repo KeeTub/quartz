@@ -7,37 +7,58 @@ tags: [NTpbsEn, Colossians]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** And know this, that in <span class="added">(the)</span> last days difficult times will come,
+**1** Therefore if you have been raised with Christ, seek the things above, where <del class="deleted-text">[the]</del> Christ is, sitting at <span class="added">(the)</span> right <span class="added">(hand)</span> of God.
 
-**2** for <del class="deleted-text">[the]</del> men will be self-lovers, money-lovers, boasters, arrogant, blasphemers, disobedient to parents, unthankful, unholy,
+**2** Set your mind <span class="added">(on)</span> the things above, not <span class="added">(on)</span> the things on the earth.
 
-**3** inhuman, unforgiving, slanderers, without self-control, brutal, haters of good,
+**3** For you have died, and your life has been <span class="alt-label">hidden</span><span class="alt-text">(=is hidden)</span>[^1] with <del class="deleted-text">[the]</del> Christ in <del class="deleted-text">[the]</del> God.
 
-**4** traitors, reckless, <span class="alt-label">having been conceited</span><span class="alt-text">(=haughty)</span>, pleasure-lovers rather than God-lovers,
+**4** When <del class="deleted-text">[the]</del> Christ, our life, <span class="alt-label">might be manifested</span><span class="alt-text">(=appears)</span>, then you also will <span class="alt-label">be manifested</span><span class="alt-text">(=appear)</span> with him in glory.
 
-**5** having a form of godliness but having denied its power. And turn away from these.
+**5** Therefore put to death <span class="alt-label">the</span><span class="alt-text">(=your)</span> members on the earth: fornication, impurity, passion, evil desire, and <del class="deleted-text">[the]</del> greed, which is idolatry,
 
-**6** For among these are the ones creeping into <del class="deleted-text">[the]</del> houses and capturing silly women <span class="added">(who)</span> having been heaped <span class="added">(with)</span> sins <span class="added">(and)</span> being led <span class="added">(by)</span> various lusts,
+**6** because of these things the wath of God is coming,
 
-**7** always learning and never being able to come to a knowledge of <span class="added">(the)</span> truth.
+**7** in which you once walked, when you <span class="alt-label">were living</span><span class="alt-text">(=lived)</span> in these things,
 
-**8** And just as Jannes and Jambres opposed Moses, so also these <span class="added">(people)</span> oppose the truth: <span class="added">(they are)</span>  men having been corrupted <span class="added">(in)</span> mind and disapproved concerning the faith.
+**8** but now <del class="deleted-text">[you]</del> put off all <span class="added">(such)</span> things: anger, wrath, malice, blasphemy, filthy language from your mouth,
 
-**9** But they will not proceed <span class="alt-label">more</span><span class="alt-text">(=further)</span>, for their folly will be evident to all, as the <span class="added">(folly)</span> of <span class="alt-label">them</span><span class="alt-text">(=the two men)</span> also was.
+**9** Do not lie to one another, having take off the old man with his practices
 
-**10** But you have closely followed my teaching, <span class="alt-label">the</span><span class="alt-text">(=my)</span> manner of life, <span class="alt-label">the</span><span class="alt-text">(=my)</span> purpose, <span class="alt-label">the</span><span class="alt-text">(=my)</span> faith, <span class="alt-label">the</span><span class="alt-text">(=my)</span> patience, <span class="alt-label">the</span><span class="alt-text">(=my)</span> love, <span class="alt-label">the</span><span class="alt-text">(=my)</span> endurance,
+**10** and having put on the new <span class="added">(man)</span> being renewed in knowledge according to <span class="added">(the)</span> image of the One having created him,
 
-**11** <span class="alt-label">the</span><span class="alt-text">(=my)</span> persecutions, <span class="alt-label">the</span><span class="alt-text">(=my)</span> sufferings which happened to me in Antioch, in Iconium, in Lystra; such persecutions I have endured, and the Lord delivered me from all <span class="added">(of them)</span>.
+**11** where there is no Greek <span class="alt-label">and</span><span class="alt-text">(=or)</span> Jews, circumcision <span class="alt-label">and</span><span class="alt-text">(=or)</span> uncircumcision, barbarian, Scythian, slave <span class="added">(or)</span> freeman, but Christ <span class="added">(is)</span> all and in all.
 
-**12** And indeed, all the ones desiring to live godly in Christ Jesus will be persecuted.
+**12** Therefore as God’s chosen ones, holy and <span class="alt-label">having been loved</span><span class="alt-text">(=beloved)</span>, put on <span class="alt-label">bowels</span><span class="alt-text">(=heart)</span> of compassion, kindness, <span class="alt-label">humility</span><span class="alt-text">(=lowliness)</span>, meekness, patience;
 
-**13** But evil men and impostors will advance to <del class="deleted-text">[the]</del> worse, deceiving and being deceived.
+**13** bearing <span class="added">(with)</span> one another, and forgiving <span class="alt-label">yourselves</span><span class="alt-text">(=one another)</span>, if anyone has a complaint against anyone; even as the Lord forgave you, so you also <span class="added">(must do)</span>,
 
-**14** But you, continue in what you have learned and been convinced of, knowing from whom you have learned,
+**14** and over all these things <span class="added">(put on)</span> <del class="deleted-text">[the]</del> love, which is <span class="added">(the)</span> bond of perfection.
 
-**15** and that from infant you have known <span class="added">(the)</span> Holy Scriptures being able to make you wise for salvation through faith <span class="added">(which is)</span> in Christ Jesus.
+**15** And let the peace of Christ rule in your hearts, into which also you were called in one body. And be thankful.
 
-**16** All Scripture <span class="added">(is)</span> God-inspired and useful for teaching, for reproof, for correction, for discipline <span class="added">(which is)</span> in righteousness,
+**16** Let the word of Christ dwell in you richly, teaching in all wisdom and admonishing <span class="alt-label">yourselves</span><span class="alt-text">(=one another)</span> <span class="added">(in)</span> psalms <span class="added">(and)</span> hymns <span class="added">(and)</span> spiritual songs, singing <span class="alt-label">in</span><span class="alt-text">(=with)</span> <del class="deleted-text">[the]</del> grace in your hearts to <del class="deleted-text">[the]</del> God.
 
-**17** so that the man of God may be perfect, having been equipped for every good work.
+**17** And <del class="deleted-text">[everything]</del> whatever you <del class="deleted-text">[may]</del> do in word or in deed, <span class="added">(do)</span> all in <span class="added">(the)</span> name  of <span class="added">(the)</span> Lord Jesus, giving thanks to God <span class="added">(the)</span> Father through him.
 
+**18** <del class="deleted-text">[The]</del> Wives, submit to <span class="alt-label">the</span><span class="alt-text">(=your)</span> husbands, as is fitting in <span class="added">(the)</span> Lord.
+
+**19** <del class="deleted-text">[The]</del> Husbands, love <span class="alt-label">the</span><span class="alt-text">(=your)</span> wives and do not be bitter toward them.
+
+**20** <del class="deleted-text">[The]</del> Children, obey <span class="alt-label">the</span><span class="alt-text">(=your)</span> parents <span class="alt-label">according to all things</span><span class="alt-text">(=in all respects)</span>, for this is well-pleasing in <span class="added">(the)</span> Lord.
+
+**21** <del class="deleted-text">[The]</del> Fathers, do not provoke your children, lest they <del class="deleted-text">[may]</del> be discouraged.
+
+**22** <del class="deleted-text">[The]</del> Slaves, obey <span class="alt-label">according to all things</span><span class="alt-text">(=in all respects)</span> <span class="alt-label">the</span><span class="alt-text">(=your)</span> <span class="alt-label">lords</span><span class="alt-text">(=masters)</span> according to <span class="added">(the)</span> flesh, not <span class="alt-label">in</span><span class="alt-text">(=with)</span> eye-service, as men-pleasers, but in singleness of heart, fearing the Lord.
+
+**23** Whatever you <del class="deleted-text">[may]</del> do, work <span class="alt-label">from soul</span><span class="alt-text">(=with your heart)</span>, as to the Lord and not to men,
+
+**24** knowing that from <span class="added">(the)</span> Lord you will receive the reward of the inheritance; you serve the Lord Christ.
+
+**25** For the one doing wrong will be repaid for what he did wrong, and there is no <span class="alt-label">partiality</span><span class="alt-text">(=favoritism)</span>.
+
+---
+
+### Notes
+
+[^1]: perfect for present

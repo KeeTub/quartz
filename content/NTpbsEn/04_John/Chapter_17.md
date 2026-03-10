@@ -59,7 +59,6 @@ tags: [NTpbsEn, John]
 
 **26** “And I made known to them your name, and I will make known, that the love <span class="added">(with)</span> which you loved me may be in them, and I in them.”
 
-
 ---
 
 ### Notes

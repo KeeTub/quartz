@@ -69,7 +69,6 @@ tags: [NTpbsEn, John]
 
 **31** And these <span class="alt-label">has been written</span><span class="alt-text">(=are written)</span> so that you may belive that Jesus is the Christ, the son of God, and so that you, believing, may have life in his name.
 
-
 ---
 
 ### Notes

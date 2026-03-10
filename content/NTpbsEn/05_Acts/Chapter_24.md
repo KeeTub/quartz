@@ -61,7 +61,6 @@ tags: [NTpbsEn, Acts]
 
 **27** And <span class="alt-label">two years’ having been completed</span><span class="alt-text">(=when two years had <del class="deleted-text">[been]</del> passed)</span>[^7], <del class="deleted-text">[the]</del> Felix received a successor Porcius Festus. And desiring to <span class="alt-label">lay down</span><span class="alt-text">(=show)</span> a favor to the Jews, <del class="deleted-text">[the]</del> Felix left <del class="deleted-text">[the]</del> Paul <del class="deleted-text">[having been]</del> bound.
 
-
 ---
 
 ### Notes

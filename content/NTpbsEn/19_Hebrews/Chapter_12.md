@@ -65,7 +65,6 @@ tags: [NTpbsEn, Hebrews]
 
 **29** for our God also <span class="added">(is)</span> a consuming fire
 
-
 ---
 
 ### Notes

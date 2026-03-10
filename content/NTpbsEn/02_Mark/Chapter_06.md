@@ -119,7 +119,6 @@ tags: [NTpbsEn, Mark]
 
 **56** And wherever he was entering into villages or into cities or into country, they laid the ones ailing in the marketplaces, and were begging him that they might touch even the edge of his garment. And as many as touched him were being made well.
 
-
 ---
 
 ### Notes

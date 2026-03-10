@@ -57,7 +57,6 @@ tags: [NTpbsEn, Acts]
 
 **25** And Barnabas and Saul returned from Jerusalem, having completed the ministry, having taken along with John called Mark.
 
-
 ---
 
 ### Notes

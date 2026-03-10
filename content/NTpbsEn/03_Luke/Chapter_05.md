@@ -85,7 +85,6 @@ tags: [NTpbsEn, Luke]
 
 **39** “And no one, having drunk old <span class="added">(wine)</span>, wants new; for he says, ‘The old is <span class="alt-label">good</span><span class="alt-text">(=better)</span>.”
 
-
 ---
 
 ### Notes

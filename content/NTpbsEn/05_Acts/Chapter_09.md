@@ -93,7 +93,6 @@ tags: [NTpbsEn, Acts]
 
 **43** It came to pass <span class="added">(for him)</span> to stay many days in Joppa with one Simon a tanner.
 
-
 ---
 
 ### Notes

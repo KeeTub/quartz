@@ -91,7 +91,6 @@ tags: [NTpbsEn, Acts]
 
 **42** And every day in the temple and at each house, they were not stopping teaching and proclaiming Jesus <span class="added">(as)</span> the Christ.
 
-
 ---
 
 ### Notes

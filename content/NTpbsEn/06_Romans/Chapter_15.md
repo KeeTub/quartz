@@ -7,125 +7,70 @@ tags: [NTpbsEn, Romans]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** Now, brothers, I make known to you the gospel which I <span class="alt-label">evangelized</span><span class="alt-text">(=preached)</span> you, which you also received, in which you stand<span class="added">(# perfect as present)</span>,
+**1** We then <span class="added">(who are)</span> strong ought to bear with the weaknesses of the ones <span class="added">(who are)</span> not strong, and not to please ourselves.
 
-**2** through which also you are saved, if you hold firmly to any word I <span class="alt-label">evangelized</span><span class="alt-text">(=preached)</span> <span class="added">(to)</span> you – unless you believed in vain.
+**2** Let each of us please the neighbor for <del class="deleted-text">[the]</del> good <span class="alt-label">to</span><span class="alt-text">(=for)</span> edification.
 
-**3** For I delivered <span class="added">(to)</span> you <span class="alt-label">in the first things</span><span class="alt-text">(=first of all)</span> which I also received: that Christ died for our sins according to the Scripture,
+**3** For even <del class="deleted-text">[the]</del> Christ did not please himself; but as it has been written, “The insults of the ones insulting you have fallen on me.”
 
-**4** and that he was buried, and that he has been raised <span class="added">(on)</span> the third day according to the Scripture,
+**4** For whatever things were previously written were written <u>for our instruction<span class="added">(</u>=to teach us)</span>, in order that through <del class="deleted-text">[the]</del> patience and through the encouragement of the <span class="alt-label">writings</span><span class="alt-text">(=Scriptures)</span> we may have <del class="deleted-text">[the]</del> hope.
 
-**5** and that he was seen <span class="added">(by)</span> Cephas, then <span class="added">(by)</span> the twelve.
+**5** And may <del class="deleted-text">[the]</del> God of endurance and encouragement give<span class="added">(# aorist optative)</span> you to think the same thing among one another according to Christ Jesus,
 
-**6** Then he was seen <span class="added">(by)</span> over five hundred brothers at one time, of whom the greater <span class="added">(number)</span> remain until now, but some have fallen asleep.
+**6** in order that with one mind <span class="alt-label">in</span><span class="alt-text">(=with)</span> one mouth you may glorify the God and Father of our Lord Jesus Christ.
 
-**7** Then he was seen <span class="added">(by)</span> James, then <span class="added">(by)</span> all the apostles.
+**7** Therefore receive one another, as <del class="deleted-text">[the]</del> Christ also received us, to <span class="added">(the)</span> glory of God.
 
-**8** And last of all he was seen <span class="added">(by)</span> me also, as <span class="added">(by)</span> one untimely born.
+**8** For I say Christ to have become a servant of <span class="added">(the)</span> circumcision for the truth of God, in order to confirm the promises of the fathers,
 
-**9** For I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the church of God.
+**9** <span class="added">(in order)</span> for the Gentiles to glorify <del class="deleted-text">[the]</del> God for <span class="added">(His)</span> mercy, as it has been written, “Therefore I will <span class="alt-label">confess</span><span class="alt-text">(=praise)</span> <span class="added">(to)</span> you among Gentiles and I will sing <span class="added">(in)</span> your name.”  10 And it says again, “Be joyful, O Gentiles, with His people.”
 
-**10** But <span class="added">(by the)</span> grace of God I am what I am, and his grace to me was not <span class="alt-label">empty</span><span class="alt-text">(=in vain)</span>. But I <span class="alt-label">labored</span><span class="alt-text">(=worked harder)</span> more abundantly <span class="added">(than)</span> they all, <span class="added">(though it was)</span> not I, but the grace of God <span class="added">(that was)</span> with me.
+**11** And again, “Praise, all <span class="alt-label">the</span><span class="alt-text">(=you)</span> Gentiles, the Lord. And let all the peoples praise him.”
 
-**11** Therefore, whether <span class="added">(it was)</span> I or <span class="alt-label">those</span><span class="alt-text">(=they)</span>, so we proclaim and so you believed.
+**12** And again, Isaiah says, “There will be a root of Jesse, and the One rising up to rule <span class="added">(the)</span> Gentiles. <span class="added">(The)</span> Gentiles will hope <span class="alt-label">on</span><span class="alt-text">(=in)</span> him.”
 
-**12** And if Christ is proclaimed that he has been raised from <span class="added">(the)</span> dead, how do some among you say that there is no resurrection of <span class="added">(the)</span> dead?
+**13** And may the God of hope fill<span class="added">(# aorist optative)</span> you <span class="alt-label">of</span><span class="alt-text">(=with)</span> all joy and peace <span class="alt-label">in the to believe</span><span class="alt-text">(=in believing)</span>, <span class="alt-label">for you to abound</span><span class="alt-text">(=so that you may overflow)</span> <span class="alt-label">in</span><span class="alt-text">(=with)</span> <del class="deleted-text">[the]</del> hope <span class="alt-label">in</span><span class="alt-text">(=by)</span> <span class="added">(the)</span> power of <span class="added">(the)</span> Holy Spirit.
 
-**13** And if there is no resurrection of <span class="added">(the)</span> dead, then Christ has not been raised.
+**14** I myself <span class="alt-label">have been persuaded</span><span class="alt-text">(=am convinced)</span> concerning you, my brothers, that you yourselves are full of goodness, having been filled <span class="added">(with)</span> all knowledge, being able also to admonish one another.
 
-**14** And if Christ has not been raised, then our proclamation <span class="added">(is)</span> <span class="alt-label">empty</span><span class="alt-text">(=in vain)</span>, and your faith <span class="added">(is)</span> <span class="alt-label">empty</span><span class="alt-text">(=in vain)</span>.
+**15** And more boldly I have wrote <span class="added">(to)</span> you <span class="alt-label">from part</span><span class="alt-text">(=on some points)</span>, as reminding you, because of the grace given to me from God,
 
-**15** And we are also found <span class="added">(to be)</span> false witnesses of God, because we testified <del class="deleted-text">[against]</del> of God that He raised <del class="deleted-text">[the]</del> Christ, whom He did not raised if in fact <span class="added">(the)</span> dead are not raised.
+**16** for me to be a minister of Christ Jesus to the Gentiles, <span class="alt-label">sacrificing</span><span class="alt-text">(=who are serving as in the temple)</span> the gospel of God, so that the offering of the Gentiles might be acceptable, <del class="deleted-text">[having been]</del> sanctified by <span class="added">(the)</span> Holy Spirit.
 
-**16** For if <span class="added">(the)</span> dead are not raised, then Christ has not been raised.
+**17** Therefore I have the boasting in Christ Jesus, <span class="added">(which is)</span> the things for <del class="deleted-text">[the]</del> God.
 
-**17** And if Christ has not been raised, your faith is futile <span class="added">(and)</span> you are still in your sins.
+**18** For I will not dare to speak of anything which Christ did not accomplish through me for obedience of <span class="added">(the)</span> Gentiles, <span class="added">(by)</span> word and <span class="added">(by)</span> work,
 
-**18** Then even the ones having been fallen asleep in Christ have perished.
+**19** by <span class="added">(the)</span> power of signs and wonders, by <span class="added">(the)</span> power of <span class="added">(the)</span> Spirit, so as for me to have completed the gospel of Christ from Jerusalem and round about to Illyricum,
 
-**19** If in this life only we <span class="alt-label">are having hoped</span><span class="alt-text">(=have hoped)</span>[^1] in Christ, we are of all men <span class="added">(the)</span> most pitiable.
+**20** and so aspiring to evangelize not where Christ was named, in order that I would not build on the another man’s foundation.
 
-**20** But now Christ has been raised from <span class="added">(the)</span> dead, first fruits of the ones having fallen asleep.
+**21** But as it has been written, “They will see, <span class="alt-label">to whom it was not announced</span><span class="alt-text">(=who were never been told)</span> about him, and those who have not heard will understand.”   
+22 For this reason I also was being hindered many times <span class="alt-label">of to come</span><span class="alt-text">(=from coming)</span>[^1] to you. 
+23 But now <span class="added">(I am)</span> having no more place in these regions and having desire to go <span class="added">(to)</span> you <span class="alt-label">from</span><span class="alt-text">(=for)</span> many years.
 
-**21** For since through a man <span class="added">(came)</span> death, and through a man <span class="added">(came)</span> a resurrection of <span class="added">(the)</span> dead.
+**24** Whenever I may go to <del class="deleted-text">[the]</del> Spain, <del class="deleted-text">[for]</del> I hope, going through, to see you and to be <span class="alt-label">sent</span><span class="alt-text">(=helped)</span> on my journey there by you, if firstly I might enjoy with you for a while;
 
-**22** For as in <del class="deleted-text">[the]</del> Adam all die, so in <del class="deleted-text">[the]</del> Christ all will be made alive.
+**25** but now I am going to Jerusalem, <span class="alt-label">serving to</span><span class="alt-text">(=to care for)</span> the saints,
 
-**23** But each in <span class="alt-label">the</span><span class="alt-text">(=his)</span> own order: Christ <span class="added">(the)</span> first fruits, then the ones <span class="alt-label">of Christ</span><span class="alt-text">(=who belong to Christ)</span> at his coming,
+**26** because Macedonia and Achaia were pleased to make some contribution for the poor among the saints in Jerusalem.
 
-**24** then <span class="added">(comes)</span> the end, when he delivers the kingdom to <del class="deleted-text">[the]</del> God <del class="deleted-text">[and]</del> <span class="added">(the)</span> Father, when he <del class="deleted-text">[might]</del> abolishes all rule and all authority and power.
+**27** For they were pleased <span class="added">(to do it)</span>, and they are their debtors. For if the Gentiles have shared in their spiritual things, they also ought to serve to them in material things.
 
-**25** For <span class="alt-label">it is necessary <span class="added">(for)</span> him to reign</span><span class="alt-text">(=he must reign)</span> until he <span class="alt-label">might put</span><span class="alt-text">(=has put)</span> all <span class="alt-label">the</span><span class="alt-text">(=his)</span> enemies under his feet.
+**28** Therefore having completed this, and <span class="alt-label">having sealed</span><span class="alt-text">(=having made sure)</span> this fruit to them, through you I will go to Spain.
 
-**26** <span class="added">(The)</span> last enemy, the death, is destroyed.
+**29** And I know that, coming to you, I will come in <span class="added">(the)</span> fullness of <span class="added">(the)</span> blessing of Christ.
 
-**27** For he has put in subjection all things under his feet. And when he <del class="deleted-text">[might]</del> says, <del class="deleted-text">[that]</del> “All things has been put in subjection,” <span class="added">(it is)</span> clear that <span class="alt-label"><span class="added">(this is)</span> excluding</span><span class="alt-text">(=this excludes from)</span> the One having put all things in subjection <span class="alt-label">to</span><span class="alt-text">(=under)</span> him.
+**30** Now I request you, brothers, through our Lord Jesus Christ and through the love of the <span class="added">(Holy)</span> Spirit, to strive together with me in the prayers to <del class="deleted-text">[the]</del> God for me,
 
-**28** And when all things are subjected to him, then the Son himself will be subjected to the One having subjected all things to him, that <del class="deleted-text">[the]</del> God may be all in all.
+**31** in order that I may be delivered from the ones disobeying in <del class="deleted-text">[the]</del> Judaea, and <span class="added">(that)</span> my ministry <span class="alt-label">for</span><span class="alt-text">(=in)</span> Jerusalem may be acceptable to the saints.
 
-**29** Otherwise, what will the ones being baptized for the dead do? If <span class="added">(the)</span> dead are not raised at all, why are they indeed baptized for them?
+**32** in order that, having come <span class="added">(to)</span> you <span class="alt-label">in</span><span class="alt-text">(=with)</span> joy through <span class="added">(the)</span> will of God, I may refresh with you.
 
-**30** Why do we also endanger <span class="added">(ourselves)</span> every hour?
-
-**31** I die daily. <span class="added">(I affirm it)</span>  by <span class="added">(the)</span> boasting <span class="added">(in)</span> you, brothers, which I have in Christ Jesus our Lord.
-
-**32** If, <span class="alt-label">according to man</span><span class="alt-text">(=with human hope)</span>, I fought with wild beasts in Ephesus, what <span class="added">(is)</span> the advantage to me? If the dead are not raised, “Let us eat and let us drink, for tomorrow we die!”
-
-**33** Do not be deceived: “Bad company corrupts good habits.”
-
-**34** <span class="alt-label">Become sober righteously</span><span class="alt-text">(=Come to your right mind)</span>, and do not sin; for some have <span class="alt-label">ignorance</span><span class="alt-text">(=no knowledge)</span> of God. I speak <span class="added">(this)</span> to your shame.
-
-**35** But someone will say, “How are the dead raised? And with what kind of body do they come?”
-
-**36** <span class="added">(How)</span> foolish! What you sow is not made alive unless it <del class="deleted-text">[might]</del> dies.
-
-**37** And what you sow, you do not sow the body <span class="alt-label">going to become</span><span class="alt-text">(=that will be)</span>, but a bare seed – it could be of wheat or some other <span class="added">(grain)</span>.
-
-**38** And God gives to it a body as he willed, and to each of the seeds <span class="added">(its)</span> own body.
-
-**39** All flesh <span class="added">(is)</span> not the same flesh, but <span class="added">(there is)</span> one <span class="added">(flesh)</span> of men, and another flesh of animals, and another flesh of birds, and another of fish.
-
-**40** And <span class="added">(there are)</span> heavenly bodies and earthly bodies, but the glory of the heavenly <span class="added">(bodies)</span> <span class="added">(is)</span> indeed one, and the <span class="added">(glory)</span> of the earthly <span class="added">(bodies)</span> <span class="added">(is)</span> another.
-
-**41** <span class="added">(There is)</span> one glory of <span class="added">(the)</span> sun, and another glory of <span class="added">(the)</span> moon, and another glory of <span class="added">(the)</span> stars; for <span class="added">(one)</span> star differs <span class="added">(from)</span> <span class="added">(another)</span> star in glory.
-
-**42** So also <span class="added">(is)</span> the resurrection of the dead. <span class="alt-label">It</span><span class="alt-text">(=The body)</span> is sown in corruption, it is raised in incorruption.
-
-**43** It is sown in dishonor, it is raised in glory. It is sown in weakness, it is raised in power.
-
-**44** It is sown a physical body, it is raised a spiritual body. If there is a physical body, there is also a spiritual <span class="added">(body)</span>.
-
-**45** And so it has been written, “The first man, Adam, became <del class="deleted-text">[to]</del> a living being.” The last Adam <span class="added">(became)</span> <del class="deleted-text">[to]</del> a life-giving spirit.
-
-**46** But the spiritual is not first, but the physical, and then the spiritual.
-
-**47** The first man <span class="added">(was)</span> from <span class="added">(the)</span> earth, <span class="added">(made)</span> of dust. The second men <span class="added">(is)</span> from heaven.
-
-**48** As <span class="added">(was)</span> the earthly <span class="added">(man)</span>, so also <span class="added">(are)</span> the earthly <span class="added">(men)</span>. And as <span class="added">(was)</span> heavenly <span class="added">(One)</span>, so also <span class="added">(are)</span> the heavenly <span class="added">(men)</span>.
-
-**49** And as we have borne the image of the earthly <span class="added">(man)</span>, we will also bear the image of the heavenly <span class="added">(One)</span>.
-
-**50** And I say this, brothers, “<del class="deleted-text">[that]</del> Flesh and blood are not able to inherit <span class="added">(the)</span> kingdom of God, nor does <span class="alt-label">the corruption</span><span class="alt-text">(=the perishable)</span> inherit <span class="alt-label">the incorruption</span><span class="alt-text">(=the imperishable)</span>.
-
-**51** Behold, I say <span class="added">(to)</span> you a mystery: We will not all sleep, but we will all be changed,
-
-**52** in a moment, in <span class="added">(the)</span> twinkling of an eye, in the last trumpet. For <span class="added">(the trumpet)</span> will sound, and the dead will be raised <span class="alt-label">incorruptible</span><span class="alt-text">(=imperishable)</span>, and we will be changed.
-
-**53** For this <span class="alt-label">corruptible</span><span class="alt-text">(=perishable body)</span> must <del class="deleted-text">[to]</del> put on <span class="alt-label">incorruption</span><span class="alt-text">(=imperishability)</span>, and this mortal <span class="added">(body must)</span> <del class="deleted-text">[to]</del> put on immortality.
-
-**54** And when this <span class="alt-label">corruptible</span><span class="alt-text">(=perishable body)</span> <del class="deleted-text">[might]</del> puts on <span class="alt-label">incorruption</span><span class="alt-text">(=imperishability)</span>, and this mortal <span class="added">(body)</span> <del class="deleted-text">[might]</del> puts on immortality, then the word having been written will come to pass: “<del class="deleted-text">[The]</del> Death has been swallowed up in victory.”
-
-**55** “Where, O death, <span class="added">(is)</span> <span class="alt-label">the</span><span class="alt-text">(=your)</span> victory? Where, O death, <span class="added">(is)</span> <span class="alt-label">the</span><span class="alt-text">(=your)</span> sting?”
-
-**56** And the sting of death <span class="added">(is)</span> <del class="deleted-text">[the]</del> sin. And the power of sin <span class="added">(is)</span> the law.
-
-**57** But thanks <span class="added">(be)</span> to <del class="deleted-text">[the]</del> God giving us the victory through our Lord Jesus Christ.
-
-**58** Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not <span class="alt-label">empty</span><span class="alt-text">(=in vain)</span> in <span class="added">(the)</span> Lord.
-
+**33** And the God of peace <span class="added">(be)</span> with you all. Amen.
 
 ---
 
 ### Notes
 
-[^1]: periphrastic perfect
+[^1]: genitive of separation

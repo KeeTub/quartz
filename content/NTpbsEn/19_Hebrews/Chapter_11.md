@@ -87,7 +87,6 @@ tags: [NTpbsEn, Hebrews]
 
 **40** <span class="alt-label"><del class="deleted-text">[the]</del> God’s having provided</span><span class="alt-text">(=since God had provided)</span>[^3] something better for us, so that without us they should not be made perfect.
 
-
 ---
 
 ### Notes

@@ -47,7 +47,6 @@ tags: [NTpbsEn, Mark]
 
 **20** And those, having gone out, proclaimed everywhere, <span class="alt-label">the Lord’s working with and confirming</span><span class="alt-text">(=the Lord worked with them and confirmed)</span>[^5] the word by the signs following.
 
-
 ---
 
 ### Notes

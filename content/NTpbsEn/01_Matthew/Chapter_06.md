@@ -75,7 +75,6 @@ tags: [NTpbsEn, Matthew]
 
 **34** “Therefore, do not worry about <del class="deleted-text">[the]</del> tomorrow, for <del class="deleted-text">[the]</del> tomorrow will worry about itself. <span class="alt-label">Its</span><span class="alt-text">(=The day’s own)</span> <span class="alt-label">evil</span><span class="alt-text">(=trouble)</span> <span class="added">(is)</span> sufficient <span class="added">(for)</span> the day.”
 
-
 ---
 
 ### Notes

@@ -83,7 +83,6 @@ tags: [NTpbsEn, Matthew]
 
 **38** “Therefore, ask the Lord of the harvest so that he might send out workers into his harvest.”
 
-
 ---
 
 ### Notes

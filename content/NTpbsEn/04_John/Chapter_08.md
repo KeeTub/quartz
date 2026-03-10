@@ -125,7 +125,6 @@ tags: [NTpbsEn, John]
 
 **59** So they took stones so that they <span class="alt-label">might</span><span class="alt-text">(=may)</span> throw <span class="added">(the stones)</span> at him. And Jesus <u>hid himself</u><span class="added">(# aorist passive for reflective sense)</span> and went out of the temple.
 
-
 ---
 
 ### Notes

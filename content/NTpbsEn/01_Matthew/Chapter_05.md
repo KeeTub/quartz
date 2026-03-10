@@ -102,7 +102,6 @@ tags: [NTpbsEn, Matthew]
 
 **48** “Therefore, be perfect as your heavenly Father is perfect.”
 
-
 ---
 
 ### Notes

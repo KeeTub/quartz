@@ -119,7 +119,6 @@ tags: [NTpbsEn, Luke]
 
 **56** And her parents were astonished. And he charged them to tell no one t<span class="alt-label">he thing having happened</span><span class="alt-text">(=what had happened)</span>.
 
-
 ---
 
 ### Notes

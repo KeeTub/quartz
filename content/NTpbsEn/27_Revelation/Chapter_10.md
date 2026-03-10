@@ -29,7 +29,6 @@ tags: [NTpbsEn, Revelation]
 
 **11** And he[^1] <span class="alt-label">say</span><span class="alt-text">(=said)</span> <span class="added">(to)</span> me, “<span class="alt-label">It is necessary for you</span><span class="alt-text">(=You ought)</span> to prophesy again <span class="alt-label">before</span><span class="alt-text">(=about)</span> many peoples and nations and languages and kings.”
 
-
 ---
 
 ### Notes

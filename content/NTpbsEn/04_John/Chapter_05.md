@@ -101,7 +101,6 @@ tags: [NTpbsEn, John]
 
 **47** “But if you do not believe <span class="alt-label">letters</span><span class="alt-text">(=writings)</span> of that one, how will you believe my sayings?”
 
-
 ---
 
 ### Notes

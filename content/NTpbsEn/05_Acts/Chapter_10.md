@@ -100,7 +100,6 @@ tags: [NTpbsEn, Acts]
 
 **48** And he commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay <span class="added">(for)</span> <u>some days</u><span class="added">(#accusative of extent of time)</span>.
 
-
 ---
 
 ### Notes

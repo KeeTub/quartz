@@ -59,7 +59,6 @@ tags: [NTpbsEn, Galatians]
 
 **26** Let us not become <span class="alt-label">vainglorious</span><span class="alt-text">(=conceited)</span>, provoking one another, envying one another.
 
-
 ---
 
 ### Notes

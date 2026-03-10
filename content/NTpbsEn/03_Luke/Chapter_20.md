@@ -100,7 +100,6 @@ tags: [NTpbsEn, Luke]
 
 **47** “who devour widows’ houses and <span class="alt-label">in pretence</span><span class="alt-text">(=for a show)</span> make long prayers. These will receive <span class="added">(the)</span> greater <span class="alt-label">judgment</span><span class="alt-text">(=condemnation)</span>.”
 
-
 ---
 
 ### Notes

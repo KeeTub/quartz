@@ -65,7 +65,6 @@ tags: [NTpbsEn, Galatians]
 
 **29** And if you <span class="added">(are)</span> Christ’s, then you are Abraham’s seed, heirs according to promise.
 
-
 ---
 
 ### Notes

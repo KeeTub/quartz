@@ -87,7 +87,6 @@ tags: [NTpbsEn, Acts]
 
 **40** And <span class="alt-label">his having allowed</span><span class="alt-text">(=when he allowed)</span>[^9], <del class="deleted-text">[the]</del> Paul, having stood on the stairs, shook down <span class="added">(with)</span> <span class="alt-label">the</span><span class="alt-text">(=his)</span> hand to the people. And <span class="alt-label">great silence’s becoming</span><span class="alt-text">(=when there was great silence)</span>[^10], he addressed in the Hebrew language, saying,
 
-
 ---
 
 ### Notes

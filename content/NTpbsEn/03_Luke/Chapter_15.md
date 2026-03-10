@@ -71,7 +71,6 @@ tags: [NTpbsEn, Luke]
 
 **32** “And it was right to make merry and be glad, for this your brother was dead and <span class="alt-label">has come to life</span><span class="alt-text">(=is alive)</span>, and <span class="added">(he was)</span> <del class="deleted-text">[having been]</del> lost and <span class="alt-label">was</span><span class="alt-text">(=is)</span> found.”
 
-
 ---
 
 ### Notes

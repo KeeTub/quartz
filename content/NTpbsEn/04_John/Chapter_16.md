@@ -73,7 +73,6 @@ tags: [NTpbsEn, John]
 
 **33** “I have spoken these things to you, that you may have peace in me. In the world you <span class="alt-label">have</span><span class="alt-text">(=will have)</span>[^5] tribulation, but have courage! I have overcome the world.”
 
-
 ---
 
 ### Notes

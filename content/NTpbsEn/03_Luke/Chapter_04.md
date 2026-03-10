@@ -95,7 +95,6 @@ tags: [NTpbsEn, Luke]
 
 **44** And he was proclaiming in the synagogues of <span class="alt-label">Judea</span><span class="alt-text">(=Galilee, !! different reading in some manuscripts)</span>.
 
-
 ---
 
 ### Notes

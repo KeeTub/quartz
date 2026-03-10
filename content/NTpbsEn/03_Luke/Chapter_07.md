@@ -107,7 +107,6 @@ tags: [NTpbsEn, Luke]
 
 **50** And he said <span class="added">(to)</span> the woman, “Your faith has saved you, go in peace.”
 
-
 ---
 
 ### Notes

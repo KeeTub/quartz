@@ -61,7 +61,6 @@ tags: [NTpbsEn, Matthew]
 
 **27** “But lest we might offend them, going to <span class="added">(the)</span> sea, cast a hook, and take the first fish coming up, and having opened its mouth, you will find a <span class="alt-label">stater</span><span class="alt-text">(=a coin worth four drachmae)</span>. Taking that, give <span class="added">(it to)</span> them for me and you.”
 
-
 ---
 
 ### Notes

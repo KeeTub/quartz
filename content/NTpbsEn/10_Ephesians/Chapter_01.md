@@ -52,7 +52,6 @@ tags: [NTpbsEn, Ephesians]
 
 **23** which is his body, the fullness of the One filling<span class="added">(# middle voice)</span> all things in all things
 
-
 ---
 
 ### Notes

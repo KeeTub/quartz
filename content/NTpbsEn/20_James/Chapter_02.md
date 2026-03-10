@@ -7,61 +7,55 @@ tags: [NTpbsEn, James]
 
 <small style="color:var(--gray);font-size:0.72rem">(=alt.word) &nbsp;·&nbsp; <em>(added word)</em> &nbsp;·&nbsp; <del>[omit]</del></small>
 
-**1** My children, I write you these things so that you might not sin. And if anyone <del class="deleted-text">[might]</del> sins, we have an advocate with the Father, Jesus Christ the righteous.
+**1** My brothers, <span class="alt-label">not in respects of persons</span><span class="alt-text">(=not in favoritism)</span>, have the faith of our Lord Jesus Christ of the glory.
 
-**2** And he is <span class="added">(the)</span> <span class="alt-label">propitiation</span><span class="alt-text">(=atoning sacrifice)</span> for our sins, not for ours only but also for the whole world.
+**2** For if a man <span class="added">(with)</span> a gold ring <span class="added">(and)</span> in fine clothes <del class="deleted-text">[might]</del> comes into your synagogue, and a poor man <del class="deleted-text">[might]</del> comes in dirty clothes,
 
-**3** And <span class="alt-label">in</span><span class="alt-text">(=by)</span> this we know that we have known Him, if we <del class="deleted-text">[may]</del> keep His commandments.
+**3** you <del class="deleted-text">[might]</del> look at the one wearing the fine clothes and <del class="deleted-text">[might]</del> say, “<del class="deleted-text">[You]</del> Sit here <span class="alt-label">well</span><span class="alt-text">(=in a good place)</span>, and you <del class="deleted-text">[might]</del> say to the poor man, “<del class="deleted-text">[You]</del> Stand there or sit under my footstool,”
 
-**4** The one saying, “<del class="deleted-text">[that]</del> I have known Him,” and not keeping His commandments, is a liar, and the truth is not in this <span class="added">(man)</span>,
+**4** and have you not discriminate among yourselves and become judges <span class="alt-label">of</span><span class="alt-text">(=with)</span> evil thoughts?
 
-**5** but whoever <del class="deleted-text">[may]</del> keeps His word, truly the love of God has been perfected in this <span class="added">(man)</span>. By this we know that we are in Him.
+**5** Listen, my beloved brothers. Has not <del class="deleted-text">[the]</del> God chosen the poor <span class="added">(in)</span> the world <span class="added">(to be)</span> rich in faith and heirs of the kingdom which He promised to the ones loving Him?
 
-**6** The one saying <span class="alt-label">to abide</span><span class="alt-text">(=that he abides)</span> in Him ought himself also to walk just as <span class="alt-label">that one</span><span class="alt-text">(=Jesus)</span> walked.
+**6** But you have dishonored the poor. Do not the rich oppress you and drag you into court?
 
-**7** Beloved, I am not writing you a new commandment, but an old commandment which you <span class="alt-label">were having</span><span class="alt-text">(=have had)</span> from <span class="added">(the)</span> beginning. The old commandment is the word which you have heard.
+**7** Do not they blaspheme the noble name having been called on you?
 
-**8** Again I am writing you a new commandment, that is true in Him and in you, because the darkness is passing away and the true light is already shining.
+**8** If you really fulfil <span class="added">(the)</span> royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well.
 
-**9** The one saying <span class="alt-label">to be</span><span class="alt-text">(=that he is)</span> in the light and hating his brother is in the darkness until now.
+**9** But if you <span class="alt-label">respect of persons</span><span class="alt-text">(=show favoritism)</span>, you commit sin, being convicted by the law as transgressors.
 
-**10** The one loving his brother abides in the light, and stumbling block is not in him.
+**10** For whoever <del class="deleted-text">[might]</del> keeps the whole law and <del class="deleted-text">[might]</del> stumbles in one <span class="added">(point)</span>, he has become guilty of all.
 
-**11** But the one hating his brother is in the darkness, <del class="deleted-text">[and]</del> walks in the darkness, and does not know<span class="added">(# perfect as present)</span> where he is going, because the darkness has blinded his eyes.
+**11** For the One having said, “Do not commit adultery,” also said, “Do not murder.” And if you <span class="alt-label">might</span><span class="alt-text">(=do)</span> not commit adultery, but you murder, you have become a transgressor of <span class="added">(the)</span> law.
 
-**12** I write to you, children, because <span class="alt-label">the</span><span class="alt-text">(=your)</span> sins having been <span class="alt-label">forgiven</span><span class="alt-text">(=has been forgiven)</span> you for his name’s sake.
+**12** So speak and so do as the ones being about to be judged by <span class="added">(the)</span> law of liberty,
 
-**13** I write to you, fathers, because you have known the One <span class="added">(who is)</span> from <span class="added">(the)</span> beginning. I write to you, young men, because you have overcome the evil one.
+**13** for <span class="added">(there will be)</span> the judgment without mercy to the one not having done mercy. Mercy <span class="alt-label">boasts against</span><span class="alt-text">(=triumphs over)</span> judgment.
 
-**14** I have written to you, children, because you have known the Father. I have written to you, fathers, because you have known the One <span class="added">(who is)</span> from the beginning. I have written to you, young men, because you are strong, <del class="deleted-text">[and]</del> the word of God abides in you, and you have overcome the evil one.
+**14** What does it profit, my brothers, if someone <del class="deleted-text">[may]</del> <span class="alt-label">says</span><span class="alt-text">(=claims)</span> to have faith but <span class="alt-label">may not have</span><span class="alt-text">(=has no)</span> works? <del class="deleted-text">[Not<span class="added">(# expecting the answer “No”)</span>]</del> Is the faith able to save him?
 
-**15** Do not love the world or the things in the world. If anyone <del class="deleted-text">[may]</del> loves the world, the love of the Father is not in him,
+**15** If a brother or a sister <del class="deleted-text">[may]</del> <span class="alt-label">are</span><span class="alt-text">(=is)</span> naked, and <del class="deleted-text">[may]</del> <span class="alt-label">are</span><span class="alt-text">(=is)</span> lacking of daily food,
 
-**16** because all that <span class="added">(is)</span> in the world - the lust of the flesh and the lust of the eyes and the pride of <del class="deleted-text">[the]</del> life - is not from the Father, but is from the world.
+**16** and one of you <del class="deleted-text">[may]</del> says to them, “Go in peace; keep warm and filled <span class="added">(with food)</span>,” but you <span class="alt-label">might</span><span class="alt-text">(=do)</span> not give them the necessities <span class="alt-label">of</span><span class="alt-text">(=for)</span> the body, <span class="alt-label">what <span class="added">(is)</span> the profit</span><span class="alt-text">(=what does it profit)</span>?
 
-**17** And the world passes away, and the lust of it <span class="added">(passes away)</span>, but the one doing the will of God abides <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span>.
+**17** And so <del class="deleted-text">[the]</del> faith by itself, if it <span class="alt-label">may</span><span class="alt-text">(=does)</span> not have works, is dead.
 
-**18** Children, it is <span class="added">(the)</span> last hour; and as you have heard that antichrist is coming, even now many antichrists have come, from which fact we know that it is <span class="added">(the)</span> last hour.
+**18** But someone will say, “You have faith, and I have works.” Show me your faith without the works, and I will show you the faith <span class="alt-label">from</span><span class="alt-text">(=by)</span> my works.
 
-**19** They went out from us, but they were not of us, for if they <u>had been</u><span class="added">(# unreal condition)</span> of us, they would have remained with us; but <span class="added">(they went out)</span>, that they might be made manifest that they all are not of us.
+**19** You believe that <del class="deleted-text">[the]</del> God is one; you do well. Even the demons believe - and shudder.
 
-**20** And you have an anointing from the Holy One, and you all know.
+**20** And do you want to know, O <span class="alt-label">vain</span><span class="alt-text">(=foolish)</span> man, that the faith without <del class="deleted-text">[the]</del> works is useless?
 
-**21** I have not written <span class="added">(to)</span> you because you do not know the truth, but because you know it and because every lie is not of the truth.
+**21** Was not Abraham our father justified <span class="alt-label">from</span><span class="alt-text">(=by)</span> works, having offered Isaac his son upon the alter?
 
-**22** Who is the liar but the one denying that Jesus is <del class="deleted-text">[not]</del> the Christ? This is the antichrist, the one denying the Father and the Son.
+**22** You see that <del class="deleted-text">[the]</del> faith was working with his works, and <del class="deleted-text">[the]</del> faith was completed <span class="alt-label">from</span><span class="alt-text">(=by)</span> the works,
 
-**23** No one denying the Son has the Father. The one confessing the Son has the Father also.
+**23** and the Scripture was fulfilled <span class="alt-label">saying</span><span class="alt-text">(=that says)</span>, “And Abraham believed <del class="deleted-text">[the]</del> God, and it was reckoned to him <span class="alt-label">for</span><span class="alt-text">(=as)</span> righteousness,” and he was called <span class="added">(the)</span> friend of God.
 
-**24** Let what you have heard from <span class="added">(the)</span> beginning abide in you. If what you have heard from <span class="added">(the)</span> beginning <del class="deleted-text">[might]</del> abides in you, you also will abide in the Son and in the Father.
+**24** You see that a man is justified <span class="alt-label">from</span><span class="alt-text">(=by)</span> works, and not <span class="alt-label">from</span><span class="alt-text">(=by)</span> faith only.
 
-**25** And this is the promise which He has promised us - the eternal life.
+**25** <del class="deleted-text">[And]</del> Likewise, was not even Rahab the prostitute justified <span class="alt-label">from</span><span class="alt-text">(=by)</span> works, having received the messengers and having sent <span class="added">(them)</span> out <span class="added">(by)</span> another road?
 
-**26** I have written these things <span class="added">(to)</span> you about the ones misleading you.
-
-**27** And the anointing which you received from Him abides in you, and you have no need that anyone <del class="deleted-text">[may]</del> teach you, but as his anointing teaches you about all things, and is true and is not a lie, and just as it has taught you, abide in Him.
-
-**28** And now, children, abide in Him, so that <span class="alt-label">if</span><span class="alt-text">(=when)</span> He <del class="deleted-text">[might]</del> appears we might have confidence and might not be ashamed <span class="alt-label">from</span><span class="alt-text">(=before)</span> Him at his coming.
-
-**29** If you <del class="deleted-text">[may]</del> know that He is righteous, you know that everyone doing the righteousness has been born of Him.
+**26** For as the body without <span class="added">(the)</span> spirit is dead, so <del class="deleted-text">[the]</del> faith without works is also dead.
 
