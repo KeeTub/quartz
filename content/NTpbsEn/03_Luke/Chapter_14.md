@@ -16,80 +16,79 @@ tags: [NTpbsEn, Luke]
 </div>
 
 
-<span class="v-num">1</span> And it happened <span class="alt-label">in the him to go</span><span class="alt-text">(=as he went)</span> into <span class="added-text">(the)</span> house of one of the rulers of the Pharisees to eat bread <span class="added-text">(on)</span> a Sabbath, <del class="deleted-text">[and]</del> <span class="added-text">(that)</span> they were watching<span class="added-text">(# periphrastic imperfect)</span> him closely.
+<span class="v-num">1</span> And it happened, when he went into the house of a certain one of the rulers of the Pharisees on <span class="added-text">(the)</span> Sabbath to eat bread, that they were watching him closely.
 
-<span class="v-num">2</span> And behold, there was a certain man with dropsy before him.
+<span class="v-num">2</span> And behold, a certain man was <span class="added-text">(there)</span>, <span class="added-text">(having)</span> <span class="alt-label">dropsy</span><span class="alt-text">(=who was suffering from dropsy)</span>, before him.
 
-<span class="v-num">3</span> And <del class="deleted-text">[the]</del> Jesus, having answered, said <span class="added-text">(to)</span> the lawyers and Pharisees, saying, “Is it lawful to heal <span class="added-text">(on)</span> the Sabbath, or not?”
+<span class="v-num">3</span> And Jesus, answering, spoke to the lawyers and Pharisees, saying, "Is it lawful to heal on the Sabbath?"
 
-<span class="v-num">4</span> And they kept silent. And he, having taken <span class="added-text">(him)</span>, healed him and let <span class="added-text">(him)</span> go.
+<span class="v-num">4</span> But they were silent. And having taken hold <span class="added-text">(of him)</span>, he healed him, and let him go.
 
-<span class="v-num">5</span> And he said <span class="added-text">(to)</span> them, “Which of you, <span class="added-text">(having)</span> a son or an ox <span class="added-text">(that)</span> <span class="alt-label">will fall</span><span class="alt-text">(=falls)</span> into a well, <del class="deleted-text">[and]</del> will not immediately pull <span class="alt-label">him</span><span class="alt-text">(=it)</span> out on <span class="added-text">(the)</span> day of Sabbath?”
+<span class="v-num">5</span> And answering them, he said, "Which of you, <span class="added-text">(whose)</span> donkey or ox falls into a well, will not immediately pull him out on the day of the Sabbath?"
 
-<span class="v-num">6</span> And they were not able to reply to these things.
+<span class="v-num">6</span> And they were not able to answer him again to these things.
 
-<span class="v-num">7</span> And he was saying a parable to the ones having been invited, noticing how they were choosing the chief seats, saying to them,
+<span class="v-num">7</span> And he spoke a parable to the ones having been invited, noting how they were choosing out the first <span class="alt-label">seats</span><span class="alt-text">(=places of honor)</span>, saying to them,
 
-<span class="v-num">8</span> “When you <span class="alt-label">might be called</span><span class="alt-text">(=are invited)</span> by someone to a wedding feast, do not <span class="alt-label">recline</span><span class="alt-text">(=sit down)</span> in the chief seat, lest a more honorable <span class="added-text">(man)</span> than you <del class="deleted-text">[may]</del> be <del class="deleted-text">[having been]</del> invited by him.”
+<span class="v-num">8</span> "When you are invited by anyone to a wedding feast, do not recline <span class="alt-label">in</span><span class="alt-text">(=at)</span> the first <span class="alt-label">seat</span><span class="alt-text">(=place of honor)</span>, lest a more honored <span class="added-text">(person)</span> than you be <span class="added-text">(one)</span> having been invited by him,
 
-<span class="v-num">9</span> “And the one having invited you and him, having come, will say <span class="added-text">(to)</span> you, ‘Give place to this man.’ And then you will begin with shame to take the lowest place.”
+<span class="v-num">9</span> and the one having invited you and him come and say to you, 'Give this <span class="added-text">(man)</span> <span class="added-text">(the)</span> place,' and then you will begin with shame to take the last place.
 
-<span class="v-num">10</span> “But when you <span class="alt-label">might be called</span><span class="alt-text">(=are invited)</span>, having gone, <span class="alt-label">recline</span><span class="alt-text">(=sit down)</span> in the lowest place, so that the one having invited you <del class="deleted-text">[might]</del> comes and will say <span class="added-text">(to)</span> you, ‘Friend, go up higher.’ Then there will be honor <span class="added-text">(to)</span> you in the presence of all the ones <span class="alt-label">reclining</span><span class="alt-text">(=sitting at table)</span> with you.”
+<span class="v-num">10</span> But when you are invited, having gone, recline in the last place, so that when the one having invited you comes, he may say to you, 'Friend, go up higher,' then you will have glory before the ones reclining with you <span class="added-text">(at table)</span>.[^1]
 
-<span class="v-num">11</span> “For everyone who exalting himself will be humbled, and the one humbling himself will be exalted.”
+<span class="v-num">11</span> For everyone who exalts himself will be humbled, and the one who humbles himself will be exalted."
 
-<span class="v-num">12</span> And he was saying also to the one having invited him, “When you <span class="alt-label">may make</span><span class="alt-text">(=give)</span> a lunch or dinner, do not invite your friends or your brothers or your relatives or rich neighbors, lest they also <span class="alt-label">might</span><span class="alt-text">(=may)</span> invite you back, and it <span class="added-text">(will)</span> be a recompence to you.”
+<span class="v-num">12</span> And he said also to the one having invited him, "When you make a lunch or a dinner, do not call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, lest they also invite you back, and it become a repayment to you.
 
-<span class="v-num">13</span> “But when you <span class="alt-label">may make</span><span class="alt-text">(=give)</span> a feast, invite <span class="added-text">(the)</span> poor, <span class="added-text">(the)</span> maimed, <span class="added-text">(the)</span> lame, <span class="added-text">(the)</span> blind.”
+<span class="v-num">13</span> But when you make a feast, call <span class="added-text">(the)</span> poor, <span class="added-text">(the)</span> crippled, <span class="added-text">(the)</span> lame, <span class="added-text">(the)</span> blind,
 
-<span class="v-num">14</span> “And you will be blessed, for they <span class="alt-label">have not</span><span class="alt-text">(=are not able)</span> to repay you, because it will be repaid to you <span class="alt-label">in</span><span class="alt-text">(=at)</span> the resurrection of the righteous.”
+<span class="v-num">14</span> and you will be blessed, because they do not have <span class="added-text">(means)</span> to repay you; for you will be repaid at the resurrection of the righteous."
 
-<span class="v-num">15</span> And having heard these things, a certain <span class="added-text">(man)</span> of the ones <span class="alt-label">reclining with</span><span class="alt-text">(=sitting at table)</span> said <span class="added-text">(to)</span> him, “Blessed <span class="added-text">(is he)</span> who will eat bread in the kingdom of God.”
+<span class="v-num">15</span> And one of the ones reclining <span class="added-text">(at table)</span> with <span class="added-text">(him)</span>, having heard these things, said to him, "Blessed <span class="added-text">(is)</span> he who will eat bread in the kingdom of God."
 
-<span class="v-num">16</span> And he said <span class="added-text">(to)</span> him, “A certain man was <span class="alt-label">making</span><span class="alt-text">(=preparing)</span> a great dinner and invited many.”
+<span class="v-num">16</span> But he said to him, "A certain man made a great dinner, and invited many;
 
-<span class="v-num">17</span> “And he sent his slave <span class="added-text">(at)</span> the time of the dinner to say to the ones having been invited, ‘Come, for <span class="alt-label">it</span><span class="alt-text">(=everything)</span> is now ready.’”
+<span class="v-num">17</span> and he sent his servant at the hour of the dinner to say to the ones having been invited, 'Come, for already all things are ready.'
 
-<span class="v-num">18</span> “And they all <span class="alt-label">from one</span><span class="alt-text">(=alike)</span> began to make excuses. The first said <span class="added-text">(to)</span> him, ‘I have bought a field, and I <span class="alt-label">have necessity</span><span class="alt-text">(=must)</span>, having gone, <del class="deleted-text">[to]</del> see it. I ask you, have me <del class="deleted-text">[having been]</del> excused.’”
+<span class="v-num">18</span> And they all began with one <span class="alt-label"><span class="added-text">(voice)</span></span><span class="alt-text">(=unanimously)</span> to make excuses. The first said to him, 'I bought a field, and I have <span class="added-text">(a)</span> necessity to go out and see it; I ask you, have me excused.'
 
-<span class="v-num">19</span> “And another said, ‘I have bought five yoke of oxen, and I go to test them. I ask you, have me <del class="deleted-text">[having been]</del> excused.’”
+<span class="v-num">19</span> And another said, 'I bought five yoke of oxen, and I am going to test them; I ask you, have me excused.'
 
-<span class="v-num">20</span> “And another said, ‘I have married a wife, and therefore I am not able to go.’”
+<span class="v-num">20</span> And another said, 'I married a wife, and therefore I am not able to come.'
 
-<span class="v-num">21</span> “And the slave, having come, reported these things to his lord. Then the householder, having been angry, said <span class="added-text">(to)</span> his slave, ‘Go out quickly to the streets and alleys of the city, and bring in here the poor and the maimed and the blind and lame.’”
+<span class="v-num">21</span> And that servant, having arrived, reported these things to his master. Then the master of the house, having become angry, said to his servant, 'Go out quickly into the streets and lanes of the city, and bring in here the poor and crippled and lame and blind.'
 
-<span class="v-num">22</span> “And the slave said, ‘Lord, what you commanded has been done, and there is still room.’”
+<span class="v-num">22</span> And the servant said, 'Lord, it has been done as you commanded, and still there is room.'
 
-<span class="v-num">23</span> “And the lord said <span class="added-text">(to)</span> the slave, ‘Go out to the ways and <span class="alt-label">hedges</span><span class="alt-text">(=paths)</span>, and compel <span class="added-text">(them)</span> to come in, so that my house <span class="alt-label">might</span><span class="alt-text">(=may)</span> be filled.’”
+<span class="v-num">23</span> And the master said to the servant, 'Go out into the roads and hedges, and constrain <span class="added-text">(them)</span> to come in, that my house may be filled.'[^2]
 
-<span class="v-num">24</span> “For I say <span class="added-text">(to)</span> you that none of those men having been invited shall taste my dinner.”
+<span class="v-num">24</span> For I say to you, that none of those men who were invited will taste of my dinner."
 
-<span class="v-num">25</span> And many crowds were <span class="alt-label">coming</span><span class="alt-text">(=traveling)</span> with him. And he said, having been turned, to them.
+<span class="v-num">25</span> And great crowds went <span class="added-text">(together)</span> with him; and having turned, he said to them,
 
-<span class="v-num">26</span> “If anyone comes to me and does not hate his father and mother and wife and children and brothers and sisters, and even his own life, he cannot be my disciple.”
+<span class="v-num">26</span> "If anyone comes to me, and does not hate his own father, and mother, and wife, and children, and brothers, and sisters, yes and even his own life also, he is not able to be my disciple.
 
-<span class="v-num">27</span> “Whoever does not carry his own cross and come after me, is not able to be my disciple.”
+<span class="v-num">27</span> And whoever does not carry his own cross, and come after me, is not able to be my disciple.
 
-<span class="v-num">28</span> “For which of you, wishing to build a tower, does not <span class="alt-label">having sit first</span><span class="alt-text">(=first sit down and)</span> count the cost if he has <span class="alt-label">for completion</span><span class="alt-text">(=enough money to complete it)</span>?”
+<span class="v-num">28</span> For which of you, wanting to build a tower, does not first sit down and calculate the cost, <span class="added-text">(to see)</span> if he has <span class="added-text">(enough)</span> for completion?
 
-<span class="v-num">29</span> “<span class="alt-label">That lest</span><span class="alt-text">(=If)</span>[^1] <span class="alt-label">his having laid</span><span class="alt-text">(=he has laid)</span>[^2] a foundation <span class="added-text">(and)</span> <span class="alt-label"><span class="added-text">(his)</span> not being able</span><span class="alt-text">(=he is not able)</span>[^3] to finish, all <span class="added-text">(who are)</span> seeing <span class="added-text">(it)</span> <del class="deleted-text">[might]</del> begin to laugh at him,”
+<span class="v-num">29</span> Lest, after he has laid <span class="added-text">(the)</span> foundation, and is not able to finish <span class="added-text">(it)</span>, all the ones observing begin to mock him,[^3]
 
-<span class="v-num">30</span> “saying, ‘this man began to build and was not able to finish.’”
+<span class="v-num">30</span> saying, 'This man began to build, and was not able to finish.'
 
-<span class="v-num">31</span> “Or what king, going to encounter another king in war, will not <span class="alt-label">having sit first</span><span class="alt-text">(=first sit down)</span> <span class="added-text">(and)</span> consider whether he is <del class="deleted-text">[being]</del> able <span class="alt-label">in</span><span class="alt-text">(=with)</span> ten thousand to meet the one coming against him with twenty thousand?”
+<span class="v-num">31</span> Or what king, going to engage another king in war, does not sit down first and take counsel <span class="added-text">(whether)</span> he is able with ten thousand to meet the one coming against him with twenty thousand?
 
-<span class="v-num">32</span> “<span class="alt-label">If not</span><span class="alt-text">(=If he is not able)</span>, <span class="alt-label">yet his being at a distance</span><span class="alt-text">(=while the other is still a long way)</span>, having sent a delegation, he asks <span class="alt-label">things for peace</span><span class="alt-text">(=terms of peace)</span>.”
+<span class="v-num">32</span> But if not, while he is yet far away, having sent an embassy, he asks the things <span class="added-text">(that lead)</span> toward peace.
 
-<span class="v-num">33</span> “So therefore, any of you who does not renounce all <span class="alt-label">his own being</span><span class="alt-text">(=things that he has)</span> is not able to be my disciple.”
+<span class="v-num">33</span> So then, every one of you who does not renounce all his own possessions is not able to be my disciple.
 
-<span class="v-num">34</span> “<del class="deleted-text">[Therefore the]</del> Salt <span class="added-text">(is)</span> good, but if even the salt <del class="deleted-text">[might be]</del> lost its taste, <span class="alt-label">in what</span><span class="alt-text">(=how)</span> shall it be seasoned?”
+<span class="v-num">34</span> Salt <span class="added-text">(is)</span> good; but if the salt loses its <span class="alt-label">savor</span><span class="alt-text">(=becomes tasteless)</span>, with what will it be seasoned?[^4]
 
-<span class="v-num">35</span> “It is fit neither for <span class="added-text">(the)</span> land nor for <span class="added-text">(the)</span> manure. They throw it outside. The one having ears to hear, let him hear!”
+<span class="v-num">35</span> It is fit neither for the land nor for the dunghill; they throw it out. He who has ears to hear, let him hear."
 
 ---
 
-### Study Notes
-
-[^1]: redundant
-[^2]: genitive absolute
-[^3]: genitive absolute
+[^1]: ἵνα+가정법(εἴπῃ)은 목적절로, 끝자리에 앉는 행동의 의도된 결과를 나타낸다. 즉 낮은 자리를 택하는 것은 결국 높임을 받기 위함이라는 역설적 목적을 보여준다.
+[^2]: ἵνα+가정법(γεμισθῇ)은 '내 집을 채우려는' 목적을 나타내는 목적절로, 종을 보내 강권하는 행위의 궁극적 의도를 밝힌다.
+[^3]: ἵνα μήποτε + 가정법(ἄρξωνται)은 부정적 결과를 피하려는 목적절로, '행여 ~하지 않도록'이라는 의도를 나타낸다. 화자가 미리 계산하지 않아 초래될 수 있는 창피한 결과를 경고하는 뉘앙스이다.
+[^4]: ἐάν+가정법(μωρανθῇ)은 아직 실현되지 않은 미래 가능성을 가정하는 조건절로, '만일 소금이 그 맛을 잃는다면'이라는 뜻이다. 실제로 일어날 수 있는 가능성을 전제로 경고하는 뉘앙스이다.

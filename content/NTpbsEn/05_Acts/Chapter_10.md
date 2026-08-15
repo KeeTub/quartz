@@ -16,106 +16,105 @@ tags: [NTpbsEn, Acts]
 </div>
 
 
-<span class="v-num">1</span> And <span class="added-text">(there was)</span> a certain man in Caesarea, Cornelius by name, a centurion <span class="alt-label">from</span><span class="alt-text">(=of)</span> a <span class="alt-label">cohort</span><span class="alt-text">(=600 men)</span> being called “Italian <span class="added-text">(cohort)</span>.”
+<span class="v-num">1</span> Now there was a certain man in Caesarea named Cornelius, a centurion of <span class="added-text">(the)</span> band called <span class="added-text">(the)</span> Italian,
 
-<span class="v-num">2</span> <span class="added-text">(He is)</span> devout and fearing God with all his house, doing many alms to the people, and praying God constantly.
+<span class="v-num">2</span> <span class="added-text">(who was)</span> devout and fearing God with all his household, doing many alms to the people, and praying to God always;
 
-<span class="v-num">3</span> He saw in a vision clearly, about the ninth hour of the day, an angel of God having come in to him and saying to him, “Cornelius!”
+<span class="v-num">3</span> he saw in a vision clearly, about <span class="added-text">(the)</span> ninth hour of the day, an angel of God coming in to him, and saying to him, "Cornelius."
 
-<span class="v-num">4</span> And having gazed at him, and having become terrified, he said, “What is it, Lord.” And he said <span class="added-text">(to)</span> him, “Your prayers and your alms went up for a memorial before God.”
+<span class="v-num">4</span> He, gazing at him and becoming afraid, said, "What is it, Lord?" And he said to him, "Your prayers and your alms have gone up for a memorial before God.
 
-<span class="v-num">5</span> “And now send men to Joppa. And send for a certain Simon who is also known as Peter.”
+<span class="v-num">5</span> Now send men to Joppa, and call for Simon who is surnamed Peter;
 
-<span class="v-num">6</span> “This <span class="added-text">(man)</span> lodges with one Simon a tanner, to whom house is by <span class="added-text">(the)</span> sea.”
+<span class="v-num">6</span> he is lodging with a certain Simon, a tanner, whose house is by the sea; he will tell you what you must do."
 
-<span class="v-num">7</span> And as the angel speaking to him went away, having called two among servants and a devout soldier among the ones being attached to him,
+<span class="v-num">7</span> As the angel who spoke to Cornelius departed, he called two of his household servants, and a devout soldier of those who waited on him continually,
 
-<span class="v-num">8</span> and having explained all things to them, he sent them to Joppa.
+<span class="v-num">8</span> and having related all things to them, he sent them to Joppa.
 
-<span class="v-num">9</span> And <span class="added-text">(in)</span> the next day, <span class="alt-label">their traveling and bringing near</span><span class="alt-text">(=when they traveled and brought near)</span>[^1] the city, Peter went up on the roof to pray about <span class="added-text">(the)</span> sixth hour.
+<span class="v-num">9</span> On the next day, as they journeyed and drew near to the city, Peter went up on the housetop to pray, about the sixth hour.
 
-<span class="v-num">10</span> And he became hungry, and wished to eat. And <span class="alt-label">their preparing</span><span class="alt-text">(=while they prepared)</span>[^2], and ecstasy came upon him.
+<span class="v-num">10</span> He became very hungry, and wanted to eat; but while they were preparing, a trance fell upon him
 
-<span class="v-num">11</span> And he sees the heaven having been opened and a certain container like a great sheet coming down, and lowering by four corners onto the earth,
+<span class="v-num">11</span> and he saw the heaven opened, and a certain vessel descending upon him, like a great sheet, bound at four corners, and let down to the earth,
 
-<span class="v-num">12</span> in which were all four-legged <span class="added-text">(animals)</span>, reptiles of the earth, and birds of the heaven.  13 And there came a voice to him, “Rise up, Peter! Slay and eat.”
+<span class="v-num">12</span> in which were all <span class="added-text">(the)</span> four-footed animals of the earth, and the wild beasts, and the creeping things, and the birds of the heaven.
 
-<span class="v-num">14</span> But Peter said, “Surely not, Lord! <del class="deleted-text">[Because]</del> I never ate anything common and unclean.”
+<span class="v-num">13</span> And a voice came to him, "Rise, Peter, kill and eat."
 
-<span class="v-num">15</span> And a voice again <span class="alt-label">from</span><span class="alt-text">(=a)</span> second <span class="added-text">(time)</span> <span class="added-text">(came)</span> to him. “Do not <span class="added-text">(call)</span> unclean what God has cleansed,”
+<span class="v-num">14</span> But Peter said, "Not so, Lord; for I have never eaten anything common or unclean."
 
-<span class="v-num">16</span> And this occurred on <u>three <span class="added-text">(time)</span></u><span class="added-text">(#accusative of measure)</span>, and immediately the container was taken up into <del class="deleted-text">[the]</del> heaven.
+<span class="v-num">15</span> And a voice <span class="added-text">(came)</span> again a second time to him, "What God has cleansed, do not you call common."
 
-<span class="v-num">17</span> And as Peter in himself was wondering what the vision that he saw <u>might be</u><span class="added-text">(#potential optative)</span>, behold, the men having been sent by <del class="deleted-text">[the]</del> Cornelius, having asked for <span class="alt-label">the house of <del class="deleted-text">[the]</del> Simon</span><span class="alt-text">(=Simon's house)</span>, stood at the gate,
+<span class="v-num">16</span> This happened three times, and again the vessel was taken up into heaven.
 
-<span class="v-num">18</span> and having called, <span class="added-text">(they)</span> were asking if Simon who was known as Peter lodges here.
+<span class="v-num">17</span> As Peter was inwardly perplexed as to what the vision which he had seen might mean, behold, the men who had been sent from Cornelius, having inquired for Simon's house, stood at the gate,
 
-<span class="v-num">19</span> And <u>Peter</u>’<span class="alt-label">s pondering</span><span class="alt-text">(=when Peter pondered)</span>[^3] about the vision, the Spirit said, “Behold, Three men <span class="added-text">(are)</span> seeking you.”
+<span class="v-num">18</span> and calling out, they asked whether Simon, who was surnamed Peter, was lodging there.
 
-<span class="v-num">20</span> “but having risen up, go down, and go with them, doubting nothing, because I have sent them.”
+<span class="v-num">19</span> As Peter was pondering about the vision, the Spirit said to him, "Behold, three men seek you;
 
-<span class="v-num">21</span> And having gone down, Peter said <span class="added-text">(to)</span> the men. “Behold, I am he whom you seek. What <span class="added-text">(is)</span> the cause for which you are here?”
-22 And they said, “Cornelius a centurion, a man just and fearing <del class="deleted-text">[the]</del> God, and being respected by all the nation of the Jews, was instructed by holy angel to <span class="alt-label">send for</span><span class="alt-text">(=invite)</span> you to his house and to hear words from you.”
+<span class="v-num">20</span> but arise, go down, and go with them, doubting nothing, for I have sent them."
 
-<span class="v-num">23</span> Therefore, having called in them, he lodged <span class="added-text">(them)</span>. <span class="added-text">(In)</span> the next day, having risen up, he went out with them. And some of brothers from Joppa accompanied him.
+<span class="v-num">21</span> Then Peter went down to the men who had been sent to him from Cornelius, and said, "Behold, I am he whom you seek; what is the reason for which you are here?"
 
-<span class="v-num">24</span> And <span class="added-text">(in)</span> the next day, they entered into Caesarea. And Cornelius <u>was awaiting</u><span class="added-text">(#periphrastic impf.)</span> them, having called together his relatives and <span class="alt-label">the</span><span class="alt-text">(=his)</span> close friends.
+<span class="v-num">22</span> And they said, "Cornelius a centurion, a righteous man, and one fearing God, and well spoken of by all the nation of the Jews, was instructed by a holy angel to call for you into his house, and to hear words from you."
 
-<span class="v-num">25</span> And when it came to pass for Peter to enter, Cornelius, having met him, and having fallen at <span class="alt-label">the</span><span class="alt-text">(=his)</span> feet, worshiped.
+<span class="v-num">23</span> So calling them in, he lodged them. And on the next day Peter went out with them, and some of the brothers from Joppa went with him.
 
-<span class="v-num">26</span> But Peter raised him saying, “Stand up. I myself also am a man.”
+<span class="v-num">24</span> And on the next day they entered into Caesarea. And Cornelius was waiting for them, having called together his relatives and his near friends.
 
-<span class="v-num">27</span> And talking with him, he entered. And he finds many having assembled.
+<span class="v-num">25</span> As Peter was about to enter, Cornelius, meeting him, fell down at his feet and worshiped <span class="added-text">(him)</span>.
 
-<span class="v-num">28</span> And he was saying to them, “You know how unlawful it is for a Jewish man to associate or approach to another race. And God showed me not to call any man common or unclean.”
+<span class="v-num">26</span> But Peter raised him up, saying, "Stand up; I myself also am a man."
 
-<span class="v-num">29</span> “Therefore indeed without argument <span class="added-text">(for)</span> being <span class="alt-label">sent for</span><span class="alt-text">(=invited)</span>, I came. I inquire therefore, for what reason did you send for me?”
+<span class="v-num">27</span> And conversing with him, he went in, and found many who had come together,
 
-<span class="v-num">30</span> And Cornelius was saying, “From <span class="alt-label">fourth day</span><span class="alt-text">(=four days ago)</span> until this hour I <u>was praying</u><span class="added-text">(# periphrastic imperfect)</span> <span class="added-text">(at)</span> the ninth <span class="added-text">(hour)</span> in my house. And behold, a man stood before me in clothes shining,”
+<span class="v-num">28</span> and he said to them, "You know how unlawful it is for a man who is a Jew to join himself or come near one of another nation; but God has shown me to call no man common or unclean.
 
-<span class="v-num">31</span> “and says, ‘Cornelius, your prayer was heard and your alms were remembered before God.’”
+<span class="v-num">29</span> Therefore also I came without objection when I was sent for. I ask therefore, for what reason did you send for me?"
 
-<span class="v-num">32</span> “Therefore, send to Joppa. And call Simon who is also known as Peter. This <span class="added-text">(man)</span> is lodged in <span class="added-text">(the)</span> house of Simon a tanner, by <span class="added-text">(the)</span> sea.”
+<span class="v-num">30</span> And Cornelius said, "From <span class="added-text">(the)</span> fourth day until this hour I was fasting, and at the ninth hour praying in my house; and behold, a man stood before me in bright clothing,
 
-<span class="v-num">33</span> “At once, therefore, I sent to you, and you did well <span class="added-text">(for)</span> <u>having arrived</u><span class="added-text">(#aor. of simultaneous action)</span>. Now, therefore, we are all present before God, to hear all things having been commanded <span class="added-text">(to)</span> you by the Lord.”
+<span class="v-num">31</span> and said, 'Cornelius, your prayer has been heard, and your alms have been remembered before God.
 
-<span class="v-num">34</span> And having opened <span class="alt-label">the</span><span class="alt-text">(=his)</span> mouth, Peter said, “In truth, I grasp that God is not a <span class="alt-label">respecter of persons</span><span class="alt-text">(=one who judges by appearances)</span>,”
+<span class="v-num">32</span> Send therefore to Joppa, and call for Simon who is surnamed Peter; he is lodging in the house of Simon a tanner by the sea, who, when he comes, will speak to you.'
 
-<span class="v-num">35</span> “but in every nation, the one fearing Him and working righteousness is acceptable to Him.”
+<span class="v-num">33</span> So I sent to you at once, and you did well to come. Now therefore we are all present here before God, to hear all the things commanded you by God."
 
-<span class="v-num">36</span> “<span class="added-text">(You know)</span> the word which He sent to the sons of Israel, preaching the good news of peace through Jesus Christ, this is Lord of all.”
+<span class="v-num">34</span> Then Peter opened his mouth and said, "Of a truth I perceive that God is not a respecter of persons,[^1]
 
-<span class="v-num">37</span> “You know <span class="alt-label">the thing<span class="added-text">(# Semitic)</span> having become</span><span class="alt-text">(=what has happened)</span> throughout all Judaea, beginning from Galilee after the baptism which John proclaimed.”
+<span class="v-num">35</span> but in every nation, the one who fears him and works righteousness is accepted with him.
 
-<span class="v-num">38</span> “<span class="added-text">(You know)</span> how God anointed him, Jesus from Nazareth, with <span class="added-text">(the)</span> <u>Holy Spirit and power</u><span class="added-text">(# dative of instrument)</span>, who went about doing good and curing all the ones being oppressed by the devil, because God was with him.”
+<span class="v-num">36</span> the word which he sent to the sons of Israel, preaching <span class="added-text">(the)</span> good news of peace through Jesus Christ <span class="added-text">(this one is Lord of all)</span>—[^2]
 
-<span class="v-num">39</span> “And we <span class="added-text">(are)</span> witnesses of all things which he did both in the region of the Jews and Jerusalem, whom indeed they killed having hung him on a <span class="alt-label">tree</span><span class="alt-text">(=cross)</span>.”
+<span class="v-num">37</span> that word which happened throughout all Judea, beginning from Galilee, after the baptism which John preached, you yourselves know:
 
-<span class="v-num">40</span> “God raised this One on the third day, and <span class="alt-label">gave</span><span class="alt-text">(=allowed)</span> him <span class="alt-label">to become visible</span><span class="alt-text">(=to be seen)</span>.”
+<span class="v-num">38</span> Jesus of Nazareth, how God anointed him with <span class="added-text">(the)</span> Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with him.[^3]
 
-<span class="v-num">41</span> “Not to all the people, but to witnesses having been previously elected by God, to us, who ate with and drank with him after <span class="alt-label"><span class="added-text">(for)</span> him to have risen again</span><span class="alt-text">(=he rose again)</span> from <span class="added-text">(the)</span> dead.”
+<span class="v-num">39</span> And we are witnesses of all the things which he did both in the country of the Jews and in Jerusalem, whom they killed by hanging <span class="added-text">(him)</span> on a tree.
 
-<span class="v-num">42</span> “And he commanded us to proclaim to the people and to solemnly witness that this is the one having been designated by God, judge of the living and the dead.”
+<span class="v-num">40</span> This one God raised up on the third day, and granted him to become visible,
 
-<span class="v-num">43</span> “<span class="added-text">(About)</span> this <span class="added-text">(man)</span>, all the prophets witness <span class="added-text">(for)</span> everyone believing in him to receive<span class="added-text">(#aorist infinitive)</span> forgiveness of sins through his name.”
+<span class="v-num">41</span> not to all the people, but to witnesses who were chosen before by God—to us, who ate and drank with him after he rose from the dead.
 
-<span class="v-num">44</span> <span class="alt-label">Yet Peter's speaking</span><span class="alt-text">(=While Peter was still speaking)</span>[^4] these words, the Holy Spirit fell upon all the ones hearing the word.
+<span class="v-num">42</span> And he commanded us to preach to the people, and to solemnly testify that he is the one appointed by God <span class="added-text">(to be)</span> judge of the living and the dead.
 
-<span class="v-num">45</span> And the believers <span class="alt-label">from</span><span class="alt-text">(=of)</span> circumcision who accompanied Peter were astounded, because the gift of the Holy Spirit had been poured even upon the Gentiles.
+<span class="v-num">43</span> To this one all the prophets bear witness, that through his name everyone who believes in him shall receive forgiveness of sins."
 
-<span class="v-num">46</span> For they were hearing <span class="alt-label">their speaking</span><span class="alt-text">(=what they were speaking)</span>[^5] in tongues and <span class="alt-label"><span class="added-text">(their)</span> magnifying</span><span class="alt-text">(=what they were magnifying)</span>[^6] God. Then Peter answered,
+<span class="v-num">44</span> While Peter was still speaking these words, the Holy Spirit fell upon all those hearing the word.
 
-<span class="v-num">47</span> “Is anyone able to hinder <span class="added-text">(for)</span> these not to be baptized <span class="added-text">(with)</span> water<span class="added-text">(#accusative of instrument)</span>, who have received the Holy Spirit as well as we?”
+<span class="v-num">45</span> And the faithful of the circumcision, as many as came with Peter, were amazed, because the gift of the Holy Spirit was poured out on the Gentiles also;[^4]
 
-<span class="v-num">48</span> And he commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay <span class="added-text">(for)</span> <u>some days</u><span class="added-text">(#accusative of extent of time)</span>.
+<span class="v-num">46</span> for they heard them speaking in tongues, and magnifying God. Then Peter answered,
+
+<span class="v-num">47</span> "Can anyone forbid water, that these should not be baptized, who have received the Holy Spirit just as we <span class="added-text">(have)</span>?"
+
+<span class="v-num">48</span> And he commanded them to be baptized in the name of the Lord. Then they asked him to stay some days.
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
-[^3]: genitive absolute
-[^4]: genitive absolute
-[^5]: genitive absolute
-[^6]: genitive absolute
+[^1]: προσωπολήπτης(외모로 취하는 자)는 하나님의 구원이 인종·신분을 넘어 모든 민족에게 열려 있음을 선언하는 이 사건의 핵심 표현이다.
+[^2]: 괄호 안 삽입구 '만유의 주'는 부활하신 그리스도의 보편적 주권을 강조하여 이방인 구원의 근거를 제시한다.
+[^3]: ἔχρισεν(기름 붓다)은 '그리스도'(기름부음 받은 자)라는 칭호의 근거이며, 성령과 능력의 부으심으로 나타난 메시야적 사역을 가리킨다.
+[^4]: ἐκκέχυται는 완료 시제로 성령이 부어져 그 결과가 지속되고 있음을 강조한다.

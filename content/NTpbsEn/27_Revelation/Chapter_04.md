@@ -16,33 +16,24 @@ tags: [NTpbsEn, Revelation]
 </div>
 
 
-<span class="v-num">1</span> After these things I looked, and behold, a door having been opened in <del class="deleted-text">[the]</del> heaven. And the first voice, which I heard speaking <span class="alt-label">with</span><span class="alt-text">(=to)</span> me like a trumpet, saying, “Come up here, and I will show you the things which ought to take place after these things.”
+<span class="v-num">1</span> After these things I looked, and behold, a door opened in heaven, and the first voice which I heard as of a trumpet speaking with me, saying, "Come up here, and I will show you the things which must happen after these things."
 
-<span class="v-num">2</span> Immediately I was in <span class="added-text">(the)</span> Spirit; and behold, a throne was being set in <del class="deleted-text">[the]</del> heaven, and One <span class="added-text">(was)</span> sitting on the throne.
+<span class="v-num">2</span> And immediately I was in <span class="added-text">(the)</span> Spirit; and behold, a throne was <span class="alt-label">set</span><span class="alt-text">(=stood)</span> in heaven, and <span class="added-text">(one)</span> sitting upon the throne;
 
-<span class="v-num">3</span> And the One sitting <span class="added-text">(was)</span> <u>in appearance</u><span class="added-text">(# dative of respect)</span> like a jasper stone and a ruby; and <span class="added-text">(there was)</span> a rainbow around the throne like an emerald <u>in appearance</u><span class="added-text">(# dative of respect)</span>.
+<span class="v-num">3</span> And the one sitting was like in appearance to a jasper stone and a sardine <span class="added-text">(stone)</span>; and a rainbow <span class="added-text">(was)</span> around the throne, like in appearance to an emerald.
 
-<span class="v-num">4</span> And around the throne <span class="added-text">(were)</span> twenty-four thrones, and on the thrones <u>I saw</u>[^1] twenty-four elders sitting, having been clothes in white garments, and <u>they had</u>[^2] on their heads golden crowns.
+<span class="v-num">4</span> And around the throne <span class="added-text">(were)</span> twenty-four thrones; and upon the thrones I saw the twenty-four elders sitting, clothed in white garments; and they had upon their heads golden crowns.
 
-<span class="v-num">5</span> And from the throne come lightnings <span class="alt-label">and voices</span><span class="alt-text">(=rumblings)</span>[^3] and peals of thunder. And seven lamps of fire <span class="added-text">(were)</span> burning before the throne, which are the seven spirits of God.
+<span class="v-num">5</span> And out of the throne came lightnings and thunders and voices. And seven lamps of fire <span class="added-text">(were)</span> burning before the throne, which are the seven Spirits of God;
 
-<span class="v-num">6</span> And before the throne <span class="added-text">(there was something)</span> as[^4] a sea of glass, like crystal. And in the middle of the throne and around the throne <span class="added-text">(were)</span> four living creatures being full of eyes before and behind.
+<span class="v-num">6</span> And before the throne <span class="added-text">(was)</span> a sea of glass, like crystal. And in the midst of the throne and around the throne <span class="added-text">(were)</span> four living creatures full of eyes in front and behind.
 
-<span class="v-num">7</span> And the first living creature <span class="added-text">(was)</span> like a lion, and the second living creature <span class="added-text">(was)</span> like a calf, and the third living creature <span class="alt-label">having</span><span class="alt-text">(=had)</span> <span class="alt-label">the</span><span class="alt-text">(=a)</span> face like a man, and the fourth living creature <span class="added-text">(was)</span> like a flying eagle.
+<span class="v-num">7</span> And the first living creature <span class="added-text">(was)</span> like a lion, and the second living creature <span class="added-text">(was)</span> like a calf, and the third living creature had the face as a man, and the fourth living creature <span class="added-text">(was)</span> like an eagle flying.
 
-<span class="v-num">8</span> And the four living creatures, <span class="alt-label">one by one</span><span class="alt-text">(=each)</span> of them having <del class="deleted-text">[each]</del> six wings, around and within <span class="alt-label">are</span><span class="alt-text">(=were)</span> full of eyes. And they have no rest day and night, saying, “Holy, holy, holy, Lord <del class="deleted-text">[the]</del> God Almighty, <span class="alt-label">the One was and the One being and the One coming</span><span class="alt-text">(=who was, and is, and is to come)</span>.”
+<span class="v-num">8</span> And the four living creatures, each one of <span class="alt-label">them</span><span class="alt-text">(=one by one)</span> having six wings, were full of eyes around and within; and they do not have rest day and night, saying, "Holy, holy, holy, Lord God Almighty, who was, and who is, and who is to come."
 
-<span class="v-num">9</span> And whenever the living creatures <del class="deleted-text">[will]</del> give glory and honor and thanks to the One sitting on the throne, to the One living <span class="alt-label">unto the ages of the ages</span><span class="alt-text">(=for ever and ever)</span>,
+<span class="v-num">9</span> And whenever the living creatures give glory and honor and thanks to the one sitting on the throne, to the one living to the ages of the ages,
 
-<span class="v-num">10</span> the twenty-four elders <del class="deleted-text">[will]</del> fall down before the One sitting on the throne, and <del class="deleted-text">[will]</del> worship the One living <span class="alt-label">unto the ages of the ages</span><span class="alt-text">(=for ever and ever)</span>, and <del class="deleted-text">[will]</del> cast their crowns before the throne, saying,
+<span class="v-num">10</span> the twenty-four elders will fall down before the one sitting on the throne, and will worship the one living to the ages of the ages, and will cast their crowns before the throne, saying,
 
-<span class="v-num">11</span> “You are worthy, our Lord and God, to receive <del class="deleted-text">[the]</del> glory and <del class="deleted-text">[the]</del> honor and <del class="deleted-text">[the]</del> power, for You created all things, and by Your will they <span class="alt-label">were</span><span class="alt-text">(=existed)</span> and were created.”
-
----
-
-### Study Notes
-
-[^1]: deleted in some manuscripts
-[^2]: deleted in some manuscripts
-[^3]: different reading
-[^4]: deleted in some manuscripts
+<span class="v-num">11</span> "You are worthy, O Lord, to receive the glory and the honor and the power; because you created all things, and through your will they <span class="alt-label">exist</span><span class="alt-text">(=were)</span> and were created."

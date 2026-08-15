@@ -16,66 +16,69 @@ tags: [NTpbsEn, Hebrews]
 </div>
 
 
-<span class="v-num">1</span> For this Melchizedek, king of Salem, priest of God Most High, <del class="deleted-text">[having]</del> met Abraham returning from the slaughter of the kings, and <del class="deleted-text">[having]</del> blessed him,
+<span class="v-num">1</span> For this <span class="added-text">(is)</span> Melchizedek, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings, and blessed him,
 
-<span class="v-num">2</span> to whom Abraham <span class="alt-label">divided</span><span class="alt-text">(=gave)</span> a tenth of all, first being translated “king of righteousness,” and then also king of Salem, which is “king of peace,”
+<span class="v-num">2</span> to whom also Abraham apportioned a tenth from all <span class="added-text">(things)</span>; first being translated king of righteousness, and then also king of Salem, which is king of peace,[^1]
 
-<span class="v-num">3</span> without father, without mother, without genealogy, having neither beginning of days nor end of life, but having been made like the Son of God, remains a priest <span class="alt-label">in the continuous</span><span class="alt-text">(=forever)</span>.
+<span class="v-num">3</span> without father, without mother, without genealogy, having neither beginning of days nor end of life, but having been made like the Son of God, he remains a priest <span class="alt-label">continually</span><span class="alt-text">(=forever)</span>.[^2]
 
-<span class="v-num">4</span> And see how great this <span class="added-text">(man was)</span>, to whom Abraham the patriarch gave a tenth <span class="alt-label">from</span><span class="alt-text">(=of)</span> the choicest spoils.
-5 And the ones indeed <span class="alt-label">from</span><span class="alt-text">(=of)</span> the sons of Levi, receiving the priesthood, have a commandment to take tithes from the people according to the law, that is, <span class="added-text">(from)</span> their brothers, although <span class="alt-label">having come</span><span class="alt-text">(=they have come)</span> out of the <span class="alt-label">loin</span><span class="alt-text">(=loins)</span> of Abraham.
+<span class="v-num">4</span> Now consider how great this <span class="added-text">(man was)</span>, to whom <span class="added-text">(even)</span> Abraham the patriarch gave a tenth from the <span class="alt-label">spoils</span><span class="alt-text">(=chief spoils)</span>.
 
-<span class="v-num">6</span> And the one not being descended from them took tithes <span class="added-text">(from)</span> Abraham, and blessed the one having the promises.
+<span class="v-num">5</span> And those from the sons of Levi who receive the priesthood have a commandment to take tithes from the people according to the law, that is, from their brothers, although they have come out from the loins of Abraham;
 
-<span class="v-num">7</span> And without any dispute the <span class="alt-label">lesser</span><span class="alt-text">(=inferior)</span> is blessed by the <span class="alt-label">better</span><span class="alt-text">(=superior)</span>.
+<span class="v-num">6</span> But he who is not counted in <span class="alt-label">genealogy</span><span class="alt-text">(=descended)</span> from them received tithes <span class="alt-label">from</span><span class="alt-text">(=of)</span> Abraham, and blessed the one having the promises.
 
-<span class="v-num">8</span> And here, in the one case, the <span class="alt-label">dying</span><span class="alt-text">(=mortal)</span> men receive tithes; <span class="added-text">(but)</span> in the other case, there <span class="added-text">(the one)</span> being testified that he lives <span class="added-text">(receives them)</span>.
+<span class="v-num">7</span> But without all dispute, the lesser is blessed by the better.
 
-<span class="v-num">9</span> And <span class="alt-label">as to say a word</span><span class="alt-text">(=so to speak)</span>, Levi also receiving tithes <span class="alt-label">has been taken</span><span class="alt-text">(=paid)</span> tithes through Abraham,
+<span class="v-num">8</span> And here indeed dying men receive tithes; but there, <span class="added-text">(he)</span> of whom it is testified that he lives.
 
-<span class="v-num">10</span> For he was still in the <span class="alt-label">loin</span><span class="alt-text">(=loins)</span> of <span class="alt-label">the</span><span class="alt-text">(=his)</span> father when Melchizedek met him.
+<span class="v-num">9</span> And, so to <span class="alt-label">say</span><span class="alt-text">(=as one might say)</span>, through Abraham even Levi, who receives tithes, has paid tithes,
 
-<span class="v-num">11</span> Therefore if perfection <span class="alt-label">were</span><span class="alt-text">(=had been attained)</span>[^1] through the Levitical priesthood, for under it the people <span class="alt-label">was given</span><span class="alt-text">(=received)</span> a law, why <span class="added-text">(was there)</span> still need <span class="added-text">(for)</span> another priest to arise according to the order of Melchizedek, not be called according to the order of Aaron?
+<span class="v-num">10</span> for he was still in the loins of his father, when Melchizedek met him.
 
-<span class="v-num">12</span> For <span class="alt-label">the priesthood’s being changed</span><span class="alt-text">(=when there is a change of the priesthood)</span>[^2], there is also <span class="alt-label">from necessity</span><span class="alt-text">(=necessarily)</span> a change of <span class="added-text">(the)</span> law.
+<span class="v-num">11</span> If then perfection were through the Levitical priesthood <span class="added-text">(for the people received the law under it)</span>, what further need <span class="added-text">(would there be)</span> for another priest to arise according to the order of Melchizedek, and not be called according to the order of Aaron?[^3]
 
-<span class="v-num">13</span> For he of whom these things <span class="alt-label">is</span><span class="alt-text">(=are)</span> said has belonged to another tribe, from which no one has ever served <span class="added-text">(at)</span> the altar.
+<span class="v-num">12</span> For the priesthood being changed, of necessity there comes also a change of law.
 
-<span class="v-num">14</span> For <span class="added-text">(it is)</span> clear that our Lord has risen from Judah, of which tribe Moses spoke nothing about priests.
+<span class="v-num">13</span> For he of whom these things are said belongs <span class="alt-label">to</span><span class="alt-text">(=has partaken of)</span> another tribe, from which no one has attended at the altar;
 
-<span class="v-num">15</span> And it is still more evident if another priest <span class="alt-label">according to the likeness of</span><span class="alt-text">(=like)</span> Melchizedek arises,
+<span class="v-num">14</span> For it is evident that our Lord has <span class="alt-label">sprung</span><span class="alt-text">(=arisen)</span> out of Judah, concerning which tribe Moses spoke nothing about priesthood.
 
-<span class="v-num">16</span> who has become <span class="added-text">(a priest)</span> not according to <span class="added-text">(the)</span> law of a fleshy commandment but according to <span class="added-text">(the)</span> power of an indestructible life,
+<span class="v-num">15</span> And it is yet more abundantly evident, if according to the likeness of Melchizedek there arises another priest,
 
-<span class="v-num">17</span> for it is testified, “<del class="deleted-text">[that]</del> You <span class="added-text">(are)</span> a priest <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span> according to the order of Melchizedek.”
+<span class="v-num">16</span> who has become <span class="added-text">(so)</span>, not according to <span class="added-text">(the)</span> law of a fleshly commandment, but according to <span class="added-text">(the)</span> power of an indestructible life.
 
-<span class="v-num">18</span> For, on the one hand, there is an annulment of <span class="added-text">(the)</span> preceding commandment because of its <span class="alt-label">weak</span><span class="alt-text">(=weakness)</span> and <span class="alt-label">useless</span><span class="alt-text">(=uselessness)</span>,
+<span class="v-num">17</span> For he testifies, "You <span class="added-text">(are)</span> a priest forever according to the order of Melchizedek."[^4]
 
-<span class="v-num">19</span> for the law made nothing perfect; <span class="added-text">(there is)</span>, on the other hand, <span class="added-text">(the)</span> introduction of a better hope, through which we draw near to God.
+<span class="v-num">18</span> For there is indeed a setting <span class="alt-label">aside</span><span class="alt-text">(=abrogation)</span> of the preceding commandment, because of its weakness and unprofitableness,
 
-<span class="v-num">20</span> And inasmuch as <span class="added-text">(it was)</span> not without an oath; for, on the one hand, they <span class="alt-label">are having become</span><span class="alt-text">(=have become)</span>[^3] priests without any oath,
+<span class="v-num">19</span> for the law made nothing perfect, but the bringing <span class="alt-label">in</span><span class="alt-text">(=introduction)</span> of a better hope <span class="added-text">(did)</span>, through which we draw near to God.
 
-<span class="v-num">21</span> on the other hand, <span class="alt-label">the one</span><span class="alt-text">(=Jesus)</span> with an oath through <span class="alt-label">the One</span><span class="alt-text">(=God)</span> saying to him, “The Lord has sworn and will not change His mind, ‘You are a priest <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span>.’”
+<span class="v-num">20</span> And inasmuch as <span class="added-text">(it was)</span> not without an <span class="alt-label">oath</span><span class="alt-text">(=swearing)</span>;
 
-<span class="v-num">22</span> By so much more Jesus has become <span class="added-text">(the)</span> guarantee of a better covenant.
+<span class="v-num">21</span> for they indeed have become priests without an oath, but he with an oath, through the one saying to him, "The Lord has sworn and will not change his <span class="alt-label">mind</span><span class="alt-text">(=repent)</span>, 'You <span class="added-text">(are)</span> a priest forever according to the order of Melchizedek,'"[^5]
 
-<span class="v-num">23</span> And, on the one hand, <span class="added-text">(the)</span> priests <span class="alt-label">are having become</span><span class="alt-text">(=were)</span>[^4] many in number, <span class="alt-label">because of to be prevented</span><span class="alt-text">(=because they were prevented)</span> by death <span class="alt-label">to continue</span><span class="alt-text">(=from continuing in office)</span>,
+<span class="v-num">22</span> By so much <span class="added-text">(more)</span> Jesus has become <span class="added-text">(the)</span> guarantee of a better covenant.
 
-<span class="v-num">24</span> on the other hand, <span class="alt-label">the because of him to remain</span><span class="alt-text">(=because he remains)</span> <span class="alt-label">on to the age</span><span class="alt-text">(=forever)</span>, he has a permanent priesthood,
+<span class="v-num">23</span> And they indeed have become many priests, because they were prevented by death from continuing;
 
-<span class="v-num">25</span> therefore, he is also able to save <span class="alt-label">to the entire</span><span class="alt-text">(=completely)</span> the ones coming through him to <del class="deleted-text">[the]</del> God, living always <del class="deleted-text">[for the]</del> to intercede for them.
+<span class="v-num">24</span> but he, because he remains forever, has an unchangeable priesthood.
 
-<span class="v-num">26</span> For such a high priest was fitting <span class="added-text">(for)</span> us, <span class="added-text">(who is)</span> holy, blameless, undefiled, having been separated from <del class="deleted-text">[the]</del> sinners, and having become higher than heavens,
+<span class="v-num">25</span> Therefore he is also able to save to the <span class="alt-label">uttermost</span><span class="alt-text">(=completely)</span> those who come to God through him, since he always lives to make <span class="alt-label">intercession</span><span class="alt-text">(=to intercede)</span> for them.[^6]
 
-<span class="v-num">27</span> who has <span class="alt-label">not necessity</span><span class="alt-text">(=no need)</span> <span class="alt-label">during day</span><span class="alt-text">(=daily)</span>, as the high priests, to offer sacrifices first for <span class="alt-label">the</span><span class="alt-text">(=his)</span> own sins, <span class="added-text">(and)</span> then the <span class="added-text">(sins)</span> of the people; for this he did once for all, having offered himself.
+<span class="v-num">26</span> For such a high priest was fitting for us, holy, without <span class="alt-label">evil</span><span class="alt-text">(=guileless)</span>, undefiled, separated from sinners, and having become higher than the heavens;
 
-<span class="v-num">28</span> For the law appoints <span class="added-text">(as)</span> high priests men having weakness, but the word of oath after the law <span class="added-text">(appoints the)</span> Son having been perfected <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span>.
+<span class="v-num">27</span> who does not need daily, as the high priests <span class="added-text">(do)</span>, to offer up sacrifices first for his own sins, then for those of the people; for this he did once for <span class="alt-label">all</span><span class="alt-text">(=at once)</span>, when he offered up himself.[^7]
+
+<span class="v-num">28</span> For the law appoints men <span class="added-text">(as)</span> high priests, who have weakness; but the word of the oath, which <span class="added-text">(came)</span> after the law, <span class="added-text">(appoints the)</span> Son, having been <span class="alt-label">perfected</span><span class="alt-text">(=made perfect)</span> forever.[^8]
 
 ---
 
-### Study Notes
-
-[^1]: unfulfilled condition
-[^2]: genitive absolute
-[^3]: periphrastic perfect
-[^4]: periphrastic perfect
+[^1]: 멜기세덱(의의 왕)과 살렘(평강)이라는 이름의 뜻이 그리스도의 예표적 특성—의와 평강을 함께 가진 왕—을 드러낸다.
+[^2]: ἀφωμοιωμένος(닮게 하다)는 완료수동분사로, 멜기세덱이 그리스도의 영원한 제사장직을 미리 보여주는 예표임을 나타낸다.
+[^3]: τελείωσις(성취, 이루어짐)는 레위 제사장직이 온전한 구원과 화해를 이루지 못했음을 강조하는 핵심어이다.
+[^4]: 시편 110편 4절 인용으로, 멜기세덱의 반차를 따른 영원한 제사장직이 그리스도에게 적용됨을 보여준다.
+[^5]: 시편 110편 4절이 다시 인용되어, 맹세로 세워진 그리스도의 제사장직이 레위 제사장직보다 우월함을 뒷받침한다.
+[^6]: ἐντυγχάνειν(간구하다)은 그리스도께서 지금도 살아서 성도를 위해 계속 중보하심을 나타내는 핵심 동사이다.
+[^7]: ἐφάπαξ(단번에)는 날마다 반복되는 제사와 대조되어 그리스도의 단 한 번의 자기희생의 완전성과 충족성을 강조한다.
+[^8]: τετελειωμένον은 완료수동분사로, 아들이 이미 온전하게 되어 영원히 그 상태에 머무르심을 나타낸다.

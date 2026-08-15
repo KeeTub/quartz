@@ -4,7 +4,7 @@ description: "1 John Chapter 5"
 book: "1 John"
 chapter: 5
 order: 5
-tags: [NTpbsEn, 1_John]
+tags: [NTpbsEn, 1John]
 ---
 
 # 1 John 5
@@ -16,52 +16,56 @@ tags: [NTpbsEn, 1_John]
 </div>
 
 
-<span class="v-num">1</span> Everyone believing that Jesus is the Christ has been <span class="alt-label">begotten</span><span class="alt-text">(=born)</span> <span class="alt-label">from</span><span class="alt-text">(=of)</span> <del class="deleted-text">[the]</del> God, and everyone loving <span class="alt-label">the One having begotten</span><span class="alt-text">(=the Father)</span> also loves <span class="alt-label">the one having been begotten</span><span class="alt-text">(=the Son)</span> <span class="alt-label">from</span><span class="alt-text">(=of)</span> Him.
+<span class="v-num">1</span> Everyone believing that Jesus is the Christ has been born of God, and everyone loving the one who begot <span class="added-text">(him)</span> loves also the one having been born of him.[^1]
 
-<span class="v-num">2</span> <span class="alt-label">In</span><span class="alt-text">(=By)</span> this we know that we <del class="deleted-text">[may]</del> love the children of God, when we <del class="deleted-text">[may]</del> love <del class="deleted-text">[the]</del> God and <del class="deleted-text">[may]</del> <span class="alt-label">do</span><span class="alt-text">(=obey)</span> His commandments.
+<span class="v-num">2</span> By this we know that we love the children of God, when we love God and keep his commandments.
 
-<span class="v-num">3</span> For this is the love of <del class="deleted-text">[the]</del> God, that we <del class="deleted-text">[may]</del> keep His commandments. And His commandments are not burdensome,
+<span class="v-num">3</span> For this is the love of God, that we keep his commandments, and his commandments are not burdensome.[^2]
 
-<span class="v-num">4</span> because <span class="alt-label">everything</span><span class="alt-text">(=everyone)</span> having been born <span class="alt-label">from</span><span class="alt-text">(=of)</span> <del class="deleted-text">[the]</del> God overcomes the world; and this is the victory having overcome the world, our faith.
+<span class="v-num">4</span> Because everything having been born of God overcomes the world; and this is the victory that has overcome the world, our faith.
 
-<span class="v-num">5</span> Who is the one overcoming the world but the one believing that Jesus is the Son of God?
+<span class="v-num">5</span> Who is the one overcoming the world, except the one believing that Jesus is the Son of God?
 
-<span class="v-num">6</span> This is the one having come <span class="alt-label">through</span><span class="alt-text">(=by)</span> water and blood, Jesus Christ, not <span class="alt-label">in</span><span class="alt-text">(=by)</span> <del class="deleted-text">[the]</del> water only, but <span class="alt-label">in</span><span class="alt-text">(=by)</span> <del class="deleted-text">[the]</del> water and <del class="deleted-text">[in the]</del> blood. And it is the Spirit <span class="alt-label">testifying</span><span class="alt-text">(=who testifies)</span>, because the Spirit is the truth.
+<span class="v-num">6</span> This is the one who came through water and blood, Jesus Christ; not by water only, but by water and blood; and the Spirit is the one testifying, because the Spirit is the truth.[^3]
 
-<span class="v-num">7</span> For there are three <span class="alt-label">testifying</span><span class="alt-text">(=who testify)</span> <u>in the heaven, the Father, the Word, and the Holy Spirit, and these three are one</u>[^1];
+<span class="v-num">7</span> For there are three that bear witness in heaven, the Father, the Word, and the Holy Spirit, and these three are one.[^4]
 
-<span class="v-num">8</span> the Sprit and the water and the blood, and the three are into the one.
+<span class="v-num">8</span> And there are three that bear witness on earth, the Spirit, and the water, and the blood, and the three agree in the <span class="alt-label">one</span><span class="alt-text">(=are one)</span>.
 
-<span class="v-num">9</span> If we receive the testimony of men, the testimony of <del class="deleted-text">[the]</del> God is greater, because this is the testimony of <del class="deleted-text">[the]</del> God that He has testified about His Son.
+<span class="v-num">9</span> If we receive the testimony of men, the testimony of God is greater; for this is the testimony of God, which he has testified concerning his Son.
 
-<span class="v-num">10</span> The one believing in the Son of God has the testimony in himself. The one not believing <del class="deleted-text">[the]</del> God has made Him a liar, because he has not believed in the testimony which <del class="deleted-text">[the]</del> God has testified about His Son.
+<span class="v-num">10</span> The one believing in the Son of God has the testimony in himself; the one not believing God has made him a liar, because he has not believed in the testimony which God has testified concerning his Son.
 
-<span class="v-num">11</span> And this is the testimony: that <del class="deleted-text">[the]</del> God has given us eternal life, and this life is in His Son.
+<span class="v-num">11</span> And this is the testimony, that God gave us eternal life, and this life is in his Son.
 
-<span class="v-num">12</span> The one having the Son has <del class="deleted-text">[the]</del> life. The one not having the Son of God does not have <del class="deleted-text">[the]</del> life.
+<span class="v-num">12</span> The one having the Son has the life; the one not having the Son of God does not have the life.
 
-<span class="v-num">13</span> I wrote these things <span class="added-text">(to)</span> you believing in the name of the Son of <del class="deleted-text">[the]</del> God, so that you may know that you have eternal life.
+<span class="v-num">13</span> These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may believe in the name of the Son of God.[^5]
 
-<span class="v-num">14</span> And this is the confidence which we have toward Him, that if we <del class="deleted-text">[may]</del> ask anything according to His will, He hears us.
+<span class="v-num">14</span> And this is the confidence which we have toward him, that if we ask anything according to his will, he hears us.[^6]
 
-<span class="v-num">15</span> And if we know that He hears us, whatever we <del class="deleted-text">[may]</del> ask, we know that we have the petitions which we have asked <span class="alt-label">from</span><span class="alt-text">(=of)</span> Him.
+<span class="v-num">15</span> And if we know that he hears us, whatever we ask, we know that we have the requests which we have asked from him.[^7]
 
-<span class="v-num">16</span> If anyone <del class="deleted-text">[might]</del> sees his brother sinning a sin not <span class="added-text">(leading)</span> to death, <span class="alt-label">he will ask</span><span class="alt-text">(=let him ask)</span>[^2], and He will give life <span class="added-text">(to)</span> him, <span class="added-text">(for)</span> the ones <span class="alt-label">sinning</span><span class="alt-text">(=committing a sin)</span> not <span class="added-text">(leading)</span> to death. <span class="added-text">(There)</span> is a sin <span class="added-text">(leading)</span> to death, I do not say that he should ask about that.
+<span class="v-num">16</span> If anyone sees his brother sinning a sin not unto death, he shall ask, and <span class="added-text">(God)</span> will give him life, for those sinning not unto death. There is a sin unto death; I do not say that he should ask concerning that.[^8]
 
-<span class="v-num">17</span> All <span class="alt-label">unrighteousness</span><span class="alt-text">(=wrongdoing)</span> is sin, and there is a sin not <span class="added-text">(leading)</span> to death.
+<span class="v-num">17</span> All unrighteousness is sin, and there is a sin not unto death.
 
-<span class="v-num">18</span> We know that whoever having had been <span class="alt-label">born</span><span class="alt-text">(=being born)</span>[^3] <span class="alt-label">from</span><span class="alt-text">(=of)</span> <del class="deleted-text">[the]</del> God does not sin, but the One having been born <span class="alt-label">from</span><span class="alt-text">(=of)</span> God keeps <span class="alt-label">himself</span><span class="alt-text">(=him)</span>, and the evil one does not touch him.
+<span class="v-num">18</span> We know that everyone having been born of God does not sin; but the one having been born of God keeps himself, and the evil one does not touch him.
 
-<span class="v-num">19</span> We know that we are <span class="alt-label">from</span><span class="alt-text">(=of)</span> <del class="deleted-text">[the]</del> God, and the whole world lies <span class="alt-label">in</span><span class="alt-text">(=in the power of)</span> the evil one.
+<span class="v-num">19</span> We know that we are of God, and the whole world lies in the evil one.
 
-<span class="v-num">20</span> We know that the Son of <del class="deleted-text">[the]</del> God has come, and has given us an understanding so that we may know the true One, and we are in the true One, in His Son Jesus Christ. This is the true God and eternal life.
+<span class="v-num">20</span> And we know that the Son of God has come, and has given us understanding, that we may know the true one; and we are in the true one, in his Son Jesus Christ. This is the true God, and eternal life.[^9]
 
-<span class="v-num">21</span> Children, keep yourselves from <del class="deleted-text">[the]</del> idols.
+<span class="v-num">21</span> Little children, keep yourselves from idols. Amen.
 
 ---
 
-### Study Notes
-
-[^1]: deleted in some manuscripts
-[^2]: imperatival future
-[^3]: perfect participle as present sense
+[^1]: γεγέννηται는 완료시제로 과거의 출생이 현재까지 지속되는 상태(하나님의 자녀 됨)를 나타낸다.
+[^2]: ἵνα+가정법(τηρῶμεν)이 '하나님의 사랑'의 내용을 설명하는 목적절(동격적 용법)로 쓰였다. 즉 하나님을 사랑하는 것이 무엇인지를 구체적으로 정의하는 구문이다.
+[^3]: 물과 피는 예수의 세례와 십자가 죽음을 가리키는 것으로 이해되며, 성령이 그 진실성을 증언하는 구조이다.
+[^4]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 후대 삽입(comma Johanneum)으로 보아 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^5]: 두 개의 ἵνα절이 병렬되어 편지의 목적(확신하게 함, 계속 믿게 함)을 이중으로 밝힌다.
+[^6]: ἐάν+가정법(αἰτώμεθα)으로 이루어진 3급 조건문으로 아직 실현되지 않은 기도의 가능성을 나타낸다.
+[^7]: ἐὰν+가정법(οἴδαμεν은 직설법이지만 조건절 도입부로 쓰임)은 아직 확정되지 않았으나 실현 가능성이 열려 있는 조건을 나타낸다. '만일 우리가 안다면'이라는 전제 하에 응답의 확신이 뒤따르는 구조로, 기도 응답에 대한 신뢰의 근거를 보여준다.
+[^8]: ἐάν+가정법(ἴδῃ)은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절로 '누구든지 보게 되면'이라는 열린 가정을 뜻한다. 뒤의 ἵνα+가정법(ἐρωτήσῃ)은 λέγω의 목적절로 '구하라고 말하다'라는 의도를 나타낸다.
+[^9]: ἵνα+가정법(γινώσκωμεν)은 목적절로, 하나님이 지각을 주신 목적이 '참되신 이를 알게 하려' 함임을 나타낸다. 단순한 지식이 아니라 하나님이 의도하신 인격적 앎의 목적을 강조한다.

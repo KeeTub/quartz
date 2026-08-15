@@ -4,7 +4,7 @@ description: "2 Corinthians Chapter 4"
 book: "2 Corinthians"
 chapter: 4
 order: 4
-tags: [NTpbsEn, 2_Corinthians]
+tags: [NTpbsEn, 2Corinthians]
 ---
 
 # 2 Corinthians 4
@@ -16,46 +16,48 @@ tags: [NTpbsEn, 2_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> Therefore, having this ministry, as we have received mercy, we do not lose heart.
+<span class="v-num">1</span> Because of this, having this ministry, just as we received mercy, we do not lose <span class="alt-label">heart</span><span class="alt-text">(=grow weary)</span>,
 
-<span class="v-num">2</span> But we have renounced the hidden things of shame, not walking in craftiness nor falsifying the word of God, but <span class="added-text">(by)</span> the manifestation of the truth commending ourselves to every conscience of men before God.
+<span class="v-num">2</span> but we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every conscience of men, before God.
 
-<span class="v-num">3</span> And even if our gospel <span class="alt-label">is having been veiled</span><span class="alt-text">(=has been veiled)</span>[^1], it <span class="alt-label">is having been veiled</span><span class="alt-text">(=has been veiled)</span>[^2] <span class="alt-label">in</span><span class="alt-text">(=to)</span> the perishing ones,
+<span class="v-num">3</span> But even if our gospel is veiled, it is veiled among <span class="added-text">(those)</span> who are perishing,
 
-<span class="v-num">4</span> <span class="alt-label">in</span><span class="alt-text">(=to)</span> whom the god of this age has blinded the minds of the unbelieving ones, <span class="alt-label">to the not to see</span><span class="alt-text">(=so that they cannot see)</span> the light of the gospel of the glory of Christ, who is <span class="added-text">(the)</span> image of God.
+<span class="v-num">4</span> among whom the <span class="alt-label">god</span><span class="alt-text">(=God)</span> of this age has blinded the <span class="alt-label">thoughts</span><span class="alt-text">(=minds)</span> of the unbelieving, so that the light of the gospel of the glory of Christ, who is the image of God, should not shine <span class="added-text">(on them)</span>.[^1]
 
-<span class="v-num">5</span> For we proclaim not ourselves but Christ Jesus <span class="added-text">(as)</span> the Lord, and ourselves <span class="added-text">(as)</span> your slaves for Jesus’ sake.
+<span class="v-num">5</span> For we do not preach ourselves, but Christ Jesus <span class="added-text">(as)</span> Lord, and ourselves <span class="added-text">(as)</span> your servants for Jesus' sake.
 
-<span class="v-num">6</span> For <span class="added-text">(it is)</span> the God <span class="alt-label">saying</span><span class="alt-text">(=who said)</span>, “Light shall shine out of the darkness,” who has shone in our hearts <span class="alt-label">for</span><span class="alt-text">(=to give)</span> <span class="added-text">(the)</span> light of the knowledge of the glory of God in <span class="added-text">(the)</span> face of Christ.
+<span class="v-num">6</span> Because the God who said, 'Let light shine out of darkness,' is He who shone in our hearts, for the illumination of the knowledge of the glory of God in the face of Jesus Christ.[^2]
 
-<span class="v-num">7</span> And we have this treasure in earthen jars, so that the excellence of the power may be of God not from us.
+<span class="v-num">7</span> But we have this treasure in earthen vessels, so that the surpassing greatness of the power may be of God, and not from us;[^3]
 
-<span class="v-num">8</span> <span class="alt-label">Being pressed</span><span class="alt-text">(=We are pressed)</span> in every <span class="added-text">(way)</span>, but not being crushed; being <span class="alt-label">perplexed</span><span class="alt-text">(=we are perplexed)</span>, but not despairing;
+<span class="v-num">8</span> being troubled in every way, but not <span class="alt-label">distressed</span><span class="alt-text">(=crushed)</span>; being perplexed, but not in despair;
 
-<span class="v-num">9</span> being <span class="alt-label">persecuted</span><span class="alt-text">(=we are persecuted)</span>, but not being abandoned; being struck <span class="alt-label">down</span><span class="alt-text">(=we are struck down)</span>, but not being destroyed;
+<span class="v-num">9</span> being persecuted, but not forsaken; being cast down, but not destroyed;
 
-<span class="v-num">10</span> always carrying around in <span class="alt-label">the</span><span class="alt-text">(=our)</span> body the dying of Jesus, so that the life of Jesus also <span class="alt-label">might</span><span class="alt-text">(=may)</span> be manifested in our body.
+<span class="v-num">10</span> always carrying about in the body the <span class="alt-label">dying</span><span class="alt-text">(=putting to death)</span> of the Lord Jesus, so that the life of Jesus also may be manifested in our body.[^4]
 
-<span class="v-num">11</span> For we <span class="added-text">(who are)</span> living are always being delivered to death for Jesus’ sake, so that the life of Jesus also <span class="alt-label">might</span><span class="alt-text">(=may)</span> be manifested in our mortal flesh.
+<span class="v-num">11</span> For we who live are always being delivered to death for Jesus' sake, so that the life of Jesus also may be manifested in our mortal flesh.[^5]
 
-<span class="v-num">12</span> So <del class="deleted-text">[the]</del> death is at work in us, but <del class="deleted-text">[the]</del> life in you.
+<span class="v-num">12</span> So then death works in us, but life in you.
 
-<span class="v-num">13</span> And having the same spirit of faith, according to the thing having been written, “I believed; therefore I spoke,” we also believe and therefore we speak,
+<span class="v-num">13</span> And having the same spirit of faith, according to what is written, 'I believed, therefore I spoke,' we also believe, therefore we also speak;[^6]
 
-<span class="v-num">14</span> knowing<span class="added-text">(#perfect as present)</span> that the One having raised the Lord Jesus will also raise us with Jesus, and will present <span class="added-text">(us)</span> with you.
+<span class="v-num">14</span> knowing that He who raised the Lord Jesus will also raise us through Jesus, and will present <span class="added-text">(us)</span> with you.
 
-<span class="v-num">15</span> For all things <span class="added-text">(are)</span> for your sake, so that the grace, having increased through <span class="alt-label">the greater <span class="added-text">(number)</span></span><span class="alt-text">(=the many)</span>, <span class="alt-label">might</span><span class="alt-text">(=may)</span> cause <del class="deleted-text">[the]</del> thanksgiving <span class="added-text">(to)</span> overflow, to the glory of God.
+<span class="v-num">15</span> For all things <span class="added-text">(are)</span> for your sake, so that the grace, having abounded through the <span class="alt-label">more</span><span class="alt-text">(=greater number of people)</span>, may cause the thanksgiving to overflow to the glory of God.[^7]
 
-<span class="v-num">16</span> Therefore we do not lose heart. <span class="alt-label">But if</span><span class="alt-text">(=Even though)</span> our outward man is wasting away, yet our inward <span class="added-text">(man)</span> is being renewed day <span class="alt-label">and</span><span class="alt-text">(=by)</span> day.
+<span class="v-num">16</span> Therefore we do not lose heart; but even if our outward man is <span class="alt-label">perishing</span><span class="alt-text">(=wasting away)</span>, yet the inward <span class="added-text">(man)</span> is being renewed day by day.
 
-<span class="v-num">17</span> For the momentary lightness of our affliction is <span class="alt-label">working</span><span class="alt-text">(=achieving)</span> for us an eternal weight of glory <span class="alt-label">throughout excess to excess</span><span class="alt-text">(=beyond all measure)</span>,
+<span class="v-num">17</span> For our <span class="alt-label">momentary</span><span class="alt-text">(=present)</span> light affliction is working out for us an eternal weight of glory beyond all <span class="alt-label">measure</span><span class="alt-text">(=exceedingly)</span>,
 
-<span class="v-num">18</span> <span class="alt-label">Our looking</span><span class="alt-text">(=because we look)</span>[^3] not the things <span class="alt-label">being seen</span><span class="alt-text">(=which are seen)</span>, but the things <span class="alt-label">not being seen</span><span class="alt-text">(=which are not seen)</span>; for the things <span class="alt-label">being seen</span><span class="alt-text">(=which are seen)</span> <span class="added-text">(are)</span> temporary, but the things <span class="alt-label">not being seen</span><span class="alt-text">(=which are not seen)</span> <span class="added-text">(are)</span> eternal.
+<span class="v-num">18</span> we not looking at the things which are seen, but at the things which are not seen; for the things which are seen <span class="added-text">(are)</span> temporary, but the things which are not seen <span class="added-text">(are)</span> eternal.
 
 ---
 
-### Study Notes
-
-[^1]: periphrastic perfect
-[^2]: periphrastic perfect
-[^3]: genitive absolute
+[^1]: '이 세상의 하나님(=신)'은 사탄을 가리키는 표현으로, 참 하나님과 구분하기 위해 개역 전통은 '신'으로 옮김. εἰς τὸ μὴ αὐγάσαι는 목적을 나타내는 부정사구문이다.
+[^2]: '어둠으로부터 빛이 비취라'는 창세기 1:3의 창조 언어를 그리스도 안의 새 창조에 적용한 표현이다.
+[^3]: ἵνα절은 목적을 나타내는 가정법 구문으로, 능력의 근원이 하나님께 있음을 강조한다.
+[^4]: ἵνα+가정법 목적절로 예수의 생명이 나타나는 목적을 밝힌다.
+[^5]: ἵνα+가정법 목적절이 반복되어 죽음과 생명의 대조를 강조한다.
+[^6]: 시편 116:10(LXX 115:1)의 인용으로, 믿음과 말함의 관계를 근거로 제시한다.
+[^7]: ἵνα+가정법 목적절로 은혜의 풍성함이 감사로 이어지는 목적을 나타낸다.

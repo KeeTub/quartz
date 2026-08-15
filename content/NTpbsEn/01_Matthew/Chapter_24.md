@@ -16,110 +16,117 @@ tags: [NTpbsEn, Matthew]
 </div>
 
 
-<span class="v-num">1</span> And having come out of the temple, <del class="deleted-text">[the]</del> Jesus was going <span class="added-text">(on his way)</span>. And his disciples came to <span class="added-text">(him)</span> to show him the buildings of the temple.
+<span class="v-num">1</span> And Jesus, having gone out, was departing from the temple, and his disciples came to <span class="added-text">(him)</span> to show him the buildings of the temple.
 
-<span class="v-num">2</span> And having answered, he said <span class="added-text">(to)</span> them, “You see all these things, <span class="added-text">(you do)</span> not? Truly I say <span class="added-text">(to)</span> you, <span class="added-text">(there)</span> shall not be left here one stone upon <span class="added-text">(another)</span> stone, that will <del class="deleted-text">[not]</del> be thrown down.”
+<span class="v-num">2</span> But Jesus said to them, "Do you not see all these things? Truly I say to you, there shall not be left here <span class="added-text">(one)</span> stone upon <span class="added-text">(another)</span> stone, which shall not be thrown down."
 
-<span class="v-num">3</span> And <span class="alt-label">his sitting</span><span class="alt-text">(=when he was sitting)</span>[^1] on the Mount of <del class="deleted-text">[the]</del> Olives, the disciples came to him privately, saying, “Tell us, when will this things be, and what will be the sign of your coming and of the end of the age?”
+<span class="v-num">3</span> <span class="added-text">(As)</span> he was sitting on the Mount of Olives, the disciples came to him privately, saying, "Tell us, when will these things be, and what <span class="added-text">(is)</span> the sign of your coming, and of the end (=completion) of the age?"
 
-<span class="v-num">4</span> And having answered, <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> them, “Watch out that no one might deceive you.”
+<span class="v-num">4</span> And Jesus, answering, said to them, "Take heed that no one deceives you.
 
-<span class="v-num">5</span> “For many will come <span class="alt-label">on</span><span class="alt-text">(=in)</span> my name, saying, ‘I am the Christ,’ and will deceive many.”
+<span class="v-num">5</span> For many will come in my name, saying, 'I am the Christ,' and will deceive many.
 
-<span class="v-num">6</span> “And you will <del class="deleted-text">[to]</del> hear of wars and rumors of wars; see that you are not alarmed; for it must <del class="deleted-text">[to]</del> happen, but the end is not yet.”
+<span class="v-num">6</span> And you will hear of wars and rumors of wars. See that you are not troubled, for all <span class="added-text">(these things)</span> must come to pass, but the end is not yet.
 
-<span class="v-num">7</span> “For nation will rise against nation, and kingdom against kingdom. And there will be famines and earthquakes <span class="alt-label">throughout</span><span class="alt-text">(=in)</span> places.”
+<span class="v-num">7</span> For nation will rise against nation, and kingdom against kingdom, and there will be famines and pestilences and earthquakes in various places.
 
-<span class="v-num">8</span> “But all these things <span class="added-text">(are)</span> beginning of birth pains.”
+<span class="v-num">8</span> But all these <span class="added-text">(are the)</span> beginning of birth pains (=sorrows).
 
-<span class="v-num">9</span> “Then they will deliver you to affliction, and will kill you. And you will be hated by all nations because of my name.”
+<span class="v-num">9</span> Then they will deliver you up to tribulation, and will kill you, and you will be hated by all the nations because of my name.
 
-<span class="v-num">10</span> “And then many will fall away and <del class="deleted-text">[will]</del> deliver one another and <del class="deleted-text">[will]</del> hate one another.”
+<span class="v-num">10</span> And then many will be offended, and will deliver up one another, and will hate one another.
 
-<span class="v-num">11</span> “And many false prophets will rise and <del class="deleted-text">[will]</del> deceive many.”
+<span class="v-num">11</span> And many false prophets will arise, and will deceive many.
 
-<span class="v-num">12</span> “And because of <span class="alt-label"><span class="added-text">(for)</span> the lawlessness to increase</span><span class="alt-text">(=the increase of lawlessness)</span>, the love of many will cool.”
+<span class="v-num">12</span> And because iniquity will be multiplied, the love of many will grow cold.
 
-<span class="v-num">13</span> “But this one having endured to <span class="added-text">(the)</span> end will be saved.”
+<span class="v-num">13</span> But the one who endures to <span class="added-text">(the)</span> end, this one will be saved.
 
-<span class="v-num">14</span> “And this gospel of the kingdom will be proclaimed in the whole world for<span class="added-text">(# purpose)</span> testimony to all <del class="deleted-text">[the]</del> nations, and then the end will come.”
+<span class="v-num">14</span> And this gospel of the kingdom will be preached in the whole world (=inhabited earth) for a testimony to all the nations, and then the end will come.
 
-<span class="v-num">15</span> “Therefore when you <del class="deleted-text">[might]</del> see ‘the abomination of desolation,’ spoken by Daniel the prophet, standing in <span class="added-text">(the)</span> holy place, let the reading one understand.”
+<span class="v-num">15</span> Therefore when you see the abomination of desolation, spoken of through Daniel the prophet, standing in <span class="added-text">(the)</span> holy place <span class="added-text">(let the reader understand)</span>,[^1]
 
-<span class="v-num">16</span> “Then let the ones in <del class="deleted-text">[the]</del> Judea flee to the mountains.”
+<span class="v-num">16</span> then let those in Judea flee to the mountains.
 
-<span class="v-num">17</span> “Let the one on the roof not come down to take <span class="alt-label">the things</span><span class="alt-text">(=anything)</span> from his house.”
+<span class="v-num">17</span> Let the one on the housetop not come down to take anything out of his house,
 
-<span class="v-num">18</span> “And let the one in the field not return back to take his cloak.”
+<span class="v-num">18</span> and let the one in the field not turn back to take his garments.
 
-<span class="v-num">19</span> “And woe to the <span class="alt-label">ones</span><span class="alt-text">(=women)</span> having <span class="added-text">(child)</span> in womb and to the <span class="alt-label">ones</span><span class="alt-text">(=women)</span> giving suck in those days.”
+<span class="v-num">19</span> But woe to those who are with child and to those who nurse <span class="added-text">(infants)</span> in those days!
 
-<span class="v-num">20</span> “And pray lest your flight might be <span class="alt-label">of</span><span class="alt-text">(=in)</span>[^2] winter, neither <span class="alt-label">of</span><span class="alt-text">(=on)</span> a Sabbath.”
+<span class="v-num">20</span> And pray that your flight may not be in winter, nor on <span class="added-text">(the)</span> Sabbath.[^2]
 
-<span class="v-num">21</span> “For then there will be great affliction, such as has not been from <span class="added-text">(the)</span> beginning of <span class="added-text">(the)</span> world until now, and never will be.”
+<span class="v-num">21</span> For then there will be great tribulation, such as has not happened from <span class="added-text">(the)</span> beginning of <span class="added-text">(the)</span> world until now, no, nor ever shall be.
 
-<span class="v-num">22</span> “And unless those days had been shortened, all flesh would not be saved. But for the sake of the elect those days will be shortened.”
+<span class="v-num">22</span> And unless those days were shortened, no flesh would be saved, but for the sake of the elect those days will be shortened.
 
-<span class="v-num">23</span> “Then if anyone <del class="deleted-text">[might]</del> says <span class="added-text">(to)</span> you, ‘Behold, here <span class="added-text">(is)</span> the Christ!’ or <span class="alt-label">‘Here</span><span class="alt-text">(=There)</span>!’ do not believe <span class="added-text">(it)</span>.”
+<span class="v-num">23</span> Then if anyone says to you, 'Behold, here <span class="added-text">(is)</span> the Christ,' or 'There,' do not believe <span class="added-text">(it)</span>.[^3]
 
-<span class="v-num">24</span> “For false Christs and false prophets will rise and <del class="deleted-text">[will]</del> <span class="alt-label">give</span><span class="alt-text">(=show)</span> great signs and wonders, so as to deceive, if possible, even the elect.” 
-25 “Behold, I have told you beforehand.”
+<span class="v-num">24</span> For false christs and false prophets will arise, and will show great signs and wonders, so as to deceive, if possible, even the elect.
 
-<span class="v-num">26</span> “Therefore if they <del class="deleted-text">[might]</del> say <span class="added-text">(to)</span> you, ‘Behold, he is in the wilderness!’ do not go out<span class="added-text">(# prohibition with aorist subjunctive)</span>, ‘Behold, <span class="added-text">(he is)</span> in the inner rooms!’ do not believe <span class="added-text">(it)</span>.”
+<span class="v-num">25</span> Behold, I have told you beforehand.
 
-<span class="v-num">27</span> “For as the lightning comes from <span class="added-text">(the)</span> east and shines to <span class="added-text">(the)</span> west, so will be the coming of the Son of Man.”
+<span class="v-num">26</span> Therefore if they say to you, 'Behold, he is in the desert,' do not go out; 'Behold, <span class="added-text">(he is)</span> in the inner rooms,' do not believe <span class="added-text">(it)</span>.[^4]
 
-<span class="v-num">28</span> “Wherever the carcass <del class="deleted-text">[may]</del> is, there the eagles will be gathered together.”
+<span class="v-num">27</span> For as the lightning comes out of <span class="added-text">(the)</span> east, and shines to <span class="added-text">(the)</span> west, so also will be the coming of the Son of Man.
 
-<span class="v-num">29</span> “And immediately after the affliction of those days the sun will be darkened, and the moon will not give her splendour, and the stars will fall from heaven, and the powers of <span class="added-text">(the)</span> heavens will be shaken.”
+<span class="v-num">28</span> For wherever the carcass is, there the eagles will be gathered together.[^5]
 
-<span class="v-num">30</span> “And then the sign of the Son of Man will appear in heaven, and then all the tribes of the land will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.”
+<span class="v-num">29</span> But immediately after the tribulation of those days, the sun will be darkened, and the moon will not give her light, and the stars will fall from heaven, and the powers of the heavens will be shaken.[^6]
 
-<span class="v-num">31</span> “And he will send his angels with a loud trumpet sound, and they will gather together his elect out of the four winds, from <span class="alt-label">ends</span><span class="alt-text">(=one end)</span> of <span class="added-text">(the)</span> heavens to <span class="alt-label">their ends</span><span class="alt-text">(=the other)</span>.”
+<span class="v-num">30</span> And then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.[^7]
 
-<span class="v-num">32</span> “And from the fig tree learn <span class="alt-label">the</span><span class="alt-text">(=this)</span> parable. When already its branch <del class="deleted-text">[might]</del> becomes tender and <del class="deleted-text">[might]</del> produce <span class="added-text">(its)</span> leaves, you know that the summer <span class="added-text">(is)</span> near.”
+<span class="v-num">31</span> And he will send his angels with a great sound of a trumpet, and they will gather together his elect from the four winds, from one end of heaven to the other.
 
-<span class="v-num">33</span> “So also when you <del class="deleted-text">[might]</del> see all these things, you know that he is near <span class="alt-label">on</span><span class="alt-text">(=at)</span> <span class="added-text">(the)</span> doors.”
+<span class="v-num">32</span> Now learn the parable from the fig tree: when its branch has already become tender, and puts forth leaves, you know that summer is near.
 
-<span class="v-num">34</span> “Truly I say <span class="added-text">(to)</span> you, <del class="deleted-text">[that]</del> this generation <span class="alt-label">might</span><span class="alt-text">(=will)</span> never passe away until all these things <del class="deleted-text">[might]</del> happen.”
+<span class="v-num">33</span> So also you, when you see all these things, know that it is near, at the doors.
 
-<span class="v-num">35</span> “The heaven and the earth will pass away, but my words <span class="alt-label">might</span><span class="alt-text">(=will)</span> never pass away.”
+<span class="v-num">34</span> Truly I say to you, this generation shall not pass away, until all these things take place.[^8]
 
-<span class="v-num">36</span> “But about that day and hour no one knows<span class="added-text">(# pf. of present meaning)</span>, neither the angels of the heavens nor the Son, but the Father only.”
+<span class="v-num">35</span> Heaven and earth will pass away, but my words shall not pass away.
 
-<span class="v-num">37</span> “For as the days of Noah <span class="added-text">(were)</span>, so will be the coming of the Son of Man.”
+<span class="v-num">36</span> But concerning that day and hour, no one knows, not even the angels of heaven, but my Father only.
 
-<span class="v-num">38</span> “For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until <span class="added-text">(the)</span> day when Noah entered into the ark.”
+<span class="v-num">37</span> But as the days of Noah <span class="added-text">(were)</span>, so also will be the coming of the Son of Man.
 
-<span class="v-num">39</span> “And they did not know until the flood came and took <span class="added-text">(them)</span> all away, so will be also the coming of the Son of Man.”
+<span class="v-num">38</span> For as in the days before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ark,
 
-<span class="v-num">40</span> “Then two <span class="added-text">(men)</span> will be in the field, one <span class="alt-label">is</span><span class="alt-text">(=will be)</span> taken and one is left.”
+<span class="v-num">39</span> and they did not know until the flood came and took them all away, so also will be the coming of the Son of Man.
 
-<span class="v-num">41</span> “Two <span class="added-text">(women will be)</span> grinding <span class="alt-label">in</span><span class="alt-text">(=at)</span> the mill, one is taken, and one is left”
+<span class="v-num">40</span> Then two will be in the field; the one is taken, and the other is left.
 
-<span class="v-num">42</span> “Watch therefore, because you do not know<span class="added-text">(# perfect as present)</span> on what day your Lord is coming.”
+<span class="v-num">41</span> Two <span class="added-text">(women)</span> will be grinding at the mill; one is taken, and the other is left.
 
-<span class="v-num">43</span> “But you know this, that if the owner of the house knew<span class="added-text">(# Pluperfect as imperfect)</span> in what watch the thief is coming, he would have been awake and would not have allowed his house to be dug through.”
+<span class="v-num">42</span> Watch therefore, for you do not know in what hour your Lord comes.
 
-<span class="v-num">44</span> “Therefore, you also be ready, because <span class="added-text">(at)</span> the hour that you do not think the Son of Man is coming.”
+<span class="v-num">43</span> But know this, that if the master of the house had known in what watch the thief was coming, he would have watched, and would not have allowed his house to be broken into.
 
-<span class="v-num">45</span> “Who then is the faithful and wise slave, whom <span class="alt-label">the</span><span class="alt-text">(=his)</span> lord has appointed over his household to give them the food <span class="alt-label">in</span><span class="alt-text">(=at)</span> <span class="added-text">(the proper)</span> time?”
+<span class="v-num">44</span> Therefore you also be ready, for the Son of Man comes at an hour when you do not think <span class="added-text">(he will)</span>.
 
-<span class="v-num">46</span> “Blessed <span class="added-text">(is)</span> that slave whom his lord, having come, will find so doing.”
+<span class="v-num">45</span> Who then is the faithful and wise servant, whom his lord has set over his household, to give them food in due season?[^9]
 
-<span class="v-num">47</span> “Truly I say <span class="added-text">(to)</span> you that over all his possessions he will appoint him.”
+<span class="v-num">46</span> Blessed <span class="added-text">(is)</span> that servant, whom his lord, when he comes, will find so doing.
 
-<span class="v-num">48</span> “But if that wicked slave <del class="deleted-text">[might]</del> says in his heart, ‘my lord delays,’”
+<span class="v-num">47</span> Truly I say to you, that he will set him over all his possessions.
 
-<span class="v-num">49</span> “and <del class="deleted-text">[might]</del> begins to beat his fellow slaves, and <del class="deleted-text">[may]</del> eats and <del class="deleted-text">[may]</del> drinks with the drunken ones,”
+<span class="v-num">48</span> But if that evil servant says in his heart, 'My lord delays his coming,'[^10]
 
-<span class="v-num">50</span> “the lord of that slave will come <span class="alt-label">in</span><span class="alt-text">(=on)</span> a day when he does not expect and <span class="alt-label">in</span><span class="alt-text">(=at)</span> an hour when he does not know.”
+<span class="v-num">49</span> and begins to beat his fellow servants, and to eat and drink with the drunken,
 
-<span class="v-num">51</span> “And he will cut him off and will put his portion with the hypocrites, there will be the weeping and the gnashing of teeth.”
+<span class="v-num">50</span> the lord of that servant will come in a day when he does not expect <span class="added-text">(him)</span>, and in an hour that he is not aware of,
+
+<span class="v-num">51</span> and will cut him in two, and will appoint his portion with the hypocrites; there will be weeping and gnashing of teeth."
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive of time
+[^1]: 다니엘 9:27, 11:31, 12:11의 예언을 직접 인용한 표현이다.
+[^2]: ἵνα+가정법 목적절로 '되지 않도록'이라는 기도의 목적을 나타낸다.
+[^3]: ἐάν+가정법 3급 조건문으로 미래의 가능성 있는 상황을 가정한다.
+[^4]: ἐάν+가정법 3급 조건문이 반복되어 미래의 거짓 소문에 대한 경고를 나타낸다.
+[^5]: ὅπου... ἐάν+가정법(ᾖ)은 '어디든지 ~하는 곳에는'이라는 뜻의 불특정 장소를 나타내는 조건절로, 특정하지 않은 모든 경우에 해당하는 보편적 사실을 표현한다.
+[^6]: 이사야 13:10, 34:4, 욜 2:10,31의 심판 이미지를 배경으로 한다.
+[^7]: 다니엘 7:13의 '인자'와 구름을 타고 오심에 대한 예언을 배경으로 한다.
+[^8]: γενεά(세대)는 '이 시대의 사람들' 또는 '이런 일들이 일어나는 시대'로 해석될 수 있어 종말론적 논쟁의 핵심 구절이다.
+[^9]: τοῦ+부정사 구문으로 '양식을 주기 위하여'라는 목적을 나타낸다.
+[^10]: ἐάν+가정법 3급 조건문으로 악한 종의 가상적 태도를 가정한다.

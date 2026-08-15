@@ -16,63 +16,73 @@ tags: [NTpbsEn, Philippians]
 </div>
 
 
-<span class="v-num">1</span> Paul and Timothy, slaves of Christ Jesus, To all the saints in Christ Jesus, <span class="alt-label">being</span><span class="alt-text">(=who are)</span> <span class="alt-label">in</span><span class="alt-text">(=at)</span> Philippi, with bishops and deacons.
+<span class="v-num">1</span> Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are in Philippi, with <span class="added-text">(the)</span> <span class="alt-label">bishops</span><span class="alt-text">(=overseers)</span> and deacons:[^1]
 
-<span class="v-num">2</span> Grace <span class="added-text">(to)</span> you and peace from God our Father and <span class="added-text">(the)</span> Lord Jesus Christ.
+<span class="v-num">2</span> Grace to you and peace from God our Father and <span class="added-text">(the)</span> Lord Jesus Christ.
 
-<span class="v-num">3</span> I thank my God <span class="alt-label">at</span><span class="alt-text">(=upon)</span> every remembrance of you,
+<span class="v-num">3</span> I thank my God upon every remembrance of you,
 
-<span class="v-num">4</span> always in every petition of mine making the petition for you all with joy,
+<span class="v-num">4</span> always in every prayer of mine for you all, making the prayer with joy,
 
-<span class="v-num">5</span> for your fellowship in the gospel from the first day until <del class="deleted-text">[the]</del> now,
+<span class="v-num">5</span> for your fellowship <span class="alt-label">in</span><span class="alt-text">(=for)</span> the gospel, from <span class="added-text">(the)</span> first day until now;
 
-<span class="v-num">6</span> being confident of this very thing, that the One having begun in you a good work will complete <span class="added-text">(it)</span> until <span class="added-text">(the)</span> day of Christ Jesus,
+<span class="v-num">6</span> being confident of this very thing, that he who began a good work in you will complete <span class="added-text">(it)</span> until <span class="added-text">(the)</span> day of Jesus Christ;[^2]
 
-<span class="v-num">7</span> as it is right for me to think this about you all, <span class="alt-label">because of the me to have</span><span class="alt-text">(=because I have)</span> you in <span class="alt-label">the</span><span class="alt-text">(=my)</span> heart; both in my <span class="alt-label">chains</span><span class="alt-text">(=imprisonment)</span> and in the defence and confirmation of the gospel, <span class="alt-label">you all being</span><span class="alt-text">(=you all are)</span> partakers with me of the grace.
+<span class="v-num">7</span> just as it is right for me to think this concerning you all, because I have you in <span class="added-text">(my)</span> heart, both in my bonds and in the defense and confirmation of the gospel, you all being partakers with me of grace.
 
-<span class="v-num">8</span> For my witness <span class="added-text">(is)</span> <del class="deleted-text">[the]</del> God, how I long for you all <span class="alt-label">in bowels</span><span class="alt-text">(=with the affection)</span> of Christ Jesus.
+<span class="v-num">8</span> For God is my witness, how I long for you all in <span class="added-text">(the)</span> <span class="alt-label">affection</span><span class="alt-text">(=inward parts)</span> of Jesus Christ.
 
-<span class="v-num">9</span> And this I pray, that your love may abound still more and more in knowledge and all <span class="alt-label">insight</span><span class="alt-text">(=discernment)</span>,
+<span class="v-num">9</span> And this I pray, that your love may abound yet more and more in full knowledge and all discernment,[^3]
 
-<span class="v-num">10</span> <span class="alt-label">for the you to distinguish</span><span class="alt-text">(=that you may approve)</span> the <span class="alt-label">differing</span><span class="alt-text">(=excellent)</span> things, that you may be <span class="alt-label">sincere</span><span class="alt-text">(=pure)</span> and blameless in <span class="added-text">(the)</span> day of Christ,
+<span class="v-num">10</span> so that you may approve the things that are more <span class="alt-label">excellent</span><span class="alt-text">(=better)</span>, that you may be sincere and without offense until <span class="added-text">(the)</span> day of Christ,[^4]
 
-<span class="v-num">11</span> having been filled <span class="added-text">(with the)</span> fruit of righteousness through Jesus Christ, to <span class="added-text">(the)</span> glory and praise of God.
+<span class="v-num">11</span> being filled with <span class="added-text">(the)</span> fruits of righteousness, which are through Jesus Christ, unto <span class="added-text">(the)</span> glory and praise of God.
 
-<span class="v-num">12</span> And I want you, brothers, to know that <span class="alt-label">the things about me</span><span class="alt-text">(=what has happened to me)</span> <span class="alt-label">has come rather</span><span class="alt-text">(=has really helped)</span> to advance of the gospel,
+<span class="v-num">12</span> But I want you to know, brothers, that my circumstances have turned out rather for the progress of the gospel;
 
-<span class="v-num">13</span> <span class="alt-label">so as to become</span><span class="alt-text">(=so that it has become)</span> clear <span class="alt-label">in</span><span class="alt-text">(=throughout)</span> the whole palace guard and to all the rest <span class="alt-label">my chains in Christ</span><span class="alt-text">(=that my imprisonment is for Christ)</span>,
+<span class="v-num">13</span> so that my bonds in Christ <span class="alt-label">became</span><span class="alt-text">(=were made)</span> manifest in the whole <span class="alt-label">praetorium</span><span class="alt-text">(=palace guard)</span> and to all the rest,
 
-<span class="v-num">14</span> and <del class="deleted-text">[the]</del> most of the brothers in <span class="added-text">(the)</span> Lord, having become confident <span class="alt-label">in</span><span class="alt-text">(=by)</span> my chains, <span class="alt-label">to dare</span><span class="alt-text">(=dare)</span> to speak the word more courageously <span class="added-text">(and)</span> fearlessly.
+<span class="v-num">14</span> and most of the brothers in the Lord, having become confident by my bonds, dared more abundantly to speak the word without fear.
 
-<span class="v-num">15</span> Some indeed preach <del class="deleted-text">[the]</del> Christ even <span class="alt-label">on account of</span><span class="alt-text">(=out of)</span> envy and rivalry, but some also <span class="alt-label">on account of</span><span class="alt-text">(=out of)</span> goodwill.
+<span class="v-num">15</span> Some indeed preach Christ even because of envy and strife, but some also because of good will:
 
-<span class="v-num">16</span> The <span class="added-text">(latter preach)</span> out of love, knowing that I am <span class="alt-label">put</span><span class="alt-text">(=appointed)</span> for the defence of the gospel,
+<span class="v-num">16</span> the ones <span class="added-text">(are)</span> proclaiming Christ out of selfish ambition, not sincerely, thinking to add affliction to my bonds;
 
-<span class="v-num">17</span> but the <span class="added-text">(former)</span> proclaim <del class="deleted-text">[the]</del> Christ from selfish ambition, not sincerely, thinking to <span class="alt-label">raise</span><span class="alt-text">(=add)</span> affliction to my <span class="alt-label">chains</span><span class="alt-text">(=imprisonment)</span>.
+<span class="v-num">17</span> but the other <span class="added-text">(proclaim)</span> out of love, knowing that I am set for <span class="added-text">(the)</span> defense of the gospel.
 
-<span class="v-num">18</span> What then? Only that <span class="added-text">(in)</span> every way, whether <span class="added-text">(in)</span> pretense or <span class="added-text">(in)</span> truth, Christ is preached; and in this I rejoice, <span class="alt-label">but also</span><span class="alt-text">(=yes)</span>, I will rejoice.
+<span class="v-num">18</span> What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed; and in this I rejoice, yes, and I will rejoice.
 
-<span class="v-num">19</span> For I know that this will turn out for <span class="alt-label">salvation to me</span><span class="alt-text">(=my deliverance)</span> through your petition and <span class="added-text">(the)</span> supply of the Spirit of Jesus Christ,
+<span class="v-num">19</span> for I know that this will turn out for me <span class="alt-label">for</span><span class="alt-text">(=unto)</span> salvation through your prayer and <span class="added-text">(the)</span> supply of the Spirit of Jesus Christ,
 
-<span class="v-num">20</span> according to my eager expectation and hope that in nothing I will be ashamed, but <span class="alt-label">in</span><span class="alt-text">(=with)</span> all boldness, as always, now also Christ will be <span class="alt-label">magnified</span><span class="alt-text">(=exalted)</span> in my body, whether <span class="alt-label">through</span><span class="alt-text">(=by)</span> life or <span class="alt-label">through</span><span class="alt-text">(=by)</span> death.
+<span class="v-num">20</span> according to my earnest expectation and hope, that in nothing I will be ashamed, but with all boldness, as always, so now also Christ will be magnified in my body, whether by life or by death.[^5]
 
-<span class="v-num">21</span> For to me, to live <span class="added-text">(is)</span> Christ and to die <span class="added-text">(is)</span> gain.
+<span class="v-num">21</span> For to me, to live <span class="added-text">(is)</span> Christ, and to die <span class="added-text">(is)</span> gain.[^6]
 
-<span class="v-num">22</span> But if <span class="alt-label">to live</span><span class="alt-text">(=I live)</span> in <span class="added-text">(the)</span> flesh, this <span class="added-text">(means)</span> fruit of <span class="alt-label">work <span class="added-text">(for)</span> me</span><span class="alt-text">(=my labor)</span>. And what shall I choose? I do not know.
+<span class="v-num">22</span> But if to live in <span class="added-text">(the)</span> flesh <span class="added-text">(is this to me)</span>, this is <span class="added-text">(the)</span> fruit of labor; yet what I shall choose I do not know.
 
-<span class="v-num">23</span> I am caught <span class="alt-label">among</span><span class="alt-text">(=between)</span> the two, having the desire <del class="deleted-text">[for the]</del> to depart and <del class="deleted-text">[to]</del> be with Christ, for <span class="added-text">(that is)</span> rather far better,
+<span class="v-num">23</span> For I am hard pressed between the two, having the desire to depart and to be with Christ, which is far better;
 
-<span class="v-num">24</span> but <del class="deleted-text">[the]</del> to remain <span class="added-text">(in)</span> the flesh <span class="added-text">(is)</span> more necessary on your account.
+<span class="v-num">24</span> but to remain in the flesh <span class="added-text">(is)</span> more needful for you.
 
-<span class="v-num">25</span> And being confident <span class="added-text">(of)</span> this, I know that I will remain and continue with you all for your progress and joy of the faith,
+<span class="v-num">25</span> And being confident of this, I know that I will remain and continue with you all, for your progress and joy of faith,
 
-<span class="v-num">26</span> that your boast in Christ Jesus may abound <span class="alt-label">in</span><span class="alt-text">(=because of)</span> me through my coming <span class="added-text">(to)</span> you again.
+<span class="v-num">26</span> so that your boasting may abound in Christ Jesus <span class="alt-label">in</span><span class="alt-text">(=because of)</span> me, through my coming again to you.[^7]
 
-<span class="v-num">27</span> Only, <span class="alt-label">live as a citizen</span><span class="alt-text">(=live your life in a manner)</span> worthy of the gospel of Christ, so that <span class="alt-label">whether having come and having seen you or being away</span><span class="alt-text">(=whether I come and see you or am absent)</span> I <span class="added-text">(may)</span> hear the things about you, that you stand firm in one spirit, striving together <span class="added-text">(with)</span> one <span class="alt-label">soul</span><span class="alt-text">(=mind)</span> for the faith of the gospel,
+<span class="v-num">27</span> Only conduct yourselves worthily of the gospel of Christ, so that whether coming and seeing you, or being absent, I may hear the things concerning you, that you stand fast in one spirit, with one soul striving together for the faith of the gospel,[^8]
 
-<span class="v-num">28</span> and not being terrified in <span class="alt-label">nothing</span><span class="alt-text">(=anything)</span> by the opposing ones, which is to them an indication of destruction, but of your salvation, and this <span class="added-text">(is)</span> from God,
+<span class="v-num">28</span> and not being frightened in anything by those who oppose <span class="added-text">(you)</span>; which is to them an indication of destruction, but to you of salvation, and that from God;
 
-<span class="v-num">29</span> because <span class="added-text">(to)</span> you it was granted on behalf of Christ, not only to believe in him, but also to suffer for his sake,
+<span class="v-num">29</span> For to you it was granted on behalf of Christ, not only to believe in him, but also to suffer for his sake;
 
-<span class="v-num">30</span> having the same struggle which you saw in me and now hear in me.
+<span class="v-num">30</span> having the same struggle which you saw in me, and now hear <span class="added-text">(to be)</span> in me.
 
+---
+
+[^1]: 감독(ἐπίσκοπος)과 집사(διάκονος)는 초기 교회의 직분 명칭으로, 바울 서신 중 유일하게 여기서 교회 직분자에게 별도로 인사하여 조직된 교회 질서를 보여준다.
+[^2]: ἐπιτελέσει(완성하실 것이다)는 미래 시제로, 하나님이 시작하신 선한 일을 그리스도의 날까지 반드시 이루실 것이라는 확신을 나타낸다.
+[^3]: ἵνα+가정법(περισσεύῃ)은 바울의 기도의 목적을 나타내며, 사랑이 지식과 분별력 안에서 더욱 풍성해지기를 구하는 목적절이다.
+[^4]: εἰς τὸ δοκιμάζειν은 목적을 나타내는 부정사 구문으로, 사랑의 풍성함이 더 나은 것을 분별하게 하는 목적임을 보인다.
+[^5]: μεγαλυνθήσεται(높임을 받으실 것이다)는 미래 수동태로, 바울의 생사와 무관하게 그리스도가 그의 몸을 통해 드러나실 것을 확신하는 표현이다.
+[^6]: '사는 것이 그리스도'라는 표현은 바울에게 있어 그리스도와의 연합이 곧 그의 존재 목적이자 삶의 전부임을 압축적으로 보여준다.
+[^7]: ἵνα+가정법(περισσεύῃ)은 바울이 다시 방문함으로 빌립보 교인들의 자랑(=자부심)이 그리스도 안에서 풍성해지는 목적을 나타낸다.
+[^8]: ἵνα+가정법(ἀκούσω)은 바울이 있든지 없든지 성도들이 복음에 합당하게 생활하는 목적을 나타내는 목적절이다.

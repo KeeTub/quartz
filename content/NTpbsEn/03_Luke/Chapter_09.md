@@ -16,141 +16,135 @@ tags: [NTpbsEn, Luke]
 </div>
 
 
-<span class="v-num">1</span> And having called the twelve together, he gave them power and authority over all demons and to heal diseases,
+<span class="v-num">1</span> Having called together his twelve disciples, he gave them power and authority over all the demons, and to heal diseases.
 
-<span class="v-num">2</span> and he sent them to proclaim the kingdom of God and to cure,
+<span class="v-num">2</span> And he sent them to preach the kingdom of God, and to heal the sick.
 
-<span class="v-num">3</span> and he said <span class="added-text">(to)</span> them, “Take nothing for the <span class="alt-label">way</span><span class="alt-text">(=journey)</span>, no staff, nor bag, nor bread, nor <span class="alt-label">silver</span><span class="alt-text">(=money)</span>, <span class="alt-label">nor</span><span class="alt-text">(=and do not)</span> <del class="deleted-text">[to]</del> have <del class="deleted-text">[each]</del> two tunics.”
+<span class="v-num">3</span> And he said to them, "Take nothing for the way; neither staffs, nor a bag, nor bread, nor money, nor to have two tunics apiece.
 
-<span class="v-num">4</span> “And whatever house you <del class="deleted-text">[might]</del> enter, stay there and depart from there.”
+<span class="v-num">4</span> And into whatever house you enter, remain there, and from there depart.
 
-<span class="v-num">5</span> “And If many may not receive you, going out from that city, shake off the dust from your feet <span class="alt-label">for</span><span class="alt-text">(=as)</span> a testimony against them.”
+<span class="v-num">5</span> And as many as do not receive you, going out from that city, shake off the dust from your feet, for a testimony against them."
 
-<span class="v-num">6</span> And going out, they were going through the villages, preaching the gospel and healing everywhere.
+<span class="v-num">6</span> And going out, they went through the villages, preaching the gospel and healing everywhere.
 
-<span class="v-num">7</span> And Herod the <span class="alt-label">tetrarch</span><span class="alt-text">(=governor)</span> heard <span class="added-text">(of)</span> all <span class="added-text">(that was)</span> happening, and he was being in perplexity because of the thing to be said by some that John had been raised from <span class="added-text">(the)</span> dead,
+<span class="v-num">7</span> And Herod the tetrarch heard all the things being done by him, and he was perplexed, because it was said by some, "John has risen from the dead,"
 
-<span class="v-num">8</span> and by some that Elijah appeared, and <span class="added-text">(by)</span> others that one <del class="deleted-text">[prophet]</del> of the old <span class="added-text">(prophets)</span> had risen again.
+<span class="v-num">8</span> and by some, "Elijah has appeared," and by others, "One of the ancient prophets has risen."
 
-<span class="v-num">9</span> And Herod said, “I beheaded John. But who is this about whom I hear such things?” And he <span class="alt-label">was seeking</span><span class="alt-text">(=wanted)</span> to see him.
+<span class="v-num">9</span> And Herod said, "John I beheaded; but who is this about whom I hear such things?" And he was seeking to see him.
 
-<span class="v-num">10</span> And having returned, the apostles told him what they had done. And having taken with them, he withdrew privately to <span class="added-text">(the)</span> city called Bethsaida.
+<span class="v-num">10</span> And the apostles, having returned, related to him as much as they had done. And taking them, he withdrew privately to a deserted place of a city called Bethsaida.
 
-<span class="v-num">11</span> And the crowds, having learned, followed him. And having welcomed them, he was speaking to them about the kingdom of God, and he was curing the ones having need of healing.
+<span class="v-num">11</span> But the crowds, knowing it, followed him; and receiving them, he spoke to them concerning the kingdom of God, and healed those having need of healing.
 
-<span class="v-num">12</span> And the day began to wear away. And the twelve, having approached, said <span class="added-text">(to)</span> him, “Send the crowd away, that they, having gone into the <span class="alt-label">around</span><span class="alt-text">(=surrounding)</span> villages and <span class="alt-label">farms</span><span class="alt-text">(=country)</span>, <span class="alt-label">might</span><span class="alt-text">(=may)</span> lodge and <span class="alt-label">might</span><span class="alt-text">(=may)</span> find <span class="alt-label">provisions</span><span class="alt-text">(=food)</span>, because we are here in a desert place.”
+<span class="v-num">12</span> Now the day began to decline; and the twelve, coming near, said to him, "Send away the crowd, so that going into the surrounding villages and fields they may lodge and find provisions; because here we are in a deserted place."[^1]
 
-<span class="v-num">13</span> And he said <span class="added-text">(to)</span> them, “You, give them <span class="added-text">(something)</span> to eat.” And they said, “<span class="alt-label"><span class="added-text">(Here)</span> is not to us</span><span class="alt-text">(=we have no)</span> more <span class="added-text">(than)</span> five loaves and two fish, unless we, having gone, <del class="deleted-text">[might]</del> buy food for all these people.”
+<span class="v-num">13</span> But he said to them, "You give them to eat." And they said, "We do not have more than five loaves and two fish, unless we go and buy food for all this people."
 
-<span class="v-num">14</span> For there were about five thousand men. And he said <span class="added-text">(to)</span> his disciples, “Make them <span class="alt-label">recline</span><span class="alt-text">(=sit down)</span> <span class="added-text">(in)</span> groups, about fifty each.”
+<span class="v-num">14</span> For there were about five thousand men. And he said to his disciples, "Make them sit down in groups of fifty each."
 
-<span class="v-num">15</span> And they did so, and they made them all <span class="alt-label">recline</span><span class="alt-text">(=sit down)</span>.
+<span class="v-num">15</span> And they did so, and made them all sit down.
 
-<span class="v-num">16</span> And having taken the five loaves and the two fish, having looked up to <del class="deleted-text">[the]</del> heaven, he blessed them and broke. And he was giving <span class="added-text">(them)</span> to the disciples to set before the crowd.
+<span class="v-num">16</span> And taking the five loaves and the two fish, looking up to heaven, he blessed them, and broke them, and gave to the disciples to set before the crowd.
 
-<span class="v-num">17</span> And they all ate and were satisfied. And twelve baskets of broken pieces <span class="alt-label">having been</span><span class="alt-text">(=that were)</span> left over were collected to them.
+<span class="v-num">17</span> And they all ate and were satisfied; and what remained over to them of fragments was taken up, twelve baskets.
 
-<span class="v-num">18</span> And it happened, <span class="alt-label">in the him to be</span><span class="alt-text">(=as he was)</span>[^1] praying alone, <span class="added-text">(that)</span> the disciples were with him. And he asked them, saying, “Who do the crowds say <span class="alt-label">me to be</span><span class="alt-text">(=that I am)</span>?”
+<span class="v-num">18</span> And it came to pass, while he was praying alone, the disciples were with him; and he questioned them, saying, "Who do the crowds say I am?"
 
-<span class="v-num">19</span> And they, having answered, said, “John the Baptist, but others <span class="added-text">(say)</span> Elijah, but others <span class="added-text">(say)</span> <del class="deleted-text">[that]</del> one <del class="deleted-text">[prophet]</del> of the old <span class="added-text">(prophets)</span> had risen again.”
+<span class="v-num">19</span> And they, answering, said, "John the Baptist; but others <span class="added-text">(say)</span> Elijah; and others, that a certain prophet of the ancients has risen."
 
-<span class="v-num">20</span> And he said <span class="added-text">(to)</span> them, “And who do you say <span class="alt-label">me to be</span><span class="alt-text">(=that I am)</span>?” And Peter, having answered, said, “The Christ of God.”
+<span class="v-num">20</span> And he said to them, "But who do you say I am?" And Peter, answering, said, "The Christ of God."
 
-<span class="v-num">21</span> And he, having strictly warned them, commanded <span class="added-text">(them)</span> to tell this to no one,
+<span class="v-num">21</span> And he, having strictly charged them, commanded <span class="added-text">(them)</span> to tell this to no one,
 
-<span class="v-num">22</span> having said, “<del class="deleted-text">[that]</del> it is necessary <span class="added-text">(for)</span> the Son of Man to suffer many things, and to be rejected <span class="alt-label">from</span><span class="alt-text">(=by)</span> the elders, <del class="deleted-text">[and]</del> high priests, and scribes, and to be killed, and <span class="added-text">(on)</span> the third day to be raised.”
+<span class="v-num">22</span> saying, "It is necessary <span class="added-text">(for)</span> the Son of man to suffer many things, and to be rejected by the elders and chief priests and scribes, and to be killed, and on the third day to be raised."
 
-<span class="v-num">23</span> And he was saying to all, “If anyone want to come after me, let him deny himself, and let him take up his cross daily, and let him follow me.”
+<span class="v-num">23</span> And he said to all, "If anyone wants to come after me, let him deny himself, and take up his cross daily, and follow me.
 
-<span class="v-num">24</span> “For whoever <del class="deleted-text">[might]</del> wants to save his life will lose it. But whoever <del class="deleted-text">[might]</del> loses his life for my sake, this one will save it.”
+<span class="v-num">24</span> For whoever wants to save his life will lose it; but whoever loses his life for my sake, this one will save it.
 
-<span class="v-num">25</span> “For <span class="alt-label">what is a man benefited</span><span class="alt-text">(=what good is it to a man)</span>, <span class="alt-label">having gained</span><span class="alt-text">(=to gain)</span> the whole world, and <span class="alt-label">having lost or forfeited</span><span class="alt-text">(=if he lose and forfeit)</span> himself?”
+<span class="v-num">25</span> For what is a man profited, having gained the whole world, but having lost himself or been forfeited?
 
-<span class="v-num">26</span> “For whoever <span class="alt-label">might be ashamed of</span><span class="alt-text">(=is ashamed of)</span> me and my words, the Son of Man will be ashamed of <span class="alt-label">this one</span><span class="alt-text">(=him)</span>, when he <del class="deleted-text">[might]</del> comes in his glory and <span class="added-text">(in the glory)</span> of the Father and of the holy angels.”
+<span class="v-num">26</span> For whoever is ashamed of me and my words, of him the Son of man will be ashamed, when he comes in his glory, and <span class="added-text">(that)</span> of the Father, and of the holy angels.
 
-<span class="v-num">27</span> “And I say <span class="added-text">(to)</span> you truly, there are some of the ones standing<span class="added-text">(# perfect as present)</span> here<span class="added-text">(# not pronoun but adverb)</span>, who <span class="alt-label">might</span><span class="alt-text">(=will)</span> not taste death until they <del class="deleted-text">[might]</del> see the kingdom of God.”
+<span class="v-num">27</span> But I say to you truly, there are some of those standing here who will by no means taste death, until they see the kingdom of God."
 
-<span class="v-num">28</span> And it happened about eight days after these sayings, <del class="deleted-text">[and]</del> having taken Peter and John and James, <span class="added-text">(that)</span> he went up onto the mountain to pray.
+<span class="v-num">28</span> And it came to pass, about eight days after these sayings, and taking Peter and John and James, he went up onto the mountain to pray.
 
-<span class="v-num">29</span> And <span class="alt-label">in him to pray</span><span class="alt-text">(=as he was praying)</span>[^2], the appearance of his face became different, and his clothes <span class="added-text">(became)</span> white <span class="added-text">(and)</span> dazzling.
+<span class="v-num">29</span> And it came to pass, while he was praying, the appearance of his face <span class="added-text">(became)</span> different, and his clothing <span class="added-text">(became)</span> white, flashing forth <span class="added-text">(light)</span>.
 
-<span class="v-num">30</span> And behold, two men were talking with him, who were Moses and Elijah,
+<span class="v-num">30</span> And behold, two men were talking with him, who were Moses and Elijah;
 
-<span class="v-num">31</span> who, having appeared in glory, were speaking of his departure, that he was about to accomplish in Jerusalem.
+<span class="v-num">31</span> who, appearing in glory, spoke of his <span class="alt-label">departure</span><span class="alt-text">(=death)</span>, which he was about to fulfill in Jerusalem.
 
-<span class="v-num">32</span> But <del class="deleted-text">[the]</del> Peter and the ones with him were <del class="deleted-text">[having been]</del> heavy <span class="added-text">(with)</span> sleep. But having wakened, they saw his glory and two men <u>standing with</u><span class="added-text">(# perfect as present)</span> him.
+<span class="v-num">32</span> But Peter and those with him were heavy with sleep; and having become fully awake, they saw his glory, and the two men standing with him.
 
-<span class="v-num">33</span> And it happened, <span class="alt-label">in the them to depart</span><span class="alt-text">(=as they were leaving)</span>[^3] from him, <span class="added-text">(that)</span> <del class="deleted-text">[the]</del> Peter said <span class="added-text">(to)</span> <del class="deleted-text">[the]</del> Jesus, “Master, it is good <span class="added-text">(for)</span> us to be here. And let us make three tents: one for you, and one for Moses, and one for Elijah,” not knowing<span class="added-text">(# perfect as present)</span> what he says.
+<span class="v-num">33</span> And it came to pass, as they were departing from him, Peter said to Jesus, "Master, it is good for us to be here; and let us make three tabernacles, one for you, and one for Moses, and one for Elijah," not knowing what he was saying.
 
-<span class="v-num">34</span> And <span class="alt-label">his saying</span><span class="alt-text">(=as he said)</span>[^4] these things, a cloud came and were overshadowing them. And they were afraid <span class="alt-label">in them to enter</span><span class="alt-text">(=as they entered)</span>[^5] <del class="deleted-text">[into]</del> the cloud.
+<span class="v-num">34</span> And as he was saying these things, a cloud came and overshadowed them; and they were afraid as those <span class="added-text">(men)</span> entered into the cloud.
 
-<span class="v-num">35</span> And a voice came out of the cloud, saying, “This is my <del class="deleted-text">[having been]</del> chosen Son; listen to him.”
+<span class="v-num">35</span> And a voice came out of the cloud, saying, "This is my Son, the beloved; hear him."
 
-<span class="v-num">36</span> And <span class="alt-label">in the voice to be done</span><span class="alt-text">(=when the voice was done)</span>[^6], Jesus was found alone. And they were silent and told no one in those days anything of what they had seen.
+<span class="v-num">36</span> And when the voice came to be, Jesus was found alone. And they kept silent, and reported to no one in those days any of the things they had seen.
 
-<span class="v-num">37</span> And it happened <span class="added-text">(on)</span> the next day, <span class="alt-label">their having come down</span><span class="alt-text">(=when they came down)</span>[^7] from the mountain, <span class="added-text">(that)</span> a large crowd met him.
+<span class="v-num">37</span> And it came to pass, on the next day, they having come down from the mountain, a great crowd met him.
 
-<span class="v-num">38</span> And behold, a man from the crowd cried, saying, “Teacher, I beg you to look at my son, for he is only child to me.”
+<span class="v-num">38</span> And behold, a man from the crowd cried out, saying, "Teacher, I beg you, look upon my son, for he is my only child;
 
-<span class="v-num">39</span> “And behold, a spirit takes him, and he suddenly screams, and it convulses him with foam, and it scarcely departs from him, bruising him.”
+<span class="v-num">39</span> and behold, a spirit takes him, and suddenly he cries out, and it convulses him with foaming, and it hardly departs from him, bruising him.
 
-<span class="v-num">40</span> “And I begged your disciples that they would cast it out, and they were not able.”
+<span class="v-num">40</span> And I begged your disciples that they might cast it out, and they were not able."[^2]
 
-<span class="v-num">41</span> And having answered <del class="deleted-text">[the]</del> Jesus said, “O unbelieving and <del class="deleted-text">[having been]</del> perverted generation, <span class="alt-label">until when</span><span class="alt-text">(=how long)</span> shall I be with you and bear <span class="added-text">(with)</span> you? Bring your son here.”
+<span class="v-num">41</span> And Jesus, answering, said, "O faithless and perverted generation, how long shall I be with you, and bear with you? Bring your son here."
 
-<span class="v-num">42</span> And <span class="alt-label">his coming</span><span class="alt-text">(=as he was coming)</span>[^8], the demon threw him and convulsed <span class="added-text">(him)</span>. But <del class="deleted-text">[the]</del> Jesus rebuked the uncleaned spirit, and healed the boy and gave him back to his father.
+<span class="v-num">42</span> But while he was still approaching, the demon tore him and convulsed <span class="added-text">(him)</span> severely; but Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father.
 
-<span class="v-num">43</span> And they were all amazed at the greatness of God. And <span class="alt-label">all marvelling</span><span class="alt-text">(=while they were all marvelling)</span>[^9] at all things that he were doing, he said <span class="added-text">(to)</span> his disciples.
+<span class="v-num">43</span> And all were astonished at the majesty of God. But while all were marveling at all the things which Jesus did, he said to his disciples,
 
-<span class="v-num">44</span> “<span class="alt-label">Put in your ears</span><span class="alt-text">(=Listen to)</span> these sayings; for son of Man is about to be delivered into <span class="added-text">(the)</span> hands of men.”
+<span class="v-num">44</span> "Let these words sink into your ears; for the Son of man is about to be delivered into the hands of men."
 
-<span class="v-num">45</span> But they were not knowing this word. And it was <del class="deleted-text">[having been]</del> concealed from them, so that they <span class="alt-label">might</span><span class="alt-text">(=did)</span> not understand it. And they feared to ask him about <del class="deleted-text">[the]</del> this saying.
+<span class="v-num">45</span> But they did not understand this saying, and it was concealed from them, so that they might not perceive it; and they were afraid to ask him concerning this saying.[^3]
 
-<span class="v-num">46</span> And an argument <span class="alt-label">entered</span><span class="alt-text">(=arose)</span> among them as to which of them <u>would be</u><span class="added-text">(# optative)</span> the <span class="alt-label">greater</span><span class="alt-text">(=the greatest)</span>.
+<span class="v-num">46</span> And a reasoning entered among them, <span class="added-text">(as to)</span> which of them might be greater.
 
-<span class="v-num">47</span> And <del class="deleted-text">[the]</del> Jesus, having known the argument in their heart, having taken a child, had him stand beside him.
+<span class="v-num">47</span> But Jesus, seeing the reasoning of their heart, took hold of a little child, and set it by himself,
 
-<span class="v-num">48</span> And he said <span class="added-text">(to)</span> them, “Whoever <del class="deleted-text">[might]</del> receives this child <span class="alt-label">on</span><span class="alt-text">(=in)</span> my name receives me; and whoever <del class="deleted-text">[might]</del> receives me receives the one having sent me; for the one being the <span class="alt-label">smaller</span><span class="alt-text">(=least)</span> among you all is this one <span class="added-text">(who is)</span> great.”
+<span class="v-num">48</span> and said to them, "Whoever receives this child in my name receives me; and whoever receives me receives the one who sent me. For the one being least among all of you, this one is great."[^4]
 
-<span class="v-num">49</span> And having answered, <del class="deleted-text">[the]</del> John said, “Master, we saw someone casting out demons in your name and we <span class="alt-label">were stopping</span><span class="alt-text">(=tried to stop)</span> him, because he does not follow with us.”
+<span class="v-num">49</span> And John, answering, said, "Master, we saw someone casting out demons in your name, and we forbade him, because he does not follow with us."
 
-<span class="v-num">50</span> And Jesus said <span class="added-text">(to)</span> him, “Do not stop him, for he who is not against you is for you.”
+<span class="v-num">50</span> And Jesus said to him, "Do not forbid <span class="added-text">(him)</span>; for whoever is not against us is for us."
 
-<span class="v-num">51</span> And it happened, <span class="alt-label"><del class="deleted-text">[in]</del> the to be fulfilled the days of his assumption</span><span class="alt-text">(=when the days drew near for him to be taken up)</span>, <del class="deleted-text">[and]</del> <span class="added-text">(that)</span> he set the face to go toward Jerusalem.
+<span class="v-num">51</span> And it came to pass, when the days of his being taken up were being fulfilled, he himself set his face to go to Jerusalem.[^5]
 
-<span class="v-num">52</span> And he sent messengers <span class="alt-label">before his face</span><span class="alt-text">(=ahead of him)</span>. And having gone, they went into a village of the Samaritans, to make ready for him.
+<span class="v-num">52</span> And he sent messengers before his face; and going, they entered into a village of the Samaritans, so as to prepare for him.
 
-<span class="v-num">53</span> And they did not receive him, because <span class="alt-label">his face was going toward</span><span class="alt-text">(=he was heading for)</span> Jerusalem.
+<span class="v-num">53</span> And they did not receive him, because his face was going toward Jerusalem.
 
-<span class="v-num">54</span> And having seen, <span class="alt-label">the</span><span class="alt-text">(=his)</span> disciples James and John said, “Lord, do you want <span class="alt-label">that we might command</span><span class="alt-text">(=us to command)</span> fire to come down from <del class="deleted-text">[the]</del> heaven and to destroy them?”
+<span class="v-num">54</span> And his disciples James and John, seeing <span class="added-text">(this)</span>, said, "Lord, do you want <span class="added-text">(that)</span> we command fire to come down from heaven, and consume them, as Elijah also did?"
 
-<span class="v-num">55</span> And having turned, he rebuked them.
+<span class="v-num">55</span> But turning, he rebuked them, and said, "You do not know of what kind of spirit you are;
 
-<span class="v-num">56</span> And they went to another village.
+<span class="v-num">56</span> for the Son of man did not come to destroy men's lives, but to save <span class="added-text">(them)</span>." And they went to another village.[^6]
 
-<span class="v-num">57</span> And <span class="alt-label">their going</span><span class="alt-text">(=as they went)</span>[^10] in the way, a man said <span class="added-text">(to)</span> him, “I will follow you wherever you <del class="deleted-text">[may]</del> go.”
+<span class="v-num">57</span> And it came to pass, as they were going along, on the road someone said to him, "I will follow you wherever you go, Lord."
 
-<span class="v-num">58</span> And <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> him, “the foxes have holes and the birds of the <span class="alt-label">heaven</span><span class="alt-text">(=air)</span> <span class="added-text">(have)</span> nests, but the Son of Man does not have where he may lay <span class="alt-label">the</span><span class="alt-text">(=his)</span> head.”
+<span class="v-num">58</span> And Jesus said to him, "The foxes have holes, and the birds of the heaven have nests; but the Son of man has nowhere to lay <span class="added-text">(his)</span> head."
 
-<span class="v-num">59</span> And he said <span class="added-text">(to)</span> another, “Follow me.” But he said, “Allow me first <span class="alt-label">going</span><span class="alt-text">(=to go)</span> <span class="added-text">(and)</span> to bury my father.”
+<span class="v-num">59</span> And he said to another, "Follow me." But he said, "Lord, permit me first, having gone away, to bury my father."
 
-<span class="v-num">60</span> And he said <span class="added-text">(to)</span> him, “Let the dead bury their own dead, but you, having gone, proclaim the kingdom of God.”
+<span class="v-num">60</span> But Jesus said to him, "Leave the dead to bury their own dead; but you, having gone away, proclaim the kingdom of God."
 
-<span class="v-num">61</span> And another also said, “I will follow you, Lord, but first allow me to say farewell to the ones in my house.”
+<span class="v-num">61</span> And another also said, "I will follow you, Lord; but first permit me to bid farewell to those in my house."
 
-<span class="v-num">62</span> And <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> him, “No one having put <span class="alt-label">the</span><span class="alt-text">(=his)</span> hand to <span class="added-text">(the)</span> plow and looking at the things behind is fit for the kingdom of God.”
+<span class="v-num">62</span> And Jesus said to him, "No one, having put his hand to the plow, and looking at the things behind, is fit for the kingdom of God."
 
 ---
 
-### Study Notes
-
-[^1]: temporal infinitive
-[^2]: temporal infinitive
-[^3]: temporal infinitive
-[^4]: genitive absolute
-[^5]: temporal infinitive
-[^6]: temporal infinitive
-[^7]: genitive absolute
-[^8]: genitive absolute
-[^9]: genitive absolute
-[^10]: genitive absolute
+[^1]: ἵνα+가정법(ἀπελθόντες...καταλύσωσι, εὕρωσιν)은 '무리를 보내는' 목적을 나타내는 목적절이다. 즉 제자들이 요청하는 이유(숙소와 음식을 구하도록)를 밝혀준다.
+[^2]: ἵνα+가정법(ἐκβάλλωσιν)은 간청(ἐδεήθην)의 내용을 이루는 목적절로, '쫓아내어 주기를' 바라는 의도를 나타낸다. 제자들이 이루지 못한 결과와 대조되어 무능력이 부각된다.
+[^3]: ἵνα μὴ αἴσθωνται는 목적절로, 그들이 깨닫지 못하도록 의도적으로 감추어졌음을 나타낸다.
+[^4]: ὃς ἐὰν δέξηται는 부정 관계절에 가정법을 쓴 일반적 조건 표현으로, '누구든지 ~하면'의 뜻이다.
+[^5]: τοῦ πορεύεσθαι는 목적을 나타내는 부정사 구문으로, 얼굴을 굳게 정하신 목적이 예루살렘으로 가는 것임을 보여준다.
+[^6]: "ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι" 구절은 TR(다수사본) 계열에 있으나 일부 비평본에는 없는 이문(異文)이다.

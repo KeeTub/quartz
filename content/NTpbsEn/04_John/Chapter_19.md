@@ -16,94 +16,95 @@ tags: [NTpbsEn, John]
 </div>
 
 
-<span class="v-num">1</span> Then <del class="deleted-text">[therefore the]</del> Pilate took <del class="deleted-text">[the]</del> Jesus and scourged <span class="added-text">(him)</span>.
+<span class="v-num">1</span> Then therefore Pilate took Jesus and scourged <span class="added-text">(him)</span>.
 
-<span class="v-num">2</span> And the soldiers, having woven a crown <span class="alt-label">from</span><span class="alt-text">(=of)</span> thorns, put on his head. And they clothed him <span class="added-text">(in)</span> a purple robe.
+<span class="v-num">2</span> And the soldiers, having plaited a crown out of thorns, put <span class="added-text">(it)</span> on his head, and put around him a purple garment,
 
-<span class="v-num">3</span> And they were coming to him and were saying, “Hail, <del class="deleted-text">[the]</del> King of the Jews!” And they gave blows to him.
+<span class="v-num">3</span> <span class="alt-label">"Hail</span><span class="alt-text">(=Peace)</span>, the king of the Jews!" and they were giving him slaps.
 
-<span class="v-num">4</span> And <del class="deleted-text">[the]</del> Pilate went out again, and says <span class="added-text">(to)</span> them, “Behold, I am bringing him out to you, that you <span class="alt-label">might</span><span class="alt-text">(=may)</span> know that I find no <span class="alt-label">case</span><span class="alt-text">(=crime)</span> in him.”
+<span class="v-num">4</span> Pilate therefore went out again outside, and said to them, "Behold, I bring him out to you outside, that you may know that I find no guilt in him."[^1]
 
-<span class="v-num">5</span> So <del class="deleted-text">[the]</del> Jesus came out, wearing the crown of thorns and the purple robe. And he says <span class="added-text">(to)</span> them, “Behold the man!”
+<span class="v-num">5</span> Jesus therefore went out outside, wearing the crown of thorns and the purple garment. And he said to them, "Behold the man!"
 
-<span class="v-num">6</span> So when the high priests and attendants saw him, they shouted, saying, “Crucify, crucify!” <del class="deleted-text">[The]</del> Pilate says <span class="added-text">(to)</span> them, “Take him yourselves, and crucify <span class="added-text">(him)</span>, for I do not find any <span class="alt-label">case</span><span class="alt-text">(=crime)</span> in him.”
+<span class="v-num">6</span> When therefore the chief priests and the officers saw him, they cried out, saying, "Crucify <span class="added-text">(him)</span>, crucify <span class="added-text">(him)</span>!" Pilate said to them, "Take him yourselves and crucify <span class="added-text">(him)</span>, for I find no guilt in him."
 
-<span class="v-num">7</span> The Jews answered him, “We have a law, and according to the law he ought to die, because he made himself <span class="added-text">(the)</span> Son of God.”
+<span class="v-num">7</span> The Jews answered him, "We have a law, and according to <span class="added-text">(our)</span> law he ought to die, because he made himself <span class="added-text">(the)</span> Son of God."
 
-<span class="v-num">8</span> So when <del class="deleted-text">[the]</del> Pilate heard this word, he was more afraid.
+<span class="v-num">8</span> When therefore Pilate heard this word, he was more afraid,
 
-<span class="v-num">9</span> And he went into the praetorium again, and says <span class="added-text">(to)</span> Jesus, “Where are you from?” But <del class="deleted-text">[the]</del> Jesus gave him no answer.
+<span class="v-num">9</span> and he entered into the praetorium again, and said to Jesus, "Where are you from?" But Jesus gave him no answer.
 
-<span class="v-num">10</span> So <del class="deleted-text">[the]</del> Pilate says <span class="added-text">(to)</span> him, <span class="alt-label">“Do</span><span class="alt-text">(=Will)</span> you not speak to me? Do you not know that I have authority to release you and I have authority to crucify you?”
+<span class="v-num">10</span> Pilate therefore said to him, "Will you not speak to me? Do you not know that I have authority to crucify you, and I have authority to release you?"
 
-<span class="v-num">11</span> Jesus answered, “You <span class="alt-label">were having</span><span class="alt-text">(=could have)</span>[^1] no authority against me unless it <span class="alt-label">was having been given</span><span class="alt-text">(=had been given)</span>[^2] you from above. Therefore the one having delivered me <span class="added-text">(to)</span> you has <span class="added-text">(the)</span> greater sin.”
+<span class="v-num">11</span> Jesus answered, "You would have no authority at all against me, unless it had been given to you from above. Because of this, the one delivering me to you has greater sin."[^2]
 
-<span class="v-num">12</span> From this <span class="added-text">(on)</span>, <del class="deleted-text">[the]</del> Pilate was seeking to release him. But the Jews shouted, saying, “If you <del class="deleted-text">[might]</del> release this <span class="added-text">(man)</span>, you are not a friend of Caesar. Everyone making himself a king speaks against Caesar.”
+<span class="v-num">12</span> From this Pilate was seeking to release him, but the Jews cried out, saying, "If you release this <span class="added-text">(man)</span>, you are not <span class="added-text">(the)</span> friend of Caesar. Everyone making himself a king speaks against Caesar."[^3]
 
-<span class="v-num">13</span> So the Pilate, having heard these words, brought <del class="deleted-text">[the]</del> Jesus out, and sat on <span class="added-text">(the)</span> judgment seat in a place being called Stone Pavement, but <span class="added-text">(in)</span> Hebrew, Gabbatha.
+<span class="v-num">13</span> Pilate therefore, having heard this word, brought Jesus outside, and sat down on the judgment seat, at a place called <span class="added-text">(The)</span> Pavement, but in Hebrew, Gabbatha.
 
-<span class="v-num">14</span> And it was the day of Preparation of Passover. It was about sixth hour. And he says <span class="added-text">(to)</span> the Jews, “Behold your king!”
+<span class="v-num">14</span> Now it was <span class="added-text">(the)</span> preparation of the Passover, and <span class="added-text">(the)</span> hour was about <span class="added-text">(the)</span> sixth. And he said to the Jews, "Behold your king!"
 
-<span class="v-num">15</span> So those shouted, “Take, take, crucify him.” <del class="deleted-text">[The]</del> Pilate says <span class="added-text">(to)</span> them, “Shall I crucify your king?” The high priests answered, “We have no king but Caesar.”
+<span class="v-num">15</span> But they cried out, "Away <span class="added-text">(with him)</span>, away <span class="added-text">(with him)</span>, crucify him!" Pilate said to them, "Shall I crucify your king?" The chief priests answered, "We have no king except Caesar."
 
-<span class="v-num">16</span> Then therefore he delivered him to them that he might be crucified. Therefore they took <del class="deleted-text">[the]</del> Jesus.
+<span class="v-num">16</span> Then therefore he delivered him to them, that he might be crucified.
 
-<span class="v-num">17</span> And carrying the cross by himself, he went out to the <span class="added-text">(place)</span> being called the Place of Skull, which is called in Hebrew, Golgotha.
+<span class="v-num">17</span> And they took Jesus and led <span class="added-text">(him)</span> away. And bearing his cross, he went out to the place called <span class="added-text">(of the)</span> Skull, which is called in Hebrew, Golgotha,
 
-<span class="v-num">18</span> Where they crucified him, and with him two others, <span class="added-text">(one)</span> on this side and <span class="added-text">(one)</span> on that side, and <del class="deleted-text">[the]</del> Jesus in the middle.
+<span class="v-num">18</span> where they crucified him, and with him two others, on this side and on that side, and Jesus in the middle.
 
-<span class="v-num">19</span> And <del class="deleted-text">[the]</del> Pilate also wrote a title and put <span class="added-text">(it)</span> on the cross. And it was <u><del class="deleted-text">[having been]</del> written</u><span class="added-text">(# periphrastic pluperfect)</span>, “Jesus of Nazareth, the King of the Jews.”
+<span class="v-num">19</span> And Pilate also wrote a title, and put <span class="added-text">(it)</span> on the cross. And it was written, "Jesus the Nazarene, the King of the Jews."
 
-<span class="v-num">20</span> So many of the Jews read this title, because the place where <del class="deleted-text">[the]</del> Jesus was crucified was near the city. And it was <u><del class="deleted-text">[having been]</del> written</u><span class="added-text">(# periphrastic pluperfect)</span> in Hebrew, in Latin, <span class="added-text">(and)</span> in Greek.
+<span class="v-num">20</span> This title therefore many of the Jews read, because the place where Jesus was crucified was near the city. And it was written in Hebrew, <span class="added-text">(in)</span> Greek, <span class="added-text">(in)</span> <span class="alt-label">Latin</span><span class="alt-text">(=Roman)</span>.
 
-<span class="v-num">21</span> So the high priests of the Jews were saying to Pilate, “Do not write, ‘the King of the Jews,’ but ‘<del class="deleted-text">[that]</del> That <span class="added-text">(man)</span> said, I am King of the Jews.’”
+<span class="v-num">21</span> The chief priests of the Jews therefore said to Pilate, "Do not write, 'The King of the Jews,' but that he said, 'I am King of the Jews.'"
 
-<span class="v-num">22</span> <del class="deleted-text">[The]</del> Pilate answered, “I have written what I have written.”
+<span class="v-num">22</span> Pilate answered, "What I have written, I have written."
 
-<span class="v-num">23</span> So the soldiers, when they crucified <del class="deleted-text">[the]</del> Jesus, took his garments and made four parts, a part <span class="added-text">(for)</span> each soldier; also his tunic. And the tunic was seamless, woven from the top in one piece.
+<span class="v-num">23</span> The soldiers therefore, when they had crucified Jesus, took his garments, and made four parts, to each soldier a part, and also the tunic. Now the tunic was seamless, woven from the top through the whole.
 
-<span class="v-num">24</span> So they said <span class="added-text">(to)</span> one another, “Let us not tear it, but cast lots for it, whose it shall be,” that the Scripture might be fulfilled, “They divided my garments <span class="added-text">(among)</span> themselves, and for my clothing they cast <span class="alt-label">a lot</span><span class="alt-text">(=lots)</span>.” So the soldiers did these things.
+<span class="v-num">24</span> They said therefore to one another, "Let us not tear it, but let us cast lots for it, whose it shall be," that the Scripture might be fulfilled, which says, 'They divided my garments among themselves, and for my clothing they cast a lot.'[^4]
 
-<span class="v-num">25</span> And by the cross of Jesus were standing<span class="added-text">(# pluperfect for imperfect)</span> his mother and his mother’s sister, Mary the <span class="added-text">(wife)</span> of Clopas, and Mary the Magdalene.
+<span class="v-num">25</span> The soldiers therefore did these things. But standing by the cross of Jesus <span class="added-text">(were)</span> his mother, and his mother's sister, Mary the <span class="added-text">(wife)</span> of Clopas, and Mary Magdalene.
 
-<span class="v-num">26</span> So Jesus, having seen <span class="alt-label">the</span><span class="alt-text">(=his)</span> mother and the disciple standing by whom he was loving, says <span class="added-text">(to)</span> <span class="alt-label">the</span><span class="alt-text">(=his)</span> mother, “Woman, behold your son!”
+<span class="v-num">26</span> Jesus therefore, seeing <span class="added-text">(his)</span> mother, and the disciple whom he loved standing by, said to his mother, "Woman, behold your son!"
 
-<span class="v-num">27</span> Then he says <span class="added-text">(to)</span> the disciple, “Behold your mother.” And from that hour the disciple took her into his own <span class="added-text">(home)</span>.
+<span class="v-num">27</span> Then he said to the disciple, "Behold your mother!" And from that hour the disciple took her into his own <span class="added-text">(home)</span>.
 
-<span class="v-num">28</span> After this <del class="deleted-text">[the]</del> Jesus, having known that now all things have been accomplished, so that the Scripture <span class="alt-label">would</span><span class="alt-text">(=will)</span> be fulfilled, says, “I thirst.”
+<span class="v-num">28</span> After this, Jesus, knowing that all things were now finished, that the Scripture might be fulfilled, said, "I thirst."
 
-<span class="v-num">29</span> There was standing a jar full of vinegar. So having put a sponge full of the vinegar on hyssop, they <span class="alt-label">brought</span><span class="alt-text">(=held)</span> <span class="added-text">(it)</span> to his mouth.
+<span class="v-num">29</span> A vessel therefore full of sour <span class="alt-label">wine</span><span class="alt-text">(=vinegar)</span> was set <span class="added-text">(there)</span>. And having filled a sponge with the sour wine, and put <span class="added-text">(it)</span> on hyssop, they brought <span class="added-text">(it)</span> to his mouth.
 
-<span class="v-num">30</span> So when he received the vinegar, Jesus said, “It has been accomplished.” And having bowed <span class="alt-label">the</span><span class="alt-text">(=his)</span> head, he gave up <span class="alt-label">the</span><span class="alt-text">(=his)</span> spirit.
+<span class="v-num">30</span> When therefore Jesus had received the sour wine, he said, "It is finished!" And having bowed <span class="added-text">(his)</span> head, he gave up his spirit.[^5]
 
-<span class="v-num">31</span> So since it was the day of Preparation, so that the bodies might not remain on the cross on the Sabbath, for the day of that Sabbath was <span class="alt-label">great</span><span class="alt-text">(=special day)</span>, the Jews asked <del class="deleted-text">[the]</del> Pilate that their legs might be broken, and they might be taken away.
+<span class="v-num">31</span> The Jews therefore, so that the bodies would not remain on the cross on the Sabbath, since it was <span class="added-text">(the day of)</span> preparation <span class="added-text">(for that Sabbath day was a great one)</span>, asked Pilate that their legs might be broken, and <span class="added-text">(that)</span> they might be taken away.[^6]
 
-<span class="v-num">32</span> So the soldiers came and broke the legs of the first and of the other having been crucified with him.
+<span class="v-num">32</span> The soldiers therefore came, and broke the legs of the first, and of the other who was crucified with him.
 
-<span class="v-num">33</span> And having come to <del class="deleted-text">[the]</del> Jesus, when they saw him having already died, they did not break his legs.
+<span class="v-num">33</span> But having come to Jesus, when they saw him already dead, they did not break his legs.
 
-<span class="v-num">34</span> But one of the soldiers pierced his side <span class="added-text">(with)</span> a spear, and immediately blood and water came out.
+<span class="v-num">34</span> But one of the soldiers pierced his side with a spear, and immediately came out blood and water.
 
-<span class="v-num">35</span> And the one having seen has testified, and his testimony is true, and that one knows that he tells the truth, so that you also may believe.
+<span class="v-num">35</span> And he who has seen has testified, and his testimony is true, and he knows that he says true <span class="added-text">(things)</span>, that you also may believe.
 
-<span class="v-num">36</span> For these things happened that the Scripture might be fulfilled, “A bone of him will not be broken.”
+<span class="v-num">36</span> For these things happened, that the Scripture might be fulfilled, 'A bone of his shall not be broken.'
 
-<span class="v-num">37</span> And another Scripture says again, “They will look on <span class="added-text">(him)</span> whom they pierced.”
+<span class="v-num">37</span> And again another Scripture says, 'They shall look on him whom they pierced.'
 
-<span class="v-num">38</span> And after these things, Joseph <span class="alt-label">from</span><span class="alt-text">(=of)</span> Arimathea, being a disciple of Jesus, having been hidden because of <del class="deleted-text">[the]</del> fear of the Jews, asked <del class="deleted-text">[the]</del> Pilate that he might take away the body of Jesus. And Pilate allowed. Therefore he came and took his body away.
+<span class="v-num">38</span> After these things, Joseph of Arimathea, being a disciple of Jesus, but hidden because of fear of the Jews, asked Pilate that he might take away the body of Jesus. And Pilate permitted <span class="added-text">(it)</span>. He came therefore and took away the body of Jesus.
 
-<span class="v-num">39</span> And Nicodemus also, the one having come to him <span class="alt-label">of</span><span class="alt-text">(=by)</span> night <span class="alt-label">the first</span><span class="alt-text">(=at first)</span>, came bringing a mixture of myrrh and aloes, about a hundred pounds.
+<span class="v-num">39</span> And Nicodemus also came, who had come to Jesus by night at the first, bringing a mixture of myrrh and aloes, about a hundred <span class="alt-label">pounds</span><span class="alt-text">(=litras)</span>.
 
-<span class="v-num">40</span> So they took the body of Jesus and bound it <span class="added-text">(in)</span> strip of linen with the spices, as it is <span class="added-text">(to)</span> the Jews <span class="added-text">(the)</span> custom <span class="alt-label">to bury</span><span class="alt-text">(=for burial)</span>.
+<span class="v-num">40</span> They took therefore the body of Jesus, and bound it in linen cloths with the spices, as is the custom of the Jews to bury.
 
-<span class="v-num">41</span> And there was a garden in the place where he was crucified, and in the garden a new tomb, in which no one <span class="alt-label">was having been laid</span><span class="alt-text">(=had yet been laid)</span>[^3].
+<span class="v-num">41</span> Now in the place where he was crucified there was a garden, and in the garden a new tomb, in which no one had yet ever been laid.
 
-<span class="v-num">42</span> So because of the day of the Preparation of the Jews, because the tomb was near, they laid <del class="deleted-text">[the]</del> Jesus there.
+<span class="v-num">42</span> There therefore, because of the Jews' preparation <span class="added-text">(day)</span>, since the tomb was near, they laid Jesus.
 
 ---
 
-### Study Notes
-
-[^1]: apodosis of unreal condition
-[^2]: periphrastic pluperfect
-[^3]: periphrastic pluperfect
+[^1]: ἵνα γνῶτε는 목적을 나타내는 부정과거 가정법으로, 빌라도가 자신의 무죄 선언 목적을 밝히는 구문이다.
+[^2]: εἰ μὴ ἦν δεδομένον은 과거의 사실에 반하는 조건을 나타내며, 빌라도의 권세조차 위로부터 허락된 것임을 강조한다.
+[^3]: ἐὰν ἀπολύσῃς는 아직 실현되지 않은 가능성을 나타내는 3급 조건문으로, 유대인들이 빌라도를 정치적으로 압박하는 논리이다.
+[^4]: ἵνα πληρωθῇ는 성경 성취의 목적을 나타내며, 인용된 시편 22편 18절이 그리스도의 십자가 사건에서 문자적으로 이루어짐을 보여준다.
+[^5]: τετέλεσται는 완료시제로 그리스도의 구속 사역이 완전하고 최종적으로 성취되었음을 나타낸다.
+[^6]: 두 개의 ἵνα절이 유대인들이 빌라도에게 요청한 목적, 곧 다리를 꺾음과 시신을 치움을 나타낸다.

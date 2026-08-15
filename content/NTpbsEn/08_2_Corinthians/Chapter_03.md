@@ -4,7 +4,7 @@ description: "2 Corinthians Chapter 3"
 book: "2 Corinthians"
 chapter: 3
 order: 3
-tags: [NTpbsEn, 2_Corinthians]
+tags: [NTpbsEn, 2Corinthians]
 ---
 
 # 2 Corinthians 3
@@ -16,39 +16,47 @@ tags: [NTpbsEn, 2_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> Do we begin to commend ourselves again? Or do <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> we need, as some others, letters of recommendation <span class="added-text">(to)</span> you or from you?
+<span class="v-num">1</span> Do we begin again to recommend ourselves? Or do we need, as some <span class="added-text">(do)</span>, letters of recommendation to you, or <span class="added-text">(letters of recommendation)</span> from you?
 
-<span class="v-num">2</span> You are our letter, having been inscribed in our heart, being known and being read by all men,
+<span class="v-num">2</span> You are our epistle, written in our hearts, known and read by all men,
 
-<span class="v-num">3</span> being manifested that you are an epistle of Christ, having been ministered by us, having been inscribed not <span class="added-text">(by)</span> ink but <span class="added-text">(by the)</span> spirit of <span class="added-text">(the)</span> living God, not on tablets of stone but on tablets <span class="alt-label">of flesh hearts</span><span class="alt-text">(=of human hearts)</span>.
+<span class="v-num">3</span> being made manifest that you are an epistle of Christ, ministered by us, written not with ink, but with <span class="added-text">(the)</span> Spirit of <span class="added-text">(the)</span> living God, not in tablets of stone, but in tablets of <span class="added-text">(the)</span> heart of flesh.
 
-<span class="v-num">4</span> And we have such confidence through <del class="deleted-text">[the]</del> Christ toward <del class="deleted-text">[the]</del> God.
+<span class="v-num">4</span> And such confidence we have through Christ toward God:
 
-<span class="v-num">5</span> Not that we are sufficient of ourselves to claim anything as <span class="added-text">(being)</span> from ourselves, but our sufficient <span class="added-text">(is)</span> from <del class="deleted-text">[the]</del> God,
+<span class="v-num">5</span> not that we are sufficient of ourselves to think anything as of ourselves, but our sufficiency <span class="added-text">(is)</span> from God,
 
-<span class="v-num">6</span> who also made us sufficient <span class="added-text">(as)</span> ministers of a new covenant, not of <span class="added-text">(the)</span> letter but of <span class="added-text">(the)</span> Spirit, for the letter kills, but the Spirit gives life.
+<span class="v-num">6</span> who also made us sufficient <span class="added-text">(as)</span> ministers of <span class="added-text">(the)</span> new covenant, not of <span class="added-text">(the)</span> letter, but of <span class="added-text">(the)</span> Spirit; for the letter kills, but the Spirit gives life.[^1]
 
-<span class="v-num">7</span> And if the ministry of death, having been engraved in letters <span class="added-text">(on)</span> stones, was in glory, <span class="alt-label">so as the sons of Israel not to be able to look</span><span class="alt-text">(=so that the people of Israel could not look steadily)</span> at Moses’ face because of the glory of his face, <span class="added-text">(which glory was)</span> fading away,
+<span class="v-num">7</span> But if the ministry of death, in letters, engraved in stones, came in glory, so that the sons of Israel could not gaze at the face of Moses because of the glory of his face, <span class="added-text">(a glory)</span> which was being done away,[^2]
 
-<span class="v-num">8</span> how will the ministry of the Spirit not be <span class="alt-label">rather in glory</span><span class="alt-text">(=more glorious)</span>?
+<span class="v-num">8</span> how shall not the ministry of the Spirit be rather in glory?
 
-<span class="v-num">9</span> For if the ministry of condemnation <span class="added-text">(had)</span> glory, the ministry of righteousness exceeds much more <span class="added-text">(in)</span> glory.
+<span class="v-num">9</span> For if the ministry of condemnation <span class="added-text">(was)</span> glory, much more does the ministry of righteousness abound in glory.
 
-<span class="v-num">10</span> For even the thing having been glorified has not been glorified in this respect because of the surpassing glory.
+<span class="v-num">10</span> For indeed that which was glorified was not glorified in this respect, because of the surpassing glory.
 
-<span class="v-num">11</span> For if the thing <span class="added-text">(which was)</span> fading away <span class="added-text">(came)</span> through glory, the remaining thing <span class="added-text">(is)</span> much more in glory.
+<span class="v-num">11</span> For if that which is passing away <span class="added-text">(was)</span> through glory, much more that which remains <span class="added-text">(is)</span> in glory.
 
-<span class="v-num">12</span> Therefore, having such a hope, we <span class="alt-label">use</span><span class="alt-text">(=act)</span> <span class="added-text">(with)</span> great boldness,
+<span class="v-num">12</span> Having therefore such hope, we use great boldness <span class="added-text">(of speech)</span>,
 
-<span class="v-num">13</span> and not as Moses, <span class="added-text">(who)</span> was putting a veil upon his face, <span class="alt-label">for the sons of Israel not to look</span><span class="alt-text">(=so that the people of Israel could not look)</span> at the end of the fading <span class="added-text">(glory)</span>,
+<span class="v-num">13</span> and not as Moses put a veil over his own face, so that the sons of Israel could not gaze at the end of that which was passing away.[^3]
 
-<span class="v-num">14</span> but their minds were hardened, for until this day the same veil remains <span class="alt-label">not being unveiled</span><span class="alt-text">(=unlifted)</span> <span class="alt-label">on</span><span class="alt-text">(=in)</span> the reading of the old covenant, because it is <span class="alt-label">fading</span><span class="alt-text">(=taken)</span> away in Christ.
+<span class="v-num">14</span> But their minds were hardened. For until today, the same veil remains at the reading of the old covenant, not being lifted, <span class="added-text">(the veil)</span> which is done away in Christ.
 
-<span class="v-num">15</span> But until this day whenever Moses <span class="alt-label">may be read</span><span class="alt-text">(=is read)</span>, a veil lies on their heart.
+<span class="v-num">15</span> but until today, whenever Moses is read, a veil lies upon their heart.
 
-<span class="v-num">16</span> And whenever <span class="alt-label">he</span><span class="alt-text">(=anyone)</span> <span class="alt-label">might turn</span><span class="alt-text">(=turns)</span> to <span class="added-text">(the)</span> Lord, the veil is taken away.
+<span class="v-num">16</span> But whenever it (=one) turns to <span class="added-text">(the)</span> Lord, the veil is taken away.[^4]
 
-<span class="v-num">17</span> And the Lord is the Spirit. And where the Spirit of the Lord <span class="added-text">(is)</span>, <span class="added-text">(there is)</span> freedom.
+<span class="v-num">17</span> Now the Lord is the Spirit; and where the Spirit of <span class="added-text">(the)</span> Lord <span class="added-text">(is)</span>, there <span class="added-text">(is)</span> freedom.[^5]
 
-<span class="v-num">18</span> And we all, <span class="added-text">(with)</span> <del class="deleted-text">[having been]</del> unveiled face, <span class="alt-label">contemplating</span><span class="alt-text">(=looking in a mirror)</span> the glory of <span class="added-text">(the)</span> Lord, are being transformed <span class="added-text">(into)</span> the same image from glory to glory, <span class="alt-label">as</span><span class="alt-text">(=which comes)</span> from <span class="added-text">(the)</span> Lord <span class="added-text">(who is the)</span> Spirit.
+<span class="v-num">18</span> But we all, with unveiled face, reflecting <span class="added-text">(as in a mirror)</span> the glory of <span class="added-text">(the)</span> Lord, are being transformed into the same image from glory to glory, even as from <span class="added-text">(the)</span> Lord <span class="added-text">(the)</span> Spirit.[^6]
 
+---
+
+[^1]: γράμμα(문자)와 πνεῦμα(영)의 대조는 율법 조문의 정죄 기능과 성령의 생명 부여 기능을 대비시키는 바울 신학의 핵심 어구다.
+[^2]: 모세의 빛나는 얼굴(출애굽기 34:29-35)을 인용하여 옛 언약의 영광조차 이스라엘이 감당 못할 정도였음을 전제로 삼는다.
+[^3]: 출애굽기 34:33의 모세의 수건 사건을 인용하여 옛 언약의 영광이 감추어졌음을 논증한다.
+[^4]: ἡνίκα ἄν+가정법은 특정되지 않은 반복적 미래 상황을 나타내는 부정 시간절로 '~할 때마다'의 뜻을 지닌다.
+[^5]: 관사 있는 Ὁ Κύριος와 τὸ πνεῦμα의 동일시는 부활하신 주와 성령의 사역적 일치를 선언하는 것이지 위격의 혼동이 아니다.
+[^6]: μεταμορφούμεθα는 현재 수동태로서 신자의 변화가 단회적 사건이 아니라 지속적으로 진행되는 과정임을 나타낸다.

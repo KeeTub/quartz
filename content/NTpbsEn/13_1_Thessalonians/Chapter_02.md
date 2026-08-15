@@ -4,7 +4,7 @@ description: "1 Thessalonians Chapter 2"
 book: "1 Thessalonians"
 chapter: 2
 order: 2
-tags: [NTpbsEn, 1_Thessalonians]
+tags: [NTpbsEn, 1Thessalonians]
 ---
 
 # 1 Thessalonians 2
@@ -16,48 +16,48 @@ tags: [NTpbsEn, 1_Thessalonians]
 </div>
 
 
-<span class="v-num">1</span> For you yourselves know, brothers, our <span class="alt-label">entry</span><span class="alt-text">(=coming)</span> to you, that it was not in vain,
+<span class="v-num">1</span> For you yourselves know, brothers, our entrance to you, that it has not become <span class="alt-label">empty</span><span class="alt-text">(=in vain)</span>.
 
-<span class="v-num">2</span> but <span class="alt-label">having previously suffered and having been shamefully treated</span><span class="alt-text">(=though we had previously suffered and been insulted)</span>, as you know, at Philippi, we spoke boldly in our God to tell you the gospel of God in much <span class="alt-label">conflict</span><span class="alt-text">(=opposition)</span>.
+<span class="v-num">2</span> But having also suffered before and having been insulted, as you know, in Philippi, we were bold in our God to speak to you the gospel of God <span class="alt-label">in</span><span class="alt-text">(=amid)</span> much <span class="alt-label">conflict</span><span class="alt-text">(=struggle)</span>.
 
-<span class="v-num">3</span> For our exhortation <span class="added-text">(did)</span> not <span class="added-text">(come)</span> from error or from uncleanness, nor in deceit,
+<span class="v-num">3</span> For our <span class="alt-label">exhortation</span><span class="alt-text">(=encouragement)</span> <span class="added-text">(was)</span> not from error, nor from uncleanness, nor in deceit;
 
-<span class="v-num">4</span> but as we have been approved by <del class="deleted-text">[the]</del> God to be entrusted with the gospel, so we speak, not as <span class="added-text">(the ones)</span> pleasing men, but <span class="added-text">(as the ones pleasing)</span> God proving our hearts.
+<span class="v-num">4</span> But just as we have been approved by God to be entrusted <span class="added-text">(with)</span> the gospel, so we speak, not as pleasing men, but God, the one <span class="alt-label">testing</span><span class="alt-text">(=examining)</span> our hearts.
 
-<span class="v-num">5</span> For neither at any time did we <span class="added-text">(use)</span> <span class="alt-label">in word of flattery</span><span class="alt-text">(=flattering words)</span>[^1], as you know, nor <del class="deleted-text">[in]</del> a pretext of covetousness, God <span class="added-text">(is)</span> witness,
+<span class="v-num">5</span> For neither at any time did we come to be in word of flattery, as you know, nor in pretense of <span class="alt-label">greed</span><span class="alt-text">(=covetousness)</span>; God <span class="added-text">(is)</span> witness;
 
-<span class="v-num">6</span> nor seeking glory from men, neither from you nor from others,
+<span class="v-num">6</span> nor seeking glory from men, neither from you nor from others, being able to be in <span class="alt-label">weight</span><span class="alt-text">(=with authority)</span>, as apostles of Christ;
 
-<span class="v-num">7</span> <span class="alt-label">being able to be</span><span class="alt-text">(=though we could have claimed)</span> <del class="deleted-text">[in]</del> <span class="alt-label">weight</span><span class="alt-text">(=authority)</span> as apostles of Christ. But we were gentle among you, just as a nursing mother <del class="deleted-text">[may]</del> cherishes her own children.
+<span class="v-num">7</span> but we became gentle in the midst of you, as a nurse might cherish her own children,
 
-<span class="v-num">8</span> So longing for you, we were delighted to impart <span class="added-text">(to)</span> you not only the gospel of God but also our own lives, because you became <span class="alt-label">beloved</span><span class="alt-text">(=dear)</span> to us.
+<span class="v-num">8</span> so, longing <span class="alt-label">for</span><span class="alt-text">(=yearning after)</span> you, we were well pleased to impart to you not only the gospel of God, but also our own <span class="alt-label">souls</span><span class="alt-text">(=lives)</span>, because you had become beloved to us.
 
-<span class="v-num">9</span> For you remember, brothers, our labor and toil; working night and day <span class="alt-label"><del class="deleted-text">[the]</del> not to  burden</span><span class="alt-text">(=in order for us not to be a burden to)</span> any of you, we preached to you the gospel of God.
+<span class="v-num">9</span> For you remember, brothers, our labor and toil; for working night and day, so as not to burden any of you, we preached to you the gospel of God.[^1]
 
-<span class="v-num">10</span> You <span class="added-text">(are)</span> witnesses, and God <span class="added-text">(also)</span>, how holily and righteously and blamelessly we <span class="alt-label">were</span><span class="alt-text">(=behaved)</span> <span class="added-text">(ourselves to)</span> you <span class="alt-label">believing</span><span class="alt-text">(=who believe)</span>.
+<span class="v-num">10</span> You <span class="added-text">(are)</span> witnesses, and God, how holily and righteously and blamelessly we became to you who believe,
 
-<span class="v-num">11</span> As you know <span class="alt-label">how</span><span class="alt-text">(=that)</span> <span class="added-text">(we treated)</span> each one of you, as a father <span class="added-text">(does)</span> his own children,
+<span class="v-num">11</span> just as you know how, as a father his own children, we were exhorting and comforting and <span class="alt-label">testifying</span><span class="alt-text">(=charging)</span> each one of you,
 
-<span class="v-num">12</span> exhorting and comforting you, and charging for you <del class="deleted-text">[the]</del> to walk worthy of God, the One calling you into his own kingdom and glory.
+<span class="v-num">12</span> so that you might walk worthily of God, the one calling you into his own kingdom and glory.[^2]
 
-<span class="v-num">13</span> And for this <span class="added-text">(reason)</span> we also give thanks <span class="added-text">(to)</span> <del class="deleted-text">[the]</del> God constantly, that having received <span class="added-text">(the)</span> word of hearing of <del class="deleted-text">[the]</del> God from us, you accepted <span class="added-text">(it)</span> not <span class="added-text">(as)</span> a word of men but as it really is a word of God, which also operates in you, the ones <span class="alt-label">believing</span><span class="alt-text">(=who believe)</span>.
+<span class="v-num">13</span> Because of this we also thank God unceasingly, that having received <span class="added-text">(the)</span> word of hearing from us, of God, you accepted <span class="added-text">(it)</span> not <span class="added-text">(as)</span> word of men, but, as it truly is, <span class="added-text">(as)</span> word of God, which also works in you who believe.
 
-<span class="v-num">14</span> For you became imitators, brothers, of the churches of God <del class="deleted-text">[being]</del> in Judaea in Christ Jesus, for you also suffered the same things from <span class="alt-label">the</span><span class="alt-text">(=your)</span> own countrymen, as they also <span class="added-text">(suffered)</span> from the Jews,
+<span class="v-num">14</span> For you, brothers, became imitators of the churches of God which are in Judea in Christ Jesus, because you also suffered the same things from your own countrymen, just as they also from the Jews,
 
-<span class="v-num">15</span> the ones having killed the Lord Jesus and the prophets, and having persecuted us, and not pleasing God, and opposing all men,
+<span class="v-num">15</span> who both killed the Lord Jesus and their own prophets, and drove us out, and are not pleasing to God, and are contrary to all men,
 
-<span class="v-num">16</span> forbidding us to speak to the Gentiles that they might be saved, <span class="alt-label">for the</span><span class="alt-text">(=so as)</span> to fill up their sins always. But the wrath has come upon them to <span class="added-text">(the)</span> uttermost.
+<span class="v-num">16</span> forbidding us to speak to the Gentiles that they might be saved, so as to fill up their sins always; but wrath has come upon them to the <span class="alt-label">end</span><span class="alt-text">(=at last)</span>.[^3]
 
-<span class="v-num">17</span> But we, brothers, <span class="alt-label">having been made an orphan</span><span class="alt-text">(=having been taken away)</span> from you <span class="alt-label">for time of an hour</span><span class="alt-text">(=for a short time)</span> <span class="alt-label"><span class="added-text">(in)</span> face</span><span class="alt-text">(=in person)</span>, not <span class="added-text">(in)</span> heart, the more <span class="alt-label">abundantly</span><span class="alt-text">(=eagerly)</span> endeavored to see your face <span class="alt-label">in</span><span class="alt-text">(=with)</span> great desire.
+<span class="v-num">17</span> But we, brothers, having been <span class="alt-label">bereaved</span><span class="alt-text">(=separated)</span> from you for a short <span class="alt-label">time</span><span class="alt-text">(=a season)</span>, in <span class="alt-label">face</span><span class="alt-text">(=presence)</span>, not in heart, more abundantly endeavored <span class="added-text">(with)</span> much desire to see your face.
 
-<span class="v-num">18</span> Therefore we wanted to come to you - indeed I, Paul, once and <span class="alt-label">twice</span><span class="alt-text">(=again)</span> - <span class="alt-label">and</span><span class="alt-text">(=but)</span> <del class="deleted-text">[the]</del> Satan hindered us.
+<span class="v-num">18</span> Therefore we wanted to come to you, I, Paul, both once and twice, and Satan hindered us.
 
-<span class="v-num">19</span> For what <span class="added-text">(is)</span> our hope or joy, or crown of boasting before our Lord Jesus at his coming? Is it not you?
+<span class="v-num">19</span> For what <span class="added-text">(is)</span> our hope or joy or crown of boasting? Is it not even you, before our Lord Jesus Christ at his coming?
 
 <span class="v-num">20</span> For you are our glory and joy.
 
 ---
 
-### Study Notes
-
-[^1]: Hebraic syntax
+[^1]: πρὸς τὸ+부정사(ἐπιβαρῆσαι)는 목적을 나타내는 구문으로 '짐을 지우지 않기 위하여'라는 의도를 표현한다.
+[^2]: εἰς τὸ+부정사(περιπατῆσαι)는 목적을 나타내는 구문으로 하나님께 합당하게 행하게 하려는 목적을 표현한다.
+[^3]: ἵνα σωθῶσιν은 아직 실현되지 않은 목적을 나타내는 가정법 목적절로 '구원받게 하려'는 의도를 담고 있다.

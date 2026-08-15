@@ -16,68 +16,62 @@ tags: [NTpbsEn, Acts]
 </div>
 
 
-<span class="v-num">1</span> And after five days, Ananias the high priest came down with some elders and a spokesman, certain Tertullus, who reported to the governor against <del class="deleted-text">[the]</del> Paul.
+<span class="v-num">1</span> After five days the high priest Ananias went down with the elders and a certain orator Tertullus, who informed the governor against Paul.
 
-<span class="v-num">2</span> And <span class="alt-label">his being called</span><span class="alt-text">(=when he was called)</span>[^1], <del class="deleted-text">[the]</del> Tertullus began to accuse, saying,
+<span class="v-num">2</span> And when he was called, Tertullus began to accuse <span class="added-text">(him)</span>, saying, "Seeing that we enjoy much peace through you, and that worthy deeds are done for this nation through your forethought,
 
-<span class="v-num">3</span> “Enjoying much peace <span class="alt-label">through</span><span class="alt-text">(=by)</span> you, and <span class="alt-label">reform’s becoming</span><span class="alt-text">(=reforms are brought)</span>[^2] to this nation through your foresight, both in every way and everywhere we acknowledge, most excellent Felix, with all thankfulness.”
+<span class="v-num">3</span> we accept <span class="added-text">(it)</span> in every way and everywhere, most excellent Felix, with all thankfulness.
 
-<span class="v-num">4</span> “But in order that I may not hinder you further, I beg you to hear us briefly <span class="added-text">(in)</span> your kindness.”
+<span class="v-num">4</span> But that I may not hinder you further, I beg you to hear us briefly in your clemency.[^1]
 
-<span class="v-num">5</span> “For <span class="alt-label">having found</span><span class="alt-text">(=we have found)</span> this man a pestilent fellow, and <span class="added-text">(the one)</span> stirring up revolt <span class="added-text">(among)</span> all the Jews throughout the world, and a ringleader of the <span class="alt-label">heresy</span><span class="alt-text">(=sect)</span> of the Nazarenes,”
+<span class="v-num">5</span> For we have found this man <span class="added-text">(to be)</span> a pestilent <span class="added-text">(fellow)</span>, and one stirring up a riot among all the Jews throughout the <span class="alt-label">world</span><span class="alt-text">(=inhabited earth)</span>, and a ringleader of the sect of the Nazarenes,
 
-<span class="v-num">6</span> “who also tried to profane the temple, and whom we seized.”
+<span class="v-num">6</span> who also attempted to profane the temple, whom we also seized, and wished to judge according to our law.
 
-<span class="v-num">7</span> “But having come, Lysias, the commander, took <span class="added-text">(him)</span> away from our hands with great force.”
+<span class="v-num">7</span> But Lysias the chief captain came and with much violence took <span class="added-text">(him)</span> out of our hands,[^2]
 
-<span class="v-num">8</span> “<span class="alt-label">Of whom having examined yourself</span><span class="alt-text">(=By examining him yourself)</span>, you will be able to know about all these things of which we accuse him.”
+<span class="v-num">8</span> commanding his accusers to come to you; from whom you yourself, by examining <span class="added-text">(him)</span>, will be able to know all these things of which we accuse him."
 
-<span class="v-num">9</span> And having joined <span class="added-text">(in the attack)</span>, the Jews also <span class="alt-label">alleging</span><span class="alt-text">(=alleged)</span> <span class="alt-label">these things to have</span><span class="alt-text">(=that these things were)</span> so.
+<span class="v-num">9</span> And the Jews also joined in <span class="added-text">(the attack)</span>, asserting that these things were so.
 
-<span class="v-num">10</span> And <del class="deleted-text">[the]</del> Paul answered, <span class="alt-label">the governor’s having nodded</span><span class="alt-text">(=when the governor signalled)</span>[^3] him to speak, “Knowing your being a judge to this nation <span class="alt-label">from</span><span class="alt-text">(=for)</span> many years, I cheerfully defend the things about myself.”
+<span class="v-num">10</span> And Paul answered, when the governor nodded to him to speak, "Knowing that you have been a judge to this nation for many years, I answer for myself the more cheerfully,
 
-<span class="v-num">11</span> “<span class="alt-label">Your being able</span><span class="alt-text">(=As you are able)</span>[^4] to know, that there are not more than twelve days to me since I went up to Jerusalem <span class="alt-label">worshipping</span><span class="alt-text">(=to worship)</span>.”
+<span class="v-num">11</span> as you are able to know that it is not more than twelve days since I went up to worship in Jerusalem.
 
-<span class="v-num">12</span> “And they did not find me discussing with anyone in the temple, neither making a gathering of crowd in the synagogues or throughout the city.”
+<span class="v-num">12</span> And they neither found me in the temple disputing with anyone, or causing a gathering of a crowd, nor in the synagogues, nor throughout the city;
 
-<span class="v-num">13</span> “Neither is they able to prove <span class="added-text">(to)</span> you <span class="added-text">(the things)</span> concerning which they now accuse me.”
+<span class="v-num">13</span> nor can they prove the things of which they now accuse me.
 
-<span class="v-num">14</span> “But I confess <span class="added-text">(to)</span> you this, that according to the Way which they call a heresy, so I worship the God of <span class="alt-label">the father</span><span class="alt-text">(=our fathers)</span>, believing all the things according to the law and the things having been written in the prophets,”
+<span class="v-num">14</span> But this I confess to you, that according to the Way which they call a <span class="alt-label">sect</span><span class="alt-text">(=heresy)</span>, so I worship the God of <span class="added-text">(our)</span> fathers, believing all things which are written according to the Law and in the Prophets,[^3]
 
-<span class="v-num">15</span> “having <span class="added-text">(the)</span> hope toward <del class="deleted-text">[the]</del> God, which these men themselves also accept, the resurrection of both the just and the unjust <span class="alt-label">to be about to be</span><span class="alt-text">(=that will be)</span>.”
+<span class="v-num">15</span> having hope toward God, which they themselves also accept, that there is about to be a resurrection of the dead, both of <span class="added-text">(the)</span> just and unjust.
 
-<span class="v-num">16</span> “By this I also train myself to have a blameless conscience toward <del class="deleted-text">[the]</del> God and <del class="deleted-text">[the]</del> men always.”
+<span class="v-num">16</span> And in this I myself also exercise <span class="added-text">(myself)</span>, to have a conscience void of offense toward God and men always.
 
-<span class="v-num">17</span> “And after many years, I came <span class="alt-label">having made</span><span class="alt-text">(=to bring)</span> to my nation alms and offerings.”
+<span class="v-num">17</span> Now after many years I came to bring alms to my nation, and offerings;
 
-<span class="v-num">18</span> “Among which they found me having been purified in the temple, not with a crowd nor with uproar. But there <span class="added-text">(were)</span> some Jews from <del class="deleted-text">[the]</del> Asia,”
+<span class="v-num">18</span> in which they found me purified in the temple, neither with a crowd, nor with tumult, but certain Jews from Asia—
 
-<span class="v-num">19</span> “who ought to be present before you and <del class="deleted-text">[to]</del> accuse if they have anything against me,”
+<span class="v-num">19</span> who ought to have been here before you, and to object, if they had anything against me.
 
-<span class="v-num">20</span> “or let these men themselves say what wrongdoing they found <span class="alt-label">my standing</span><span class="alt-text">(=while I was standing)</span>[^5] before the council.”
+<span class="v-num">20</span> Or else let these same <span class="added-text">(men)</span> say, if they found any wrongdoing in me while I stood before the council,
 
-<span class="v-num">21</span> “Except <span class="added-text">(the thing)</span> about this one voice that I cried out, standing among them, <del class="deleted-text">[that]</del> ‘Concerning <span class="added-text">(the)</span> resurrection of the dead I am being judged today before you.’”
+<span class="v-num">21</span> except it be for this one voice, that I cried standing among them, 'Concerning the resurrection of the dead I am judged by you this day.'"
 
-<span class="v-num">22</span> And <del class="deleted-text">[the]</del> Felix having known more exactly the things about the Way deferred them, having said, “When Lysias the commander comes down, I will decide <span class="alt-label">the things about you</span><span class="alt-text">(=your case)</span>,”
+<span class="v-num">22</span> But when Felix heard these things, having more exact knowledge of the Way, he put them off, saying, "When Lysias the chief captain comes down, I will determine your matters,"
 
-<span class="v-num">23</span> having directed to the centurion to keep him, and <span class="alt-label">to have</span><span class="alt-text">(=to give)</span> him a relaxation, and to hinder none of his own <span class="added-text">(people)</span> to serve him.
+<span class="v-num">23</span> and he commanded the centurion to keep Paul, and to let <span class="added-text">(him)</span> have liberty, and to forbid none of his own <span class="added-text">(friends)</span> to minister to him or to come to him.
 
-<span class="v-num">24</span> And after some days, having come, <del class="deleted-text">[the]</del> Felix with his own wife Drusilla being a Jewess sent for <del class="deleted-text">[the]</del> Paul. And he heard him about the faith in Christ Jesus.
+<span class="v-num">24</span> And after some days, Felix having come with Drusilla his wife, who was a Jewess, sent for Paul, and heard him concerning the faith in Christ.
 
-<span class="v-num">25</span> And <span class="alt-label">his discoursing</span><span class="alt-text">(=when he discoursed)</span>[^6] about righteousness and self-control and the judgment <span class="alt-label">of coming</span><span class="alt-text">(=to come)</span>, having been afraid, <del class="deleted-text">[the]</del> Felix answered, “Go away for now. But having gotten time, I will call for you.”
+<span class="v-num">25</span> And as he reasoned about righteousness, and self-control, and the judgment about to come, Felix became afraid and answered, "Go your way for now; and when I find a convenient time, I will call for you,"
 
-<span class="v-num">26</span> And at the same time, hoping that money will be given him by <del class="deleted-text">[the]</del> Paul, therefore also more frequently sending for him, he was talking with him.
+<span class="v-num">26</span> hoping also at the same time that money would be given him by Paul, that he might release him; therefore he also sent for him more often, and conversed with him.
 
-<span class="v-num">27</span> And <span class="alt-label">two years’ having been completed</span><span class="alt-text">(=when two years had <del class="deleted-text">[been]</del> passed)</span>[^7], <del class="deleted-text">[the]</del> Felix received a successor Porcius Festus. And desiring to <span class="alt-label">lay down</span><span class="alt-text">(=show)</span> a favor to the Jews, <del class="deleted-text">[the]</del> Felix left <del class="deleted-text">[the]</del> Paul <del class="deleted-text">[having been]</del> bound.
+<span class="v-num">27</span> But when two years were fulfilled, Felix received a successor, Porcius Festus; and Felix, wishing to gain favor with the Jews, left Paul bound.
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
-[^3]: genitive absolute
-[^4]: genitive absolute
-[^5]: genitive absolute
-[^6]: genitive absolute
-[^7]: genitive absolute
+[^1]: ἵνα+가정법(ἐγκόπτω) 목적절로, '더 이상 번거롭게 하지 않기 위해'라는 화자의 의도를 나타낸다. 아직 일어나지 않은 일을 막으려는 목적을 표현하는 부정 목적절이다.
+[^2]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 주요 사본(시내사본·바티칸사본 등)에 이 구절이 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^3]: ὁδός(길)는 사도행전에서 반복적으로(9:2, 19:9,23, 22:4 등) 초기 그리스도인들을 가리키는 자기 호칭 '그 도(道)'로 쓰이며, 여기서도 유대 당국이 '이단'이라 부르는 대상을 바울이 '도'로 재규정하고 있다.

@@ -4,7 +4,7 @@ description: "1 Corinthians Chapter 9"
 book: "1 Corinthians"
 chapter: 9
 order: 9
-tags: [NTpbsEn, 1_Corinthians]
+tags: [NTpbsEn, 1Corinthians]
 ---
 
 # 1 Corinthians 9
@@ -16,57 +16,71 @@ tags: [NTpbsEn, 1_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in <span class="added-text">(the)</span> Lord?
+<span class="v-num">1</span> Am I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are you not my work in <span class="added-text">(the)</span> Lord?
 
-<span class="v-num">2</span> If I am not an apostle to others, yet surely I am <span class="added-text">(to)</span> you. for you are the seal of my apostleship in <span class="added-text">(the)</span> Lord.
+<span class="v-num">2</span> If to others I am not an apostle, yet at least I am to you; for the seal of my apostleship you are in <span class="added-text">(the)</span> Lord.
 
-<span class="v-num">3</span> This is my defence to the ones examining me.
+<span class="v-num">3</span> This is my <span class="alt-label">defense</span><span class="alt-text">(=answer)</span> to those examining me:
 
-<span class="v-num">4</span> Do we not have <span class="added-text">(the)</span> right to eat and to drink?
+<span class="v-num">4</span> Do we not have <span class="alt-label">authority</span><span class="alt-text">(=right)</span> to eat and to drink?
 
-<span class="v-num">5</span> Do we not have <span class="added-text">(the)</span> right to take along a <span class="added-text">(believing)</span> sister, wife, as <span class="added-text">(do)</span> also the other apostles and the brothers of the Lord and Cephas?
+<span class="v-num">5</span> Do we not have <span class="alt-label">authority</span><span class="alt-text">(=right)</span> to lead about a sister, a wife, as also the rest of the apostles, and the brothers of the Lord, and Cephas?
 
-<span class="v-num">6</span> Or is it only I and Barnabas <span class="added-text">(who)</span> have no right <span class="alt-label">not to work</span><span class="alt-text">(=to refrain from working for a living)</span>?
+<span class="v-num">6</span> Or <span class="added-text">(do)</span> only I and Barnabas not have <span class="alt-label">authority</span><span class="alt-text">(=right)</span> not to work?
 
-<span class="v-num">7</span> Who ever serves as a soldier <span class="added-text">(at his)</span> own expense? Who plants a vineyard and does not eat its fruit? Or who tends a flock and does not <span class="alt-label">eat</span><span class="alt-text">(=drink)</span> from the milk of the flock?
+<span class="v-num">7</span> Who ever serves as a soldier at his own expense? Who plants a vineyard and does not eat of its fruit? Or who tends a flock and does not eat of the milk of the flock?
 
-<span class="v-num">8</span> Do <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> I say these things <u>according to man</u><span class="added-text">(as a mere man)</span>? Or does not the law also say these things?
+<span class="v-num">8</span> Do I speak these things according to man? Or does not the law also say these things?
 
-<span class="v-num">9</span> For in the law of Moses it has been written, “You shall not muzzle an ox treading out <span class="added-text">(the grain)</span>.” Is <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> it a care for the oxen <span class="alt-label">to God</span><span class="alt-text">(=God is concerned)</span>?
+<span class="v-num">9</span> For in the law of Moses it is written, 'You shall not muzzle an ox <span class="added-text">(while it is)</span> treading out grain.' Is it for the oxen that God is <span class="alt-label">concerned</span><span class="alt-text">(=cares)</span>?[^1]
 
-<span class="v-num">10</span> Or does He say <span class="added-text">(it)</span> surely for us? <del class="deleted-text">[Because]</del> It was written for us, because the plowing one <span class="alt-label">to plow</span><span class="alt-text">(=should plow)</span> <span class="alt-label">on</span><span class="alt-text">(=in)</span> hope, and the threshing one <span class="added-text">(should thresh)</span> <span class="alt-label">on</span><span class="alt-text">(=in)</span> hope <span class="alt-label">of to partake</span><span class="alt-text">(=of sharing in the harvest)</span>.
+<span class="v-num">10</span> Or does he say <span class="added-text">(it)</span> altogether for our sake? For it was written for our sake, that the one plowing ought to plow in hope, and the one threshing <span class="added-text">(ought to thresh)</span> in hope of sharing <span class="added-text">(in the crop)</span>.
 
-<span class="v-num">11</span> If we have sown the spiritual things <span class="added-text">(for)</span> you, <span class="added-text">(is it)</span> <span class="alt-label">a great thing</span><span class="alt-text">(=too much)</span> if we will reap your <span class="alt-label">fleshly</span><span class="alt-text">(=material)</span> things?
+<span class="v-num">11</span> If we sowed for you spiritual things, <span class="added-text">(is it)</span> a great thing if we shall reap your fleshly things?
 
-<span class="v-num">12</span> If others <span class="alt-label">are partakers of the right of(=over) you</span><span class="alt-text">(=share the rightful claim on you)</span>, <span class="alt-label">are</span><span class="alt-text">(=do)</span> we not even more? But we did not use this right. But we endure <span class="alt-label">all things</span><span class="alt-text">(=anything)</span> lest we <del class="deleted-text">[might]</del> give anyone an obstacle <span class="alt-label">to</span><span class="alt-text">(=in the way of)</span> the gospel of Christ.
+<span class="v-num">12</span> If others share <span class="added-text">(in)</span> this <span class="alt-label">authority</span><span class="alt-text">(=right)</span> over you, <span class="added-text">(should)</span> we not more <span class="added-text">(so)</span>? But we did not use this <span class="alt-label">authority</span><span class="alt-text">(=right)</span>; rather we endure all things, so that we might not give any hindrance to the gospel of Christ.[^2]
 
-<span class="v-num">13</span> Do you not know that the ones <span class="alt-label">working</span><span class="alt-text">(=ministering)</span> the holy things eat the things from the temple, and the ones serving <span class="added-text">(at)</span> the altar share in <span class="added-text">(the sacrificial offerings of)</span> the alter?
+<span class="v-num">13</span> Do you not know that those working the sacred things eat from the temple, <span class="added-text">(and)</span> those attending <span class="alt-label">at</span><span class="alt-text">(=serving)</span> the altar share with the altar?
 
-<span class="v-num">14</span> <span class="alt-label">Even so</span><span class="alt-text">(=in the same way)</span>, the Lord commanded <del class="deleted-text">[to]</del> the ones proclaiming the gospel <span class="alt-label">to live from the gospel</span><span class="alt-text">(=to receive their living from the gospel)</span>.
+<span class="v-num">14</span> So also the Lord commanded those proclaiming the gospel to live from the gospel.
 
-<span class="v-num">15</span> But I have not used any of these things. And I <span class="alt-label">did not write</span><span class="alt-text">(=am not writing)</span> these things, that it should be done so <span class="alt-label">in</span><span class="alt-text">(=to)</span> me. For <span class="added-text">(it would be)</span> better <span class="added-text">(for)</span> me rather to die than <span class="added-text">(to do so)</span>. No one will <span class="alt-label">empty my boast</span><span class="alt-text">(=deprive me of this boast)</span>.
+<span class="v-num">15</span> But I have used none of these things. And I did not write these things that it should be so done in my case; for <span class="added-text">(it is)</span> good for me rather to die, than that anyone should make void my ground of boasting.[^3]
 
-<span class="v-num">16</span> For if I <del class="deleted-text">[may]</del> preach the gospel, <span class="added-text">(there)</span> is no boast to me. For necessity is laid on me. <del class="deleted-text">[For]</del> Woe is to me if I <span class="alt-label">may</span><span class="alt-text">(=do)</span> not preach the gospel.
+<span class="v-num">16</span> For if I preach the gospel, it is no ground of boasting for me; for necessity is laid upon me; for woe is to me, if I do not preach the gospel.[^4]
 
-<span class="v-num">17</span> For if I do this willingly, I have a reward. But if unwillingly, I have been entrusted <span class="added-text">(with)</span> a stewardship.
+<span class="v-num">17</span> For if I do this willingly, I have a reward; but if unwillingly, I have been entrusted with a stewardship.
 
-<span class="v-num">18</span> What is my reward then? <span class="added-text">(It is)</span> that, proclaiming the gospel, I <span class="alt-label">will</span><span class="alt-text">(=may)</span> offer the gospel without charge, so as not to make full use of my right in the gospel.
+<span class="v-num">18</span> What then is my reward? That in preaching the gospel I might present the gospel of Christ without <span class="alt-label">charge</span><span class="alt-text">(=free of cost)</span>, so as not to use fully my <span class="alt-label">authority</span><span class="alt-text">(=right)</span> in the gospel.[^5]
 
-<span class="v-num">19</span> For being free from all <span class="added-text">(men)</span>, I have made myself a slave to all, that I might win the more.
+<span class="v-num">19</span> For being free from all, I enslaved myself to all, that I might gain the more.[^6]
 
-<span class="v-num">20</span> And to the Jews I became as a Jew, that I might win Jews. To the ones under <span class="added-text">(the)</span> law <span class="added-text">(I became)</span> as <span class="added-text">(the one)</span> under <span class="added-text">(the)</span> law, <span class="added-text">(though)</span> not being myself under <span class="added-text">(the)</span> law, that I might win the ones under <span class="added-text">(the)</span> law.
+<span class="v-num">20</span> And I became to the Jews as a Jew, that I might gain <span class="added-text">(the)</span> Jews; to those under <span class="added-text">(the)</span> law, as under <span class="added-text">(the)</span> law, that I might gain those under <span class="added-text">(the)</span> law;[^7]
 
-<span class="v-num">21</span> To the ones without law as without law, <span class="added-text">(though)</span> not being without law <span class="alt-label">of</span><span class="alt-text">(=toward)</span> God but under the law of Christ, that I might win the ones without law.
+<span class="v-num">21</span> to those without law, as without law <span class="added-text">(not being without law to God, but under <span class="alt-label">law</span><span class="alt-text">(=lawful)</span></span> to Christ), that I might gain those without law.[^8]
 
-<span class="v-num">22</span> To the weak I became weak, that I might win the weak. To all <span class="added-text">(men)</span> I have become all things, that I might save some by all means.
+<span class="v-num">22</span> I became to the weak as weak, that I might gain the weak. I have become all things to all men, that I might by all means save some.[^9]
 
-<span class="v-num">23</span> And I do all things for the sake of the gospel, that I might become partaker of it.
+<span class="v-num">23</span> And this I do for the sake of the gospel, that I might become a fellow partaker of it.[^10]
 
-<span class="v-num">24</span> Do you not know that the running ones <span class="alt-label">in stadium</span><span class="alt-text">(=in a race)</span> all run, but one receives the prize? So run that you might obtain <span class="added-text">(it)</span>.
+<span class="v-num">24</span> Do you not know that those running in a race all run, but one receives the prize? So run, that you may obtain <span class="added-text">(it)</span>.[^11]
 
-<span class="v-num">25</span> And everyone <span class="alt-label">competing</span><span class="alt-text">(=who competes)</span> exercises self-control <span class="added-text">(in)</span> all things, <del class="deleted-text">[therefore]</del> <span class="alt-label">those</span><span class="alt-text">(=they)</span> <span class="added-text">(do it)</span> that they might obtain a perishable crown, but we an imperishable <span class="added-text">(crown)</span>.
+<span class="v-num">25</span> And everyone competing exercises self-control in all things. They then <span class="added-text">(do it)</span> that they may receive a corruptible crown, but we an incorruptible.[^12]
 
-<span class="v-num">26</span> Therefore I run thus; not as <span class="added-text">(running)</span> aimlessly, I fight thus; not as beating <span class="added-text">(the)</span> air.
+<span class="v-num">26</span> I therefore so run, as not uncertainly; so I <span class="alt-label">fight</span><span class="alt-text">(=box)</span>, as not beating <span class="added-text">(the)</span> air;
 
-<span class="v-num">27</span> But I beat my body and enslave it, lest I myself, having proclaimed to others, should be disqualified.
+<span class="v-num">27</span> but I keep <span class="alt-label">under</span><span class="alt-text">(=buffet)</span> my body and bring <span class="added-text">(it)</span> into subjection, lest by any means, having preached to others, I myself should become <span class="alt-label">disqualified</span><span class="alt-text">(=rejected)</span>.
 
+---
+
+[^1]: 신명기 25:4 인용으로, 타작하는 소를 배려하시는 하나님의 원리를 사역자의 생계 지원 근거로 적용함.
+[^2]: ἵνα+가정법(δῶμεν) 목적절로, 바울이 권리를 사용하지 않고 모든 것을 참은 이유(목적)를 나타낸다: 복음 전파에 방해가 되지 않기 위함이다.
+[^3]: ἵνα+가정법(γένηται, κενώσῃ)이 이끄는 목적절로, 바울이 글을 쓴 의도나 원치 않는 결과를 나타낸다. 여기서는 '그렇게 되게 하려고'(부정문과 결합해 '그러려는 것이 아니라') 및 '자랑을 헛되게 하는 것'이라는 아직 실현되지 않은 목적/결과를 표현한다.
+[^4]: ἐὰν+가정법의 현재 조건문으로, 복음전파가 바울에게 선택이 아닌 필연적 의무임을 나타냄.
+[^5]: εἰς τό+부정사 목적구문으로, 복음을 값없이 전하는 것 자체가 권세를 다 쓰지 않으려는 목적임을 나타냄.
+[^6]: ἵνα+가정법(κερδήσω)은 목적절로, 바울이 모든 사람의 종이 된 이유(더 많은 사람을 얻기 위함)를 나타낸다. 자발적 종됨의 목적이 복음 전도에 있음을 강조한다.
+[^7]: ἵνα+가정법(κερδήσω)은 목적절로, 바울이 자신을 상대에 맞춘 이유(목적)를 밝힌다. '얻기 위하여'라는 의도를 강조하는 구문이다.
+[^8]: ἵνα+가정법(κερδήσω)은 목적절로, 바울이 율법 없는 자처럼 행동한 목적이 그들을 얻으려는 데 있음을 나타낸다.
+[^9]: ἵνα+가정법의 반복된 목적절로, 바울의 모든 적응이 오직 사람을 구원하려는 하나의 목적에 수렴됨을 강조함.
+[^10]: ἵνα+가정법(γένωμαι)은 목적절로, 바울이 복음을 위해 행하는 이유와 지향점을 나타낸다. '복음에 참여하는 자가 되기 위해서'라는 궁극적 목적을 강조한다.
+[^11]: ἵνα+가정법(καταλάβητε)은 목적절로, '상을 얻기 위하여'라는 달리는 행위의 목적을 나타낸다. 아직 성취되지 않은 목표를 향해 힘써 나아가라는 권면의 뉘앙스를 담는다.
+[^12]: ἵνα+가정법(λάβωσιν) 목적절로 '얻기 위하여'라는 경기자의 목표를 나타낸다. 썩을 면류관을 얻으려는 목적이 그들의 절제된 훈련의 이유임을 보여준다.

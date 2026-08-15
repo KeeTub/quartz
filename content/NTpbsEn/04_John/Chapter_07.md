@@ -16,114 +16,120 @@ tags: [NTpbsEn, John]
 </div>
 
 
-<span class="v-num">1</span> And after these things <del class="deleted-text">[the]</del> Jesus was walking in <del class="deleted-text">[the]</del> Galilee; <del class="deleted-text">[for]</del> he was not wishing to walk in <del class="deleted-text">[the]</del> Judea, because the Jews were seeking to kill him.
+<span class="v-num">1</span> And after these things Jesus walked in Galilee, for he did not want to walk in Judea, because the Jews were seeking to kill him.
 
-<span class="v-num">2</span> And the feast of the Jews, the <span class="added-text">(feast of)</span> Tabernacles, was near.
+<span class="v-num">2</span> Now the feast of the Jews, the feast of <span class="alt-label">tabernacles</span><span class="alt-text">(=booths)</span>, was near.
 
-<span class="v-num">3</span> So his brothers said <span class="added-text">(to)</span> him, “Leave here and go into <del class="deleted-text">[the]</del> Judea, so that your disciples also will see your works that you do.”
+<span class="v-num">3</span> Therefore his brothers said to him, "Depart from here, and go into Judea, so that your disciples also may see the works which you do.[^1]
 
-<span class="v-num">4</span> “For no one does anything in secret and he himself seeks to be <span class="alt-label">in <span class="added-text">(the)</span> open</span><span class="alt-text">(=openly)</span>. If you do these things, show yourself to the world.”
+<span class="v-num">4</span> For no one does anything in secret while himself seeking to be in <span class="alt-label">public</span><span class="alt-text">(=known openly)</span>. If you do these things, show yourself to the world."
 
-<span class="v-num">5</span> For his brothers were not believing in him.
+<span class="v-num">5</span> For not even his brothers believed in him.
 
-<span class="v-num">6</span> So <del class="deleted-text">[the]</del> Jesus says <span class="added-text">(to)</span> them, “My time has not yet come, but your time is always ready.”
+<span class="v-num">6</span> Therefore Jesus said to them, "My time is not yet here, but your time is always ready.
 
-<span class="v-num">7</span> “The world is not able to hate you, but it hates me because I testify about it that its works <span class="alt-label">is</span><span class="alt-text">(=are)</span> evil.”
+<span class="v-num">7</span> The world cannot hate you, but it hates me, because I testify concerning it, that its works are evil.
 
-<span class="v-num">8</span> “You go into the feast. I am not going up to this feast because my time has not been yet fulfilled.”
+<span class="v-num">8</span> You go up to this feast; I am not yet going up to this feast, because my time is not yet fulfilled."
 
-<span class="v-num">9</span> And having said these things, he remained in <del class="deleted-text">[the]</del> Galilee.
+<span class="v-num">9</span> And having said these things to them, he remained in Galilee.
 
-<span class="v-num">10</span> And when his brothers went up to the feast, then he also went up, not openly but as <span class="added-text">(it were)</span> in secret.
+<span class="v-num">10</span> But when his brothers had gone up, then he also went up to the feast, not openly, but as in secret.
 
-<span class="v-num">11</span> So the Jews were seeking him at the feast and were saying, “Where is that <span class="added-text">(man)</span>?”
+<span class="v-num">11</span> Therefore the Jews were seeking him at the feast, and were saying, "Where is he?"
 
-<span class="v-num">12</span> And there was much <span class="alt-label">grumbling</span><span class="alt-text">(=whispering)</span> about him in the crowds. Some were saying, “<del class="deleted-text">[that]</del> He is a good <span class="added-text">(man)</span>.” But others were saying, “No, but he deceives the crowd.”
+<span class="v-num">12</span> And there was much murmuring about him among the crowds. Some were saying, "He is good"; but others were saying, "No, but he deceives the crowd."
 
-<span class="v-num">13</span> However, no one was speaking about him openly because of the fear of the Jews.
+<span class="v-num">13</span> However, no one spoke publicly about him, because of fear of the Jews.
 
-<span class="v-num">14</span> And <span class="alt-label">now the feast’s being in the middle</span><span class="alt-text">(=as the feast was already in the middle)</span>[^1], Jesus went up into the temple and was teaching.
+<span class="v-num">14</span> Now when the feast was already in the <span class="alt-label">middle</span><span class="alt-text">(=half over)</span>, Jesus went up into the temple, and was teaching.
 
-<span class="v-num">15</span> So the Jews were marveling, saying, “How does this <span class="added-text">(man)</span> know letters, having not learned?”
+<span class="v-num">15</span> And the Jews were marveling, saying, "How does this man know <span class="alt-label">letters</span><span class="alt-text">(=learning)</span>, not having studied?"
 
-<span class="v-num">16</span> So Jesus answered them and said, “My teaching is not mine but of the <span class="added-text">(One)</span> having sent me.”
+<span class="v-num">16</span> Jesus answered them and said, "My teaching is not mine, but <span class="added-text">(his)</span> who sent me.
 
-<span class="v-num">17</span> “If anyone <del class="deleted-text">[may]</del> wants to do his will, he will know about the teaching, whether it is from <del class="deleted-text">[the]</del> God or <span class="added-text">(whether)</span> I am speaking <span class="alt-label">from myself</span><span class="alt-text">(=on my own)</span>.”
+<span class="v-num">17</span> If anyone wants to do his will, he will know concerning the teaching, whether it is from God, or <span class="added-text">(whether)</span> I speak from myself.[^2]
 
-<span class="v-num">18</span> “The one speaking <span class="alt-label">from himself</span><span class="alt-text">(=on his own)</span> seeks his own glory. But the one seeking the glory of the One having sent him <del class="deleted-text">[this one]</del> is true, and unrighteousness is not in him.”
+<span class="v-num">18</span> The one speaking from himself seeks his own glory, but the one seeking the glory of him who sent him, this one is true, and unrighteousness is not in him.
 
-<span class="v-num">19</span> “Did not Moses give you the law? And none of you keeps the law. Why do you seek to kill me?”
+<span class="v-num">19</span> Did not Moses give you the law, and <span class="added-text">(yet)</span> none of you keeps the law? Why do you seek to kill me?"
 
-<span class="v-num">20</span> The crowd answered, “You have a demon. Who is seeking to kill you?”
+<span class="v-num">20</span> The crowd answered and said, "You have a demon; who seeks to kill you?"
 
-<span class="v-num">21</span> Jesus answered and said <span class="added-text">(to)</span> them, “I did one work and you all marvel.”
+<span class="v-num">21</span> Jesus answered and said to them, "I did one work, and you all marvel.
 
-<span class="v-num">22</span> “Therefore Moses has given you the circumcision, {not that it is from <del class="deleted-text">[the]</del> Moses but from the fathers}, and <span class="alt-label">in</span><span class="alt-text">(=on)</span> <span class="added-text">(the)</span> Sabbath you circumcise a man.”
+<span class="v-num">22</span> For this reason Moses has given you circumcision <span class="added-text">(not that it is from Moses, but from the fathers)</span>, and on <span class="added-text">(the)</span> Sabbath you circumcise a man.
 
-<span class="v-num">23</span> “If a man receives circumcision <span class="alt-label">in</span><span class="alt-text">(=on)</span> <span class="added-text">(the)</span> Sabbath, so that the law of Moses <span class="alt-label">might</span><span class="alt-text">(=may)</span> not be broken, are you angry with me because I made a <span class="alt-label">whole man</span><span class="alt-text">(=man’s whole body)</span> well <span class="alt-label">in</span><span class="alt-text">(=on)</span> <span class="added-text">(the)</span> Sabbath?”
+<span class="v-num">23</span> If a man receives circumcision on <span class="added-text">(the)</span> Sabbath, so that the law of Moses may not be broken, are you angry at me because I made a whole man <span class="alt-label">healthy</span><span class="alt-text">(=well)</span> on <span class="added-text">(the)</span> Sabbath?[^3]
 
-<span class="v-num">24</span> “Do not judge according to the appearance, but judge righteous judgment.”
+<span class="v-num">24</span> Do not judge according to appearance, but judge righteous judgment."
 
-<span class="v-num">25</span> So some of the <span class="alt-label">Jerusalemites</span><span class="alt-text">(=people of Jerusalem)</span> were saying, “Is not this <span class="added-text">(man)</span> whom they are seeking to kill?”
+<span class="v-num">25</span> Therefore some of the <span class="alt-label">Jerusalemites</span><span class="alt-text">(=people of Jerusalem)</span> were saying, "Is not this he whom they seek to kill?
 
-<span class="v-num">26</span> “And behold, he speaks openly. And they say nothing to him. <span class="alt-label">Perhaps</span><span class="alt-text">(=Can it be that)</span> the rulers indeed <span class="alt-label">knew</span><span class="alt-text">(=know)</span> that this is the Christ?”
+<span class="v-num">26</span> And behold, he speaks openly, and they say nothing to him. Have the rulers truly known that this is truly the Christ?
 
-<span class="v-num">27</span> “But we know where this <span class="added-text">(man)</span> <span class="alt-label">is</span><span class="alt-text">(=comes)</span> from. And when the Christ comes,  no one <span class="alt-label">knows</span><span class="alt-text">(=will know)</span> where he <span class="alt-label">is</span><span class="alt-text">(=comes)</span> from.”
+<span class="v-num">27</span> But we know this man, from where he is; but when the Christ comes, no one knows from where he is."
 
-<span class="v-num">28</span> So <del class="deleted-text">[the]</del> Jesus cried out in the temple, teaching and saying, “You know me and you know where I <span class="alt-label">am</span><span class="alt-text">(=come)</span> from. And I have not come from <span class="alt-label">myself</span><span class="alt-text">(=on my own)</span>, but the One having sent me is true, whom you do not know.”
+<span class="v-num">28</span> Therefore Jesus cried out in the temple, teaching and saying, "You know me, and you know from where I am; and I have not come from myself, but he who sent me is true, whom you do not know.
 
-<span class="v-num">29</span> “I know Him, because I am from Him and that One sent me.”
+<span class="v-num">29</span> But I know him, because I am from him, and he sent me."
 
-<span class="v-num">30</span> So they were seeking to seize him, and no one laid <span class="alt-label">the</span><span class="alt-text">(=a)</span> hand on him, because his time has not yet come.
+<span class="v-num">30</span> Therefore they were seeking to seize him; and no one laid a hand on him, because his hour had not yet come.
 
-<span class="v-num">31</span> And many of the crowd believed in him, and they were saying, “When Christ <del class="deleted-text">[might]</del> comes, [not<span class="added-text">(# expect the answer ‘No’)</span> will he do more signs <span class="added-text">(than)</span> this man has done?”
+<span class="v-num">31</span> But many of the crowd believed in him, and were saying, "When the Christ comes, will he do more signs than these which this man has done?"
 
-<span class="v-num">32</span> The Pharisees heard the crowd’s whispering these things about him, and the high priests and the Pharisees sent temple guards so that they <span class="alt-label">might</span><span class="alt-text">(=may)</span> seize him.
+<span class="v-num">32</span> The Pharisees heard the crowd murmuring these things about him; and the Pharisees and the chief priests sent <span class="alt-label">officers</span><span class="alt-text">(=officers/servants)</span> so that they might seize him.[^4]
 
-<span class="v-num">33</span> So <del class="deleted-text">[the]</del> Jesus said, “I am with you <span class="added-text">(for)</span> only a short time, and I go to the One having sent me.”
+<span class="v-num">33</span> Therefore Jesus said to them, "Yet a little while I am with you, and <span class="added-text">(then)</span> I go to him who sent me.
 
-<span class="v-num">34</span> “You will seek me and you will not find. And where I am, you are able to come.”
+<span class="v-num">34</span> You will seek me, and will not find me; and where I am, you cannot come."
 
-<span class="v-num">35</span> So the Jews said <span class="added-text">(to)</span> <span class="alt-label">themselves</span><span class="alt-text">(=one another)</span>, “Where is this <span class="added-text">(man)</span> about to go that we will not find him? Is <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> he about to go into the diaspora of the Greeks and teach the Greeks?”
+<span class="v-num">35</span> Therefore the Jews said among themselves, "Where does this man intend to go, that we shall not find him? Does he intend to go to the <span class="alt-label">dispersion</span><span class="alt-text">(=scattered ones)</span> of the Greeks, and to teach the Greeks?
 
-<span class="v-num">36</span> “What is this word that he said, ‘You will seek me and you will not find. And where I am, you cannot <del class="deleted-text">[to]</del> come?’”
+<span class="v-num">36</span> What is this word which he said, 'You will seek me, and will not find me,' and, 'Where I am, you cannot come'?"
 
-<span class="v-num">37</span> And <span class="alt-label">in</span><span class="alt-text">(=on)</span> the last great day of the feast, <del class="deleted-text">[the]</del> Jesus <span class="alt-label">had stood</span><span class="alt-text">(=was standing)</span> and cried out, saying, “If anyone <del class="deleted-text">[may]</del> thirsts, let him come to me and drink.”
+<span class="v-num">37</span> Now on the last, great day of the feast, Jesus stood and cried out, saying, "If anyone thirsts, let him come to me and drink.[^5]
 
-<span class="v-num">38</span> “The one believing in me, as the Scripture said, out of his <span class="alt-label">belly</span><span class="alt-text">(=Out of within him)</span> will flow rivers of living water.”
+<span class="v-num">38</span> The one believing in me, just as the Scripture said, out of his <span class="alt-label">belly</span><span class="alt-text">(=innermost being)</span> shall flow rivers of living water."[^6]
 
-<span class="v-num">39</span> And he said this about the Spirit, which the ones having believed in him were <del class="deleted-text">[about]</del> to receive, for <span class="added-text">(the)</span> Spirit was not yet, because Jesus was not yet glorified.
+<span class="v-num">39</span> But this he said concerning the Spirit, whom those believing in him were about to receive; for <span class="added-text">(the)</span> Holy Spirit was not yet <span class="added-text">(given)</span>, because Jesus was not yet glorified.[^7]
 
-<span class="v-num">40</span> So <span class="added-text">(some)</span> of the crowd, having heard these words, were saying, “<del class="deleted-text">[that]</del> This <span class="added-text">(man)</span> is truly the prophet.”
+<span class="v-num">40</span> Therefore many of the crowd, having heard the word, were saying, "This is truly the prophet."
 
-<span class="v-num">41</span> Others were saying, “This <span class="added-text">(man)</span> is the Christ.” And <span class="added-text">(some)</span> were saying, “Then does <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> the Christ come from <del class="deleted-text">[the]</del> Galilee?”
+<span class="v-num">41</span> Others were saying, "This is the Christ." But others were saying, "Does the Christ come from Galilee?
 
-<span class="v-num">42</span> “Has not the Scripture say that the Christ comes from the seed of David and from Bethlehem, the village where David was?”
+<span class="v-num">42</span> Has not the Scripture said that the Christ comes from the seed of David, and from Bethlehem, the village where David was?"[^8]
 
-<span class="v-num">43</span> So there was a division <span class="alt-label">in</span><span class="alt-text">(=among)</span> the crowd because of him.
+<span class="v-num">43</span> Therefore a division arose among the crowd because of him.
 
-<span class="v-num">44</span> And some of them wanted to seize him, but no one laid the hands on him.
+<span class="v-num">44</span> And some of them wanted to seize him, but no one laid hands on him.
 
-<span class="v-num">45</span> So the temple guards came to the high priests and Pharisees, and those said <span class="added-text">(to)</span> them, “Why did you not bring him?”
+<span class="v-num">45</span> Therefore the officers came to the chief priests and Pharisees; and they said to them, "Why did you not bring him?"
 
-<span class="v-num">46</span> The temple guards answered, “No man ever spoke so <span class="alt-label">as this man speaks</span><span class="alt-text">(=like this man)</span>!”
+<span class="v-num">46</span> The officers answered, "Never has a man spoken like this, as this man <span class="added-text">(speaks)</span>."
 
-<span class="v-num">47</span> So the Pharisees answered them, “Have <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> you also been deceived?”
+<span class="v-num">47</span> Therefore the Pharisees answered them, "Have you also been deceived?
 
-<span class="v-num">48</span> “Have <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> anyone of the rulers or of the Pharisees believed in him?”
+<span class="v-num">48</span> Has any of the rulers believed in him, or of the Pharisees?
 
-<span class="v-num">49</span> “But this crowd not knowing the law are accursed!”
+<span class="v-num">49</span> But this crowd, not knowing the law, is accursed."
 
-<span class="v-num">50</span> Nicodemus having come to him before <span class="added-text">(and)</span> being one of them says <span class="added-text">(to)</span> them,
+<span class="v-num">50</span> Nicodemus, who had come to him by night, being one of them, said to them,
 
-<span class="v-num">51</span> “Does <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> our law judge the man <span class="alt-label">unless it <del class="deleted-text">[might]</del> hears first from him and <del class="deleted-text">[might]</del> knows</span><span class="alt-text">(=without first hearing him and learning)</span> what he does?”
+<span class="v-num">51</span> "Does our law judge a man, unless it first hears from him, and knows what he does?"[^9]
 
-<span class="v-num">52</span> They answered and said <span class="added-text">(to)</span> him, “Are <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> you also from <del class="deleted-text">[the]</del> Galilee? Search and see that a prophet is not raised out of <del class="deleted-text">[the]</del> Galilee.”
+<span class="v-num">52</span> They answered and said to him, "Are you also from Galilee? Search and see, that a prophet does not arise out of Galilee."
 
-<span class="v-num">53</span> And each <span class="added-text">(of them)</span> went into his house.
+<span class="v-num">53</span> And each one went to his own house.
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
+[^1]: ἵνα+가정법(θεωρήσωσι)은 목적을 나타내는 목적절이다.
+[^2]: ἐάν+가정법(θέλῃ)은 일반적 조건(누구든지 원하면)을 나타낸다.
+[^3]: ἵνα+가정법(λυθῇ)은 목적절로 '율법이 폐하여지지 않게 하려고'를 뜻한다.
+[^4]: ἵνα+가정법(πιάσωσιν)은 파송의 목적을 나타낸다.
+[^5]: ἐάν+가정법(διψᾷ)은 일반적 조건문으로 누구든지 해당됨을 나타낸다.
+[^6]: '성경이 말한 것과 같이'는 구약의 특정 본문이라기보다 성경 전체의 약속을 요약 인용한 것으로 본다.
+[^7]: '성령이 아직 계시지 아니하셨다'는 성령의 부재가 아니라 예수의 영광 받으심(오순절) 이전에 아직 부어지지 않았음을 뜻한다.
+[^8]: 다윗의 씨와 베들레헴 언급은 미가 5:2, 사무엘하 7:12 등을 암시하는 구약 인용이다.
+[^9]: ἐὰν μὴ+가정법(ἀκούσῃ)은 부정 조건절로 '먼저 듣지 않고서는'을 뜻한다.

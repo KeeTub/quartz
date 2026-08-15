@@ -16,53 +16,62 @@ tags: [NTpbsEn, Romans]
 </div>
 
 
-<span class="v-num">1</span> Therefore what shall we say <span class="added-text">(that)</span> Abraham, our forefather, <span class="alt-label">to have found</span><span class="alt-text">(=had found)</span> according to flesh?
+<span class="v-num">1</span> What then shall we say Abraham our father has found according to <span class="added-text">(the)</span> flesh?
 
-<span class="v-num">2</span> For if Abraham was justified <span class="alt-label">from</span><span class="alt-text">(=by)</span> works, he has a boast, but not before God.
+<span class="v-num">2</span> For if Abraham was justified by works, he has a boast, but not toward God.
 
-<span class="v-num">3</span> For what does the Scripture say? “Abraham believed <del class="deleted-text">[the]</del> God, and it was recognized to him for righteousness.”
+<span class="v-num">3</span> For what does the scripture say? 'And Abraham believed God, and it was reckoned to him <span class="alt-label">for</span><span class="alt-text">(=as)</span> righteousness.'[^1]
 
-<span class="v-num">4</span> And to the one working is the wage not recognized <span class="alt-label">according to grace</span><span class="alt-text">(=as a grace)</span>, but <span class="alt-label">according to debt</span><span class="alt-text">(=as a due)</span>.
+<span class="v-num">4</span> Now to the one working, the wage is not reckoned according to grace, but according to <span class="added-text">(the)</span> debt.
 
-<span class="v-num">5</span> But to the one not working but believing on the One justifying the ungodly is his faith recognized for righteousness.
+<span class="v-num">5</span> But to the one not working, but believing on the one justifying the ungodly, his faith is reckoned <span class="alt-label">for</span><span class="alt-text">(=as)</span> righteousness.[^2]
 
-<span class="v-num">6</span> Even as David also says the blessedness of the man to whom God recognizes righteousness without works,
+<span class="v-num">6</span> Just as David also speaks the blessing of the man to whom God reckons righteousness apart from works,
 
-<span class="v-num">7</span> Blessed <span class="added-text">(are they)</span> whose <span class="alt-label">lawlessnesses</span><span class="alt-text">(=transgressions)</span> were forgiven and whose sins were covered.
+<span class="v-num">7</span> 'Blessed <span class="added-text">(are)</span> those whose lawless deeds were forgiven, and whose sins were covered.[^3]
 
-<span class="v-num">8</span> Blessed <span class="added-text">(is the)</span> man whose sin the Lord will not recognize
+<span class="v-num">8</span> Blessed <span class="added-text">(is the)</span> man to whom <span class="added-text">(the)</span> Lord will never reckon sin.'
 
-<span class="v-num">9</span> Is this blessedness, therefore, upon <span class="alt-label">the circumcision</span><span class="alt-text">(=the circumcised)</span> or upon <span class="alt-label">the uncircumcision</span><span class="alt-text">(=the uncircumcised)</span> also? For we say, “To Abraham was <span class="alt-label">the</span><span class="alt-text">(=his)</span> faith recognized for righteousness.”
+<span class="v-num">9</span> Is this blessing then upon the circumcision, or also upon the uncircumcision? For we say that faith was reckoned to Abraham <span class="alt-label">for</span><span class="alt-text">(=as)</span> righteousness.
 
-<span class="v-num">10</span> How then was it recognized? <span class="alt-label">Being</span><span class="alt-text">(=Was it)</span> in circumcision or in uncircumcision? Not in circumcision but in uncircumcision.
+<span class="v-num">10</span> How then was it reckoned? While being in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
 
-<span class="v-num">11</span> And he received a sign of circumcision, a seal of the righteousness of the faith <span class="alt-label">in uncircumcision</span><span class="alt-text">(=while he was still uncircumcised)</span>, <u>for him to be</u><span class="added-text">(#infinitive of consequence)</span> <span class="added-text">(the)</span> father of all <span class="alt-label">of believing</span><span class="alt-text">(=who believe)</span> <span class="alt-label">through uncircumcision</span><span class="alt-text">(=while they have not been circumcised)</span>, <u>for <span class="added-text">(the)</span> righteousness to be recognized</u><span class="added-text">(#infinitive of consequence)</span> to them.
+<span class="v-num">11</span> And he received <span class="added-text">(the)</span> sign of circumcision, a seal of the righteousness of the faith which <span class="added-text">(he had)</span> in uncircumcision, so that he might be father of all those believing through uncircumcision, so that righteousness might be reckoned to them also;[^4]
 
-<span class="v-num">12</span> And <span class="added-text">(he is the)</span> father of circumcision not only to the ones <span class="alt-label">from</span><span class="alt-text">(=of)</span> circumcision but also to the ones walking <span class="added-text">(in)</span> the footsteps of the faith of our father Abraham <span class="alt-label">in uncircumcision</span><span class="alt-text">(=before he was circumcised)</span>
+<span class="v-num">12</span> and father of circumcision, to those not of circumcision only, but also to those walking in the steps of the faith of our father Abraham which <span class="added-text">(he had)</span> in uncircumcision.
 
-<span class="v-num">13</span> For the promise to Abraham or to his <span class="alt-label">seed</span><span class="alt-text">(=offspring)</span>, <span class="alt-label">him to be</span><span class="alt-text">(=that he would be)</span> heir of <span class="added-text">(the)</span> world, <span class="added-text">(was)</span> not through <span class="added-text">(the)</span> law but through the righteousness of faith.
+<span class="v-num">13</span> For the promise to Abraham or to his seed, that he should be heir of the world, <span class="added-text">(was)</span> not through <span class="added-text">(the)</span> law, but through <span class="added-text">(the)</span> righteousness of faith.
 
-<span class="v-num">14</span> For if <span class="alt-label">the ones from law</span><span class="alt-text">(=those who live by the law)</span> <span class="added-text">(are)</span> heirs, <del class="deleted-text">[the]</del> faith has been emptied and the promise has been nullified.
+<span class="v-num">14</span> For if those of <span class="added-text">(the)</span> law <span class="added-text">(are)</span> heirs, faith has been made void, and the promise has been made of no effect.
 
-<span class="v-num">15</span> For the law brings wrath. For where there is not law, there is not transgression.
+<span class="v-num">15</span> For the law works out wrath; for where there is no law, neither <span class="added-text">(is there)</span> transgression.
 
-<span class="v-num">16</span> Therefore <span class="added-text">(it is)</span> from faith, in order that <span class="added-text">(it may be)</span> according to grace, <u>for the promise to be</u><span class="added-text">(#infinitive of consequence)</span> guaranteed to all the <span class="alt-label">seed</span><span class="alt-text">(=offspring)</span>, not only to the <span class="added-text">(seed)</span> from the law but also to the <span class="added-text">(seed)</span> from faith of Abraham, who is father of us all.
+<span class="v-num">16</span> For this reason <span class="added-text">(it is)</span> of faith, so that <span class="added-text">(it might be)</span> according to grace, so that the promise might be sure to all the seed, not to that <span class="added-text">(which is)</span> of the law only, but also to that <span class="added-text">(which is)</span> of the faith of Abraham, who is father of us all[^5]
 
-<span class="v-num">17</span> As it has been written, “I have made you <span class="added-text">(the)</span> father of many nations.” <span class="added-text">(He is our father)</span> before the God, whom he believed, <span class="alt-label">giving</span><span class="alt-text">(=who gives)</span> life to the dead and <span class="alt-label">calling</span><span class="alt-text">(=who calls)</span> the things <span class="alt-label">not being</span><span class="alt-text">(=that do not exist)</span> <span class="alt-label">as <span class="added-text">(the things)</span> being</span><span class="alt-text">(=into existence)</span>,
+<span class="v-num">17</span> <span class="added-text">(as it is written, 'I have made you a father of many nations,')</span> <span class="alt-label">before</span><span class="alt-text">(=in the presence of)</span> whom he believed, <span class="added-text">(even)</span> God, who gives life to the dead, and calls the things not being as being.[^6]
 
-<span class="v-num">18</span> who against hope believed <span class="alt-label">on</span><span class="alt-text">(=in)</span> hope, <span class="alt-label">for him to become</span><span class="alt-text">(=that he should become)</span> <span class="added-text">(the)</span> father of many nations according to the thing having been said, “So shall your seed be.”
+<span class="v-num">18</span> Who against hope believed <span class="alt-label">in</span><span class="alt-text">(=on)</span> hope, so that he might become father of many nations, according to that which was spoken, 'So shall your seed be;'[^7]
 
-<span class="v-num">19</span> And having not weakened <span class="added-text">(in)</span> faith, he considered his body having died, <span class="alt-label">being</span><span class="alt-text">(=since he was)</span> about a hundred years <span class="added-text">(old)</span>, and the deadness of Sarah’s womb.
+<span class="v-num">19</span> And not being weak in faith, he did not consider his own body already having been made dead, being about a hundred years old, and the deadness of Sarah's womb.
 
-<span class="v-num">20</span> But he did not doubt by disbelief the promise of God, but was strengthened by faith, having given glory to God,
+<span class="v-num">20</span> And toward the promise of God he did not waver in unbelief, but was strengthened in faith, giving glory to God,
 
-<span class="v-num">21</span> and having <span class="alt-label">been fully persuaded</span><span class="alt-text">(=convinced)</span> that he is able to do what he has promised.
+<span class="v-num">21</span> and being fully persuaded that what he had promised, he was able also to do.
 
-<span class="v-num">22</span> And therefore it was recognized to him for righteousness.
+<span class="v-num">22</span> Therefore also it was reckoned to him <span class="alt-label">for</span><span class="alt-text">(=as)</span> righteousness.
 
-<span class="v-num">23</span> And it was written <span class="alt-label">not because of him only</span><span class="alt-text">(=not for his sake alone)</span>, that it was recognized to him,
+<span class="v-num">23</span> Now it was not written for his sake only, that it was reckoned to him;
 
-<span class="v-num">24</span> but <span class="alt-label">also because of us</span><span class="alt-text">(=for our sake also)</span>, to whom it is about to be recognized, <span class="alt-label">to the ones believing</span><span class="alt-text">(=for us who believe)</span> on Him having raised Jesus our Lord from <span class="added-text">(the)</span> dead,
+<span class="v-num">24</span> but also for our sake, to whom it is about to be reckoned, to us who believe on him who raised Jesus our Lord from <span class="added-text">(the)</span> dead,
 
-<span class="v-num">25</span> who was delivered because of the trespasses and was raised because of our justification.
+<span class="v-num">25</span> who was delivered up because of our trespasses, and was raised because of our justification.
 
+---
+
+[^1]: 창세기 15:6 인용으로, 아브라함의 믿음이 의로 여겨진 근거 본문이다.
+[^2]: '경건치 않은 자를 의롭다 하시는 이'는 역설적 표현으로, 칭의가 행위와 무관히 믿음으로만 됨을 강조한다.
+[^3]: 시편 32:1-2 인용이다.
+[^4]: εἰς τό+부정사 구문 두 번이 목적을 나타내며, 가정법이 아니므로 subj 태그는 붙이지 않는다.
+[^5]: ἵνα κατὰ χάριν은 동사가 생략된 목적절로, '은혜를 따라 되게 하려 함'이라는 뜻이 함축되어 있다.
+[^6]: 창세기 17:5 인용이며, 하나님을 죽은 자를 살리고 없는 것을 있는 것으로 부르시는 창조주로 묘사한다.
+[^7]: εἰς τὸ γενέσθαι는 목적 부정사구문이며, '네 후손이 이같으리라'는 창세기 15:5 인용이다.

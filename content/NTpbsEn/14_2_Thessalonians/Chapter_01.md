@@ -4,7 +4,7 @@ description: "2 Thessalonians Chapter 1"
 book: "2 Thessalonians"
 chapter: 1
 order: 1
-tags: [NTpbsEn, 2_Thessalonians]
+tags: [NTpbsEn, 2Thessalonians]
 ---
 
 # 2 Thessalonians 1
@@ -16,27 +16,32 @@ tags: [NTpbsEn, 2_Thessalonians]
 </div>
 
 
-<span class="v-num">1</span> Paul and Silvanus and Timothy, To the church of <span class="added-text">(the)</span> Thessalonians in God our Father and <span class="added-text">(the)</span> Lord Jesus Christ:
+<span class="v-num">1</span> Paul and <span class="alt-label">Silvanus</span><span class="alt-text">(=Silas)</span> and Timothy, to the church of <span class="added-text">(the)</span> Thessalonians in God our Father and <span class="added-text">(the)</span> Lord Jesus Christ:
 
-<span class="v-num">2</span> Grace <span class="added-text">(be)</span> to you, and peace from God <span class="added-text">(the)</span> Father and <span class="added-text">(the)</span> Lord Jesus Christ.
+<span class="v-num">2</span> Grace to you and peace from God our Father and <span class="added-text">(the)</span> Lord Jesus Christ.
 
-<span class="v-num">3</span> We ought always to thank <del class="deleted-text">[the]</del> God for you, brothers, as it is right, because your faith is growing exceedingly, and the love of every one of you all is increasing for one another,
+<span class="v-num">3</span> We ought to give thanks to God always concerning you, brothers, as it is fitting, because your faith grows exceedingly, and the love of each one of all of you toward one another increases,
 
-<span class="v-num">4</span> <span class="alt-label">so as us ourselves to boast</span><span class="alt-text">(=so that we ourselves boast)</span> <span class="alt-label">in</span><span class="alt-text">(=of)</span> you among the churches of God for your perseverance and faith in all your persecutions and the afflictions which you endure,
+<span class="v-num">4</span> so that we ourselves boast in you among the churches of God, for your endurance and faith in all your persecutions and the afflictions which you endure,
 
-<span class="v-num">5</span> <span class="added-text">(which is)</span> evidence of the righteous judgment of God, <span class="alt-label">for the you to be counted worthy</span><span class="alt-text">(=that you will be counted worthy)</span> of the kingdom of God, for which you also suffer,
+<span class="v-num">5</span> <span class="added-text">(this is)</span> a plain <span class="alt-label">token</span><span class="alt-text">(=evidence)</span> of the righteous judgment of God, to the end that you may be counted worthy of the kingdom of God, for which you also suffer,
 
-<span class="v-num">6</span> since <span class="added-text">(it is)</span> righteous thing with God to repay <span class="added-text">(with)</span> affliction to the ones afflicting you,
+<span class="v-num">6</span> since <span class="added-text">(it is)</span> a righteous thing with God to repay tribulation to those troubling you,
 
-<span class="v-num">7</span> and <span class="added-text">(to repay with)</span> rest with us <span class="added-text">(to)</span> you being afflicted, <span class="alt-label">in the revelation of the Lord Jesus</span><span class="alt-text">(=when the Lord Jesus is revealed)</span> from heaven with angels of his <span class="alt-label">power</span><span class="alt-text">(=his mighty angels)</span>
+<span class="v-num">7</span> and to you who are troubled, rest with us, at the revelation of the Lord Jesus from heaven with <span class="added-text">(the)</span> angels of his power,
 
-<span class="v-num">8</span> in fire of flame, giving punishment to the ones not knowing God and to the ones not obeying the gospel of our Lord Jesus,
+<span class="v-num">8</span> in flaming fire, giving vengeance to those not knowing God, and to those not obeying the gospel of our Lord Jesus Christ,
 
-<span class="v-num">9</span> who will pay <span class="added-text">(the)</span> penalty <span class="added-text">(of)</span> eternal destruction from <span class="added-text">(the)</span> presence of the Lord and from the glory of his might,
+<span class="v-num">9</span> who will pay <span class="added-text">(the)</span> penalty, eternal destruction, from <span class="added-text">(the)</span> face of the Lord, and from the glory of his might,[^1]
 
-<span class="v-num">10</span> when he <del class="deleted-text">[might]</del> comes to be glorified in his saints and to be marveled at <span class="alt-label">in</span><span class="alt-text">(=on)</span> that day, among all the ones having believed, because our testimony <span class="added-text">(to)</span> you was believed,
+<span class="v-num">10</span> when he comes to be glorified in his saints, and to be marveled at in all who believed, because our testimony to you was believed, in that day.
 
-<span class="v-num">11</span> for which we also pray always for you that our God <span class="alt-label">might</span><span class="alt-text">(=may)</span> make you worthy of <span class="alt-label">the</span><span class="alt-text">(=this)</span> calling and <span class="alt-label">might</span><span class="alt-text">(=may)</span> fulfil all the good desire of goodness and work of faith <span class="alt-label">in</span><span class="alt-text">(=with)</span> power,
+<span class="v-num">11</span> To this end also we pray always concerning you, that our God may count you worthy of the calling, and may fulfill all <span class="added-text">(the)</span> good pleasure of <span class="added-text">(his)</span> goodness and <span class="added-text">(the)</span> work of faith with power,[^2]
 
-<span class="v-num">12</span> that the name of our Lord Jesus <span class="alt-label">might</span><span class="alt-text">(=may)</span> be glorified in you, and you in him, according to the grace of our God and <span class="added-text">(the)</span> Lord Jesus Christ.
+<span class="v-num">12</span> so that the name of our Lord Jesus Christ may be glorified in you, and you in him, according to the grace of our God and <span class="added-text">(the)</span> Lord Jesus Christ.[^3]
 
+---
+
+[^1]: ἀπὸ προσώπου는 단순한 공간적 분리가 아니라 주의 임재(현존)로부터의 영원한 단절을 뜻하는 종말론적 표현이다.
+[^2]: ἵνα+가정법(ἀξιώσῃ, πληρώσῃ)은 기도의 목적을 나타내는 구문으로, 하나님께서 이루실 목표를 가리킨다.
+[^3]: ὅπως+가정법(ἐνδοξασθῇ)은 앞 절의 기도가 지향하는 궁극적 목적(그리스도의 이름의 영광)을 나타낸다.

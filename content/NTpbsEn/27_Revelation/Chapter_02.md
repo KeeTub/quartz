@@ -16,66 +16,67 @@ tags: [NTpbsEn, Revelation]
 </div>
 
 
-<span class="v-num">1</span> “To the angel of the church in Ephesus write, ‘These things says the one holding the seven stars in his right <span class="added-text">(hand)</span>, <span class="added-text">(who)</span> walking <span class="alt-label">in the middle of</span><span class="alt-text">(=among)</span> the seven golden lampstands.’”
+<span class="v-num">1</span> To the angel of the Ephesian church write, 'These things says the one holding the seven stars in his right <span class="added-text">(hand)</span>, the one walking in <span class="added-text">(the)</span> midst of the seven golden lampstands:'
 
-<span class="v-num">2</span> “I know your works, <del class="deleted-text">[and]</del> the labor and your endurance, and that you are not able to tolerate evil one. And you have tested the ones calling themselves apostles <span class="alt-label">and</span><span class="alt-text">(=but)</span> they are not, and found them liars.”
+<span class="v-num">2</span> I know your works, and your labor, and your <span class="alt-label">patience</span><span class="alt-text">(=endurance)</span>, and that you are not able to <span class="alt-label">bear</span><span class="alt-text">(=tolerate)</span> evil <span class="added-text">(men)</span>, and you tested those calling themselves apostles and <span class="added-text">(who)</span> are not, and found them false,
 
-<span class="v-num">3</span> “And you have endurance, and tolerated because of my name, and have not grown weary.”
+<span class="v-num">3</span> and you have <span class="alt-label">borne</span><span class="alt-text">(=endured)</span>, and have patience, and for my name's sake have labored and have not grown weary.
 
-<span class="v-num">4</span> “But I have <span class="added-text">(this)</span> against you, that you have left your first love.”
+<span class="v-num">4</span> But I have <span class="added-text">(this)</span> against you, that you have left your first love.
 
-<span class="v-num">5</span> “Remember therefore from where you have fallen, and repent, and do the first works. If not, I <span class="added-text">(will)</span> come <span class="added-text">(to)</span> you and will remove your lampstand from its place, unless you <del class="deleted-text">[might]</del> repent.”
+<span class="v-num">5</span> Remember therefore from where you have fallen, and repent, and do the first works; but if not, I come to you quickly, and will remove your lampstand out of its place, unless you repent.[^1]
 
-<span class="v-num">6</span> “But you have this, that you hate the works of the Nicolaitans, which I also hate.”
+<span class="v-num">6</span> But you have this, that you hate the works of the Nicolaitans, which I also hate.
 
-<span class="v-num">7</span> “Let any one having an ear hear what the Spirit says <span class="added-text">(to)</span> the churches. To the one overcoming, I will give <del class="deleted-text">[him]</del> <span class="added-text">(the right)</span> to eat from the tree of <del class="deleted-text">[the]</del> life, which is in the paradise of <del class="deleted-text">[the]</del> God”
+<span class="v-num">7</span> Let the one having an ear hear what the Spirit says to the churches. To the one who overcomes, I will give to him to eat from the tree of life, which is in <span class="added-text">(the)</span> midst of the paradise of God.
 
-<span class="v-num">8</span> “And to the angel of the church in Smyrna write, ‘These things says the First and the Last, who was dead and came to life.’”
+<span class="v-num">8</span> And to the angel of the church of <span class="added-text">(the)</span> Smyrnaeans write, 'These things says the first and the last, who became dead and lived:'
 
-<span class="v-num">9</span> “I know your affliction and the poverty, but you are rich, and <span class="added-text">(I know)</span> the blasphemy from the ones calling themselves <del class="deleted-text">[to be]</del> Jews and they are not, but <span class="added-text">(are)</span> a synagogue of Satan.”
+<span class="v-num">9</span> I know your works, and the tribulation, and the poverty <span class="added-text">(but you are rich)</span>, and the blasphemy of those saying themselves to be Jews, and they are not, but <span class="added-text">(are)</span> a synagogue of Satan.
 
-<span class="v-num">10</span> “Do not fear what you are about to suffer. Behold, the devil is about to throw <span class="added-text">(some)</span> of you into prison so that you might be tested. And you will have affliction <span class="alt-label">of</span><span class="alt-text">(=for)</span> ten days. Be faithful until death, and I will give you the crown of <del class="deleted-text">[the]</del> life.”
+<span class="v-num">10</span> Fear nothing <span class="added-text">(of the things)</span> which you are about to suffer. Behold, the devil is about to throw <span class="added-text">(some)</span> of you into prison, so that you may be tested, and you will have tribulation ten days. Be faithful until death, and I will give you the crown of life.[^2]
 
-<span class="v-num">11</span> “Let the one having an ear hear what the Spirit says <span class="added-text">(to)</span> the churches. The one overcoming will not be hurt <span class="alt-label">from</span><span class="alt-text">(=by)</span> the second death.”
+<span class="v-num">11</span> Let the one having an ear hear what the Spirit says to the churches. The one who overcomes will not at all be hurt by the second death.
 
-<span class="v-num">12</span> “And to the angel of the church in Pergamum write, ‘These things says the one having the sharp double-edged sword.’”
+<span class="v-num">12</span> And to the angel of the church in Pergamos write, 'These things says the one having the sharp two-edged sword:'
 
-<span class="v-num">13</span> “I know where you <span class="alt-label">dwell</span><span class="alt-text">(=live)</span>, where the throne of Satan <span class="added-text">(is)</span>. And you hold fast to my name, and did not deny my faith even in the days of Antipas, my faithful <span class="alt-label">martyr</span><span class="alt-text">(=witness)</span>, who was killed among you, where the Satan <span class="alt-label">dwells</span><span class="alt-text">(=lives)</span>.”
+<span class="v-num">13</span> I know your works, and where you dwell, where the throne of Satan <span class="added-text">(is)</span>, and you hold fast my name, and did not deny my faith even in the days in which Antipas was my faithful witness, who was killed among you, where Satan dwells.
 
-<span class="v-num">14</span> “But I have a few things against you, that you have there <span class="added-text">(the ones)</span> holding the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel to eat meats sacrificed to idols and to commit fornication.”
+<span class="v-num">14</span> But I have a few things against you, because you have there those holding the teaching of Balaam, who taught Balak to cast a stumbling block before the sons of Israel, to eat things sacrificed to idols, and to commit fornication.
 
-<span class="v-num">15</span> “So you also have <span class="added-text">(the ones)</span> holding to the teaching of the Nicolaitans <span class="alt-label">likewise</span><span class="alt-text">(=which I hate)</span>[^1].”
+<span class="v-num">15</span> So you also have those holding the teaching of the Nicolaitans, which I hate.
 
-<span class="v-num">16</span> “Repent therefore. And if not, I <span class="added-text">(will)</span> come <span class="added-text">(to)</span> you soon and will fight against them <span class="alt-label">in</span><span class="alt-text">(=with)</span> the sword of my mouth.”
+<span class="v-num">16</span> Repent; but if not, I come to you quickly, and will make war against them with the sword of my mouth.
 
-<span class="v-num">17</span> “Let the one having an ear hear what the Spirit says <span class="added-text">(to)</span> the churches. To the one overcoming I will give <del class="deleted-text">[him]</del> <u>some of manna</u><span class="added-text">(# partitive genitive)</span> having been hidden. And I will give him a white stone <del class="deleted-text">[and]</del> having been written on the stone a new name, which no one knows except the one receiving <span class="added-text">(it)</span>.”
+<span class="v-num">17</span> Let the one having an ear hear what the Spirit says to the churches. To the one who overcomes I will give to him to eat from the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knew except the one receiving <span class="added-text">(it)</span>.
 
-<span class="v-num">18</span> “And to the angel of the church in Thyatira write, ‘These things says the Son of God, the one having his eyes like a flame of fire, and his feet like burnished bronze.’”
+<span class="v-num">18</span> And to the angel of the church in Thyatira write, 'These things says the Son of God, the one having his eyes like a flame of fire, and his feet like fine bronze:'
 
-<span class="v-num">19</span> “I know your works, <del class="deleted-text">[and]</del> love, <del class="deleted-text">[and the]</del> faith, <del class="deleted-text">[and the]</del> service, and <del class="deleted-text">[the]</del> your endurance. And <span class="added-text">(I know)</span> your last works <span class="added-text">(are)</span> more than the first.”
+<span class="v-num">19</span> I know your works, and love, and <span class="alt-label">service</span><span class="alt-text">(=ministry)</span>, and faith and your patience, and your works, and the last <span class="added-text">(works being)</span> more than the first.
 
-<span class="v-num">20</span> “But I have <span class="added-text">(this)</span> against you, that you allow the woman Jezebel, the one calling herself a prophetess. And she teaches and deceives my slaves to commit fornication and to eat meats sacrificed to idols.”
+<span class="v-num">20</span> But I have a few things against you, because you allow the woman Jezebel, who calls herself a prophetess, to teach and to seduce my servants to commit fornication and to eat things sacrificed to idols.
 
-<span class="v-num">21</span> “And I gave her time so that she might repent, and she does not want to repent <span class="alt-label">from</span><span class="alt-text">(=of)</span> her fornication.”
+<span class="v-num">21</span> And I gave her time that she might repent of her fornication, and she did not repent.[^3]
 
-<span class="v-num">22</span> “Behold, I <span class="added-text">(will)</span> cast her into a bed, and the ones committing adultery with her into great affliction, unless they <del class="deleted-text">[will]</del> repent <span class="alt-label">from</span><span class="alt-text">(=of)</span> her works.”
+<span class="v-num">22</span> Behold, I throw her into a bed, and those committing adultery with her into great tribulation, unless they repent of their works,[^4]
 
-<span class="v-num">23</span> “And I will kill her children <span class="alt-label">in</span><span class="alt-text">(=with)</span> death, and all the churches will know that I am the one searching <span class="alt-label">kidneys</span><span class="alt-text">(=minds, !! seat of the affections)</span> and hearts. And I will give to each of you according to your works.”
+<span class="v-num">23</span> And I will kill her children with death, and all the churches will know that I am the one who searches the <span class="alt-label">reins</span><span class="alt-text">(=inmost thoughts)</span> and hearts, and I will give to each of you according to your works.
 
-<span class="v-num">24</span> “And I say to the rest of you in Thyatira, who do not <span class="alt-label">have</span><span class="alt-text">(=hold)</span> this teaching, who have not known the deep things of Satan, as they say, I do not <span class="alt-label">cast</span><span class="alt-text">(=lay)</span> on you any other burden.”
+<span class="v-num">24</span> But I say to you and to the rest who are in Thyatira, as many as do not have this teaching, and who did not know the depths of Satan, as they say, 'I will not throw upon you another burden;'
 
-<span class="v-num">25</span> “Only hold fast what you have, until I <del class="deleted-text">[might]</del> come.”
+<span class="v-num">25</span> But that which you have, hold fast until I come.'
 
-<span class="v-num">26</span> “And <span class="added-text">(to)</span> the one overcoming and <del class="deleted-text">[the one]</del> keeping my works until <span class="added-text">(the)</span> end, I will give <del class="deleted-text">[him]</del> authority over the nations.”
+<span class="v-num">26</span> And to the one who overcomes, and keeps my works until <span class="added-text">(the)</span> end, I will give him authority over the nations,
 
-<span class="v-num">27</span> “He will <span class="alt-label">shepherd</span><span class="alt-text">(=rule)</span> them in an iron rod, as <span class="added-text">(when)</span> the clay vessels <span class="alt-label">is</span><span class="alt-text">(=are)</span> shattered, just as I also have received <span class="added-text">(it)</span> from my Father.”
+<span class="v-num">27</span> and he will shepherd them with a rod of iron, as the vessels of clay are broken <span class="added-text">(in pieces)</span>, as I also have received from my Father;
 
-<span class="v-num">28</span> “And I will give him the morning star.”
+<span class="v-num">28</span> and I will give him the morning star.
 
-<span class="v-num">29</span> “Let the one having an ear hear what the Spirit says <span class="added-text">(to)</span> the churches.”
+<span class="v-num">29</span> Let the one having an ear hear what the Spirit says to the churches.
 
 ---
 
-### Study Notes
-
-[^1]: different reading
+[^1]: ἐὰν μὴ μετανοήσῃς는 아직 실현되지 않은 미래의 조건을 나타내는 3류 조건문으로, '만일 네가 회개하지 않으면'이라는 뜻이다. 회개 여부에 따라 결과(등잔대를 옮김)가 결정되는 실제적 경고의 뉘앙스를 담고 있다.
+[^2]: ἵνα πειρασθῆτε는 목적을 나타내는 ἵνα+가정법 구문으로, 옥에 던져지는 목적이 시험받게 하려는 것임을 나타낸다.
+[^3]: ἵνα μετανοήσῃ는 목적을 나타내는 ἵνα+가정법 구문으로, 시간을 준 목적이 회개하게 하려는 것임을 나타낸다.
+[^4]: ἐὰν μὴ μετανοήσωσιν은 아직 실현되지 않은 미래 가능성을 나타내는 3급 조건문으로, 회개 여부에 따라 심판의 결과가 달라짐을 나타낸다.

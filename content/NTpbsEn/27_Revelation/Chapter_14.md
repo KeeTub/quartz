@@ -16,50 +16,48 @@ tags: [NTpbsEn, Revelation]
 </div>
 
 
-<span class="v-num">1</span> And I saw, and behold, the Lamb standing<span class="added-text">(# perfect as present)</span> on <del class="deleted-text">[the]</del> Mount Zion, and with him one hundred forty-four thousand having <u>his name and</u>[^1] the name of his Father having been written on the their foreheads.
+<span class="v-num">1</span> And I saw, and behold, <span class="added-text">(a/the)</span> Lamb standing on Mount Zion, and with him a hundred <span class="added-text">(and)</span> forty-four thousand, having his Father's name written on their foreheads.
 
-<span class="v-num">2</span> And I heard a sound from <del class="deleted-text">[the]</del> heaven <span class="alt-label">as</span><span class="alt-text">(=like)</span> <span class="added-text">(the)</span> sound of many waters and <span class="alt-label">as</span><span class="alt-text">(=like)</span> <span class="added-text">(the)</span> sound of great thunder, and the sound which I heard <span class="added-text">(was)</span> <span class="alt-label">as</span><span class="alt-text">(=like)</span> <span class="added-text">(the sound)</span> of harpists harping <span class="alt-label">in</span><span class="alt-text">(=with)</span> their harps.
+<span class="v-num">2</span> And I heard a voice from heaven like a voice of many waters, and like a voice of great thunder; and I heard a voice of harpers harping with their harps.
 
-<span class="v-num">3</span> And they <span class="alt-label">sing</span><span class="alt-text">(=sang)</span> a new song before the throne and before the four living creatures and the elders. And no one was able to learn the song except the one hundred forty-four thousand having been redeemed from the earth.
+<span class="v-num">3</span> And they sang as <span class="added-text">(a)</span> new song before the throne, and before the four living creatures and the elders; and no one was able to learn the song except the hundred forty-four thousand, the ones having been redeemed from the earth.
 
-<span class="v-num">4</span> These are the ones who were not defiled with women, for they are virgins. These <span class="added-text">(are)</span> the ones following the Lamb wherever he <del class="deleted-text">[may]</del> goes. These were redeemed from among the men, <span class="added-text">(being)</span> firstfruit<span class="added-text">(s)</span> to God and to the Lamb.
+<span class="v-num">4</span> These are the ones who were not defiled with women, for they are virgins. These are the ones following the Lamb wherever he goes. These were redeemed from among men, <span class="added-text">(as)</span> first fruits to God and to the Lamb.
 
-<span class="v-num">5</span> And in their mouth was found no lie. They are blameless <u>before the throne of God</u>[^2].
+<span class="v-num">5</span> And in their mouth no deceit was found, for they are blameless before the throne of God.
 
-<span class="v-num">6</span> And I saw another angel flying in midheaven, having an eternal gospel to preach to the ones sitting[^3] on the earth, <del class="deleted-text">[and]</del> to every nation and tribe and language and people,
+<span class="v-num">6</span> And I saw another angel flying in midheaven, having <span class="added-text">(the)</span> eternal gospel to preach to those dwelling on the earth, and to every nation and tribe and tongue and people,
 
-<span class="v-num">7</span> saying in a great voice, “Fear <del class="deleted-text">[the]</del> God, and give Him glory, because the hour of His judgment has come; and worship the One having made the heaven and the earth and the sea and springs of waters.”
+<span class="v-num">7</span> saying with a loud voice, "Fear God, and give him glory, for the hour of his judgment has come; and worship him who made heaven and earth and sea and springs of waters."
 
-<span class="v-num">8</span> And another angel, a second, followed, saying, “Fallen, fallen is Babylon the great, which has made all the nations drink <span class="alt-label">from</span><span class="alt-text">(=of)</span> the wine of the wrath of her fornication.”
+<span class="v-num">8</span> And another angel followed, saying, "Babylon the great city has fallen, has fallen, because she has made all nations drink of the wine of the wrath of her fornication."
 
-<span class="v-num">9</span> And another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead or on his hand,”
+<span class="v-num">9</span> And a third angel followed them, saying with a loud voice, "If anyone worships the beast and his image, and receives a mark on his forehead or on his hand,
 
-<span class="v-num">10</span> “he also will drink <span class="alt-label">from</span><span class="alt-text">(=of)</span> the wine of the wrath of God, <span class="added-text">(which)</span> having been <span class="alt-label">mixed</span><span class="alt-text">(=poured)</span> unmixed into the cup of His wrath, and he will be tormented <span class="alt-label">in</span><span class="alt-text">(=with)</span> fire and sulfur before holy angels and before the Lamb.”
+<span class="v-num">10</span> he himself also will drink of the wine of the wrath of God, which is poured unmixed in the cup of his anger, and he will be tormented with fire and brimstone before the holy angels, and before the Lamb;[^1]
 
-<span class="v-num">11</span> “And the smoke of their torment goes up <span class="alt-label">unto ages of ages</span><span class="alt-text">(=for ever and ever)</span>. And they have no rest day and night, <span class="added-text">(who)</span> worshipping the beast and his image, and <span class="alt-label">if anyone</span><span class="alt-text">(=whoever)</span> receives the mark of his name.”
+<span class="v-num">11</span> and the smoke of their torment goes up forever and ever; and they have no rest day and night, those who worship the beast and his image, and whoever receives the mark of his name."
 
-<span class="v-num">12</span> Here is the endurance of the saints, <span class="added-text">(who)</span> keeping the commandments of <del class="deleted-text">[the]</del> God and the faith of Jesus.
+<span class="v-num">12</span> Here is the endurance of the saints; here <span class="added-text">(are)</span> those who keep the commandments of God and the faith of Jesus.
 
-<span class="v-num">13</span> And I heard a voice from <del class="deleted-text">[the]</del> heaven saying, “Write: Blessed <span class="added-text">(are)</span> the dead dying in <span class="added-text">(the)</span> Lord from now on.” “Yes,” says the Spirit, “<del class="deleted-text">[that]</del> they will rest from their labors, for their works follow with them.”
+<span class="v-num">13</span> And I heard a voice from heaven, saying to me, "Write, 'Blessed <span class="added-text">(are)</span> the dead who die in the Lord from now on.' Yes," says the Spirit, "that they may rest from their labors, and their works follow with them."[^2]
 
-<span class="v-num">14</span> And I saw, and behold, a white cloud, and on the cloud one sitting like a Son of Man, having on his head a golden crown, and in his hand a sharp sickle.
+<span class="v-num">14</span> And I saw, and behold, a white cloud, and on the cloud <span class="added-text">(one)</span> sitting like a son of man, having on his head a golden crown, and in his hand a sharp sickle.
 
-<span class="v-num">15</span> And another angel came out of the temple, crying <span class="alt-label">in</span><span class="alt-text">(=with)</span> a great voice to the one sitting on the cloud, <span class="alt-label">“Send</span><span class="alt-text">(=Use)</span> your sickle and reap, because the hour to reap has come, because the harvest of the earth <span class="alt-label">was dried</span><span class="alt-text">(=is ripe)</span>.”
+<span class="v-num">15</span> And another angel came out from the temple, crying with a loud voice to the one sitting on the cloud, "Send your sickle and reap, for the hour to reap has come to you, because the harvest of the earth is <span class="alt-label">ripe</span><span class="alt-text">(=withered)</span>."[^3]
 
-<span class="v-num">16</span> And the one sitting on the cloud <span class="alt-label">threw</span><span class="alt-text">(=swung)</span> his sickle on the earth, and the earth was reaped.
+<span class="v-num">16</span> And the one sitting on the cloud thrust his sickle on the earth, and the earth was reaped.
 
-<span class="v-num">17</span> And another angel came out of the temple <span class="added-text">(which is)</span> in <del class="deleted-text">[the]</del> heaven, <span class="added-text">(who)</span> himself also having a sharp sickle.
+<span class="v-num">17</span> And another angel came out from the temple which <span class="added-text">(is)</span> in heaven, he also having a sharp sickle.
 
-<span class="v-num">18</span> And another angel came out of the altar, <span class="added-text">(who)</span> having authority over <del class="deleted-text">[the]</del> fire, and he called <span class="added-text">(with)</span> a great voice to the one having the sharp sickle, saying, <span class="alt-label">“Send</span><span class="alt-text">(=Use)</span> your sharp sickle and gather the clusters of the vine of the earth, for its grapes <span class="alt-label">were ripe</span><span class="alt-text">(=are ripe)</span>.”
+<span class="v-num">18</span> And another angel came out from the altar, having power over the fire, and he called with a loud cry to the one having the sharp sickle, saying, "Send your sharp sickle, and gather the clusters of the vine of the earth, for her grapes are ripe."
 
-<span class="v-num">19</span> And the angel <span class="alt-label">threw</span><span class="alt-text">(=swung)</span> his sickle into the earth, and gathered the vine of the earth, and threw <span class="added-text">(them)</span> into the great winepress of the wrath of <del class="deleted-text">[the]</del> God.
+<span class="v-num">19</span> And the angel thrust his sickle into the earth, and gathered the vine of the earth, and threw <span class="added-text">(it)</span> into the great winepress of the wrath of God.
 
-<span class="v-num">20</span> And the winepress was trodden outside the city, and blood <span class="alt-label">came</span><span class="alt-text">(=flowed)</span> out of the winepress, up to the bridles of the horses, <span class="alt-label">from</span><span class="alt-text">(=for a distance of)</span> one thousand six hundred stadia.
+<span class="v-num">20</span> And the winepress was trodden outside the city, and blood came out from the winepress up to the horses' bridles, for a distance of a thousand six hundred stadia.
 
 ---
 
-### Study Notes
-
-[^1]: deleted in some manuscripts
-[^2]: deleted in some manuscripts
-[^3]: “dwelling” in some manuscripts
+[^1]: '섞이지 않고 부어진'은 포도주에 물을 타지 않은 원액 그대로라는 뜻으로, 하나님의 진노가 조금도 희석되지 않은 온전한 심판임을 강조한다.
+[^2]: ἵνα절이 목적이 아니라 성령이 말씀하시는 내용(무엇을 쉴 것인지)을 나타내는 절로 쓰였다.
+[^3]: ἐξηράνθη는 원래 '말랐다'는 뜻이나 곡식이 다 자라 수확할 때가 되었음을 가리키는 관용적 표현이다.

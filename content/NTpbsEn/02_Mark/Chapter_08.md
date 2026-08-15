@@ -16,84 +16,88 @@ tags: [NTpbsEn, Mark]
 </div>
 
 
-<span class="v-num">1</span> In those days, <span class="alt-label">again a great crowd’s being and having</span><span class="alt-text">(=when again a large crowd gathered and had)</span>[^1] <span class="alt-label">not what they might eat</span><span class="alt-text">(=nothing to eat)</span>, having called the disciples, he says <span class="added-text">(to)</span> them,
+<span class="v-num">1</span> In those days, there being a very great crowd, and <span class="added-text">(they)</span> not having anything to eat, Jesus, having called <span class="added-text">(to himself)</span> his disciples, <span class="alt-label">said</span><span class="alt-text">(=says)</span> to them,[^1]
 
-<span class="v-num">2</span> “I have compassion on the crowd, because they <span class="alt-label">stay</span><span class="alt-text">(=have stayed)</span> with me now three days and have <span class="alt-label">not what they might eat</span><span class="alt-text">(=nothing to eat)</span>.”
+<span class="v-num">2</span> "I am moved with <span class="alt-label">compassion</span><span class="alt-text">(=I have compassion)</span> upon the crowd, because they have already remained with me three days, and they do not have anything to eat;
 
-<span class="v-num">3</span> “And if I <del class="deleted-text">[might]</del> send them away hungry to their home, they will faint on the way, and some of them have come from far.”
+<span class="v-num">3</span> and if I send them away hungry to their <span class="alt-label">house</span><span class="alt-text">(=home)</span>, they will <span class="alt-label">faint</span><span class="alt-text">(=grow weak)</span> on the way; for some of them have come from far."[^2]
 
-<span class="v-num">4</span> And his disciples answered him, “<del class="deleted-text">[that]</del> From where is anyone able to satisfy these <span class="added-text">(people)</span> <span class="added-text">(with)</span> loaves in a desert.”
+<span class="v-num">4</span> And his disciples answered him, "From where will anyone be able to satisfy these <span class="added-text">(people)</span> with bread here in <span class="added-text">(the)</span> wilderness?"
 
-<span class="v-num">5</span> And he was asking them, “How many loaves do you have?” And they said, “Seven.”
+<span class="v-num">5</span> And he asked them, "How many loaves do you have?" And they said, "Seven."
 
-<span class="v-num">6</span> And he commands the crowd to <span class="alt-label">recline</span><span class="alt-text">(=sit down)</span> on the ground. And having taken the seven loaves, having given thanks, he broke <span class="added-text">(them)</span> and gave <span class="added-text">(them to)</span> his disciples that they may <span class="alt-label">serve</span><span class="alt-text">(=distribute)</span>. And they <span class="alt-label">served</span><span class="alt-text">(=distributed)</span> the crowd.
+<span class="v-num">6</span> And he commanded the crowd to sit <span class="alt-label">down</span><span class="alt-text">(=recline)</span> upon the ground; and having taken the seven loaves, having given thanks, he broke <span class="added-text">(them)</span> and gave <span class="added-text">(them)</span> to his disciples, so that they might set <span class="added-text">(them)</span> before <span class="added-text">(the crowd)</span>; and they set <span class="added-text">(them)</span> before the crowd.[^3]
 
-<span class="v-num">7</span> And they were having a few small fish. And having blessed them, he told <span class="added-text">(his disciples)</span> to <span class="alt-label">serve</span><span class="alt-text">(=distribute)</span> these too.
+<span class="v-num">7</span> And they had a few small fish; and having blessed <span class="added-text">(them)</span>, he told <span class="added-text">(them)</span> to set these also before <span class="added-text">(the crowd)</span>.
 
-<span class="v-num">8</span> And they ate and were satisfied. And they took remains of fragments, seven baskets <span class="added-text">(full)</span>.
+<span class="v-num">8</span> And they ate, and were satisfied; and they took up <span class="added-text">(the)</span> leftover <span class="alt-label">pieces</span><span class="alt-text">(=fragments)</span>, seven baskets.
 
-<span class="v-num">9</span> And they were about four thousand. And he sent them away.
+<span class="v-num">9</span> And those who ate were about four thousand; and he sent them away.
 
-<span class="v-num">10</span> And immediately having gotten into the boat with his disciples, he went into the parts of Dalmanutha.
+<span class="v-num">10</span> And immediately, having gotten into the boat with his disciples, he went into the <span class="alt-label">region</span><span class="alt-text">(=parts)</span> of Dalmanutha.
 
-<span class="v-num">11</span> And Pharisees came and began to argue with him, seeking from him a sign from <del class="deleted-text">[the]</del> heaven, testing him.
+<span class="v-num">11</span> And the Pharisees came out, and began to argue with him, seeking from him a sign from heaven, testing him.
 
-<span class="v-num">12</span> And having sighed deeply in his spirit, he says, “Why does this generation seek a sign? Truly I say <span class="added-text">(to)</span> you, if a sign will be given <span class="added-text">(to)</span> this generation, <span class="added-text">(may God bring all manner of evil upon me.)</span>”
+<span class="v-num">12</span> And having sighed deeply in his spirit, he said, "Why does this generation seek <span class="alt-label">a</span><span class="alt-text">(=for a)</span> sign? Truly I say to you, no sign will be given to this generation."[^4]
 
-<span class="v-num">13</span> And having left them, having embarked again, he departed to the other side.
+<span class="v-num">13</span> And having left them, having gotten into the boat again, he went away to the other side.
 
-<span class="v-num">14</span> And they forgot to take loaves. And except one loaf they were not having with themselves in the ship.
+<span class="v-num">14</span> And they forgot to take <span class="alt-label">bread</span><span class="alt-text">(=loaves)</span>, and they did not have <span class="added-text">(anything)</span> with them in the boat except one loaf.
 
-<span class="v-num">15</span> And he was ordering them, saying, “Watch out, Beware of the leaven of the Pharisees and the leaven of Herod.”
+<span class="v-num">15</span> And he <span class="alt-label">commanded</span><span class="alt-text">(=charged)</span> them, saying, "Watch out, beware of the leaven of the Pharisees and the leaven of Herod."
 
-<span class="v-num">16</span> And they were discussing with one another because they have not loaves.
+<span class="v-num">16</span> And they <span class="alt-label">reasoned</span><span class="alt-text">(=discussed)</span> with one another, saying, "<span class="added-text">(It is)</span> because we have no <span class="alt-label">bread</span><span class="alt-text">(=loaves)</span>."
 
-<span class="v-num">17</span> And having known, he says <span class="added-text">(to)</span> them, “Why do you discuss that you have no loaves? Do you still not perceive or understand? <span class="alt-label">Do you have</span><span class="alt-text">(=Are)</span> your heart hardened?”
+<span class="v-num">17</span> And Jesus, knowing <span class="added-text">(it)</span>, said to them, "Why do you <span class="alt-label">reason</span><span class="alt-text">(=discuss)</span> that you have no <span class="alt-label">bread</span><span class="alt-text">(=loaves)</span>? Do you not yet perceive, nor understand? Do you still have your heart hardened?
 
-<span class="v-num">18</span> “Having eyes, don't you see? And having ears, don't you hear? And don't you remember?”
+<span class="v-num">18</span> Having eyes, do you not see? And having ears, do you not hear? And do you not remember?
 
-<span class="v-num">19</span> “When I broke the five loaves for the five thousand, how many baskets full of fragments did you take?” They say <span class="added-text">(to)</span> him, “Twelve.”
+<span class="v-num">19</span> When I broke the five loaves <span class="alt-label">for</span><span class="alt-text">(=among)</span> the five thousand, how many baskets full of pieces did you take up?" They said to him, "Twelve."
 
-<span class="v-num">20</span> “When <span class="added-text">(I broke)</span> the seven <span class="added-text">(loaves)</span> for the four thousand, how many baskets full of fragments did you take?” And they say, “Seven.”
+<span class="v-num">20</span> "And when the seven <span class="alt-label">for</span><span class="alt-text">(=among)</span> the four thousand, how many baskets full of pieces did you take up?" And they said, "Seven."
 
-<span class="v-num">21</span> And he was saying <span class="added-text">(to)</span> them, “Do you still not understand?”
+<span class="v-num">21</span> And he said to them, "How is it that you do not understand?"
 
-<span class="v-num">22</span> And they come to Bethsaida. And they bring <span class="added-text">(to)</span> him a blind man, and beg him <span class="alt-label">that he would touch him</span><span class="alt-text">(=to touch him)</span>.
+<span class="v-num">22</span> And he <span class="alt-label">came</span><span class="alt-text">(=comes)</span> to Bethsaida; and they <span class="alt-label">brought</span><span class="alt-text">(=bring)</span> to him a blind <span class="added-text">(man)</span>, and <span class="alt-label">begged</span><span class="alt-text">(=beg)</span> him that he would touch him.[^5]
 
-<span class="v-num">23</span> And having taken the blind man <span class="added-text">(by)</span> the hand, he led him out of the village. And having spat on his eyes, having laid <span class="alt-label">the</span><span class="alt-text">(=his)</span> hands <span class="added-text">(upon)</span> him, he was asking him, “<del class="deleted-text">[if]</del> Do you see anything.”
+<span class="v-num">23</span> And having taken hold of the hand of the blind <span class="added-text">(man)</span>, he led him out of the village; and having spit into his eyes, having laid <span class="added-text">(his)</span> hands on him, he asked him if he saw anything.
 
-<span class="v-num">24</span> And having looked up, he was saying, “I see <del class="deleted-text">[the]</del> men; <span class="alt-label">for</span><span class="alt-text">(=but)</span> I see <span class="added-text">(them)</span> like trees, walking.”
+<span class="v-num">24</span> And having looked up, he said, "I see men, <span class="alt-label">for</span><span class="alt-text">(=as)</span> I see <span class="added-text">(them)</span> walking like trees."
 
-<span class="v-num">25</span> Then again he laid <span class="alt-label">the</span><span class="alt-text">(=his)</span> hands upon his eyes. And he came to see, and was restored, and was looking distinctly at all things.
+<span class="v-num">25</span> Then again he laid <span class="added-text">(his)</span> hands upon his eyes, and made him look up; and <span class="added-text">(his sight)</span> was restored, and he saw all things clearly.
 
-<span class="v-num">26</span> And he sent him to his house, saying, “Do not go into the village.”
+<span class="v-num">26</span> And he sent him to his house, saying, "Do not even enter into the village, nor tell anyone in the village."
 
-<span class="v-num">27</span> And Jesus and his disciples went out into the villages of Caesarea Philippi. And on the way, he was asking his disciples, saying <span class="added-text">(to)</span> them, “Who do men say <span class="alt-label">me to be</span><span class="alt-text">(=that I am)</span>?”
+<span class="v-num">27</span> And Jesus and his disciples went out into the villages of Caesarea Philippi; and on the way he asked his disciples, saying to them, "Who do men say that I am?"
 
-<span class="v-num">28</span> And they told him, saying, “<del class="deleted-text">[that]</del> <span class="added-text">(some say)</span> John the Baptist, and others <span class="added-text">(say)</span> Elias, but others <span class="added-text">(say)</span> that <span class="added-text">(you are)</span> one of the prophets.”
+<span class="v-num">28</span> And they answered, "John the Baptist; and others, Elijah; but others, one of the prophets."
 
-<span class="v-num">29</span> And he was asking them, “And who do you say <span class="alt-label">me to be</span><span class="alt-text">(=that I am)</span>?” Having answered, <del class="deleted-text">[the]</del> Peter says <span class="added-text">(to)</span> him, “You are the Christ.”
+<span class="v-num">29</span> And he said to them, "But who do you say that I am?" And Peter answered and said to him, "You are the Christ."
 
-<span class="v-num">30</span> And he warned them that they <span class="alt-label">may</span><span class="alt-text">(=should)</span> tell no one about him.
+<span class="v-num">30</span> And he warned them that they should tell no one about him.[^6]
 
-<span class="v-num">31</span> And he began to teach them that it is necessary for the Son of Man to suffer many things, and be rejected by the elders and high priests and scribes, and be killed, and after three days rise again.
+<span class="v-num">31</span> And he began to teach them that the Son of Man must suffer many things, and be rejected by the elders and chief priests and scribes, and be killed, and after three days rise again;
 
-<span class="v-num">32</span> And he was openly saying the word. And having taken him aside, <del class="deleted-text">[the]</del> Peter began to rebuke him.
+<span class="v-num">32</span> And he spoke this <span class="alt-label">word</span><span class="alt-text">(=saying)</span> openly. And Peter, having taken him aside, began to rebuke him.
 
-<span class="v-num">33</span> But having turned back, and having seen his disciples, he rebuked Peter. And he says, “Get behind me, Satan! For you do not <span class="alt-label">think</span><span class="alt-text">(=have in mind)</span> the things of God, but the things of men.”
+<span class="v-num">33</span> But he, having turned around, and having seen his disciples, rebuked Peter, saying, "Get behind me, Satan; for you are not minding the things of God, but the things of men."
 
-<span class="v-num">34</span> And having called the crowd with his disciples, he said <span class="added-text">(to)</span> them, “If anyone wants to follow <del class="deleted-text">[after]</del> me, let him deny himself, and take up his cross, and follow me.”
+<span class="v-num">34</span> And having called <span class="added-text">(to himself)</span> the crowd with his disciples, he said to them, "Whoever wants to come after me, let him deny himself, and take up his cross, and follow me.
 
-<span class="v-num">35</span> “For whoever <del class="deleted-text">[may]</del> wants to save his life will lose it. But whoever will lose his life for me and the gospel will save it.”
+<span class="v-num">35</span> For whoever wants to save his <span class="alt-label">life</span><span class="alt-text">(=soul)</span> will lose it; but whoever loses his <span class="alt-label">life</span><span class="alt-text">(=soul)</span> for my sake and the gospel's, this one will save it.
 
-<span class="v-num">36</span> “For what does it profit a man, to gain the whole world and to forfeit his life?”
+<span class="v-num">36</span> For what will it profit a man, if he gains the whole world, and <span class="alt-label">loses</span><span class="alt-text">(=forfeits)</span> his <span class="alt-label">life</span><span class="alt-text">(=soul)</span>?[^7]
 
-<span class="v-num">37</span> “For what <span class="alt-label">might</span><span class="alt-text">(=can)</span> a man give <span class="added-text">(in)</span> exchange <span class="added-text">(for)</span> his life?”
+<span class="v-num">37</span> Or what will a man give in exchange for his <span class="alt-label">life</span><span class="alt-text">(=soul)</span>?
 
-<span class="v-num">38</span> “For whoever <del class="deleted-text">[might]</del> is ashamed of me and my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he <del class="deleted-text">[might]</del> comes in the glory of his Father with the holy angels.”
+<span class="v-num">38</span> For whoever is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will also be ashamed of him, when he comes in the glory of his Father with the holy angels."
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
+[^1]: λέγει는 역사적 현재형이나 개역체 서사 관습에 따라 과거형 '이르시되'로 옮겼다.
+[^2]: ἐάν+가정법은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절로, '만일 ~하면'의 뜻이다. 여기서는 굶주린 채 돌려보낼 경우 벌어질 결과(탈진)를 가정하여 예수님의 긍휼을 강조한다.
+[^3]: ἵνα παραθῶσι는 목적을 나타내는 ἵνα+가정법 구문이다.
+[^4]: εἰ δοθήσεται는 히브리식 맹세 어법으로 '결코 주어지지 않으리라'는 강한 부정을 뜻한다.
+[^5]: ἵνα+가정법(ἅψηται)이 παρακαλοῦσιν의 목적(내용)절을 이끈다. 사람들이 예수께 구한 것은 '만져 주시기를 바라는' 목적/내용이며, 아직 이루어지지 않은 소망을 나타낸다.
+[^6]: ἵνα μηδενὶ λέγωσι는 목적을 나타내는 ἵνα+가정법 구문이다.
+[^7]: ἐάν+가정법(κερδήσῃ, ζημιωθῇ)은 아직 실현되지 않은 미래의 가상적 조건을 나타내는 3류 조건문으로, '설령 ~하더라도'라는 가정적 상황을 전제한다. 온 세상을 얻는 것과 생명을 잃는 것을 대조시켜 그 무익함을 강조하는 수사적 조건절이다.

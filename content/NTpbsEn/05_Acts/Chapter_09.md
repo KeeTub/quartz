@@ -16,97 +16,93 @@ tags: [NTpbsEn, Acts]
 </div>
 
 
-<span class="v-num">1</span> And Saul still breathing out <u>threat</u><span class="added-text">(#partitive gen.)</span> and <u>murder</u><span class="added-text">(#partitive gen.)</span> against the disciples of the Lord, having gone to the high priest,
+<span class="v-num">1</span> But Saul, still breathing out threat and murder against the disciples of the Lord, having gone to the high priest,
 
-<span class="v-num">2</span> asked of him letters to Damascus for the synagogues, so that if he found any <span class="alt-label">being of</span><span class="alt-text">(=belonging to)</span> the Way, either men or women, having been bound, he might bring to Jerusalem.
+<span class="v-num">2</span> asked from him letters to Damascus to the synagogues, so that if he found any being of the Way, both men and women, having bound them he might bring <span class="added-text">(them)</span> to Jerusalem.[^1]
 
-<span class="v-num">3</span> And <span class="alt-label">in to go</span><span class="alt-text">(=as he went)</span>[^1], <span class="alt-label">it came to pass for him to draw near</span><span class="alt-text">(=he came near)</span> to Damascus, and suddenly a light from <del class="deleted-text">[the]</del> heaven shined around him.
+<span class="v-num">3</span> And as he was journeying, it happened <span class="added-text">(that)</span> he drew near to Damascus, and suddenly a light out of the heaven flashed around him.
 
-<span class="v-num">4</span> And having fallen on the earth, he heard a voice saying to him, “Saul, Saul, why do you persecute me?”
+<span class="v-num">4</span> And having fallen upon the ground, he heard a voice saying to him, "Saul, Saul, why do you persecute me?"
 
-<span class="v-num">5</span> And he said, “Who are you, Lord?” And he <span class="added-text">(said)</span>, “I am Jesus whom you persecute.”
+<span class="v-num">5</span> And he said, "Who are you, Lord?" And the Lord said, "I am Jesus whom you persecute. <span class="added-text">(It is)</span> hard for you to kick against the goads."
 
-<span class="v-num">6</span> “But arise, and enter into the city. And it shall be told <span class="added-text">(to)</span> you what you have to do.”
+<span class="v-num">6</span> And trembling and amazed, he said, "Lord, what do you want me to do?" And the Lord <span class="added-text">(said)</span> to him, "Rise, and enter into the city, and it will be told to you what you must do."
 
-<span class="v-num">7</span> And the men travelling with him were standing speechless, hearing indeed the sound but seeing none.
+<span class="v-num">7</span> And the men journeying with him stood speechless, hearing indeed the voice, but seeing no one.
 
-<span class="v-num">8</span> And Saul got up from the earth. And <span class="alt-label">his eyes’ having been opened</span><span class="alt-text">(=when his eyes were opened)</span>[^2], he was seeing nothing. And leading him by the hand, they brought into Damascus.
+<span class="v-num">8</span> And Saul was raised up from the ground, and his eyes having been opened, he saw no one; and leading him by the hand, they brought <span class="added-text">(him)</span> into Damascus.
 
-<span class="v-num">9</span> And he was not seeing <u><span class="added-text">(for)</span> three days</u><span class="added-text">(#acc. of duration)</span>. And he did neither eat nor drink.
+<span class="v-num">9</span> And he was three days not seeing, and neither ate nor drank.
 
-<span class="v-num">10</span> And there was a certain disciple in Damascus, Ananias by name<span class="added-text">(#dat. of respect)</span>. And the Lord said <span class="added-text">(to)</span> him in a vision, “Ananias!” And he said, “Behold, <span class="alt-label">I</span><span class="alt-text">(=Here I am)</span>, Lord.”
+<span class="v-num">10</span> Now there was a certain disciple in Damascus named Ananias, and the Lord said to him in a vision, "Ananias." And he said, "Behold, I <span class="added-text">(am here)</span>, Lord."
 
-<span class="v-num">11</span> And the Lord <span class="added-text">(said)</span> to him. “Having risen up, go to the street called Straight, and seek in <span class="added-text">(the)</span> house of Judas for Saul <u>by name</u><span class="added-text">(#dat. of respect)</span>, a <span class="added-text">(man from)</span> Tarsus. For behold, he is praying”
+<span class="v-num">11</span> And the Lord <span class="added-text">(said)</span> to him, "Having risen, go to the street called Straight, and seek in the house of Judas a <span class="added-text">(man)</span> named Saul of Tarsus; for behold, he is praying,
 
-<span class="v-num">12</span> “And he saw a man <del class="deleted-text">[in a vision]</del>, Ananias <u>by name</u><span class="added-text">(#dat. of respect)</span>, having come in and <del class="deleted-text">[having]</del> <span class="alt-label">put upon him <span class="added-text">(his)</span> hands</span><span class="alt-text">(=laid his hands on him)</span>, so that he might see again.”
+<span class="v-num">12</span> and he has seen in a vision a man named Ananias coming in and laying a hand on him, so that he might receive sight."
 
-<span class="v-num">13</span> And Ananias Answered, “Lord, I heard from many about this man, how many evil things he has done to your saints in Jerusalem.”
+<span class="v-num">13</span> And Ananias answered, "Lord, I have heard from many concerning this man, how much evil he did to your saints in Jerusalem;
 
-<span class="v-num">14</span> “And here he has authority from the high priests to bind all the ones invoking your name.”
+<span class="v-num">14</span> and here he has authority from the chief priests to bind all who call upon your name."
 
-<span class="v-num">15</span> But the Lord said <span class="added-text">(to)</span> him. “Go, because this is an instrument <u>of choice</u><span class="added-text">(# Hebraic gen.)</span> to me to carry my name before the Gentiles, and kings, and the sons of Israel.”
+<span class="v-num">15</span> But the Lord said to him, "Go, because this one is a chosen vessel to me, to bear my name before <span class="added-text">(the)</span> nations and kings, and <span class="added-text">(the)</span> sons of Israel;
 
-<span class="v-num">16</span> “<del class="deleted-text">[For]</del> I will show him how many things he <span class="alt-label">have to</span><span class="alt-text">(=must)</span> suffer for my name.”
+<span class="v-num">16</span> for I will show him how much he must suffer for my name's sake."
 
-<span class="v-num">17</span> And Ananias went away, and entered into the house, and having put on him <span class="alt-label">the</span><span class="alt-text">(=his)</span> hands, said, “Brother Saul, The Lord, Jesus having appeared <span class="added-text">(to)</span> you in the way which you was coming, has sent me so that you might see again and be filled <span class="alt-label">of</span><span class="alt-text">(=with)</span> the Holy Spirit.”
+<span class="v-num">17</span> And Ananias departed and entered into the house, and laying his hands upon him, he said, "Saul, brother, the Lord has sent me, Jesus who appeared to you in the way in which you were coming, so that you might receive sight and be filled <span class="added-text">(with the)</span> Holy Spirit."
 
-<span class="v-num">18</span> And immediately things like scales fell away from his eyes, and he saw again, and having risen up, he was baptized.
+<span class="v-num">18</span> And immediately there fell from his eyes as it were scales, and he received sight at once, and having risen he was baptized,
 
-<span class="v-num">19</span> And having taken food, he has been strong. And he was with the disciples in Damascus <span class="added-text">(for)</span> some days.
+<span class="v-num">19</span> and having taken food, he was strengthened. And Saul was with the disciples in Damascus certain days;
 
-<span class="v-num">20</span> And immediately he proclaimed in the synagogues the Jesus that this One is the Son of God.
+<span class="v-num">20</span> and immediately in the synagogues he preached Christ, that this is the Son of God.
 
-<span class="v-num">21</span> And all the ones hearing were amazed, and were saying, “Isn’t this the one having destroyed in Jerusalem the ones invoking this name? And <span class="added-text">(isn’t it that)</span> he had come here for this <span class="added-text">(purpose)</span> that having been bound them, he might bring to the high priests?”
+<span class="v-num">21</span> But all who heard were amazed and said, "Is this not the one who destroyed in Jerusalem those calling on this name, and had come here for this <span class="added-text">(purpose)</span>, that he might bring them bound to the chief priests?"[^2]
 
-<span class="v-num">22</span> But Saul was growing strong more, and was confuting Jews, the ones dwelling in Damascus, proving that this is the Christ.
+<span class="v-num">22</span> But Saul increased the more in power, and confounded the Jews dwelling in Damascus, proving that this is the Christ.
 
-<span class="v-num">23</span> And when <span class="alt-label">many days were fulfilled</span><span class="alt-text">(=many days has gone by)</span>, the Jews plotted together to kill him.
+<span class="v-num">23</span> And as many days were fulfilled, the Jews took counsel together to kill him;
 
-<span class="v-num">24</span> But their plot was known to Saul. And they were closely watching <span class="added-text">(on)</span> also the gates both <u>day and night</u><span class="added-text">(# gen. of time)</span> so that they might kill him.
+<span class="v-num">24</span> but their plot became known to Saul. And they were watching the gates both day and night, so that they might kill him;
 
-<span class="v-num">25</span> But having taken him by night, his disciples let <span class="added-text">(him)</span> down <u>having lowered</u><span class="added-text">(# aor. ptc. simultaneous action)</span> in a basket through the wall.
+<span class="v-num">25</span> but the disciples having taken him by night, let <span class="added-text">(him)</span> down through the wall, lowering <span class="added-text">(him)</span> in a basket.
 
-<span class="v-num">26</span> And arriving at Jerusalem, he was trying to be joined to the disciples. And all were fearing him, not <u>believing</u><span class="added-text">(#causal ptc.)</span> that he is a disciple.
+<span class="v-num">26</span> And Saul, having arrived in Jerusalem, attempted to join himself to the disciples; but all feared him, not believing that he is a disciple.
 
-<span class="v-num">27</span> But Barnabas, having held him, led to the apostles, and narrated to them how in the way he saw the Lord, and that He spoke to him, and how in Damascus he spoke boldly in the name of Jesus.
+<span class="v-num">27</span> But Barnabas having taken him, brought <span class="added-text">(him)</span> to the apostles, and related to them how he saw the Lord in the way, and that he spoke to him, and how in Damascus he spoke boldly in the name of Jesus.
 
-<span class="v-num">28</span> And he was with them, going in and going out in Jerusalem, speaking boldly in the name of the Lord,
+<span class="v-num">28</span> And he was with them, coming in and going out in Jerusalem,
 
-<span class="v-num">29</span> spoke and discussed with the <span class="alt-label">Hellenists</span><span class="alt-text">(=Greek-speaking Jews or Hellenizers)</span>. And they were attempting to kill him.
+<span class="v-num">29</span> and speaking boldly in the name of the Lord Jesus, and he spoke and disputed against the Hellenists; but they attempted to kill him.
 
-<span class="v-num">30</span> And having known, the brothers brought him down to Caesarea, and sent him off to Tarsus.
+<span class="v-num">30</span> But the brothers, having known <span class="added-text">(it)</span>, brought him down to Caesarea, and sent him away to Tarsus.
 
-<span class="v-num">31</span> Therefore, the church throughout all Judaea and Galilee and Samaria was having peace, being built up and <span class="alt-label">going</span><span class="alt-text">(=living)</span>[^3] in the fear<span class="added-text">(#dat. of manner)</span> of the Lord and in the encouragement of the Holy Spirit, <span class="added-text">(and)</span> was being multiplied.
+<span class="v-num">31</span> So then the churches throughout all Judea and Galilee and Samaria had peace, being built up, and walking in the fear of the Lord, and were multiplied by the comfort of the Holy Spirit.
 
-<span class="v-num">32</span> And it came to pass for Peter, passing through all <span class="added-text">(areas)</span>, to have come down also to the saints dwelling <span class="added-text">(in)</span> Lydda.
+<span class="v-num">32</span> And it happened, Peter passing through all <span class="added-text">(regions)</span>, came down also to the saints dwelling <span class="added-text">(at)</span> Lydda.
 
-<span class="v-num">33</span> And he found there a certain man, Aeneas by name, lying on bed for eight years, who was being paralysed.
+<span class="v-num">33</span> And there he found a certain man named Aeneas, who had been lying on a bed eight years, who was paralyzed.
 
-<span class="v-num">34</span> And Peter said <span class="added-text">(to)</span> him. “Aeneas, Jesus Christ heals you. Rise up, and <span class="alt-label">spread your <span class="added-text">(bed)</span></span><span class="alt-text">(=make your bed)</span>.” And immediately he rose up.
+<span class="v-num">34</span> And Peter said to him, "Aeneas, Jesus Christ heals you; rise, and make your bed for yourself." And immediately he rose;
 
-<span class="v-num">35</span> And all the ones dwelling <span class="added-text">(at)</span> Lydda and Saron saw him, <span class="added-text">(and)</span> <del class="deleted-text">[who]</del> turned to the Lord.
+<span class="v-num">35</span> and all who dwelt <span class="added-text">(at)</span> Lydda and <span class="added-text">(the)</span> Sharon saw him, who turned to the Lord.
 
-<span class="v-num">36</span> And in Joppa, there was a certain disciple, Tabitha by name, which, being translated, is called Dorcas, this <span class="added-text">(woman)</span> was full of works of good and of alms which she was doing.
+<span class="v-num">36</span> Now in Joppa there was a certain disciple named Tabitha, which being translated is called Dorcas; this woman was full of good works and acts of charity which she did.
 
-<span class="v-num">37</span> And it happened, having been sick in those days, for her to die. And having washed, they put <span class="added-text">(her)</span> in an upper room.
+<span class="v-num">37</span> And it happened in those days, having fallen sick, she died; and having washed her, they laid <span class="added-text">(her)</span> in an upper room.
 
-<span class="v-num">38</span> And <span class="alt-label">Lydda’s being near to Joppa</span><span class="alt-text">(=Lydda was near to Joppa)</span>[^4], the disciples, having heard that Peter <span class="alt-label">is</span><span class="alt-text">(=was)</span> in it, sent two men to him, beseeching “Do not hesitate to come to us.”
+<span class="v-num">38</span> And Lydda being near to Joppa, the disciples having heard that Peter is in it, sent two men to him, urging <span class="added-text">(him)</span> not to delay to come through to them.
 
-<span class="v-num">39</span> And having risen up, Peter went with them, <span class="alt-label">having arrived</span><span class="alt-text">(=when he arrived)</span>, whom they brought up into the upper room. And all the widows stood by him, weeping and showing tunics and garments which Dorcas made <span class="alt-label">being with them</span><span class="alt-text">(=while she was with them)</span>.
+<span class="v-num">39</span> And Peter having risen, went with them; when he had arrived, they brought him up to the upper room, and all the widows stood by him weeping, and showing tunics and garments which Dorcas made while she was with them.
 
-<span class="v-num">40</span> And having put them all outside, <span class="alt-label">having placed the knees</span><span class="alt-text">(=having knelt down)</span>, Peter prayed. And having turned to the body, he said, “Tabitha, rise up.” And she opened her eyes. And having seen Peter, she sat up.
+<span class="v-num">40</span> But Peter, having put them all outside, and having knelt down, prayed; and turning to the body, he said, "Tabitha, rise." And she opened her eyes, and having seen Peter, she sat up.
 
-<span class="v-num">41</span> And having given to her a hand, he raised up her. And having called the saints and the widows, he presented her alive.
+<span class="v-num">41</span> And having given her <span class="added-text">(his)</span> hand, he raised her up; and having called the saints and the widows, he presented her alive.
 
-<span class="v-num">42</span> And it was known throughout all Joppa. And many believed <span class="alt-label">on</span><span class="alt-text">(=in)</span> the Lord.
+<span class="v-num">42</span> And it became known throughout all Joppa, and many believed on the Lord.
 
-<span class="v-num">43</span> It came to pass <span class="added-text">(for him)</span> to stay many days in Joppa with one Simon a tanner.
+<span class="v-num">43</span> And it happened, he remained many days in Joppa with a certain Simon, a tanner.
 
 ---
 
-### Study Notes
-
-[^1]: temporal inf.
-[^2]: genitive absolute
-[^3]: Hebr. “walk=live”
-[^4]: genitive absolute
+[^1]: ἐάν+가정법(εὕρῃ)은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절로, '혹시라도 찾으면'이라는 뜻이다. 전체는 ὅπως 목적절 안에 내포되어 사울의 의도(체포 계획)를 구체화한다.
+[^2]: ἵνα+가정법(δεδεμένους αὐτοὺς ἀγάγῃ)은 '결박하여 끌고 가려는' 목적을 나타내는 목적절로, 사울이 다메섹에 온 의도를 설명한다.

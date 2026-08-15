@@ -16,79 +16,79 @@ tags: [NTpbsEn, Acts]
 </div>
 
 
-<span class="v-num">1</span> And having travelled through <del class="deleted-text">[the]</del> Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews.
+<span class="v-num">1</span> Having passed through Amphipolis and Apollonia, they came to Thessalonica, where there was the synagogue of the Jews.
 
-<span class="v-num">2</span> According to the custom with Paul, he went into them. And on three Sabbaths he discussed <span class="added-text">(with)</span> them from the Scripture,
+<span class="v-num">2</span> And according to <span class="added-text">(his)</span> custom, Paul went in to them, and for three Sabbaths reasoned with them from the scriptures,
 
-<span class="v-num">3</span> explaining and demonstrating that it was necessary for Christ to suffer and <del class="deleted-text">[to]</del> rise again from <span class="added-text">(the)</span> dead, and “<del class="deleted-text">[that]</del> this <del class="deleted-text">[the]</del> Jesus, whom I announce to you, is the Christ.”
+<span class="v-num">3</span> opening and setting forth that it was necessary <span class="added-text">(for)</span> the Christ to suffer and to rise again from <span class="added-text">(the)</span> dead, and that this <span class="added-text">(one)</span>, Jesus, whom I proclaim to you, is the Christ.[^1]
 
-<span class="v-num">4</span> And some of them were persuaded, and both a great multitude of the devout Greeks and not a few of leading women joined <del class="deleted-text">[the]</del> Paul and <del class="deleted-text">[the]</del> Silas.
+<span class="v-num">4</span> And some of them were persuaded, and joined themselves to Paul and Silas, and of the devout Greeks a great multitude, and of the leading women not a few.
 
-<span class="v-num">5</span> But having become jealous, and having taken some wicked men <span class="added-text">(from)</span> the marketplace, and having gathered a crowd, the Jews were setting the city in a uproar. And having arrived at the house of Jason, they were seeking them to bring forward to the people.
+<span class="v-num">5</span> But the disbelieving Jews, having become jealous, and having taken to themselves certain wicked men of the marketplace, and having gathered a crowd, set the city in an uproar; and having assaulted the house of Jason, they sought to bring them out to the people.
 
-<span class="v-num">6</span> But not having found them, they were dragging Jason and some brothers to the city-rulers, shouting, “These <span class="added-text">(men)</span> who having turned the world upside down have come here also,”
+<span class="v-num">6</span> But not having found them, they dragged Jason and certain brothers before the politarchs, crying out, "These who have turned the world upside down have come here also,
 
-<span class="v-num">7</span> “whom Jason has welcomed. And these are all acting contrary to the decrees of Caesar, saying, ‘there is another king, Jesus’”
+<span class="v-num">7</span> whom Jason has received; and these all act contrary to the decrees of Caesar, saying there is another king, Jesus."
 
-<span class="v-num">8</span> And they roused the crowd and the city-rulers hearing these things.
+<span class="v-num">8</span> And they troubled the crowd and the politarchs hearing these things.
 
-<span class="v-num">9</span> And having taken bail from <del class="deleted-text">[the]</del> Jason and the rest, they released them.
+<span class="v-num">9</span> And having taken security from Jason and the rest, they let them go.
 
-<span class="v-num">10</span> And the brothers immediately sent <del class="deleted-text">[the]</del> Paul and <del class="deleted-text">[the]</del> Silas away through <span class="added-text">(the)</span> night to Berea, who, having arrived, went into the synagogue of the Jews.
+<span class="v-num">10</span> And the brothers immediately sent away Paul and Silas by night to Berea; who, having arrived, went into the synagogue of the Jews.
 
-<span class="v-num">11</span> And these were more noble than the <span class="added-text">(ones)</span> in Thessalonica, who received the word with all eagerness, daily studying the Scriptures, whether these things <span class="alt-label">have</span><span class="alt-text">(=were)</span> so.
+<span class="v-num">11</span> Now these were more noble than those in Thessalonica, who received the word with all eagerness, examining the scriptures daily <span class="added-text">(to see)</span> whether these things were so.
 
-<span class="v-num">12</span> Therefore, many of them believed, and not a few of the honourable Greek women and men <span class="added-text">(did so)</span>.
+<span class="v-num">12</span> Therefore many of them believed, and not a few of the honorable Greek women and men.
 
-<span class="v-num">13</span> But when the Jews <span class="alt-label">from</span><span class="alt-text">(=of)</span>[^1] <del class="deleted-text">[the]</del> Thessalonica knew that <span class="alt-label">in</span><span class="alt-text">(=at)</span> <del class="deleted-text">[the]</del> Berea also the word of God was proclaimed by <del class="deleted-text">[the]</del> Paul, they came there, shaking and inciting the crowds.
+<span class="v-num">13</span> But when the Jews from Thessalonica knew that the word of God was proclaimed by Paul in Berea also, they came there too, stirring up the crowds.
 
-<span class="v-num">14</span> And then immediately the brothers sent away Paul to go as far as to the sea. But both <del class="deleted-text">[the]</del> Silas and <del class="deleted-text">[the]</del> Timothy remained there.
+<span class="v-num">14</span> Then the brothers immediately sent Paul away to go as <span class="added-text">(far as)</span> the sea; but Silas and Timothy remained there.
 
-<span class="v-num">15</span> And the ones conducting <del class="deleted-text">[the]</del> Paul brought <span class="added-text">(him)</span> as far as Athens. And having received a command for <del class="deleted-text">[the]</del> Silas and <del class="deleted-text">[the]</del> Timothy that they <u>should come</u><span class="added-text">(#aoritst subjunctive)</span> to him as soon as possible, they departed.
+<span class="v-num">15</span> And those conducting Paul brought him as far as Athens; and having received a command to Silas and Timothy that they should come to him as quickly as possible, they departed.[^2]
 
-<span class="v-num">16</span> And in <del class="deleted-text">[the]</del> Athens <span class="alt-label">Paul’s waiting for them</span><span class="alt-text">(=while Paul was waiting for them)</span>[^2], his spirit was being provoked in him, <span class="alt-label"><span class="added-text">(his)</span> seeing</span><span class="alt-text">(=when he saw)</span>[^3] the city being full of idols.
+<span class="v-num">16</span> Now while Paul was waiting for them at Athens, his spirit was provoked within him, seeing the city full of idols.
 
-<span class="v-num">17</span> Therefore he was discussing in the synagogue <span class="added-text">(with)</span> the Jews, and <span class="added-text">(with)</span> the worshipping ones, and <span class="added-text">(with)</span> the ones meeting by chance in the marketplace everyday.
+<span class="v-num">17</span> Therefore he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there.
 
-<span class="v-num">18</span> And some of the Epicurean and Stoic philosophers were debating with him. And some were saying, “What want<span class="added-text">(#optative)</span> this babbler to say?”. Others <span class="added-text">(were saying)</span>, “He seems to be an announcer of foreign demons,” because he was preaching Jesus and the resurrection.
+<span class="v-num">18</span> And some of the Epicurean and Stoic philosophers encountered him; and some said, "What might this babbler wish to say?" Others <span class="added-text">(said)</span>, "He seems to be a proclaimer of foreign gods"; because he preached to them Jesus and the resurrection.
 
-<span class="v-num">19</span> And having taken hold of him, they brought to Areopagus, saying, “May we know what this new teaching spoken by you is?”
+<span class="v-num">19</span> And having taken hold of him, they brought <span class="added-text">(him)</span> to the Areopagus, saying, "Can we know what <span class="added-text">(is)</span> this new teaching being spoken by you?
 
-<span class="v-num">20</span> “For you bring strange things to our ears, we want to know what these things <span class="alt-label">want to be</span><span class="alt-text">(=mean)</span>.”
+<span class="v-num">20</span> For you bring some strange things to our ears; therefore we wish to know what these things might mean."
 
-<span class="v-num">21</span> And all Athenians and the foreigners residing <span class="added-text">(there)</span> were spending time in nothing else but either to say something <span class="added-text">(newer)</span> or to hear something newer.
+<span class="v-num">21</span> Now all <span class="added-text">(the)</span> Athenians and the strangers residing <span class="added-text">(there)</span> spent their time in nothing else than telling or hearing something newer.
 
-<span class="v-num">22</span> And having stood in <span class="added-text">(the)</span> midst of the Areopagus, Paul said, “Men of Athens, I see that in all things you are very religious.”
+<span class="v-num">22</span> And Paul, having stood in the midst of the Areopagus, said, "Men <span class="added-text">(of)</span> Athens, I perceive that in all things you are very religious.
 
-<span class="v-num">23</span> “For <span class="alt-label">passing through and looking up</span><span class="alt-text">(=as I walked about and looked up)</span> your objects of worship, I found also an altar <span class="alt-label">in</span><span class="alt-text">(=on)</span> which ‘To An Unknown God’ had been inscribed. Therefore you worship what you are unknown, this I announce <span class="added-text">(to)</span> you.”
+<span class="v-num">23</span> For as I passed through and observed the objects of your worship, I found also an altar on which was inscribed, 'To <span class="added-text">(the)</span> Unknown God.' What therefore you worship in ignorance, this I proclaim to you.
 
-<span class="v-num">24</span> “The God having made the world and all things in it, this one being Lord of heaven and earth, does not dwell in temples <span class="alt-label">hand-made</span><span class="alt-text">(=made by men)</span>.”
+<span class="v-num">24</span> The God who made the world and all things in it, this one, being Lord of heaven and earth, does not dwell in temples made with hands,[^3]
 
-<span class="v-num">25</span> “Nor is he served by men’s hands, <span class="alt-label">needing of some</span><span class="alt-text">(=as though he needs some)</span>. He himself <span class="added-text">(is the One)</span> giving to all <span class="added-text">(men)</span> life and breath and all things.”
+<span class="v-num">25</span> nor is he served by human hands as though he needed anything, since he himself gives to all life and breath and all things;
 
-<span class="v-num">26</span> “And he made from one <span class="added-text">(man)</span> every nation of men to dwell on all <span class="added-text">(the)</span> face of the earth, having determined seasons <del class="deleted-text">[having been]</del> appointed and the boundaries of their dwelling,”
+<span class="v-num">26</span> and he made from one blood every nation of men to dwell upon all the face of the earth, having determined <span class="added-text">(their)</span> appointed times and the boundaries of their dwelling,
 
-<span class="v-num">27</span> “to seek <del class="deleted-text">[the]</del> God, if perhaps they <span class="alt-label">wish to feel </span><span class="alt-text">(=touch)</span>[^4] him and <u>to find</u><span class="added-text">(#aorist optative)</span>, though <span class="added-text">(his)</span> being not far from each one of us.”
+<span class="v-num">27</span> that they should seek the Lord, if perhaps they might feel after him and find him, though indeed he is not far from each one of us.[^4]
 
-<span class="v-num">28</span> “For in him we live and move and <span class="alt-label">are</span><span class="alt-text">(=have our being)</span>, as also some of poets among you have said, ‘We are also <span class="added-text">(his)</span> offspring.’”
+<span class="v-num">28</span> For in him we live and move and have our being; as also some of your <span class="added-text">(own)</span> poets have said, 'For we also are his offspring.'[^5]
 
-<span class="v-num">29</span> “Therefore being offspring of <del class="deleted-text">[the]</del> God, we ought not to suppose <span class="added-text">(for)</span> the deity to be like gold or silver or stone - <span class="alt-label">sculpture</span><span class="alt-text">(=engraven)</span> by craftsmanship and idea of man.”
+<span class="v-num">29</span> Being then offspring of God, we ought not to think that the Divine <span class="added-text">(Being)</span> is like gold or silver or stone, an engraving of art and imagination of man.
 
-<span class="v-num">30</span> “Having overlooked the times of ignorance, <del class="deleted-text">[the]</del> God now commands to men <span class="added-text">(for)</span> all <span class="added-text">(men)</span> everywhere to repent.”
+<span class="v-num">30</span> Therefore God, having overlooked the times of ignorance, now commands all men everywhere to repent,
 
-<span class="v-num">31</span> “For he set a day in which he is about to judge the world in righteousness by a man whom he determined, having provided to all an <span class="alt-label">assurance</span><span class="alt-text">(=evidence)</span>, having raised him from <span class="added-text">(the)</span> dead.”
+<span class="v-num">31</span> because he has set a day in which he is about to judge the world in righteousness, by <span class="added-text">(the)</span> man whom he has ordained, having given assurance to all, having raised him from <span class="added-text">(the)</span> dead."[^6]
 
-<span class="v-num">32</span> And having heard <span class="added-text">(of the)</span> resurrection of <span class="added-text">(the)</span> dead, some were mocking, and others said, “We will hear you about this again.”
+<span class="v-num">32</span> And having heard of <span class="added-text">(the)</span> resurrection of <span class="added-text">(the)</span> dead, some mocked, but others said, "We will hear you again concerning this."
 
-<span class="v-num">33</span> Thus <del class="deleted-text">[the]</del> Paul left from <span class="added-text">(the)</span> midst of them.
+<span class="v-num">33</span> And so Paul went out from among them.
 
-<span class="v-num">34</span> And having joined him, some men believed, among whom also <span class="added-text">(was)</span> Dionysius the Areopagite, and a woman <span class="alt-label">by name</span><span class="alt-text">(=named)</span> Damaris, and others with them.
+<span class="v-num">34</span> But some men, having joined themselves to him, believed; among whom also <span class="added-text">(was)</span> Dionysius the Areopagite, and a woman named Damaris, and others with them.
 
 ---
 
-### Study Notes
-
-[^1]: implying movement from Thess. to Berea
-[^2]: genitive absolute
-[^3]: genitive absolute
-[^4]: aorist optative
+[^1]: '그리스도가 고난받고 부활함이 마땅하다'는 구약 예언 성취의 케리그마 핵심 공식이다.
+[^2]: ἵνα+가정법(ἔλθωσι) 목적절로 '속히 오게 하려는' 목적을 나타낸다.
+[^3]: ὁ Θεὸς ὁ ποιήσας — 관사를 반복하여 '만드신 바로 그 하나님'을 우상들과 구별해 정체화한다.
+[^4]: ψηλαφήσειαν, εὕροιεν은 희구법(optative)으로 하나님을 찾는 일이 확실치 않은 가능성으로 부드럽게 표현된다.
+[^5]: 헬라 시인(아라투스 등)의 시구를 인용하여 청중의 문화적 공감대에서 하나님과 인간의 관계를 설명한다.
+[^6]: ἀναστήσας(부정과거 분사) '죽은 자들 가운데서 일으키심'이 만민에게 믿음(확증)을 주신 근거로 제시된다.

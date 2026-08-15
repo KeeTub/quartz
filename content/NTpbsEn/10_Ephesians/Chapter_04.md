@@ -16,74 +16,74 @@ tags: [NTpbsEn, Ephesians]
 </div>
 
 
-<span class="v-num">1</span> Therefore I, the prisoner in <span class="added-text">(the)</span> Lord, beg you to walk worthy of the calling <span class="added-text">(with)</span> which you were called,
+<span class="v-num">1</span> I therefore, the prisoner in <span class="added-text">(the)</span> Lord, exhort you to walk worthily of the calling with which you were called,
 
-<span class="v-num">2</span> with all humility and gentleness, with long-endurance, bearing <span class="added-text">(with)</span> one another in love,
+<span class="v-num">2</span> with all lowliness and meekness, with longsuffering, bearing with one another in love,
 
-<span class="v-num">3</span> being eager to keep the unity of the Spirit in the bond of <del class="deleted-text">[the]</del> peace.
+<span class="v-num">3</span> being diligent to keep the unity of the Spirit in the bond of peace.
 
-<span class="v-num">4</span> <span class="added-text">(There is)</span> one body and one Spirit, just as you were called in one hope of your calling,
+<span class="v-num">4</span> <span class="added-text">(There is)</span> one body and one Spirit, even as also you were called in one hope of your calling;
 
 <span class="v-num">5</span> one Lord, one faith, one baptism,
 
-<span class="v-num">6</span> one God and Father of all, the One <span class="added-text">(who is)</span> above all and through all and in all.
+<span class="v-num">6</span> one God and Father of all, who <span class="added-text">(is)</span> over all, and through all, and in you all.
 
-<span class="v-num">7</span> But to each one of us <del class="deleted-text">[the]</del> grace was given according to the measure of the gift of <del class="deleted-text">[the]</del> Christ.
+<span class="v-num">7</span> But to each one of us was given the grace according to the measure of the gift of Christ.
 
-<span class="v-num">8</span> Therefore he says, “Having ascended <span class="alt-label">to</span><span class="alt-text">(=on)</span> high, he led captivity captive, <span class="added-text">(and)</span> gave gifts to men.”
+<span class="v-num">8</span> Therefore he says, "Having ascended on high, he led captivity captive, and gave gifts to men."
 
-<span class="v-num">9</span> And the <span class="added-text">(word)</span> “He ascended” - what <span class="alt-label">is it</span><span class="alt-text">(=does it mean)</span> except that he also descended into the lower parts of the earth?
+<span class="v-num">9</span> Now that <span class="added-text">(he)</span> ascended, what is it, except that he also <span class="added-text">(first)</span> descended into the lower parts of the earth?
 
-<span class="v-num">10</span> The One himself having descended is also the One having ascended far above all the heavens, that he might fill all things.
+<span class="v-num">10</span> He who descended is himself also he who ascended far above all the heavens, that he might fill all things.[^1]
 
-<span class="v-num">11</span> And he himself gave some <span class="added-text">(to be)</span> apostles, some prophets, some evangelists, some pastors and teachers,
+<span class="v-num">11</span> And he himself gave some <span class="added-text">(as)</span> apostles, and some <span class="added-text">(as)</span> prophets, and some <span class="added-text">(as)</span> evangelists, and some <span class="added-text">(as)</span> pastors and teachers,
 
-<span class="v-num">12</span> for the equipping of the saints <span class="alt-label">to</span><span class="alt-text">(=for)</span> <span class="added-text">(the)</span> work of ministry, <span class="alt-label">to</span><span class="alt-text">(=for)</span> building up the body of Christ,
+<span class="v-num">12</span> for the perfecting of the saints, for <span class="added-text">(the)</span> work of ministry, for <span class="added-text">(the)</span> building up of the body of Christ,
 
-<span class="v-num">13</span> until we all might attain to the unity of the faith and of the knowledge of the Son of God, to a <span class="alt-label">perfect</span><span class="alt-text">(=mature)</span> man, to <span class="added-text">(the)</span> measure of <span class="added-text">(the)</span> stature of fullness of Christ,
+<span class="v-num">13</span> until we all come to the unity of the faith and of the full knowledge of the Son of God, to a perfect man, to <span class="added-text">(the)</span> measure of <span class="added-text">(the)</span> stature of the fullness of Christ;
 
-<span class="v-num">14</span> so that we <span class="alt-label">may</span><span class="alt-text">(=should)</span> no longer be infants, being tossed back and forth and being carried about <span class="added-text">(with)</span> every wind of <span class="alt-label">teaching</span><span class="alt-text">(=doctrine)</span>, <span class="alt-label">in</span><span class="alt-text">(=by)</span> the trickery of men, in <span class="added-text">(the)</span> cunning with <span class="added-text">(the)</span> method of <span class="alt-label">error</span><span class="alt-text">(=deception)</span>,
+<span class="v-num">14</span> that we may no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in craftiness, according to the systematic scheming of deceit,[^2]
 
-<span class="v-num">15</span> but, speaking the truth in love, we should grow up <span class="added-text">(in)</span> all things into him who is the head, Christ,
+<span class="v-num">15</span> but speaking <span class="added-text">(the)</span> truth in love, we may grow up into him in all things, who is the head, Christ,
 
-<span class="v-num">16</span> from whom the whole body, being joined together and being knitted together by every <span class="alt-label">ligament of support</span><span class="alt-text">(=supporting ligament)</span>, according to <span class="added-text">(the)</span> working in measure of each <del class="deleted-text">[one]</del> part, makes the growth of the body for <span class="alt-label">building of itself</span><span class="alt-text">(=building itself up)</span> in love.
+<span class="v-num">16</span> from whom <span class="added-text">(the)</span> whole body, being fitted together and being joined together through every joint of the supply, according to <span class="added-text">(the)</span> working in <span class="added-text">(the)</span> measure of each individual part, makes the increase of the body for the building up of itself in love.
 
-<span class="v-num">17</span> Therefore I say this and testify in <span class="added-text">(the)</span> Lord, <span class="alt-label">you to walk no longer</span><span class="alt-text">(=that you must walk no longer)</span> as the Gentiles walk in <span class="added-text">(the)</span> futility of their mind,
+<span class="v-num">17</span> This therefore I say and testify in <span class="added-text">(the)</span> Lord, that you no longer walk as also the rest of the Gentiles walk, in <span class="added-text">(the)</span> vanity of their mind,
 
-<span class="v-num">18</span> being <span class="added-text">(the ones)</span> having been darkened <span class="added-text">(in)</span> the understanding, <span class="added-text">(and the ones)</span> having been alienated <span class="added-text">(from)</span> the life of God because of the ignorance being in them, because of hardness of their heart,
+<span class="v-num">18</span> having their understanding darkened, being alienated from the life of God, because of the ignorance that is in them, because of the hardness of their heart,
 
-<span class="v-num">19</span> who, having lost sensitivity, gave themselves over to lewdness for practice of all uncleanness in greediness.
+<span class="v-num">19</span> who, having become past feeling, gave themselves over to sensuality, to <span class="added-text">(the)</span> working of all uncleanness with greediness.
 
-<span class="v-num">20</span> But you did not so learned <del class="deleted-text">[the]</del> Christ,
+<span class="v-num">20</span> But you did not so learn Christ,
 
-<span class="v-num">21</span> if indeed you heard of him and were taught <span class="alt-label">in</span><span class="alt-text">(=by)</span> him as <span class="added-text">(the)</span> truth is in <del class="deleted-text">[the]</del> Jesus,
+<span class="v-num">21</span> if indeed you heard him, and were taught in him, as <span class="added-text">(the)</span> truth is in Jesus:
 
-<span class="v-num">22</span> <span class="alt-label">you to put off</span><span class="alt-text">(=that you put off)</span>, with regard to the former way of life, the old man being corrupted according to the <span class="alt-label">lusts of deceit</span><span class="alt-text">(=deceitful lusts)</span>[^1],
+<span class="v-num">22</span> that you put off, concerning your former manner of life, the old man, which is being corrupted according to the deceitful desires,[^3]
 
-<span class="v-num">23</span> and <span class="alt-label">to be renewed</span><span class="alt-text">(=so that you may be renewed)</span> <span class="added-text">(in)</span> the spirit of your mind,
+<span class="v-num">23</span> and that you be renewed in the spirit of your mind,
 
-<span class="v-num">24</span> and <span class="alt-label">to put on</span><span class="alt-text">(=that you put on)</span> the new man having been created according to God in <span class="alt-label">righteousness and holiness of truth</span><span class="alt-text">(=true righteousness and holiness)</span>[^2].
+<span class="v-num">24</span> and that you put on the new man, which was created according to God in righteousness and holiness of the truth.
 
-<span class="v-num">25</span> Therefore you each one, having put away the <span class="alt-label">lie</span><span class="alt-text">(=falsehood)</span>, speak<span class="added-text">(# imperative)</span> truth with his neighbor, because we are members of one another.
+<span class="v-num">25</span> Therefore, having put off lying, speak <span class="added-text">(the)</span> truth each one with his neighbor, for we are members of one another.
 
-<span class="v-num">26</span> Be angry but do not sin; do not let the sun go down on your anger,
+<span class="v-num">26</span> "Be angry, and do not sin"; do not let the sun go down on your wrath,
 
-<span class="v-num">27</span> and give no place to the devil.
+<span class="v-num">27</span> nor give place to the devil.
 
-<span class="v-num">28</span> Let the stealing one steal no longer, but rather let him labor, working <span class="added-text">(with)</span> <span class="alt-label">the</span><span class="alt-text">(=his)</span> own hands the good thing, so that he may have <span class="added-text">(something)</span> to share <span class="added-text">(with)</span> <span class="alt-label">the one having need</span><span class="alt-text">(=the one in need)</span>.
+<span class="v-num">28</span> Let the one stealing steal no more, but rather let him labor, working the good with <span class="added-text">(his)</span> hands, that he may have to share with the one having need.[^4]
 
-<span class="v-num">29</span> Do not let any corrupt word come out of your mouth, but if any <span class="added-text">(word is)</span> good for <span class="alt-label">building of need</span><span class="alt-text">(=necessary edification)</span>[^3], that it might give grace to the ones <span class="alt-label">hearing</span><span class="alt-text">(=who listen)</span>.
+<span class="v-num">29</span> Let no corrupt word proceed out of your mouth, but if any <span class="added-text">(is)</span> good for <span class="added-text">(the)</span> building up of the need, that it may give grace to the ones hearing.[^5]
 
-<span class="v-num">30</span> And do not grieve the Holy Spirit of God, <span class="alt-label">in</span><span class="alt-text">(=by)</span> whom you were sealed for <span class="added-text">(the)</span> day of redemption.
+<span class="v-num">30</span> And do not grieve the Holy Spirit of God, in whom you were sealed for <span class="added-text">(the)</span> day of redemption.
 
-<span class="v-num">31</span> Let all bitterness and rage and anger and clamor and blasphemy be taken away from you, with all malice,
+<span class="v-num">31</span> Let all bitterness, and wrath, and anger, and clamor, and blasphemy, be taken away from you, with all malice;
 
-<span class="v-num">32</span> And be kind <span class="added-text">(and)</span> compassionate to one another, forgiving <span class="alt-label">yourselves</span><span class="alt-text">(=one another)</span>, just as <del class="deleted-text">[the]</del> God in Christ forgave you.
+<span class="v-num">32</span> and be kind to one another, tenderhearted, forgiving <span class="alt-label">yourselves</span><span class="alt-text">(=each other)</span>, even as also God in Christ forgave you.
 
 ---
 
-### Study Notes
-
-[^1]: Hebraic genitive
-[^2]: Hebraic genitive
-[^3]: Hebraic genitive
+[^1]: ἵνα+가정법(πληρώσῃ)은 그리스도의 승천 목적을 나타내는 목적절이다.
+[^2]: ἵνα μηκέτι ὦμεν(가정법)은 성숙에 이르는 목적을 나타낸다.
+[^3]: ἀποθέσθαι~ἐνδύσασθαι(22-24절)의 부정사구는 배움의 결과이자 목적을 나타내는 연속 구문이다.
+[^4]: ἵνα ἔχῃ(가정법)는 수고의 목적을 나타낸다.
+[^5]: ἵνα δῷ(가정법)는 선한 말의 목적을 나타낸다.

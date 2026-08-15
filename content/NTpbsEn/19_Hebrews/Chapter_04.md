@@ -16,41 +16,43 @@ tags: [NTpbsEn, Hebrews]
 </div>
 
 
-<span class="v-num">1</span> Therefore, <span class="alt-label">promise’s being left</span><span class="alt-text">(=since the promise remains)</span>[^1] <span class="alt-label">to enter</span><span class="alt-text">(=of entering)</span> into His rest, let us fear lest any of you <del class="deleted-text">[may]</del> seem to come short <span class="added-text">(of it)</span>.
+<span class="v-num">1</span> Let us fear therefore, lest, a promise being left of entering into his rest, any of you should seem to have come short <span class="added-text">(of it)</span>.
 
-<span class="v-num">2</span> For we also <span class="alt-label">are having been evangelized</span><span class="alt-text">(=have had the good news proclaimed to us)</span>, just as they <span class="added-text">(did)</span>, but the word of <span class="added-text">(their)</span> hearing did not profit them, <span class="alt-label">not having been mixed</span><span class="alt-text">(=because they were not united)</span> <span class="added-text">(with)</span> faith <span class="added-text">(in)</span> the ones having heard.
+<span class="v-num">2</span> For indeed we have had good news preached <span class="added-text">(to us)</span>, just as they also <span class="added-text">(did)</span>; but the word of hearing did not profit them, not being mixed with faith in those who heard <span class="added-text">(it)</span>.
 
-<span class="v-num">3</span> For we having believed enter into the rest, as He has said, “As I swore in my wrath, ‘<span class="alt-label">If They shall enter</span><span class="alt-text">(=They shall not enter)</span> into my rest,’” <u>and <span class="alt-label">ye</u>t</span><span class="alt-text">(=although)</span> <span class="alt-label">the works’ having been become</span><span class="alt-text">(=the works were finished)</span>[^2] from <span class="added-text">(the)</span> foundation of <span class="added-text">(the)</span> world.
+<span class="v-num">3</span> For we who have believed do enter into the rest, just as he has said, "As I swore in my wrath, 'They shall not enter into my rest,'" although the works were finished from <span class="added-text">(the)</span> foundation of <span class="added-text">(the)</span> world.[^1]
 
-<span class="v-num">4</span> For He said somewhere about the seventh day in this way: “And <del class="deleted-text">[the]</del> God rested on the seventh day from all his works.”
+<span class="v-num">4</span> For he has said somewhere concerning the seventh <span class="added-text">(day)</span> thus, "And God rested on the seventh day from all his works,"
 
-<span class="v-num">5</span> And in this <span class="added-text">(place)</span> again <span class="added-text">(it says)</span>, “<span class="alt-label">If They shall enter</span><span class="alt-text">(=They shall not enter)</span> into my rest.”
+<span class="v-num">5</span> and in this <span class="added-text">(place)</span> again, "They shall not enter into my rest."
 
-<span class="v-num">6</span> Since therefore it remains for some to enter <del class="deleted-text">[into]</del> it, and the ones formerly having been evangelized did not enter because of disobedience.
+<span class="v-num">6</span> Since therefore it remains that some <span class="added-text">(are)</span> to enter into it, and those who formerly had the good news preached <span class="added-text">(to them)</span> did not enter in because of disobedience,
 
-<span class="v-num">7</span> Again He sets a certain day, “Today,” saying in David, after so long time, as it has been said, “Today, if you <del class="deleted-text">[might]</del> hear his voice, do not harden your hearts.”
+<span class="v-num">7</span> he again defines a certain day, "Today," saying <span class="alt-label">through</span><span class="alt-text">(=in)</span> David, after so long a time; just as it has been said, "Today, if you shall hear his voice, do not harden your hearts."[^2]
 
-<span class="v-num">8</span> For if <span class="alt-label">Jesus</span><span class="alt-text">(=Joshua)</span> had given them rest, He would not have spoken about another day <span class="alt-label">after these things</span><span class="alt-text">(=afterwards)</span>.
+<span class="v-num">8</span> For if Joshua had given them rest, he would not have spoken of another day after these things.[^3]
 
-<span class="v-num">9</span> So then, there remains a Sabbath-rest <span class="added-text">(for)</span> the people of God.
+<span class="v-num">9</span> So then there remains a Sabbath rest for the people of God.
 
-<span class="v-num">10</span> For the one having entered into His rest also rested from his <span class="added-text">(own)</span> works, as <del class="deleted-text">[the]</del> God <span class="added-text">(did)</span> from <span class="alt-label">the own</span><span class="alt-text">(=His)</span>.
+<span class="v-num">10</span> For the one who has entered into his rest, he himself also has rested from his works, just as God <span class="added-text">(rested)</span> from his own.
 
-<span class="v-num">11</span> Let us therefore be eager to enter into that rest, so that no one <span class="alt-label">might</span><span class="alt-text">(=will)</span> fall <span class="alt-label">in</span><span class="alt-text">(=by)</span> the same example of disobedience.
+<span class="v-num">11</span> Let us therefore strive to enter into that rest, so that no one may fall in<span class="added-text">(to)</span> the same example of disobedience.[^4]
 
-<span class="v-num">12</span> For the word of God <span class="added-text">(is)</span> living and active, and sharper than any double-edged sword, <del class="deleted-text">[and]</del> penetrating as far as to the separation of soul and spirit, and of joints and marrows, discerning of thoughts and intentions of <span class="added-text">(the)</span> heart.
+<span class="v-num">12</span> For the word of God <span class="added-text">(is)</span> living, and <span class="alt-label">effective</span><span class="alt-text">(=active)</span>, and sharper beyond any two-edged sword, and piercing through to <span class="added-text">(the)</span> division of soul and spirit, of joints and marrow, and <span class="added-text">(is)</span> able to judge <span class="added-text">(the)</span> thoughts and intents of <span class="added-text">(the)</span> heart;[^5]
 
-<span class="v-num">13</span> And there is no creature <span class="alt-label">unseen</span><span class="alt-text">(=hidden)</span> before Him, but all things <span class="added-text">(are)</span> naked and <del class="deleted-text">[having been laid]</del> open to eyes of Him to whom <span class="alt-label">the word(=reckoning) <span class="added-text">(is)</span> to us</span><span class="alt-text">(=we must give an account)</span>.
+<span class="v-num">13</span> And there is no creature hidden before him, but all <span class="added-text">(things are)</span> naked and laid <span class="alt-label">open</span><span class="alt-text">(=exposed)</span> to his eyes, to whom <span class="added-text">(is)</span> our <span class="alt-label">account</span><span class="alt-text">(=word)</span>.
 
-<span class="v-num">14</span> Having therefore a great high priest having passed through the heavens, Jesus the Son of God, let us hold fast <span class="alt-label">the</span><span class="alt-text">(=our)</span> confession.
+<span class="v-num">14</span> Having therefore a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast <span class="added-text">(our)</span> confession.
 
-<span class="v-num">15</span> For we do not have a high priest <span class="alt-label">not being able</span><span class="alt-text">(=unable)</span> to sympathize with our weaknesses, but <span class="added-text">(the one)</span> having been tempted in every way <span class="alt-label">according to likeness</span><span class="alt-text">(=just as we are)</span>, without sin.
+<span class="v-num">15</span> For we do not have a high priest who is not able to sympathize with our weaknesses, but <span class="added-text">(one who has been)</span> tempted in all things according to <span class="added-text">(our)</span> likeness, yet without sin.
 
-<span class="v-num">16</span> Let us therefore approach with confidence the throne of grace, so that we <span class="alt-label">might</span><span class="alt-text">(=may)</span> receive mercy and <del class="deleted-text">[might]</del> find grace <span class="alt-label">for timely help</span><span class="alt-text">(=in time of need)</span>.
+<span class="v-num">16</span> Let us therefore approach with <span class="alt-label">boldness</span><span class="alt-text">(=confidence)</span> to the throne of grace, so that we may receive mercy, and find grace for timely help.[^6]
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
+[^1]: εἰ+미래(εἰσελεύσονται)는 히브리어식 부정 맹세 관용구로 '결코 들어가지 못하리라'는 강한 부정을 뜻한다.
+[^2]: ἐάν+가정법(ἀκούσητε)은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절로, '만약 너희가 듣게 되거든'이라는 뜻이다. 지금 이 순간의 실제적 선택과 결단을 촉구하는 뉘앙스이다.
+[^3]: 여기서 Ἰησοῦς는 예수 그리스도가 아니라 가나안 정복을 이끈 여호수아(히브리어 יְהוֹשֻׁעַ)를 가리킨다.
+[^4]: ἵνα+가정법(πέσῃ)으로 '빠지지 않게 하려고'라는 목적을 나타낸다.
+[^5]: 'ζῶν(살아 있는)'과 'ἐνεργής(효력있는)'는 하나님 말씀의 능동적 실재성과 심판적 기능을 강조하는 핵심 신학어이다.
+[^6]: ἵνα+가정법(λάβωμεν, εὕρωμεν)으로 나아가는 목적을 나타낸다.

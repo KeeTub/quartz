@@ -16,52 +16,58 @@ tags: [NTpbsEn, Mark]
 </div>
 
 
-<span class="v-num">1</span> And <span class="alt-label">the Sabbath’s having passed</span><span class="alt-text">(=when the Sabbath was past)</span>[^1], Mary the Magdalene and Mary the <span class="added-text">(mother)</span> of James and Salome bought spices so that they, having come, might anoint him.
+<span class="v-num">1</span> And after the Sabbath had passed, Mary Magdalene and Mary the <span class="added-text">(mother)</span> of James and Salome bought spices, so that having come they might anoint him.[^1]
 
-<span class="v-num">2</span> And very early <span class="added-text">(on)</span> the first day of the <span class="alt-label">Sabbaths</span><span class="alt-text">(=week)</span>, they come to the tomb, <span class="alt-label">the sun’s having risen</span><span class="alt-text">(=when the sun had risen)</span>[^2].
+<span class="v-num">2</span> And very early on the first <span class="added-text">(day)</span> of the <span class="alt-label">Sabbaths</span><span class="alt-text">(=week)</span>, they came to the tomb, the sun having risen.
 
-<span class="v-num">3</span> And they were saying to one another, “Who will roll away <span class="added-text">(for)</span> us the stone from the entrance of the tomb?”
+<span class="v-num">3</span> And they said to themselves, "Who will roll away for us the stone from the door of the tomb?"
 
-<span class="v-num">4</span> And having looked up, they see that the stone has been rolled away, which was very large.
+<span class="v-num">4</span> And having looked up, they saw that the stone had been rolled away, for it was very great.
 
-<span class="v-num">5</span> And having gone into the tomb, they saw a young man sitting in the right sides <span class="added-text">(and)</span> having dressed <span class="added-text">(in a)</span> white robe. And they were alarmed.
+<span class="v-num">5</span> And having entered into the tomb, they saw a young man sitting on the right <span class="added-text">(side)</span>, clothed in a white robe, and they were greatly amazed.
 
-<span class="v-num">6</span> And he says <span class="added-text">(to)</span> them, “Don't be alarmed. You are looking for Jesus the Nazarene having been crucified. He <span class="alt-label">was risen</span><span class="alt-text">(=has risen)</span>. He is not here. Look, the place where they laid him.”
+<span class="v-num">6</span> But he said to them, "Do not be amazed. You seek Jesus the Nazarene, the one having been crucified; he has risen, he is not here; behold, the place where they laid him.
 
-<span class="v-num">7</span> “But go, tell his disciples and Peter that he is going before you to <del class="deleted-text">[the]</del> Galilee. There you will see him, as he told you.”
+<span class="v-num">7</span> But go, tell his disciples and Peter that he goes before you into Galilee; there you will see him, just as he said to you."
 
-<span class="v-num">8</span> And having come out, they ran away from the tomb because trembling and astonishment <span class="alt-label">were taking</span><span class="alt-text">(=had seized)</span> them. And they said nothing <span class="added-text">(to)</span> <span class="alt-label">none</span><span class="alt-text">(=anyone)</span>, because they <span class="alt-label">were being afraid</span><span class="alt-text">(=were afraid)</span>.
+<span class="v-num">8</span> And having gone out quickly, they fled from the tomb, for trembling and amazement had seized them; and they said nothing to anyone, for they were afraid.
 
-<span class="v-num">9</span> And having risen early <span class="added-text">(on)</span> the first day of the <span class="alt-label">Sabbath</span><span class="alt-text">(=week)</span>, he appeared first <span class="added-text">(to)</span> Mary <del class="deleted-text">[the]</del> Magdalene, from whom he had cast out seven demons.
+<span class="v-num">9</span> Now having risen early on the first <span class="added-text">(day)</span> of the <span class="alt-label">Sabbaths</span><span class="alt-text">(=week)</span>, he appeared first to Mary Magdalene, from whom he had cast out seven demons.[^2]
 
-<span class="v-num">10</span> That <span class="added-text">(woman)</span>, having gone, reported to the ones having been with him, <span class="added-text">(who were)</span> mourning and weeping.
+<span class="v-num">10</span> She went and reported <span class="added-text">(it)</span> to those who had been with him, as they mourned and wept.[^3]
 
-<span class="v-num">11</span> And those, having heard that he is alive and has been seen by her, disbelieved.
+<span class="v-num">11</span> And those <span class="added-text">(men)</span>, having heard that he was alive and had been seen by her, did not believe.[^4]
 
-<span class="v-num">12</span> And after these things, he appeared in another form <span class="added-text">(to)</span> two of them walking <span class="added-text">(and)</span> going into the country.
+<span class="v-num">12</span> But after these things, he appeared in another form to two of them walking, as they went into <span class="added-text">(the)</span> countryside.[^5]
 
-<span class="v-num">13</span> And those, having gone, reported <span class="added-text">(it to)</span> the rest. <span class="added-text">(But)</span> they did not believe them.
+<span class="v-num">13</span> And those <span class="added-text">(men)</span> went and reported <span class="added-text">(it)</span> to the rest; they did not believe them either.[^6]
 
-<span class="v-num">14</span> And afterwards, he appeared to the eleven <span class="alt-label">reclining</span><span class="alt-text">(=being at table)</span>, and rebuked their unbelief and hardness of heart because they did not believe the ones having seen him, <span class="alt-label">having risen</span><span class="alt-text">(=after he was risen)</span>.
+<span class="v-num">14</span> Afterward he appeared to the eleven <span class="added-text">(themselves)</span> as they reclined <span class="added-text">(at table)</span>, and he rebuked their unbelief and hardness of heart, because they did not believe those who had seen him having risen.[^7]
 
-<span class="v-num">15</span> And he said <span class="added-text">(to)</span> them, “Having gone into all the world, proclaim the gospel to all creation.”
+<span class="v-num">15</span> And he said to them, "Having gone into all the world, preach the gospel to all creation.[^8]
 
-<span class="v-num">16</span> “The one having believed and having been baptized will be saved. But the one having disbelieved will be condemned.”
+<span class="v-num">16</span> The one having believed and having been baptized will be saved; but the one having disbelieved will be condemned.[^9]
 
-<span class="v-num">17</span> And these signs will follow the ones having believed. In my name they will cast out demons. They will speak <span class="added-text">(with)</span> new tongues.
+<span class="v-num">17</span> And these signs will accompany those who have believed: in my name they will cast out demons; they will speak with new tongues;[^10]
 
-<span class="v-num">18</span> <u>And in the hands</u>[^3] they will <span class="alt-label">take up</span><span class="alt-text">(=pick up)</span> serpents. And if they might drink any deadly thing, it <span class="alt-label">might not hurt</span><span class="alt-text">(=will not hurt)</span>[^4] them. They will lay <span class="added-text">(their)</span> hands on <span class="added-text">(the)</span> sick, and they <span class="alt-label">will be well</span><span class="alt-text">(=will recover)</span>.
+<span class="v-num">18</span> they will pick up serpents; and if they drink anything deadly, it will not hurt them at all; they will lay hands on the sick, and they will be well."[^11]
 
-<span class="v-num">19</span> So then the Lord Jesus, after <del class="deleted-text">[the]</del> having spoken to them, was taken up into heaven and sat at the right <span class="added-text">(hand)</span> of God.
+<span class="v-num">19</span> So then the Lord, after speaking to them, was taken up into heaven and sat down at <span class="added-text">(the)</span> right <span class="added-text">(hand)</span> of God.[^12]
 
-<span class="v-num">20</span> And those, having gone out, proclaimed everywhere, <span class="alt-label">the Lord’s working with and confirming</span><span class="alt-text">(=the Lord worked with them and confirmed)</span>[^5] the word by the signs following.
+<span class="v-num">20</span> And those <span class="added-text">(men)</span> went out and preached everywhere, the Lord working with <span class="added-text">(them)</span> and confirming the word through the accompanying signs. Amen.[^13]
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
-[^3]: deleted in some manuscripts
-[^4]: emphatic negative with subjunctive
-[^5]: genitive absolute
+[^1]: ἵνα+가정법(ἀλείψωσιν)으로 향품을 산 목적을 나타내는 목적절이다.
+[^2]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 가장 오래된 사본(시내산·바티칸 사본 등)에 9-20절이 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^3]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^4]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^5]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^6]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^7]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^8]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^9]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^10]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^11]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^12]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^13]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 이 부분이 가장 오래된 사본에 없다는 이유로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.

@@ -16,134 +16,134 @@ tags: [NTpbsEn, Acts]
 </div>
 
 
-<span class="v-num">1</span> And the high priest said, <span class="alt-label">“[if</span><span class="alt-text">(=no meaning)</span>[^1]] <span class="alt-label">Have</span><span class="alt-text">(=are)</span> these things so?”
+<span class="v-num">1</span> And the high priest said, "Are these things so, then?"
 
-<span class="v-num">2</span> And he was saying, “Men, brothers, and fathers, hear that the God of glory appeared to our father Abraham <span class="alt-label">being</span><span class="alt-text">(=when he was)</span> in Mesopotamia before <span class="added-text">(for)</span> him to dwell in Haran.”
+<span class="v-num">2</span> And he said, "Men, brothers and fathers, listen. The God of glory appeared to our father Abraham, being in Mesopotamia, before he dwelt in Haran,
 
-<span class="v-num">3</span> “And he said <span class="added-text">(to)</span> him. ‘Go out of your land and your kindred, and come into the land which I may show to you.’”
+<span class="v-num">3</span> and said to him, 'Go out from your land and from your kindred, and come into <span class="added-text">(the)</span> land which I will show you.'
 
-<span class="v-num">4</span> “Then having gone out of <span class="added-text">(the)</span> land of Chaldeans, he dwelt in Haran. And from there, after for his father to have died, he caused to emigrate him into this land in which you dwell now.”
+<span class="v-num">4</span> Then having gone out from <span class="added-text">(the)</span> land of the Chaldeans, he dwelt in Haran; and from there, after his father died, <span class="alt-label">He</span><span class="alt-text">(=God)</span> removed him into this land in which you now dwell;
 
-<span class="v-num">5</span> “And he did not give him an inheritance in it nor <span class="added-text">(so much as)</span> a foot step. And he promised to give him it for a possession and to his seed after him, <span class="alt-label">child’s not being to him</span><span class="alt-text">(=while a child was not to him)</span>[^2].”
+<span class="v-num">5</span> And He gave him no inheritance in it, not even a foot's space; but He promised to give it to him for a possession, and to his seed after him, though he had no child.
 
-<span class="v-num">6</span> “And God spoke thus, ‘<del class="deleted-text">[that]</del> His seed will be a foreigner in land belonging to another. And they will enslave it, and will oppress <u>for four hundred years</u><span class="added-text">(# acc. of duration)</span>.’”
-7 “And I will judge the nation to which they will serve, God said, and after these things they will come out and will worship me in this place.”
+<span class="v-num">6</span> And God spoke thus, 'that his seed would be a sojourner in a foreign land, and they will enslave it and mistreat <span class="added-text">(it)</span> four hundred years.
 
-<span class="v-num">8</span> “And he gave him a covenant of circumcision. And thus he begot Isaac, and circumcised him <span class="added-text">(on)</span> the eighth day. And Isaac <span class="added-text">(begot)</span> Jacob, and Jacob <span class="added-text">(begot)</span> the twelve patriarchs.”
+<span class="v-num">7</span> And the nation which they serve I will judge, said God, and after these things they will come out and serve Me in this place.'[^1]
 
-<span class="v-num">9</span> “And the patriarchs, having been jealous <span class="added-text">(of)</span> Joseph, sold into Egypt. And God was with him.”
+<span class="v-num">8</span> And He gave him <span class="added-text">(the)</span> covenant of circumcision; and so he begot Isaac, and circumcised him on the eighth day; and Isaac <span class="added-text">(begot)</span> Jacob, and Jacob <span class="added-text">(begot)</span> the twelve patriarchs.
 
-<span class="v-num">10</span> “And he took out him from all his afflictions, and gave him grace and wisdom before Pharaoh, king of Egypt. And he appointed him governor over Egypt and all his household.”
+<span class="v-num">9</span> And the patriarchs, having envied Joseph, sold <span class="added-text">(him)</span> into Egypt; but God was with him,
 
-<span class="v-num">11</span> “But over all Egypt and Canaan came a famine and great affliction. and our fathers did not find foods.”
+<span class="v-num">10</span> and delivered him out of all his afflictions, and gave him favor and wisdom before Pharaoh king of Egypt, and <span class="alt-label">he</span><span class="alt-text">(=Pharaoh)</span> set him as ruler over Egypt and <span class="added-text">(over)</span> his whole house.
 
-<span class="v-num">12</span> “But having heard <span class="added-text">(that)</span> grains <span class="alt-label">being</span><span class="alt-text">(=are)</span> in Egypt, Jacob sent forth our fathers first.”
+<span class="v-num">11</span> And a famine came upon all the land of Egypt and Canaan, and great affliction; and our fathers did not find food.
 
-<span class="v-num">13</span> “And at the second <span class="added-text">(time)</span>, Joseph was made known to his brothers. And the family of Joseph became clear to Pharaoh.”
+<span class="v-num">12</span> But Jacob, having heard that there was grain in Egypt, sent our fathers out first;
 
-<span class="v-num">14</span> “And having sent, Joseph called his father Jacob and all the kindred in seventy five <span class="alt-label">souls</span><span class="alt-text">(=persons)</span>[^3].”
+<span class="v-num">13</span> and at the second <span class="added-text">(time)</span> Joseph was made known to his brothers, and Joseph's family became known to Pharaoh.
 
-<span class="v-num">15</span> “And Jacob went down to Egypt. And he and our fathers died.”
+<span class="v-num">14</span> And Joseph, having sent, called for his father Jacob, and all his kindred, seventy-five souls.
 
-<span class="v-num">16</span> “And they were removed to Shechem, and were put in the tomb that Abraham bought <span class="added-text">(for)</span> a price of silver from the sons of Hamor in Shechem.”
+<span class="v-num">15</span> And Jacob went down to Egypt, and he died, and our fathers;
 
-<span class="v-num">17</span> “And when<span class="added-text">(# temporal)</span> the time of the promise which God <span class="alt-label">swore</span><span class="alt-text">(=made)</span> to Abraham was approaching, the people grew and were multiplied in Egypt.”
+<span class="v-num">16</span> and they were carried over to Shechem, and were laid in the tomb which Abraham bought for a price of silver from the sons of Hamor <span class="added-text">(the father)</span> of Shechem.
 
-<span class="v-num">18</span> “Until another king over Egypt arose, who <u>was not knowing</u><span class="added-text">(# plpf., impf. meaning)</span> Joseph.”
+<span class="v-num">17</span> But as the time of the promise which God swore to Abraham drew near, the people grew and multiplied in Egypt,
 
-<span class="v-num">19</span> “This <span class="added-text">(king)</span>, having craftily imposed upon our race, oppressed to make the fathers to throw their babies <u>so as not to survive</u><span class="added-text">(# inf. final)</span>.”
+<span class="v-num">18</span> until another king arose, who did not know Joseph.
 
-<span class="v-num">20</span> “At that time, Moses was born. And he was beautiful <span class="added-text">(even)</span> to God, who was brought up <u><span class="added-text">(for)</span> three months</u><span class="added-text">(#acc. of duration)</span> in <span class="added-text">(his)</span> father’s house.”
+<span class="v-num">19</span> This one, having dealt craftily with our race, mistreated our fathers, to make <span class="added-text">(them)</span> cast out their infants, so that they would not be kept alive.[^2]
 
-<span class="v-num">21</span> “And <span class="alt-label">his having been thrown</span><span class="alt-text">(=when he was thrown)</span>[^4], Pharaoh’s daughter took him up, and brought him up to herself for a son.”
+<span class="v-num">20</span> In which time Moses was born, and was beautiful to God; who was brought up three months in his father's house.
 
-<span class="v-num">22</span> “And Moses was educated <span class="added-text">(in)</span> all wisdom of Egyptians, and was powerful in his words and deeds.”
+<span class="v-num">21</span> And when he was cast out, Pharaoh's daughter took him up, and brought him up for herself as a son.
 
-<span class="v-num">23</span> “And when <span class="added-text">(the)</span> time of forty years was fulfilled to him, it came up upon his heart to visit<span class="added-text">(# helping in Heb. connotation)</span> his brothers the sons of Israel.”
+<span class="v-num">22</span> And Moses was educated in all <span class="added-text">(the)</span> wisdom of the Egyptians; and he was powerful in words and in deeds.
 
-<span class="v-num">24</span> “And having seen one being mistreated, he defended. And he took vengeance <span class="added-text">(for)</span> the one being oppressed, having killed the Egyptian.”
+<span class="v-num">23</span> But when he was forty years <span class="added-text">(old)</span>, it came upon his heart to visit his brothers, the sons of Israel.
 
-<span class="v-num">25</span> “And he was supposing for the brothers to understand that God through his hand would give salvation to them. But they did not understand.”
+<span class="v-num">24</span> And having seen a certain one being wronged, he defended <span class="added-text">(him)</span> and did vengeance for the one being oppressed, having struck the Egyptian.
 
-<span class="v-num">26</span> “And <span class="added-text">(on)</span> the coming day, he appeared <span class="added-text">(to)</span> them <span class="added-text">(who were)</span> fighting, and was reconciling them in peace, saying, ‘Men, you are brothers. Why are you mistreating each other?’”
+<span class="v-num">25</span> And he supposed his brothers to understand that God, through his hand, was giving them salvation; but they did not understand.
 
-<span class="v-num">27</span> “But the one mistreating <span class="alt-label">the neighbor</span><span class="alt-text">(=the other)</span> pushed him away, saying, ‘Who appointed you ruler and judge over us?’”
+<span class="v-num">26</span> And on the following day he appeared to them fighting, and tried to reconcile them to peace, saying, 'Men, you are brothers; why do you wrong one another?'
 
-<span class="v-num">28</span> “Do you <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> want to kill me in the way that you killed yesterday the Egyptian?”
+<span class="v-num">27</span> But the one wronging his neighbor pushed him away, saying, 'Who made you a ruler and a judge over us?
 
-<span class="v-num">29</span> “So Moses fled at this word. And he became foreigner in <span class="added-text">(the)</span> land of Midian, where he begot two sons.”
+<span class="v-num">28</span> Do you want to kill me, the way you killed the Egyptian yesterday?'
 
-<span class="v-num">30</span> “And <span class="alt-label">forty years’ having been completed</span><span class="alt-text">(=when forty years were fulfilled)</span>[^5], an angel appeared to him in the desert of the mount Sinai <span class="alt-label">in flame of fire of thorn bush</span><span class="alt-text">(=in the flames of a burning bush)</span>.”
+<span class="v-num">29</span> And Moses fled at this word, and became a sojourner in the land of Midian, where he begot two sons.
 
-<span class="v-num">31</span> “And having seen, Moses was wondering <span class="added-text">(at)</span> the sight. And <span class="alt-label">his approaching</span><span class="alt-text">(=when he approached)</span>[^6] to ascertain, there was a voice of the Lord.”
+<span class="v-num">30</span> And when forty years were fulfilled, an angel of <span class="added-text">(the)</span> Lord appeared to him in the wilderness of Mount Sinai, in a flame of fire of a bush.
 
-<span class="v-num">32</span> “‘I <span class="added-text">(am)</span> the God of your fathers, the God of Abraham and of Isaac and of Jacob.’ But having been trembling, Moses was not daring to ascertain.”
+<span class="v-num">31</span> And Moses, having seen <span class="added-text">(it)</span>, was amazed at the vision; and as he was drawing near to observe <span class="added-text">(it)</span>, <span class="added-text">(the)</span> voice of <span class="added-text">(the)</span> Lord came to him,
 
-<span class="v-num">33</span> “And the Lord said <span class="added-text">(to)</span> him. ‘Untie the sandal of your feet because the place on which you <u>are standing</u><span class="added-text">(#pf. of present sense)</span> is holy land.’”
+<span class="v-num">32</span> 'I <span class="added-text">(am)</span> the God of your fathers, the God of Abraham and the God of Isaac and the God of Jacob.' And Moses, having become trembling, did not dare to observe <span class="added-text">(it)</span>.
 
-<span class="v-num">34</span> “<span class="alt-label">Having seen</span><span class="alt-text">(=Having indeed seen)</span>[^7], I saw the mistreatment of my people in Egypt. And I heard their groan. And I came down to take out them. And go now, <u>let me send</u><span class="added-text">(#aor. subj. hort.)</span> you to Egypt.”
+<span class="v-num">33</span> And the Lord said to him, 'Loose the sandal of your feet; for the place in which you stand is holy ground.
 
-<span class="v-num">35</span> “<span class="added-text">(It is)</span> this Moses, whom they refused, saying, ‘Who appointed you ruler and judge?’ This man has God sent <span class="added-text">(to be)</span> both ruler and redeemer with <span class="added-text">(the)</span> hand of angel having appeared to him in the bush.”
+<span class="v-num">34</span> I have surely seen the mistreatment of My people who are in Egypt, and I have heard their groaning; and I have come down to deliver them. And now come, I will send you into Egypt.'[^3]
 
-<span class="v-num">36</span> “This <span class="added-text">(man)</span> led forth them, <u>having done</u><span class="added-text">(#circumstantial ptc.)</span> wonders and signs in <span class="added-text">(the)</span> land of Egypt, and in <span class="added-text">(the)</span> Red Sea, and in the desert <span class="added-text">(for)</span> forty years.”
+<span class="v-num">35</span> This Moses, whom they denied, saying, 'Who made you a ruler and a judge?' — this one God sent <span class="added-text">(as)</span> a ruler and a redeemer, by the hand of the angel who appeared to him in the bush.
 
-<span class="v-num">37</span> “This is the Moses having said <span class="added-text">(to)</span> the sons of Israel, ‘God will raise up a prophet like me for you from your brothers.’”
+<span class="v-num">36</span> This one led them out, having done wonders and signs in the land of Egypt, and in the Red Sea, and in the wilderness forty years.
 
-<span class="v-num">38</span> “This is the one having been in the <span class="alt-label">church</span><span class="alt-text">(=assembly)</span> in the desert with the angel speaking to him in the mount Sinai, and <span class="added-text">(with)</span> our fathers; who received living <span class="alt-label">words</span><span class="alt-text">(=oracles)</span> to give to us,”
+<span class="v-num">37</span> This is the Moses who said to the sons of Israel, 'A prophet will <span class="added-text">(the)</span> Lord your God raise up for you from your brothers, like me; Him you shall hear.'[^4]
 
-<span class="v-num">39</span> “to whom our fathers <span class="alt-label">were not willing</span><span class="alt-text">(=would not)</span> to become obedient, but they pushed <span class="added-text">(him)</span> away and turned in their hearts to Egypt,”
+<span class="v-num">38</span> This is the one who was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and <span class="added-text">(with)</span> our fathers; who received living oracles to give to us.
 
-<span class="v-num">40</span> “saying to Aaron, ‘Make for us gods who will go before us. <u><span class="added-text">(As for)</span> this Moses</u><span class="added-text">(# pendent nom.)</span> who led forth us out of the land of Egypt, we don't know what has happened to him.’”
+<span class="v-num">39</span> whom our fathers did not want to become obedient to, but pushed <span class="added-text">(him)</span> away, and turned back in their hearts to Egypt,
 
-<span class="v-num">41</span> “And they made a calf in those days, and brought up sacrifice to the idol, and were rejoicing in the works of their hands.”
+<span class="v-num">40</span> saying to Aaron, 'Make for us gods who will go before us; for this Moses, who led us out of the land of Egypt, we do not know what has become of him.'
 
-<span class="v-num">42</span> “And God turned away, and handed <span class="added-text">(them)</span> over to worship the army of heaven, as it has been written in the book of the prophets, ‘House of Israel! Have you <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> offered victims and sacrifices to me <span class="added-text">(for)</span> forty years in the desert?’”
+<span class="v-num">41</span> And in those days they made a calf, and offered up sacrifice to the idol, and rejoiced in the works of their hands.
 
-<span class="v-num">43</span> “And you took up the tent of Moloch, and the star of the god Rephan, the images which you made to worship them. And I will deport you beyond Babylon.”
+<span class="v-num">42</span> But God turned, and gave them up to serve the host of heaven; as it is written in the book of the prophets, 'Did you offer to Me slain beasts and sacrifices forty years in the wilderness, house of Israel?[^5]
 
-<span class="v-num">44</span> “The tent of witness was to our fathers in the desert, as the One speaking to Moses directed to make it according to the image which he had seen,”
+<span class="v-num">43</span> But you took up the tabernacle of Moloch, and the star of your god Remphan, the images which you made to worship them; and I will remove you beyond Babylon.'
 
-<span class="v-num">45</span> “which also, having received, our fathers brought in with <span class="alt-label">Jesus</span><span class="alt-text">(=Joshua)</span>[^8] in the possession of Gentiles whom God drove out from <span class="added-text">(the)</span> face of our fathers, until the days of David,”
+<span class="v-num">44</span> The tabernacle of the testimony was among our fathers in the wilderness, as He who spoke to Moses commanded, to make it according to the pattern which he had seen;
 
-<span class="v-num">46</span> “who <span class="alt-label">found</span><span class="alt-text">(=obtained)</span>[^9] grace before God, and asked to <span class="alt-label">find</span><span class="alt-text">(=see)</span> tent for the house of Jacob.”
+<span class="v-num">45</span> which our fathers, having received in turn, brought in with Joshua, into the possession of the nations whom God drove out from the face of our fathers, until the days of David;[^6]
 
-<span class="v-num">47</span> “But Solomon built for him a house.”
+<span class="v-num">46</span> who found favor before God, and asked to find a dwelling place for the God of Jacob.
 
-<span class="v-num">48</span> “But the most High does not dwell in <span class="added-text">(the house)</span> made by hand, as the prophet says.”
+<span class="v-num">47</span> But Solomon built Him a house.
 
-<span class="v-num">49</span> “‘The heaven <span class="added-text">(is)</span> to me a throne. And the earth <span class="added-text">(is)</span> a footstool of my feet. What kind of house will you build for me?’ The Lord says, ‘Or what <span class="added-text">(is)</span> place of my rest?’”
+<span class="v-num">48</span> But the Most High does not dwell in temples made with hands, as the prophet says,
 
-<span class="v-num">50</span> “Hasn’t my hand made all these things?”
+<span class="v-num">49</span> 'Heaven <span class="added-text">(is)</span> My throne, and the earth <span class="added-text">(is the)</span> footstool of My feet; what house will you build Me? says <span class="added-text">(the)</span> Lord; or what <span class="added-text">(is the)</span> place of My rest?[^7]
 
-<span class="v-num">51</span> “You stiff-necked and uncircumcised <u>in hearts</u><span class="added-text">(# dat. of respect)</span> and ears, you always resist the Holy Spirit. As your fathers <span class="added-text">(did)</span>, so <span class="added-text">(do)</span> you.”
+<span class="v-num">50</span> Has not My hand made all these things?'
 
-<span class="v-num">52</span> “Which of the prophets haven’t your fathers persecuted? And they killed the ones having foretold concerning the coming of the <u>Righteous One</u><span class="added-text">(#messianic title, Is 53:11)</span>, of whom you now became betrayers and murderers.”
+<span class="v-num">51</span> Stiff-necked <span class="added-text">(ones)</span>, and uncircumcised in heart and <span class="added-text">(in)</span> ears, you always resist the Holy Spirit, as your fathers <span class="added-text">(did)</span>, you also.[^8]
 
-<span class="v-num">53</span> “You who received the law <u>by</u><span class="added-text">(#of instrument)</span> directions of angels have not keep <span class="added-text">(it)</span>.”
+<span class="v-num">52</span> Which of the prophets did your fathers not persecute? And they killed those who foretold about the coming of the Righteous One, of whom you have now become betrayers and murderers;
 
-<span class="v-num">54</span> And hearing these things, they were being cut to their hearts and were gnashing the teeth at him.
+<span class="v-num">53</span> you who received the law by the ordinances of angels, and did not keep <span class="added-text">(it)</span>."
 
-<span class="v-num">55</span> But being full of the Holy Spirit, having gazed into <del class="deleted-text">[the]</del> heaven, he saw the glory of God and Jesus standing<span class="added-text">(#pf. with pres. sense)</span> at <span class="added-text">(the)</span> right <span class="added-text">(hand)</span> of God.
+<span class="v-num">54</span> And hearing these things, they were cut to the heart, and gnashed <span class="added-text">(their)</span> teeth at him.
 
-<span class="v-num">56</span> And he said, “Behold! I see the heavens having been opened and the Son of Man standing<span class="added-text">(#pf. with pres. sense)</span> at <span class="added-text">(the)</span> right <span class="added-text">(hand)</span> of God”
+<span class="v-num">55</span> But being full of <span class="added-text">(the)</span> Holy Spirit, having gazed into heaven, he saw <span class="added-text">(the)</span> glory of God, and Jesus standing at <span class="added-text">(the)</span> right hand of God,[^9]
 
-<span class="v-num">57</span> And having cried out with a great voice, they closed their ears, and rushed all together at him. 
-58 And having thrown <span class="added-text">(him)</span> outside the city, they were stoning <span class="added-text">(him)</span>. And the witnesses took off their garments at the feet of a young <span class="added-text">(man)</span> being called Saul.
+<span class="v-num">56</span> and said, "Behold, I see the heavens opened, and the Son of Man standing at <span class="added-text">(the)</span> right hand of God."
 
-<span class="v-num">59</span> And they were stoning Stephen, invoking and saying, “Lord Jesus, receive my spirit.”
+<span class="v-num">57</span> But crying out with a loud voice, they stopped their ears, and rushed at him with one accord;
 
-<span class="v-num">60</span> And <span class="alt-label">having put the knees</span><span class="alt-text">(=having fallen his knees)</span>, he cried out with a great voice, “Lord, do not place to them this sin.” And having said this, he fell asleep.
+<span class="v-num">58</span> and having cast <span class="added-text">(him)</span> out of the city, they stoned <span class="added-text">(him)</span>. And the witnesses laid aside their garments at the feet of a young man called Saul,
+
+<span class="v-num">59</span> And they stoned Stephen, calling upon <span class="added-text">(God)</span> and saying, "Lord Jesus, receive my spirit."
+
+<span class="v-num">60</span> And having knelt down, he cried out with a loud voice, "Lord, do not hold this sin against them." And having said this, he fell asleep.
 
 ---
 
-### Study Notes
-
-[^1]: direct question
-[^2]: genitive absolute
-[^3]: in Sem.
-[^4]: genitive absolute
-[^5]: genitive absolute
-[^6]: genitive absolute
-[^7]: in Hbr.
-[^8]: in Hbr.
-[^9]: sense of mid.
+[^1]: ᾧ ἐὰν δουλεύσωσι는 ἐάν+가정법으로 '어느 민족이든지 그들이 종노릇하게 되면'이라는 불특정 미래 조건절이다. 특정 민족을 지목하지 않고 일반적 가능성을 나타내는 뉘앙스.
+[^2]: τοῦ ποιεῖν은 목적을 나타내는 관사+부정사 구문으로 '내다버리게 하려고'라는 의도를 담고 있다.
+[^3]: ἰδὼν εἶδον은 히브리어 관용구(부정사 절대형)를 반영한 것으로 '내가 정녕/확실히 보았다'는 강조 표현이며 출애굽기 3:7 인용이다.
+[^4]: 신명기 18:15 인용으로, 스데반은 이를 메시아 예언으로 제시하고 있다.
+[^5]: 아모스 5:25-27 인용으로 광야 시대 이스라엘의 우상숭배를 책망하는 구절이다.
+[^6]: 여기 헬라어 Ἰησοῦ는 예수 그리스도가 아니라 여호수아(Joshua)를 가리킨다.
+[^7]: 이사야 66:1-2 인용으로, 하나님이 손으로 지은 성전에 매이지 않으심을 선언한다.
+[^8]: Σκληροτράχηλοι(목이 곧은 자들)는 출애굽기 33:3, 5의 표현을 그대로 이어받아 이스라엘의 완악함을 지적한다.
+[^9]: ἑστῶτα(서 계신)는 다른 곳에서 흔히 언급되는 '앉으신' 예수와 달리 서 계신 모습으로, 순교자를 영접하러 일어나신 것으로 이해된다.

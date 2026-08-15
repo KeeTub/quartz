@@ -16,67 +16,63 @@ tags: [NTpbsEn, Revelation]
 </div>
 
 
-<span class="v-num">1</span> And I saw a new heaven and a new earth, because the first heaven and the first earth <span class="alt-label">passed</span><span class="alt-text">(=had passed)</span> away. And the sea <span class="alt-label">is</span><span class="alt-text">(=was)</span> not anymore.
+<span class="v-num">1</span> And I saw a new heaven and a new earth, for the first heaven and the first earth passed away, and the sea is no more.
 
-<span class="v-num">2</span> And I saw the holy city, new Jerusalem, coming down out of <span class="added-text">(the)</span> heaven from <del class="deleted-text">[the]</del> God, having been prepared as a bride having been adorned <span class="added-text">(for)</span> her husband.
+<span class="v-num">2</span> And I, John, saw the holy city, new Jerusalem, coming down from God out of <span class="added-text">(the)</span> heaven, prepared as a bride adorned for her husband.
 
-<span class="v-num">3</span> And I heard a great voice from the throne[^1] saying, “Behold, the tabernacle of <del class="deleted-text">[the]</del> God <span class="added-text">(is)</span> with <del class="deleted-text">[the]</del> men, and He will <span class="alt-label">tabernacle</span><span class="alt-text">(=dwell)</span>[^3] with them, And they will be His people<del class="deleted-text">[s]</del>, and <del class="deleted-text">[the]</del> God Himself will be with them <u><span class="added-text">(and be)</span> their God</u>[^2].”
+<span class="v-num">3</span> And I heard a great voice out of <span class="added-text">(the)</span> heaven, saying, "Behold, the tabernacle of God <span class="added-text">(is)</span> with men, and he will dwell with them, and they will be his peoples, and God himself will be with them, their God.
 
-<span class="v-num">4</span> “And He will wipe every tear from their eyes, and the death will be no more, nor grief, nor crying. And no pain will be anymore, for the first things have passed away.”
+<span class="v-num">4</span> And God will wipe away every tear from their eyes, and death will be no more; neither mourning, nor crying, nor pain will be any more, for the former things passed away."
 
-<span class="v-num">5</span> And the One sitting on the throne said, “Behold, I make all things new.” And He <span class="alt-label">says</span><span class="alt-text">(=said)</span>, “Write, for these words are faithful and true.”
+<span class="v-num">5</span> And the one sitting on the throne said, "Behold, I make all things new." And he says to me, "Write, for these words are true and faithful."[^1]
 
-<span class="v-num">6</span> And He said <span class="added-text">(to)</span> me, “It is done! I am the Alpha and the Omega, the beginning and the end. I will give freely to the one being thirst <span class="added-text">(water)</span> from the spring of water of life.”
+<span class="v-num">6</span> And he said to me, "It is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one thirsting from the spring of the water of life freely."[^2]
 
-<span class="v-num">7</span> “The one overcoming will inherit these things, and I will be <span class="alt-label">to him God</span><span class="alt-text">(=his God)</span>, And he will be <span class="alt-label">to me a son</span><span class="alt-text">(=my son)</span>.”
+<span class="v-num">7</span> The one overcoming will inherit all things, and I will be God to him, and he will be <span class="added-text">(the)</span> son to me."
 
-<span class="v-num">8</span> “And to the cowardly and <span class="added-text">(the)</span> faithless and <span class="alt-label">the ones having been abominated</span><span class="alt-text">(=the abominable)</span> and murderers and fornicators and sorcerers and idolaters and all the liars, their part <span class="added-text">(will be)</span> in the lake burning <span class="added-text">(with)</span> fire and sulfur, which is the second death.”
+<span class="v-num">8</span> But for <span class="added-text">(the)</span> cowardly and unbelieving and abominable and murderers and fornicators and sorcerers and idolaters, and all the false, their part <span class="added-text">(is)</span> in the lake burning with fire and brimstone, which is <span class="added-text">(the)</span> second death."
 
-<span class="v-num">9</span> And one <span class="alt-label">from</span><span class="alt-text">(=of)</span> the seven angels having the seven bowls being full of the seven last plagues came and talked with me, saying, “<span class="added-text">(Come)</span> here, I will show you the bride, the wife of the Lamb.”
+<span class="v-num">9</span> And one of the seven angels having the seven bowls full of the seven last plagues came to me, and spoke with me, saying, "Come, I will show you the bride, the wife of the Lamb."
 
-<span class="v-num">10</span> And he carried me away in <span class="added-text">(the)</span> Spirit onto a great and high mountain, and showed me the holy[^4] city, <u>the holy</u>[^5] Jerusalem, coming down out of <del class="deleted-text">[the]</del> heaven from <del class="deleted-text">[the]</del> God,
+<span class="v-num">10</span> And he carried me away in <span class="added-text">(the)</span> spirit to a great and high mountain, and showed me the great city, the holy Jerusalem, coming down out of <span class="added-text">(the)</span> heaven from God,
 
-<span class="v-num">11</span> having the glory of God. Its light <span class="added-text">(was)</span> like a most precious stone, <span class="alt-label">as</span><span class="alt-text">(=like)</span> a jasper stone being clear as crystal.
+<span class="v-num">11</span> having the glory of God; and her light <span class="added-text">(was)</span> like a most precious stone, as a jasper stone, clear as crystal;
 
-<span class="v-num">12</span> <span class="alt-label">Having</span><span class="alt-text">(=The city had)</span> a great and high wall, having twelve gates and twelve angels at the gates, and names having been written on <span class="added-text">(them)</span>, which <span class="alt-label">is</span><span class="alt-text">(=are)</span> the names of the twelve tribes of sons of Israel.
+<span class="v-num">12</span> and having a great and high wall, having twelve gates, and at the gates twelve angels, and names inscribed, which are <span class="added-text">(the names)</span> of the twelve tribes of the sons of Israel.
 
-<span class="v-num">13</span> <span class="alt-label">From</span><span class="alt-text">(=On)</span> <span class="alt-label">rising</span><span class="alt-text">(=the east)</span>[^6] <span class="added-text">(were)</span> three gates, and <span class="alt-label">from</span><span class="alt-text">(=on)</span> <span class="added-text">(the)</span> north three gates, and <span class="alt-label">from</span><span class="alt-text">(=on)</span> <span class="added-text">(the)</span> south three gates, and <span class="alt-label">from</span><span class="alt-text">(=on)</span> the west three gates.
+<span class="v-num">13</span> From <span class="added-text">(the)</span> east, three gates; from <span class="added-text">(the)</span> north, three gates; from <span class="added-text">(the)</span> south, three gates; from <span class="added-text">(the)</span> west, three gates.
 
-<span class="v-num">14</span> And the wall of the city <span class="alt-label">having</span><span class="alt-text">(=had)</span> twelve foundations, and on them <span class="added-text">(were)</span> twelve names of the twelve apostles of the Lamb.
+<span class="v-num">14</span> And the wall of the city had twelve foundations, and on them the names of the twelve apostles of the Lamb.
 
-<span class="v-num">15</span> And the one talking with me was having a golden reed measure, so that he might measure the city and its gates and its wall.
+<span class="v-num">15</span> And the one speaking with me had a golden reed, that he might measure the city, and its gates, and its wall.[^3]
 
-<span class="v-num">16</span> And the city lies foursquare, and its length <span class="added-text">(is)</span> as same as the width. And he measured the city <span class="added-text">(with)</span> the reed, <span class="alt-label">at twelve thousand stadia</span><span class="alt-text">(=1,500 miles)</span>. The length and the width and its height <span class="alt-label">is</span><span class="alt-text">(=are)</span> equal.
+<span class="v-num">16</span> And the city lies foursquare, and its length is as great as <span class="added-text">(its)</span> breadth. And he measured the city with the reed, twelve thousand stadia; the length and the breadth and the height of it are equal.
 
-<span class="v-num">17</span> And he measured its wall, one hundred forty-four cubits <span class="added-text">(by)</span> a measure of a man, which is of an angel.
+<span class="v-num">17</span> And he measured its wall, a hundred and forty-four cubits, <span class="added-text">(the)</span> measure of a man, that is, of an angel.
 
-<span class="v-num">18</span> And material of its wall <span class="added-text">(is)</span> jasper and the city <span class="added-text">(is)</span> pure gold like <span class="alt-label">pure</span><span class="alt-text">(=clear)</span> glass.
+<span class="v-num">18</span> And the structure of its wall was jasper; and the city <span class="added-text">(was)</span> pure gold, like clear glass.
 
-<span class="v-num">19</span> The foundations of the wall of the city <span class="alt-label">having been</span><span class="alt-text">(=are)</span> adorned <span class="added-text">(with)</span> every precious stone. The first foundation <span class="added-text">(is)</span> jasper, the second sapphire, the third chalcedony, the fourth emerald,
+<span class="v-num">19</span> And the foundations of the wall of the city were adorned with every precious stone. The first foundation, jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;
 
-<span class="v-num">20</span> the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.
+<span class="v-num">20</span> The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; the twelfth, amethyst.
 
-<span class="v-num">21</span> And the twelve gates <span class="added-text">(were)</span> twelve pearls. Each one piece of the gates was <span class="alt-label">from</span><span class="alt-text">(=of)</span> one pearl. And the street of the city <span class="added-text">(was)</span> pure gold <span class="alt-label">as</span><span class="alt-text">(=like)</span> transparent glass.
+<span class="v-num">21</span> And the twelve gates were twelve pearls; each one of the gates was of one pearl; and the street of the city <span class="added-text">(was)</span> pure gold, as transparent glass.
 
-<span class="v-num">22</span> And I saw no temple in it, because the Lord <del class="deleted-text">[the]</del> God <del class="deleted-text">[the]</del> Almighty is its temple, and the Lamb.
+<span class="v-num">22</span> And I saw no temple in it, for the Lord God Almighty is its temple, and the Lamb.
 
-<span class="v-num">23</span> And the city has no need of the sun or of the moon so that they may shine <span class="added-text">(in)</span> it, because the glory of <del class="deleted-text">[the]</del> God illuminated it. And its Lamp <span class="added-text">(is)</span> the Lamb.
+<span class="v-num">23</span> And the city has no need of the sun, nor of the moon, that they should shine in it; for the glory of God illuminated it, and its lamp <span class="added-text">(is)</span> the Lamb.[^4]
 
-<span class="v-num">24</span> And the nations will walk <span class="alt-label">through</span><span class="alt-text">(=by)</span> its light, and the kings of the earth <span class="added-text">(will)</span> bring their glory into it.
+<span class="v-num">24</span> And the nations of those being saved will walk by its light; and the kings of the earth will bring their glory into it.
 
-<span class="v-num">25</span> And its gates <span class="alt-label">might</span><span class="alt-text">(=will)</span> never be shut <span class="added-text">(by)</span> day, because there will be no night there.
+<span class="v-num">25</span> And its gates shall not be shut at all by day, for there will be no night there.
 
-<span class="v-num">26</span> And they will bring the glory and the honor of the nations into it.
+<span class="v-num">26</span> And they will bring the glory and honor of the nations into it.
 
-<span class="v-num">27</span> And nothing <span class="alt-label">common</span><span class="alt-text">(=unclean)</span> <span class="alt-label">might</span><span class="alt-text">(=will)</span> enter into it, nor the one making an abomination or a lie, but only the ones having been written in the book of life of the Lamb.
+<span class="v-num">27</span> And there shall not enter into it anything unclean, and <span class="added-text">(the one)</span> doing abomination and falsehood, but only those written in the Lamb's book of life.
 
 ---
 
-### Study Notes
-
-[^1]: “heaven” in some manuscripts
-[^2]: deleted in some manuscripts
-[^3]: 7:15
-[^4]: “great” in some manuscripts
-[^5]: deleted in some manuscripts
-[^6]: 16:12
+[^1]: 현재시제 ποιῶ(만드노라)는 종말론적 새 창조가 지금 이루어지고 있음을 강조하나, 본문은 개역체 과거형으로 자연스럽게 옮겼다.
+[^2]: '알파와 오메가'는 하나님(1:8)과 동일하게 어린 양(그리스도)에게 적용되어 그의 신성과 영원성을 나타내는 칭호이다.
+[^3]: ἵνα μετρήσῃ(측량하기 위하여)는 가정법을 취하는 목적절로, 천사의 행동 목적을 나타낸다.
+[^4]: ἵνα φαίνωσιν(비추기 위하여)은 목적을 나타내는 가정법 절이다.

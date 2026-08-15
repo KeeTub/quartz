@@ -16,29 +16,34 @@ tags: [NTpbsEn, Revelation]
 </div>
 
 
-<span class="v-num">1</span> And when he opened the seventh seal, <span class="added-text">(there)</span> was a silence in <del class="deleted-text">[the]</del> heaven <span class="added-text">(for)</span> about half an hour.
+<span class="v-num">1</span> And when he opened the seventh seal, there was silence in heaven as <span class="added-text">(for)</span> about half an hour.
 
-<span class="v-num">2</span> And I saw the seven angels who stand<span class="added-text">(# perfect as present)</span> before <del class="deleted-text">[the]</del> God, and seven trumpets were given to them.
+<span class="v-num">2</span> And I saw the seven angels who stand before God, and to them were given seven trumpets.
 
-<span class="v-num">3</span> And another angel came and stood <span class="alt-label">on</span><span class="alt-text">(=at)</span> the altar, having a golden censer. And much incense was given to him, so that he will offer <span class="added-text">(it with)</span> the prayers of all the saints on the golden altar before the throne.
+<span class="v-num">3</span> And another angel came and stood <span class="alt-label">at</span><span class="alt-text">(=upon)</span> the altar, having a golden censer; and to him was given much incense, that he should give <span class="added-text">(it)</span> with the prayers of all the saints upon the golden altar which <span class="added-text">(was)</span> before the throne.[^1]
 
-<span class="v-num">4</span> And the smoke of the incense<del class="deleted-text">[s]</del>, <span class="added-text">(with)</span> the prayers of the saints, went up before <del class="deleted-text">[the]</del> God from <span class="added-text">(the)</span> hand of the angel.
+<span class="v-num">4</span> And the smoke of the incense went up with the prayers of the saints, out of the angel's hand, before God.
 
-<span class="v-num">5</span> And the angel has taken the censer, and filled it <span class="alt-label">from</span><span class="alt-text">(=with)</span> the fire of the altar, and threw into the earth. And there were peals of thunder and <span class="alt-label">voices</span><span class="alt-text">(=rumblings)</span> and lightnings and an earthquake.
+<span class="v-num">5</span> And the angel took the censer, and filled it <span class="alt-label">from</span><span class="alt-text">(=with)</span> the fire of the altar, and cast <span class="added-text">(it)</span> into the earth; and there were voices, and thunders, and lightnings, and an earthquake.
 
-<span class="v-num">6</span> And the seven angels having the seven trumpets prepared themselves so that they might <span class="alt-label">trumpet</span><span class="alt-text">(=blow the trumpets)</span>.
+<span class="v-num">6</span> And the seven angels having the seven trumpets prepared themselves that they should sound <span class="added-text">(the trumpets)</span>.[^2]
 
-<span class="v-num">7</span> And the first <span class="alt-label">trumpeted</span><span class="alt-text">(=blew his trumpet)</span>, and there was hail and fire having been mixed <span class="alt-label">in</span><span class="alt-text">(=with)</span> blood, and it was thrown into the earth. And the third of the earth was burned up, and the third of the trees was burned up, and every green grass was burned up.
+<span class="v-num">7</span> And the first angel sounded <span class="added-text">(the trumpet)</span>, and there came hail and fire mingled with blood, and it was cast into the earth; and the third <span class="added-text">(part)</span> of the trees was burnt up, and all green grass was burnt up.
 
-<span class="v-num">8</span> And the second angel <span class="alt-label">trumpeted</span><span class="alt-text">(=blew his trumpet)</span>, and <span class="added-text">(something)</span> like a great mountain burning <span class="added-text">(with)</span> fire was thrown into the sea. And the third of the sea became blood.
+<span class="v-num">8</span> And the second angel sounded <span class="added-text">(the trumpet)</span>, and as it were a great mountain burning with fire was cast into the sea; and the third <span class="added-text">(part)</span> of the sea became blood.
 
-<span class="v-num">9</span> And the third of the creatures in the sea, having <span class="alt-label">the souls</span><span class="alt-text">(=life)</span>, died. And the third of the ships were destroyed.
+<span class="v-num">9</span> And the third <span class="added-text">(part)</span> of the creatures which <span class="added-text">(were)</span> in the sea, having <span class="alt-label">life</span><span class="alt-text">(=souls)</span>, died; and the third <span class="added-text">(part)</span> of the ships was destroyed.
 
-<span class="v-num">10</span> And the third angel <span class="alt-label">trumpeted</span><span class="alt-text">(=blew his trumpet)</span>, and a great star, burning like a torch, fell from <del class="deleted-text">[the]</del> heaven, and it fell on the third of the rivers and on the springs of the waters.
+<span class="v-num">10</span> And the third angel sounded <span class="added-text">(the trumpet)</span>, and a great star fell from heaven, burning as <span class="added-text">(it were)</span> a torch, and it fell upon the third <span class="added-text">(part)</span> of the rivers, and upon the fountains of waters.
 
-<span class="v-num">11</span> And the name of the star is called <del class="deleted-text">[the]</del> Wormwood. And the third of the waters became <del class="deleted-text">[into]</del> <span class="alt-label">wormwood</span><span class="alt-text">(=bitter)</span>, and many <del class="deleted-text">[of]</del> men died from the waters because <span class="alt-label">they</span><span class="alt-text">(=the waters)</span> were made bitter.
+<span class="v-num">11</span> And the name of the star is called Wormwood; and the third <span class="added-text">(part)</span> of the waters became wormwood, and many men died <span class="alt-label">from</span><span class="alt-text">(=of)</span> the waters, because they were made bitter.
 
-<span class="v-num">12</span> And the fourth angel <span class="alt-label">trumpeted</span><span class="alt-text">(=blew his trumpet)</span>, and the third of the sun was struck, and the third of the moon, and the third of the stars, so that the third of them <span class="alt-label">might be darkened</span><span class="alt-text">(=was darkened)</span>, and <span class="alt-label">the day might not show its third</span><span class="alt-text">(=a third of the day did not shine)</span> and the night likewise.
+<span class="v-num">12</span> And the fourth angel sounded <span class="added-text">(the trumpet)</span>, and the third <span class="added-text">(part)</span> of the sun was smitten, and the third <span class="added-text">(part)</span> of the moon, and the third <span class="added-text">(part)</span> of the stars, so that the third <span class="added-text">(part)</span> of them was darkened, and the day did not shine <span class="added-text">(for)</span> the third <span class="added-text">(part)</span> of it, and the night likewise.[^3]
 
-<span class="v-num">13</span> And I saw, and I heard one eagle flying in midheaven, saying <span class="added-text">(with)</span> a great voice, “Woe, woe, woe <span class="added-text">(to)</span> the ones dwelling on the earth, <span class="alt-label">from</span><span class="alt-text">(=at)</span> the remaining <span class="alt-label">voices</span><span class="alt-text">(=blasts)</span> of the trumpet of the three angels being about to <span class="alt-label">trumpet</span><span class="alt-text">(=blow)</span>.”
+<span class="v-num">13</span> And I saw, and heard one angel flying in mid-heaven, saying with a loud voice, "Woe, woe, woe, to the ones dwelling upon the earth, because <span class="alt-label">of</span><span class="alt-text">(=from)</span> the remaining voices of the trumpet of the three angels who are about to sound <span class="added-text">(them)</span>!"
 
+---
+
+[^1]: ἵνα+가정법(δώσῃ) 목적절: 천사가 향을 받은 목적이 성도의 기도와 함께 드리려는 데 있음을 나타낸다.
+[^2]: ἵνα+가정법(σαλπίσωσι) 목적절: 준비의 목적이 나팔을 부는 데 있음을 보여준다.
+[^3]: ἵνα+가정법(σκοτισθῇ) 목적절: 타격받은 결과로 삼분의 일이 어두워지는 목적/결과를 나타낸다.

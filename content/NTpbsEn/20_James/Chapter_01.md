@@ -16,63 +16,60 @@ tags: [NTpbsEn, James]
 </div>
 
 
-<span class="v-num">1</span> James, a slave of God and of <span class="added-text">(the)</span> Lord Jesus Christ, To the twelve tribes in the <span class="alt-label">Diaspora</span><span class="alt-text">(=Dispersion)</span>: <span class="alt-label">To greet</span><span class="alt-text">(=Greetings)</span>.
+<span class="v-num">1</span> James, a servant of God and of <span class="added-text">(the)</span> Lord Jesus Christ, to the twelve tribes which <span class="added-text">(are)</span> in the dispersion, greeting.
 
-<span class="v-num">2</span> Consider it all joy, my brothers, whenever you might fall into various trials,
+<span class="v-num">2</span> Count it all joy, my brothers, whenever you fall into various trials,
 
-<span class="v-num">3</span> knowing that the proof of your faith <span class="alt-label">works</span><span class="alt-text">(=produce)</span> endurance.
+<span class="v-num">3</span> knowing that the testing of your faith works out endurance.
 
-<span class="v-num">4</span> And let the endurance have <span class="added-text">(its)</span> perfect work so that you may be perfect and complete, lacking in nothing.
+<span class="v-num">4</span> But let endurance have <span class="added-text">(its)</span> perfect work, that you may be perfect and complete, lacking in nothing.[^1]
 
-<span class="v-num">5</span> And if any of you lacks wisdom, let him ask <span class="alt-label">from</span><span class="alt-text">(=of)</span> God giving to all <span class="alt-label">simply</span><span class="alt-text">(=generously)</span> and not reproaching, and it will be given to him.
+<span class="v-num">5</span> But if any of you lacks wisdom, let him ask from God, who gives to all simply and does not reproach, and it will be given to him.
 
-<span class="v-num">6</span> And let him ask in faith, doubting nothing, for the one <span class="alt-label">doubting</span><span class="alt-text">(=who doubts)</span> is like<span class="added-text">(# perfect as present)</span> a wave of <span class="added-text">(the)</span> sea being driven by wind and being tossed.
+<span class="v-num">6</span> But let him ask in faith, doubting nothing; for the one doubting is like a wave of <span class="added-text">(the)</span> sea, driven by wind and tossed.
 
-<span class="v-num">7</span> For let not that man think that he will receive anything from the Lord,
+<span class="v-num">7</span> For let not that man think that he will receive anything from the Lord —
 
-<span class="v-num">8</span> <span class="added-text">(he is)</span> a double-minded man, unstable in all his ways.
+<span class="v-num">8</span> a double-minded man, unstable in all his ways.
 
-<span class="v-num">9</span> And let the lowly brother boast in his high position,
+<span class="v-num">9</span> But let the brother who is <span class="alt-label">low</span><span class="alt-text">(=humble)</span> boast in his exaltation,
 
-<span class="v-num">10</span> and the rich in his humiliation, because he will pass away like a <span class="alt-label">flower of grass</span><span class="alt-text">(=wild flower)</span>.
+<span class="v-num">10</span> and the rich <span class="added-text">(boast)</span> in his humiliation, because as <span class="added-text">(the)</span> flower of grass he will pass away.
 
-<span class="v-num">11</span> For the sun rises<span class="added-text">(# proverbial aorist)</span> with scorching heat and withers<span class="added-text">(# proverbial aorist)</span> the grass, and its flower falls<span class="added-text">(# proverbial aorist)</span> and the beauty of its appearance perishes<span class="added-text">(# proverbial aorist)</span>. So will the rich also fade away in his journey.
+<span class="v-num">11</span> For the sun rose with the scorching heat and dried up the grass, and its flower fell off, and the beauty of its appearance perished; so also the rich man will wither in his <span class="alt-label">ways</span><span class="alt-text">(=pursuits)</span>.
 
-<span class="v-num">12</span> Blessed <span class="added-text">(is the)</span> man who endures trial because he, having been tested, will receive the crown of life that the Lord promised to the ones loving Him.
+<span class="v-num">12</span> Blessed <span class="added-text">(is the)</span> man who endures trial, because having become <span class="alt-label">approved</span><span class="alt-text">(=proven)</span>, he will receive the crown of life, which the Lord promised to the ones loving him.
 
-<span class="v-num">13</span> Let no one, <span class="alt-label">being tempted</span><span class="alt-text">(=when he is tempted)</span>, say <del class="deleted-text">[that]</del> “I am tempted <span class="alt-label">from</span><span class="alt-text">(=by)</span> God,” For <del class="deleted-text">[the]</del> God <span class="alt-label">is untempted of evil things</span><span class="alt-text">(=cannot be tempted with evil)</span>, and He Himself tempts no one.
+<span class="v-num">13</span> Let no one being tempted say, "I am tempted from God," for God is <span class="alt-label">untemptable</span><span class="alt-text">(=not to be tempted)</span> by evils, and he himself tempts no one.
 
-<span class="v-num">14</span> But each one is tempted by <span class="alt-label">the</span><span class="alt-text">(=his)</span> own lust, being dragged away and being enticed,
+<span class="v-num">14</span> But each one is tempted, being drawn away and enticed by his own desire.
 
-<span class="v-num">15</span> then the lust, having conceived, gives birth to sin; and the sin, having been fully grown, brings forth death.
+<span class="v-num">15</span> Then desire, having conceived, gives birth to sin; and sin, having been completed, brings forth death.
 
 <span class="v-num">16</span> Do not be deceived, my beloved brothers.
 
-<span class="v-num">17</span> Every good <span class="alt-label">giving</span><span class="alt-text">(=gift)</span> and every perfect gift is from above, coming down from the Father of the lights, with whom <span class="added-text">(there is)</span> no variation or shadow of change.
+<span class="v-num">17</span> Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation, or shadow of turning.
 
-<span class="v-num">18</span> He, having willed, gave us birth <span class="added-text">(through)</span> a word of truth, <span class="alt-label">to the to be us</span><span class="alt-text">(=that we might become)</span> a firstfruit of his creatures.
+<span class="v-num">18</span> Having willed <span class="added-text">(it)</span>, he brought us forth by <span class="added-text">(the)</span> word of truth, that we should be a kind of firstfruit of his creatures.
 
-<span class="v-num">19</span> Know <span class="added-text">(this)</span>, my beloved brothers, and let every man be quick <del class="deleted-text">[for the]</del> to hear, slow <del class="deleted-text">[for the]</del> to speak, slow to anger,
+<span class="v-num">19</span> So then, my beloved brothers, let every man be quick to hear, slow to speak, slow to wrath;
 
-<span class="v-num">20</span> for <del class="deleted-text">[the]</del> anger of man does not <span class="alt-label">work</span><span class="alt-text">(=produce)</span> God’s righteousness.
+<span class="v-num">20</span> for <span class="added-text">(the)</span> wrath of man does not work out <span class="added-text">(the)</span> righteousness of God.
 
-<span class="v-num">21</span> Therefore, get rid of all filthiness and overflow of evil, and receive <span class="alt-label">in</span><span class="alt-text">(=with)</span> meekness the implanted word being able to save your souls.
+<span class="v-num">21</span> Therefore, having put off all filthiness and overflow of wickedness, receive with meekness the implanted word, which is able to save your souls.
 
-<span class="v-num">22</span> but be doers of <span class="added-text">(the)</span> word, and not hearers only, deceiving yourselves.
+<span class="v-num">22</span> But become doers of <span class="added-text">(the)</span> word, and not only hearers, deceiving yourselves.
 
-<span class="v-num">23</span> For if anyone is a hearer of <span class="added-text">(the)</span> word and not a doer, this one is like a man observing <span class="alt-label">the face of his birth</span><span class="alt-text">(=his natural face)</span> in a mirror,
+<span class="v-num">23</span> Because if anyone is a hearer of <span class="added-text">(the)</span> word and not a doer, this one is like a man observing the face of his <span class="alt-label">birth</span><span class="alt-text">(=natural face)</span> in a mirror;
 
-<span class="v-num">24</span> for he observes<span class="added-text">(# proverbial aorist)</span> himself, <del class="deleted-text">[and]</del> <u>goes away</u><span class="added-text">(# proverbial aorist)</span> and immediately forgets<span class="added-text">(# proverbial aorist)</span> what he was like.
+<span class="v-num">24</span> for he observed himself and went away, and immediately forgot what kind <span class="added-text">(of person)</span> he was.
 
-<span class="v-num">25</span> But the one having looked into <span class="added-text">(the)</span> perfect law of <del class="deleted-text">[the]</del> freedom and having continued <span class="added-text">(in it)</span> <span class="alt-label">being</span><span class="alt-text">(=is)</span> no hearer <span class="alt-label">of forgetfulness</span><span class="alt-text">(=that forgets)</span>[^1] but a doer <span class="alt-label">of <span class="added-text">(the)</span> work</span><span class="alt-text">(=that acts)</span>[^2], this one will be blessed in his doing.
+<span class="v-num">25</span> But the one who looked into <span class="added-text">(the)</span> perfect law, the <span class="added-text">(law)</span> of freedom, and remained <span class="added-text">(there)</span>, this one, not having become a forgetful hearer but a doer of <span class="added-text">(the)</span> work, this one will be blessed in his doing.
 
-<span class="v-num">26</span> If anyone thinks <span class="added-text">(himself)</span> to be religious, not bridling his tongue but deceiving his heart, this one’s religion <span class="added-text">(is)</span> useless.
+<span class="v-num">26</span> If anyone among you seems to be religious, not bridling his tongue but deceiving his heart, this one's religion <span class="added-text">(is)</span> vain.
 
-<span class="v-num">27</span> Religion <span class="added-text">(that is)</span> clean and undefiled before <del class="deleted-text">[the]</del> God and <span class="added-text">(the)</span> Father is this: to visit orphans and widows in their affliction, to keep himself unstained from the world.
+<span class="v-num">27</span> Pure and undefiled religion before God and <span class="added-text">(the)</span> Father is this: to visit orphans and widows in their affliction, <span class="added-text">(and)</span> to keep oneself unspotted from the world.
 
 ---
 
-### Study Notes
-
-[^1]: Hebraic genitive
-[^2]: Hebraic genitive
+[^1]: ἵνα+가정법(ἦτε)은 인내가 온전한 일을 이루어야 하는 목적을 나타낸다. 즉 인내의 결과로 성도가 온전하고 부족함 없는 상태에 이르는 것이 하나님의 의도된 목표임을 강조한다.

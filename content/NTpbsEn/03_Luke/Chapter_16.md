@@ -16,75 +16,76 @@ tags: [NTpbsEn, Luke]
 </div>
 
 
-<span class="v-num">1</span> And he also <span class="alt-label">was saying</span><span class="alt-text">(=said)</span> to the disciples, “There was a <del class="deleted-text">[certain]</del> rich man who <span class="alt-label">was having</span><span class="alt-text">(=had)</span> a <span class="alt-label">steward</span><span class="alt-text">(=manager)</span>, and this <span class="added-text">(manager)</span> was accused unto him <span class="alt-label">as</span><span class="alt-text">(=that)</span> <span class="alt-label">wasting</span><span class="alt-text">(=he was wasting)</span> his possessions.”
+<span class="v-num">1</span> And he said also to his disciples, "There was a certain rich man, who had a steward, and this one was accused to him as wasting his possessions.
 
-<span class="v-num">2</span> “And having called him, he said <span class="added-text">(to)</span> him, ‘What <span class="added-text">(is)</span> this <span class="added-text">(that)</span> I hear about you? Give <span class="alt-label">the</span><span class="alt-text">(=an)</span> account of your <span class="alt-label">stewardship</span><span class="alt-text">(=management)</span>, for you are not able to be <span class="alt-label">steward</span><span class="alt-text">(=manager)</span> any longer.’”
+<span class="v-num">2</span> And having called him, he said to him, 'What <span class="added-text">(is)</span> this I hear about you? Give <span class="added-text">(back)</span> the account of your stewardship, for you will no longer be able to be steward.'
 
-<span class="v-num">3</span> “And the <span class="alt-label">steward</span><span class="alt-text">(=manager)</span> said <span class="alt-label">in</span><span class="alt-text">(=to)</span> himself, ‘What shall I do? For my master is taking the <span class="alt-label">stewardship</span><span class="alt-text">(=management)</span> away from me, I am not strong to dig, I am ashamed to beg.”
+<span class="v-num">3</span> And the steward said within himself, 'What shall I do, since my lord takes away the stewardship from me? I am not <span class="alt-label">able</span><span class="alt-text">(=strong enough)</span> to dig; I am ashamed to beg.'
 
-<span class="v-num">4</span> “I have come to know what I <span class="alt-label">might</span><span class="alt-text">(=will)</span> do so that, when I am <span class="alt-label">removed</span><span class="alt-text">(=put)</span> out of the <span class="alt-label">stewardship</span><span class="alt-text">(=management)</span>, they <span class="alt-label">might</span><span class="alt-text">(=will)</span> welcome me into their house.”
+<span class="v-num">4</span> I <span class="alt-label">know</span><span class="alt-text">(=have known)</span> what I shall do, so that when I am removed from the stewardship, they may receive me into their houses.[^1]
 
-<span class="v-num">5</span> “And having called each one of his master’s debtors, he <span class="alt-label">was saying</span><span class="alt-text">(=said)</span> to the first, ‘How much do you owe my master?’”
+<span class="v-num">5</span> And having called <span class="added-text">(together)</span> each one of his lord's debtors, he said to the first, 'How much do you owe my lord?'
 
-<span class="v-num">6</span> “And he said, ‘A hundred <span class="alt-label">Batos</span><span class="alt-text">(=about 8 gallons)</span>[^1] of oil.’ And he said <span class="added-text">(to)</span> him, ‘Take your bill, and having sat quickly, write fifty.’”
+<span class="v-num">6</span> And he said, 'A hundred baths of oil.' And he said to him, 'Take your bill, and sitting down quickly, write fifty.'
 
-<span class="v-num">7</span> “Then he said <span class="added-text">(to)</span> another, ‘And how much do you owe?’ And he said, ‘A hundred <span class="alt-label">Kors</span><span class="alt-text">(=10 times of Batos)</span>[^2] of wheat.’ He says <span class="added-text">(to)</span> him, ‘Take your bill and write eighty.’”
+<span class="v-num">7</span> Then he said to another, 'And you, how much do you owe?' And he said, 'A hundred cors of wheat.' And he says to him, 'Take your bill, and write eighty.'
 
-<span class="v-num">8</span> “And the master praised the unrighteous <span class="alt-label">steward</span><span class="alt-text">(=manager)</span> because he did prudently, for the sons of this age are more shrewd in their generation than the sons of light.”
+<span class="v-num">8</span> And the lord praised the unjust steward, because he had done wisely; for the sons of this age are more prudent <span class="alt-label">than</span><span class="alt-text">(=beyond)</span> the sons of light <span class="alt-label">in</span><span class="alt-text">(=toward)</span> their own generation.
 
-<span class="v-num">9</span> “And I say <span class="added-text">(to)</span> you, make friends <span class="added-text">(for)</span> yourselves <span class="alt-label">from</span><span class="alt-text">(=by)</span> the unrighteous <span class="alt-label">mammon</span><span class="alt-text">(=wealth)</span>[^3], so that when it <del class="deleted-text">[might]</del> <span class="alt-label">fail</span><span class="alt-text">(=fails)</span>, they <span class="alt-label">might</span><span class="alt-text">(=may)</span> welcome you into the eternal <span class="alt-label">tents</span><span class="alt-text">(=dwellings)</span>.”
+<span class="v-num">9</span> And I say to you, make friends for yourselves from the mammon of unrighteousness, so that when it <span class="alt-label">fails</span><span class="alt-text">(=you fail)</span>, they may receive you into the eternal tents.[^2]
 
-<span class="v-num">10</span> “The one <span class="added-text">(who is)</span> faithful in <span class="alt-label">least</span><span class="alt-text">(=very little)</span> is faithful also in much. And the one <span class="added-text">(who is)</span> unrighteous in <span class="alt-label">least</span><span class="alt-text">(=very little)</span> is unrighteous also in much.”
+<span class="v-num">10</span> The one who is faithful in the least is faithful also in much, and the one who is unjust in the least is unjust also in much.
 
-<span class="v-num">11</span> “Therefore, if you have not been faithful in the unrighteous <span class="alt-label">mammon</span><span class="alt-text">(=wealth)</span>[^4], who will entrust the true <span class="added-text">(riches)</span> to you?”
+<span class="v-num">11</span> If therefore you did not become faithful in the unrighteous mammon, who will entrust to you the true <span class="added-text">(riches)</span>?
 
-<span class="v-num">12</span> “And if you have not been faithful in the thing belonging to another, who will give you the thing of your own?”
+<span class="v-num">12</span> And if you did not become faithful in that which is another's, who will give you that which is your own?
 
-<span class="v-num">13</span> “No house-servant is able to serve two masters, for he will hate the one and he will love the other, or he will be devoted to <span class="added-text">(the)</span> one and he will despise the other. You are not able to serve God and <span class="alt-label">mammon</span><span class="alt-text">(=wealth)</span>[^5].”
+<span class="v-num">13</span> No servant can serve two masters, for either he will hate the one and love the other, or he will hold <span class="alt-label">to</span><span class="alt-text">(=be devoted to)</span> the one and despise the other. You cannot serve God and mammon."
 
-<span class="v-num">14</span> And the Pharisees <span class="alt-label">being</span><span class="alt-text">(=who were)</span> lovers of money were hearing all these, and they were scoffing at him.
+<span class="v-num">14</span> And the Pharisees also, being lovers of money, heard all these things, and they scoffed at him.
 
-<span class="v-num">15</span> And he said <span class="added-text">(to)</span> them, “You are the ones justifying yourselves before <del class="deleted-text">[the]</del> men, but God knows your hearts; for the thing <span class="added-text">(which is)</span> <span class="alt-label">high</span><span class="alt-text">(=highly esteemed)</span> <span class="alt-label">in</span><span class="alt-text">(=among)</span> men <span class="added-text">(is)</span> an abomination <span class="alt-label">before <del class="deleted-text">[the]</del> God</span><span class="alt-text">(=in the sight of God)</span>.”
+<span class="v-num">15</span> And he said to them, "You are the ones who justify yourselves before men, but God knows your hearts; for that which is exalted among men is an abomination before God.[^3]
 
-<span class="v-num">16</span> “The law and the prophets <span class="added-text">(were)</span> until John. Since <span class="alt-label">then</span><span class="alt-text">(=that time)</span>, the kingdom of God is being preached, <del class="deleted-text">[and]</del> everyone is pressing into it.”
+<span class="v-num">16</span> The law and the prophets <span class="added-text">(were)</span> until John; from then the kingdom of God is proclaimed as good news, and everyone forces <span class="added-text">(his way)</span> into <span class="alt-label">it</span><span class="alt-text">(=is entering it violently)</span>.[^4]
 
-<span class="v-num">17</span> “But it is easier <span class="added-text">(for)</span> <del class="deleted-text">[the]</del> heaven and <del class="deleted-text">[the]</del> earth to pass away than <span class="added-text">(for)</span> one <span class="alt-label">Keraia</span><span class="alt-text">(=little horn)</span>[^6] of the law to fall.”
+<span class="v-num">17</span> But it is easier for heaven and earth to pass away, than for one stroke of the law to fall.
 
-<span class="v-num">18</span> “Anyone divorcing his wife and marrying another <span class="added-text">(woman)</span> commits adultery, and the one marrying <span class="added-text">(a woman)</span> having been divorced from <span class="added-text">(her)</span> husband commits adultery.”
+<span class="v-num">18</span> Everyone who divorces his wife and marries another commits adultery; and everyone who marries her who is divorced from a husband commits adultery.
 
-<span class="v-num">19</span> “And there was a <del class="deleted-text">[certain]</del> rich man, and he was <span class="alt-label">wearing</span><span class="alt-text">(=clothed)</span> in purple and fine linen, making merry sumptuously everyday.”
+<span class="v-num">19</span> Now there was a certain rich man, and he was clothed in purple and fine linen, feasting sumptuously every day.
 
-<span class="v-num">20</span> “And a <del class="deleted-text">[certain]</del> beggar, Lazarus by name, <span class="alt-label">had been</span><span class="alt-text">(=was)</span> laid at his gate, having been covered with sores,”
+<span class="v-num">20</span> And there was a certain beggar named Lazarus, who was laid at his gate, covered with sores,
 
-<span class="v-num">21</span> “and desiring to be satisfied from the things falling from the rich man’s table. But even the dogs, coming, were licking his sores.”
+<span class="v-num">21</span> and desiring to be filled with the crumbs falling from the rich man's table; but even the dogs came and licked his sores.
 
-<span class="v-num">22</span> “And it happened <span class="added-text">(for)</span> the beggar to die and <del class="deleted-text">[him]</del> to be carried by the angels into Abraham’s bosom. And the rich man also died and was buried.”
+<span class="v-num">22</span> And it came to pass that the beggar died, and was carried by the angels into Abraham's bosom; and the rich man also died, and was buried.
 
-<span class="v-num">23</span> “And in <span class="alt-label">the Hades</span><span class="alt-text">(=hell)</span>, having lifted up his eyes, being in torture, he sees Abraham <span class="alt-label">from a distance</span><span class="alt-text">(=far away)</span> and Lazarus in his bosoms.”
+<span class="v-num">23</span> And in Hades, being in torments, he lifted up his eyes, and saw Abraham far off, and Lazarus in his bosom.
 
-<span class="v-num">24</span> “And he, having called out, said, ‘Father Abraham, have mercy on me and send Lazarus that he <span class="alt-label">might</span><span class="alt-text">(=may)</span> dip the tip of his finger <span class="added-text">(in)</span> water and <span class="alt-label">might</span><span class="alt-text">(=may)</span> cool my tongue, for I am tormented in this flame.’”
+<span class="v-num">24</span> And he cried out and said, 'Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.'[^5]
 
-<span class="v-num">25</span> “And Abraham said, ‘Child, remember that you received your good things in your life, and Lazarus likewise <span class="added-text">(received)</span> the bad things. But now he is comforted here, but you are tormented.’”
+<span class="v-num">25</span> But Abraham said, 'Child, remember that you received your good things in your lifetime, and Lazarus likewise <span class="added-text">(received)</span> evil things; but now he is comforted here, and you are tormented.'
 
-<span class="v-num">26</span> “And <span class="alt-label">in all these things</span><span class="alt-text">(=beside all this)</span>, between us and you a great chasm has been fixed, so that the ones wishing to pass from here to you may not be able, and <span class="added-text">(none)</span> may cross from there to us.”
+<span class="v-num">26</span> And besides all this, between us and you a great chasm has been fixed, so that those wishing to pass from here to you are not able, nor can those <span class="added-text">(pass)</span> from there to us.
 
-<span class="v-num">27</span> “And he said, ‘Then I beg you, father, that you would send him to my father’s house.‘”
+<span class="v-num">27</span> And he said, 'I ask you then, father, that you would send him to my father's house,'[^6]
 
-<span class="v-num">28</span> “for I have five brothers, so that he may warn them, lest they also <del class="deleted-text">[might]</del> come to this place of torment.”
+<span class="v-num">28</span> for I have five brothers, that he may earnestly testify to them, lest they also come into this place of torment.[^7]
 
-<span class="v-num">29</span> “And Abraham says, ‘They have Moses and the prophets; let them hear them.’”
+<span class="v-num">29</span> Abraham said to him, 'They have Moses and the prophets; let them hear them.'
 
-<span class="v-num">30</span> “And he said, ‘No, father Abraham, but if someone from <span class="added-text">(the)</span> dead <del class="deleted-text">[might]</del> goes to them, they will repent.’”
+<span class="v-num">30</span> And he said, 'No, father Abraham, but if someone from the dead goes to them, they will repent.'[^8]
 
-<span class="v-num">31</span> “And he said <span class="added-text">(to)</span> him, ‘If they do not hear Moses and the prophets, neither will they be persuaded if someone <del class="deleted-text">[might]</del> rises from the dead.’”
+<span class="v-num">31</span> And he said to him, 'If they do not hear Moses and the prophets, neither will they be persuaded if someone rises from the dead.'"[^9]
 
 ---
 
-### Study Notes
-
-[^1]: Hebraic liquid measure
-[^2]: Hebraic measure
-[^3]: Aramaic
-[^4]: Aramaic
-[^5]: Aramaic
-[^6]: a hook on a letter of the Hebraic alphabet
+[^1]: ἵνα+가정법(δέξωνται) 목적절로, 물러난 후를 대비한 청지기의 계획된 목적을 나타낸다.
+[^2]: ἵνα+가정법(δέξωνται) 목적절로, 재물 사용의 궁극적 목적(영원한 처소로의 영접)을 나타낸다.
+[^3]: τὸ ἐν ἀνθρώποις ὑψηλὸν에서 관사가 추상적 개념(사람들 사이의 높임 받음 자체)을 명사화하여, 사람의 평가 기준과 하나님의 평가 기준을 대조한다.
+[^4]: εὐαγγελίζεται는 현재수동태로 요한 이후 지금까지 계속되는 복음 선포의 현재적 지속성을 나타낸다.
+[^5]: ἵνα+가정법(βάψῃ, καταψύξῃ)은 나사로를 보내는 목적을 나타낸다: '손가락을 적셔서 혀를 서늘하게 하려고'라는 간절한 목적절이다.
+[^6]: ἵνα+가정법(πέμψῃς)이 이끄는 목적절로, '보내주시기를 구하는' 청원의 내용을 나타낸다. 부탁·요청 동사(ἐρωτῶ) 뒤에서 ἵνα절이 요청의 실제 내용을 전달하는 용법이다.
+[^7]: ἵνα+가정법(ἔλθωσιν) 목적절로, 나사로가 증언하는 목적이 형제들을 고통의 장소에 오지 않게 하려는 데 있음을 나타낸다. 아직 일어나지 않은 일을 막으려는 의도된 결과를 표현한다.
+[^8]: ἐάν+가정법(πορευθῇ)은 아직 실현되지 않은 미래의 가능성을 나타내는 3형 조건절이다. '만일 ~한다면'이라는 가정 하에 이루어질 결과를 말하는 것으로, 부자가 자신의 확신(죽은 자가 가면 회개할 것)을 아브라함에게 제시하는 대목이다.
+[^9]: ἐάν+가정법(ἀναστῇ)은 아직 실현되지 않은 미래 가능성을 나타내는 조건절로, '설령 ~할지라도'라는 양보적 뉘앙스를 담고 있다. 즉 죽은 자의 부활이라는 극적인 표적조차 완악한 마음을 설득시키지 못함을 강조한다.

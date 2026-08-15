@@ -16,126 +16,137 @@ tags: [NTpbsEn, John]
 </div>
 
 
-<span class="v-num">1</span> And Jesus went to the Mount of <del class="deleted-text">[the]</del> Olives.
+<span class="v-num">1</span> But Jesus went to the Mount of Olives.[^1]
 
-<span class="v-num">2</span> <span class="added-text">(At)</span> dawn<span class="added-text">(# genitive of time)</span> he appeared in the temple; all the people were coming to him; and having sit, he was teaching them.
+<span class="v-num">2</span> And at dawn he came again into the temple, and all the people came to him, and having sat down he taught them.
 
-<span class="v-num">3</span> And the scribes and the Pharisees bring a woman having been caught <span class="alt-label">on</span><span class="alt-text">(=in)</span> adultery, and having stood her in <span class="added-text">(the)</span> midst,
+<span class="v-num">3</span> And the scribes and the Pharisees brought to him a woman caught in adultery, and having set her in <span class="added-text">(the)</span> midst,
 
-<span class="v-num">4</span> they say to him, “Teacher, this woman has been caught in the act of committing adultery.”
+<span class="v-num">4</span> They said to him, "Teacher, this woman was caught in the very act, committing adultery.
 
-<span class="v-num">5</span> “And in the law, Moses commanded us to stone such <span class="added-text">(women)</span>. So what do you say?”
+<span class="v-num">5</span> Now in the law Moses commanded us to stone such <span class="added-text">(women)</span>; therefore what do you say?"
 
-<span class="v-num">6</span> And they were saying this, tempting him, that they <span class="alt-label">may</span><span class="alt-text">(=might)</span> have <span class="added-text">(something)</span> to accuse him. But <del class="deleted-text">[the]</del> Jesus, having bent down, was writing <span class="added-text">(with)</span> the finger <span class="alt-label">in</span><span class="alt-text">(=on)</span> the ground.
+<span class="v-num">6</span> But they said this, testing him, so that they might have <span class="added-text">(grounds)</span> to accuse him. But Jesus, having stooped down, wrote with <span class="added-text">(his)</span> finger <span class="alt-label">on</span><span class="alt-text">(=in)</span> the ground.[^2]
 
-<span class="v-num">7</span> And as they continued questioning him, he stood up and said <span class="added-text">(to)</span> them, “Let the sinless one among you throw a stone at her first.”
+<span class="v-num">7</span> But as they continued asking him, having lifted himself up, he said to them, "The one without sin among you, let him cast the first stone at her."
 
-<span class="v-num">8</span> And having bent down again, he was writing <span class="alt-label">in</span><span class="alt-text">(=on)</span> the ground.
+<span class="v-num">8</span> And again, having stooped down, he wrote <span class="alt-label">on</span><span class="alt-text">(=in)</span> the ground.
 
-<span class="v-num">9</span> And they, having heard, were going out one by one, beginning from the elders, and he was left alone, and the woman <span class="alt-label">being</span><span class="alt-text">(=was)</span> in <span class="added-text">(the)</span> midst.
+<span class="v-num">9</span> But they, having heard <span class="added-text">(this)</span>, and being convicted by <span class="added-text">(their)</span> conscience, went out one by one, beginning from the older ones to the last; and Jesus was left alone, and the woman standing in <span class="added-text">(the)</span> midst.
 
-<span class="v-num">10</span> And <del class="deleted-text">[the]</del> Jesus, having stood up, said <span class="added-text">(to)</span> her, “Woman, where <span class="alt-label">is</span><span class="alt-text">(=are)</span> they? Has no one condemned you?”
+<span class="v-num">10</span> And Jesus, having lifted himself up, and seeing no one except the woman, said to her, "Woman, where are those, your accusers? Did no one condemn you?"
 
-<span class="v-num">11</span> And the <span class="added-text">(woman)</span> said, “No one, Lord.” And <del class="deleted-text">[the]</del> Jesus said, “Neither do I condemn you. Go, from <del class="deleted-text">[the]</del> now sin no more.”
+<span class="v-num">11</span> And she said, "No one, Lord." And Jesus said to her, "Neither do I condemn you; go, and sin no more."
 
-<span class="v-num">12</span> So <del class="deleted-text">[the]</del> Jesus spoke to them again, saying, “I am the light of the world. The one following me <span class="alt-label">might</span><span class="alt-text">(=will)</span> never walk in the darkness but will have the light of life.”
+<span class="v-num">12</span> Then Jesus spoke again to them, saying, "I am the light of the world; the one following me shall not walk in the darkness at all, but shall have the light of life."
 
-<span class="v-num">13</span> So the Pharisees said <span class="added-text">(to)</span> him, “You are testifying <span class="alt-label">about yourself</span><span class="alt-text">(=on your own behalf)</span>. Your testimony is not true.”
+<span class="v-num">13</span> The Pharisees then said to him, "You bear witness concerning yourself; your witness is not true."
 
-<span class="v-num">14</span> Jesus answered and said <span class="added-text">(to)</span> them, “Even if I testify <span class="alt-label">about myself</span><span class="alt-text">(=on my own behalf)</span>, my testimony is true, because I know where I came from and where I am going. You do not know where I come from or where I go.”
+<span class="v-num">14</span> Jesus answered and said to them, "Even if I bear witness concerning myself, my witness is true, because I know where I came from and where I am going; but you do not know where I come from or where I am going.
 
-<span class="v-num">15</span> “You judge according to the flesh; I <del class="deleted-text">[not]</del> judge no one.”
+<span class="v-num">15</span> You judge according to the flesh; I judge no one.
 
-<span class="v-num">16</span> “But even if I judge, my judgment is true, because I am not alone, but I and the Father having sent me.”
+<span class="v-num">16</span> And even if I judge, my judgment is true, because I am not alone, but I and the Father who sent me.[^3]
 
-<span class="v-num">17</span> “And in your law it has been written that the testimony of two men is true.”
+<span class="v-num">17</span> And in your law also it is written that the testimony of two men is true.
 
-<span class="v-num">18</span> “I am the one testifying <span class="alt-label">about myself</span><span class="alt-text">(=on my own behalf)</span>, and the Father having sent me testifies <span class="alt-label">about me</span><span class="alt-text">(=on my behalf)</span>.”
+<span class="v-num">18</span> I am the one bearing witness concerning myself, and the Father who sent me bears witness concerning me."
 
-<span class="v-num">19</span> So they were saying to him, “Where is your Father?” Jesus answered, “You know neither me nor my Father. If you knew<span class="added-text">(# pluperfect as imperfect)</span> me, you would have known my Father.”
+<span class="v-num">19</span> Then they said to him, "Where is your Father?" Jesus answered, "You know neither me nor my Father; if you knew me, you would know my Father also."
 
-<span class="v-num">20</span> He spoke these sayings in the treasury, teaching in the temple. And no one seized him, because his time had not come yet.
+<span class="v-num">20</span> Jesus spoke these words in the treasury, teaching in the temple; and no one seized him, because his hour had not yet come.
 
-<span class="v-num">21</span> So he said <span class="added-text">(to)</span> them again, “I go, and you will seek me, and in your sin you will die. Where I go, you are not able to come.”
+<span class="v-num">21</span> Then Jesus said again to them, "I go away, and you will seek me, and you will die in your sin; where I go, you cannot come."
 
-<span class="v-num">22</span> So the Jews were saying, “Will <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> he kill himself, because he says, ‘Where I go, you are able to come’?”
+<span class="v-num">22</span> Then the Jews said, "Will he kill himself, because he says, 'Where I go, you cannot come'?"
 
-<span class="v-num">23</span> And he was saying to them, “You are from the below things, I am from the above things. You are from this world, I am not from this world.”
+<span class="v-num">23</span> And he said to them, "You are from beneath, I am from above; you are of this world, I am not of this world.
 
-<span class="v-num">24</span> “So I said <span class="added-text">(to)</span> you that you will die in your sins; for if you <span class="alt-label">might</span><span class="alt-text">(=do)</span> not believe that I am <span class="added-text">(He)</span>, you will die in your sins.”
+<span class="v-num">24</span> I said therefore to you that you will die in your sins; for unless you believe that I am <span class="added-text">(he)</span>, you will die in your sins."[^4]
 
-<span class="v-num">25</span> So they were saying to him, “Who are you?” <del class="deleted-text">[The]</del> Jesus said <span class="added-text">(to)</span> them, “Just what I <span class="alt-label">speak</span><span class="alt-text">(=have spoken)</span> <span class="added-text">(to)</span> you <span class="added-text">(from)</span> the beginning.”
+<span class="v-num">25</span> Then they said to him, "Who are you?" And Jesus said to them, "<span class="added-text">(I am)</span> altogether what I have also been saying to you from the beginning.[^5]
 
-<span class="v-num">26</span> “I have many things to speak and judge about you, but the One having sent me is true, and I speak to the world these things that I heard from Him.”
+<span class="v-num">26</span> I have many things to speak and to judge concerning you; but he who sent me is true, and I speak to the world the things which I heard from him."
 
-<span class="v-num">27</span> They did not understand that he was speaking to them <span class="added-text">(of)</span> the Father
+<span class="v-num">27</span> They did not know that he was speaking to them about the Father.
 
-<span class="v-num">28</span> So <del class="deleted-text">[the]</del> Jesus said, “When you <del class="deleted-text">[might]</del> lift up the Son of Man, then you will know that I am <span class="added-text">(He)</span>, and <span class="added-text">(that)</span> I do nothing <span class="alt-label">from myself</span><span class="alt-text">(=on my own)</span>, but I speak these things as the Father taught me.”
+<span class="v-num">28</span> Then Jesus said to them, "When you lift up the Son of Man, then you will know that I am <span class="added-text">(he)</span>, and <span class="added-text">(that)</span> I do nothing of myself, but as my Father taught me, these things I speak.
 
-<span class="v-num">29</span> “And the One having sent me is with me. He did not leave me alone, because I always do the things pleasing him.
+<span class="v-num">29</span> And he who sent me is with me; the Father has not left me alone, because I always do the things pleasing to him."
 
-<span class="v-num">30</span> His <span class="alt-label">speaking</span><span class="alt-text">(=As he spoke)</span>[^1] these things, many believed in him.
+<span class="v-num">30</span> As he was speaking these things, many believed in him.
 
-<span class="v-num">31</span> So <del class="deleted-text">[the]</del> Jesus was saying to the Jews having believed him, “If you <del class="deleted-text">[might]</del> remain in my word, you are truly my disciples.”
+<span class="v-num">31</span> Then Jesus said to the Jews who had believed him, "If you remain in my word, you are truly my disciples,[^6]
 
-<span class="v-num">32</span> “And you will know the truth, and the truth will set you free.”
+<span class="v-num">32</span> and you will know the truth, and the truth will make you free."
 
-<span class="v-num">33</span> They answered <del class="deleted-text">[to]</del> him, “We are Abraham's seed. We have never been slaves to <span class="alt-label">no</span><span class="alt-text">(=any)</span> one. How do you say, ‘<del class="deleted-text">[that]</del> You will be made free’?”
+<span class="v-num">33</span> They answered him, "We are Abraham's seed, and have never been enslaved to anyone; how do you say, 'You will become free'?"
 
-<span class="v-num">34</span> <del class="deleted-text">[The]</del> Jesus answered them, “Truly, truly, I say <span class="added-text">(to)</span> you, <del class="deleted-text">[that]</del> every one <span class="alt-label">doing</span><span class="alt-text">(=committing)</span> sin is a slave of sin.”
+<span class="v-num">34</span> Jesus answered them, "Truly, truly, I say to you, everyone who commits sin is a slave of sin.
 
-<span class="v-num">35</span> “And the salve does not remain in the house <span class="alt-label">into the age</span><span class="alt-text">(=forever)</span>. The son remains <span class="alt-label">into the age</span><span class="alt-text">(=forever)</span>.”
+<span class="v-num">35</span> And the slave does not remain in the house forever; the son remains forever.
 
-<span class="v-num">36</span> “So if the Son <del class="deleted-text">[might]</del> sets you free, you will be free indeed.”
+<span class="v-num">36</span> If therefore the Son makes you free, you will be free indeed.[^7]
 
-<span class="v-num">37</span> “I know that you are Abraham's seed. But you seek to kill me, because my word finds no room in you.”
+<span class="v-num">37</span> I know that you are Abraham's seed, but you seek to kill me, because my word has no place in you.
 
-<span class="v-num">38</span> “I speak what I have seen beside the Father. And you do what you have heard from <span class="added-text">(your)</span> father.”
+<span class="v-num">38</span> I speak what I have seen with my Father; and you therefore do what you have seen with your father."
 
-<span class="v-num">39</span> They answered and said <span class="added-text">(to)</span> him, “Our father is Abraham.” <del class="deleted-text">[The]</del> Jesus says <span class="added-text">(to)</span> them, “If you are Abraham’s children, you <span class="added-text">(would)</span> do the deeds of Abraham.”
+<span class="v-num">39</span> They answered and said to him, "Our father is Abraham." Jesus said to them, "If you were children of Abraham, you would do the works of Abraham.
 
-<span class="v-num">40</span> “But now you seek to kill me, a man who has spoken <span class="added-text">(to)</span> you the truth which I heard from <del class="deleted-text">[the]</del> God. Abraham did not do this.”
+<span class="v-num">40</span> But now you seek to kill me, a man who has told you the truth which I heard from God; Abraham did not do this.
 
-<span class="v-num">41</span> “You do the deeds of your father.” They said <span class="added-text">(to)</span> him, “We were not born of fornication. We have one Father, <del class="deleted-text">[the]</del> God.”
+<span class="v-num">41</span> You do the works of your father." Then they said to him, "We were not born of fornication; we have one Father, God."
 
-<span class="v-num">42</span> <del class="deleted-text">[The]</del> Jesus said <span class="added-text">(to)</span> them, “If your father were God, you <u>would love</u><span class="added-text">(# unreal condition)</span> me, for I came from <del class="deleted-text">[the]</del> God and am here, for I have not come <span class="alt-label">from myself</span><span class="alt-text">(=on my own)</span>, but that One sent me.”
+<span class="v-num">42</span> Then Jesus said to them, "If God were your Father, you would love me, for I came forth and have come from God; nor have I come of myself, but he sent me.
 
-<span class="v-num">43</span> “Why do you not understand my speech? Because you are not able to hear my word.”
+<span class="v-num">43</span> Why do you not understand my speech? <span class="added-text">(It is)</span> because you cannot hear my word.
 
-<span class="v-num">44</span> “You are <span class="alt-label">from</span><span class="alt-text">(=of)</span> <span class="alt-label">the</span><span class="alt-text">(=your)</span> father, the devil, and you want to do your father’s desires. That one was murderer from <span class="added-text">(the)</span> beginning. And he has not stood in the truth, because there is not truth in him. When he <del class="deleted-text">[may]</del> speaks <span class="alt-label">the</span><span class="alt-text">(=a)</span> lie, he speaks from his own things, for he is a liar and the father of it.”
+<span class="v-num">44</span> You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and has not stood in the truth, because there is no truth in him. When he speaks the lie, he speaks from his own, because he is a liar, and the father of <span class="alt-label">it</span><span class="alt-text">(=the lie)</span>.
 
-<span class="v-num">45</span> “And because I say the truth, you do not believe me.”
+<span class="v-num">45</span> But because I speak the truth, you do not believe me.
 
-<span class="v-num">46</span> “Which of you convicts me about sin? If I tell <span class="added-text">(the)</span> truth, why do you not believe me?”
+<span class="v-num">46</span> Which of you convicts me concerning sin? And if I speak <span class="added-text">(the)</span> truth, why do you not believe me?
 
-<span class="v-num">47</span> “The one being from <del class="deleted-text">[the]</del> God hears the sayings of God. So you do not hear, because you are not from God.”
+<span class="v-num">47</span> The one who is of God hears the words of God; therefore you do not hear <span class="added-text">(them)</span>, because you are not of God."
 
-<span class="v-num">48</span> The Jews answered and said <span class="added-text">(to)</span> him, “Do we not say rightly that your are a Samaritan and have a demon?”
+<span class="v-num">48</span> Then the Jews answered and said to him, "Do we not say well that you are a Samaritan and have a demon?"
 
-<span class="v-num">49</span> Jesus answered, “I do not have a demon, But I honor my Father, and you dishonor me.”
+<span class="v-num">49</span> Jesus answered, "I do not have a demon, but I honor my Father, and you dishonor me.
 
-<span class="v-num">50</span> “And I do not seek my glory; there is the One seeking and judging.”
+<span class="v-num">50</span> But I do not seek my own glory; there is one who seeks and judges.
 
-<span class="v-num">51</span> “Truly, truly, I say <span class="added-text">(to)</span> you, ‘If anyone <del class="deleted-text">[might]</del> keeps my word, he <span class="alt-label">might</span><span class="alt-text">(=will)</span> never see death <span class="alt-label">into the age</span><span class="alt-text">(=forever)</span>.’”
+<span class="v-num">51</span> Truly, truly, I say to you, if anyone keeps my word, he shall never see death forever."[^8]
 
-<span class="v-num">52</span> The Jews said <span class="added-text">(to)</span> him, “Now we have known that you have a demon. Abraham died, and the prophets. And you say, ‘If anyone <del class="deleted-text">[might]</del> keeps my word, he <span class="alt-label">might</span><span class="alt-text">(=will)</span> never taste death <span class="alt-label">into the age</span><span class="alt-text">(=forever)</span>.’”
+<span class="v-num">52</span> Then the Jews said to him, "Now we know that you have a demon. Abraham died, and the prophets, and you say, 'If anyone keeps my word, he shall never taste death forever.'[^9]
 
-<span class="v-num">53</span> “Are <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> you greater <span class="added-text">(than)</span> our father Abraham, who died? And the prophets died. Who do you make yourself?”
+<span class="v-num">53</span> Are you greater than our father Abraham, who died? And the prophets died; whom do you make yourself?"
 
-<span class="v-num">54</span> Jesus answered, “If I <del class="deleted-text">[might]</del> glorify myself, my glory is nothing. My Father is the One glorifying me, whom you say, ‘<del class="deleted-text">[that]</del> He is our God.’”
+<span class="v-num">54</span> Jesus answered, "If I glorify myself, my glory is nothing; it is my Father who glorifies me, of whom you say that he is your God,[^10]
 
-<span class="v-num">55</span> “And you have not known Him, but I know Him. If I say that I do not know Him, I shall be a liar like you. But I know Him, and I keep His word.”
+<span class="v-num">55</span> and you have not known him, but I know him; and if I say that I do not know him, I would be like you, a liar; but I know him, and I keep his word.[^11]
 
-<span class="v-num">56</span> “Abraham your father rejoiced that he would see my day. And he saw and was glad.”
+<span class="v-num">56</span> Your father Abraham rejoiced that he might see my day, and he saw <span class="added-text">(it)</span> and was glad."[^12]
 
-<span class="v-num">57</span> So the Jews said <span class="added-text">(to)</span> him, “You are not yet fifty years <span class="added-text">(old)</span>, and have you seen Abraham?”
+<span class="v-num">57</span> Then the Jews said to him, "You are not yet fifty years old, and have you seen Abraham?"
 
-<span class="v-num">58</span> Jesus said <span class="added-text">(to)</span> them, “Truly, truly, I say <span class="added-text">(to)</span> you, I am <span class="alt-label">before Abraham to become</span><span class="alt-text">(=before Abraham was)</span>.”
+<span class="v-num">58</span> Jesus said to them, "Truly, truly, I say to you, before Abraham came into being, I am."[^13]
 
-<span class="v-num">59</span> So they took stones so that they <span class="alt-label">might</span><span class="alt-text">(=may)</span> throw <span class="added-text">(the stones)</span> at him. And Jesus <u>hid himself</u><span class="added-text">(# aorist passive for reflective sense)</span> and went out of the temple.
+<span class="v-num">59</span> Then they took up stones to throw at him; but Jesus hid himself, and went out of the temple, going through <span class="added-text">(the)</span> midst of them, and passed by thus.[^14]
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
+[^1]: 이 단락(간음한 여인 사건, 7:53–8:11)은 여러 초기 사본에는 없어 현대 비평본에서는 난외로 처리되나, TR과 다수사본 전통에서는 본문으로 포함되어 있다.
+[^2]: ἵνα ἔχωσι는 목적을 나타내는 ἵνα+가정법 구문으로 '고발할 근거를 얻기 위함'이라는 시험자들의 의도를 보여준다.
+[^3]: ἐάν+가정법(κρίνω)은 아직 실현되지 않은 미래 가능성을 나타내는 3류 조건절로, '내가 만일/설령 판단한다면'이라는 뉘앙스를 지닌다. 예수의 판단이 실제로 이루어질 가능성을 열어두면서도 그 진실성을 강조하는 구조다.
+[^4]: ἐάν+가정법(μὴ πιστεύσητε)은 아직 결정되지 않은 미래의 가능성을 나타내는 제3조건문으로, '믿지 않는다면'이라는 실제적 가능성을 경고조로 제시한다. 청중의 결단에 따라 결과가 달라질 수 있음을 강조하는 구문이다.
+[^5]: τὴν ἀρχὴν ὅ τι λαλῶ는 헬라어 원문에서 매우 난해한 구문으로, '처음부터 내가 말해온 자' 또는 '내가 애초에 말하는 것이 곧 그것이다'로 해석될 수 있다.
+[^6]: ἐάν+가정법(μείνητε)은 아직 실현되지 않은 미래 가능성을 나타내는 조건절로, '너희가 (앞으로) 거한다면'이라는 열린 조건을 뜻한다. 제자 됨은 이미 정해진 것이 아니라 말씀 안에 계속 거하는 것에 달려 있음을 강조한다.
+[^7]: ἐάν+가정법(ἐλευθερώσῃ)은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절로, '만일 ~하면'의 뜻이다. 아들의 해방시키는 행위가 실제로 일어날 때 참 자유의 결과가 뒤따름을 강조한다.
+[^8]: ἐάν+가정법(τηρήσῃ)은 아직 실현되지 않은 미래의 가능성을 나타내는 3류 조건문으로, '누구든지 지키기만 하면'이라는 열린 가능성을 강조한다. 뒤따르는 οὐ μὴ+가정법은 강한 부정으로 결과절의 확실성을 부각시킨다.
+[^9]: ἐάν+가정법(τηρήσῃ)은 '누구든지 지키면'이라는 미래 가능성을 여는 조건절로, 아직 실현되지 않았지만 실현 가능한 일반적 조건을 나타낸다. 예수님의 원래 말씀을 유대인들이 인용하는 구문이다.
+[^10]: ἐάν+가정법(δοξάζω)은 아직 실현되지 않은 가상의 조건을 나타내는 3류 조건문으로, '만일 내가 나 자신을 영광스럽게 한다면'이라는 가정적 상황을 전제하여 논증을 전개한다.
+[^11]: ἐὰν εἴπω(가정법)는 아직 실현되지 않은 미래 가상의 조건을 나타낸다: '만일 내가 말한다면'이라는 가정 자체가 사실이 아님을 전제하며, 예수님의 진실성을 강조하기 위한 반사실적 논증 장치이다.
+[^12]: ἵνα ἴδῃ는 목적을 나타내는 ἵνα+가정법 구문으로, 아브라함이 즐거워한 목적(바라던 바)이 그리스도의 날을 보는 것이었음을 나타낸다.
+[^13]: ἐγώ εἰμι(내가 있느니라)는 시간 속 존재를 말하는 것이 아니라 영원한 자존을 선언하는 표현으로, 출애굽기 3:14 하나님의 이름과 연결되는 신적 자기선언이다.
+[^14]: ἵνα+가정법(βάλωσιν)은 돌을 든 목적을 나타내는 목적절로, '던지려고'라는 의도를 분명히 밝힌다.

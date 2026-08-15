@@ -16,128 +16,130 @@ tags: [NTpbsEn, Luke]
 </div>
 
 
-<span class="v-num">1</span> <span class="alt-label">In which things</span><span class="alt-text">(=Meanwhile)</span>, <span class="alt-label">the many thousands of the crowd’s having been brought together</span><span class="alt-text">(=when so many thousands of the crowd had gathered together)</span>[^1], <span class="alt-label">so as to tread on</span><span class="alt-text">(=so that they trampled on)</span> one another, he began to say to his disciples first, “Beware, for yourselves, <span class="alt-label">from</span><span class="alt-text">(=of)</span> the leaven of the Pharisees, which is hypocrisy.”
+<span class="v-num">1</span> In the meantime, when the myriads of the crowd had gathered together, so as to trample one another, he began to say to his disciples first, "Watch yourselves from the leaven of the Pharisees, which is hypocrisy.
 
-<span class="v-num">2</span> “And there is nothing having been covered that will not be <span class="alt-label">uncovered</span><span class="alt-text">(=revealed)</span>, and <span class="added-text">(there is no)</span> hidden thing that will not beknown.”
+<span class="v-num">2</span> But there is nothing covered up that will not be revealed, and hidden that will not be known.
 
-<span class="v-num">3</span> “Therefore whatsoever you have said in the darkness will be heard in the light, and what you have <span class="alt-label">spoken</span><span class="alt-text">(=whispered)</span> <span class="alt-label">to</span><span class="alt-text">(=in)</span> the ear in the private rooms will be proclaimed on the roofs.”
+<span class="v-num">3</span> Therefore whatever you have said in the darkness will be heard in the light, and what you have spoken in the ear in the storerooms will be proclaimed on the housetops.
 
-<span class="v-num">4</span> “And I say <span class="added-text">(to)</span> you, my friends, do not be afraid <span class="alt-label">from</span><span class="alt-text">(=of)</span> the ones killing the body and having, after these things, no more what to do.”
+<span class="v-num">4</span> I say to you, my friends, do not be afraid of those who kill the body, and after that have no more that they can do.
 
-<span class="v-num">5</span> “But I will show you whom you <span class="alt-label">may</span><span class="alt-text">(=should)</span> fear: Fear the One <span class="added-text">(who)</span>, after <span class="alt-label">to kill</span><span class="alt-text">(=killing)</span>, <span class="alt-label">having</span><span class="alt-text">(=has)</span> authority to throw into <del class="deleted-text">[the]</del> hell. Yes, I say <span class="added-text">(to)</span> you, fear this.”
+<span class="v-num">5</span> But I will show you whom you should fear: fear him who, after he has killed, has authority to cast into hell; yes, I say to you, fear him.
 
-<span class="v-num">6</span> “Are not five sparrows sold <span class="added-text">(for)</span> two pennies? And not one of them is <del class="deleted-text">[having been]</del> forgotten before <del class="deleted-text">[the]</del> God.”
+<span class="v-num">6</span> Are not five sparrows sold for two assaria? And not one of them is forgotten before God.
 
-<span class="v-num">7</span> “But even the hairs of your head have been all numbered. Fear not; you <span class="alt-label">differ from</span><span class="alt-text">(=are worth more than)</span> many sparrows.”
+<span class="v-num">7</span> But even the hairs of your head are all numbered. Do not fear therefore; you are more valuable than many sparrows.
 
-<span class="v-num">8</span> “And I say <span class="added-text">(to)</span> you, whoever <del class="deleted-text">[might]</del> acknowledges <del class="deleted-text">[in]</del> me before <del class="deleted-text">[the]</del> men, and the Son of Man will acknowledge <del class="deleted-text">[in]</del> him before the angels of God.”
+<span class="v-num">8</span> And I say to you, everyone who confesses me before men, the Son of Man will also confess him before the angels of God.
 
-<span class="v-num">9</span> And the one having denied me before <del class="deleted-text">[the]</del> men will be denied before the angels of God.“
+<span class="v-num">9</span> But he who denies me before men will be denied before the angels of God.
 
-<span class="v-num">10</span> “And everyone who <span class="alt-label">will speak</span><span class="alt-text">(=speaks)</span> a word against the Son of Man, it will be forgiven him. But to the one having blasphemed against the Holy Spirit, it will not be forgiven.”
+<span class="v-num">10</span> And everyone who will speak a word against the Son of Man, it will be forgiven him; but to him who blasphemes against the Holy Spirit it will not be forgiven.[^1]
 
-<span class="v-num">11</span> “And when they may bring you before <del class="deleted-text">[the]</del> synagogues and <del class="deleted-text">[the]</del> rulers and <del class="deleted-text">[the]</del> authorities, do not worry how or what you <span class="alt-label">might</span><span class="alt-text">(=will)</span> defend or what you <span class="alt-label">might</span><span class="alt-text">(=will)</span> say;”
+<span class="v-num">11</span> But when they bring you to the synagogues and the rulers and the authorities, do not be anxious how or what you should answer, or what you should say.
 
-<span class="v-num">12</span> “for the Holy Spirit will teach you <span class="alt-label">in</span><span class="alt-text">(=at)</span> the same time what you ought to say.”
+<span class="v-num">12</span> For the Holy Spirit will teach you in that very hour what you ought to say."
 
-<span class="v-num">13</span> And one of the crowd said <span class="added-text">(to)</span> him, “Teacher, tell my brother to divide the inheritance with me.”
+<span class="v-num">13</span> And someone from the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
 
-<span class="v-num">14</span> And he said <span class="added-text">(to)</span> him, “Man, who appointed me a judge or a divider over you?”
+<span class="v-num">14</span> But he said to him, "Man, who appointed me a judge or a divider over you?"
 
-<span class="v-num">15</span> And he said <span class="added-text">(to)</span> them, “Beware and guard <span class="alt-label">from</span><span class="alt-text">(=against)</span> all covetousness; for his life is not in the <span class="alt-label">to abound</span><span class="alt-text">(=abundance)</span> <del class="deleted-text">[to anyone]</del> <span class="alt-label">from</span><span class="alt-text">(=of)</span> belongings to him.”
+<span class="v-num">15</span> And he said to them, "Watch and guard yourselves from all covetousness, for one's life does not consist in the abundance of his possessions."
 
-<span class="v-num">16</span> And he said a parable to them, saying, “The land of a certain rich man produced plentifully.”
+<span class="v-num">16</span> And he spoke a parable to them, saying, "The land of a certain rich man produced abundantly.
 
-<span class="v-num">17</span> “And he <span class="alt-label">dialogued</span><span class="alt-text">(=thought)</span> <span class="alt-label">in</span><span class="alt-text">(=to)</span> himself, saying, ‘What shall I do? for I have no <span class="added-text">(place)</span> where I will store my crops.’”
+<span class="v-num">17</span> "And he deliberated within himself, saying, 'What shall I do, for I do not have <span class="added-text">(a place)</span> where I may gather my fruits?
 
-<span class="v-num">18</span> “And he said, ‘I will do this, I will pull down my barns and I will build larger ones, and I will store there all my grain and my goods.’”
+<span class="v-num">18</span> "And he said, 'This I will do: I will tear down my barns and build greater ones, and there I will gather all my grain and my goods.'
 
-<span class="v-num">19</span> “And I will say to my soul, ‘Soul, you have many goods being laid up for many years. Take rest, eat, drink, <span class="added-text">(and)</span> be merry.’”
+<span class="v-num">19</span> "And I will say to my soul, 'Soul, you have many good things laid up for many years; rest, eat, drink, be merry.'"
 
-<span class="v-num">20</span> “But <del class="deleted-text">[the]</del> God said <span class="added-text">(to)</span> him, ‘Fool! This night they<span class="added-text">(# impersonal pronoun to avoid God’s name)</span> demand your soul from you. And the things that you have prepared, to whom will they be?”
+<span class="v-num">20</span> "But God said to him, 'Fool, this night your soul is required of you; and the things you have prepared, whose will they be?'"
 
-<span class="v-num">21</span> “So <span class="added-text">(is)</span> the one treasuring up for himself and not being rich toward God.”
+<span class="v-num">21</span> "So is he who lays up treasure for himself, and is not rich toward God."
 
-<span class="v-num">22</span> And he said <span class="added-text">(to)</span> his disciples, “Therefore I say <span class="added-text">(to)</span> you, do not worry <span class="added-text">(about your)</span> life, what you <span class="alt-label">might</span><span class="alt-text">(=will)</span> eat, nor <span class="added-text">(about your)</span> body what you <span class="alt-label">might</span><span class="alt-text">(=will)</span> wear,”
+<span class="v-num">22</span> And he said to his disciples, "Therefore I say to you, do not be anxious for your life, what you shall eat; nor for the body, what you shall put on.
 
-<span class="v-num">23</span> “for <del class="deleted-text">[the]</del> life is more <span class="added-text">(than)</span> food, and the body <span class="added-text">(is more than)</span> clothing.”
+<span class="v-num">23</span> Life is more than food, and the body is more than clothing.
 
-<span class="v-num">24</span> “Consider the ravens, for they neither sow nor reap, to which neither storeroom nor barn is not, and <del class="deleted-text">[the]</del> God feeds them. How much more <span class="alt-label">do you differ from</span><span class="alt-text">(=valuable are you than)</span> the birds!”
+<span class="v-num">24</span> Consider the ravens: they neither sow nor reap; they have no storeroom nor barn, and God feeds them. How much more valuable are you than the birds?
 
-<span class="v-num">25</span> “And who of you <span class="added-text">(by worrying)</span> is able to add a cubit <span class="alt-label">on</span><span class="alt-text">(=to)</span> his <span class="alt-label">stature</span><span class="alt-text">(=life)</span>?”
+<span class="v-num">25</span> And which of you by being anxious can add one cubit to his <span class="alt-label">stature</span><span class="alt-text">(=lifespan)</span>?
 
-<span class="v-num">26</span> “If then you cannot do <span class="added-text">(the)</span> least, why do you worry about the rest?”
+<span class="v-num">26</span> If then you are not able to do even the smallest thing, why are you anxious about the rest?
 
-<span class="v-num">27</span> “Consider the lilies, how <span class="alt-label">it</span><span class="alt-text">(=they)</span> grow. <span class="alt-label">It</span><span class="alt-text">(=they)</span> neither labor nor spin. But I say <span class="added-text">(to)</span> you, <span class="added-text">(even)</span> Solomon in all his glory did not put on himself like one of these.”
+<span class="v-num">27</span> Consider the lilies, how they grow: they do not toil nor spin; yet I say to you, not even Solomon in all his glory was arrayed like one of these.
 
-<span class="v-num">28</span> “And if <del class="deleted-text">[the]</del> God so clothes the grass in <span class="added-text">(the)</span> field, <span class="added-text">(which)</span> <span class="alt-label">being</span><span class="alt-text">(=is)</span> today and tomorrow <span class="alt-label">being thrown</span><span class="alt-text">(=is thrown)</span> into <span class="added-text">(the)</span> oven, how much more <span class="added-text">(will he clothe)</span> you, O you of little faith!”
+<span class="v-num">28</span> But if God so clothes the grass, which today is in the field and tomorrow is thrown into the oven, how much more you, O you of little faith?
 
-<span class="v-num">29</span> “And <del class="deleted-text">[you]</del> do not seek what you <span class="alt-label">might</span><span class="alt-text">(=will)</span> eat and what you <span class="alt-label">might</span><span class="alt-text">(=will)</span> drink, and do not be in suspense,”
+<span class="v-num">29</span> And do not you seek what you shall eat, or what you shall drink; and do not be tossed about in anxious mind.
 
-<span class="v-num">30</span> “for all these things do the nations of the world seek after, but your Father knows<span class="added-text">(# perfect as present)</span> that you need these.”
+<span class="v-num">30</span> For all these things the nations of the world seek after; but your Father knows that you need these things.
 
-<span class="v-num">31</span> “But seek his kingdom, and these things will be added to you.”
+<span class="v-num">31</span> But seek the kingdom of God, and all these things will be added to you.
 
-<span class="v-num">32</span> “Do not fear, the little flock, for your Father has been pleased to give you the kingdom.”
+<span class="v-num">32</span> Do not fear, little flock, for your Father is well pleased to give you the kingdom.
 
-<span class="v-num">33</span> “Sell your belongings and give alms. <span class="alt-label">Make</span><span class="alt-text">(=Provide)</span> <span class="added-text">(for)</span> yourselves purses not <span class="alt-label">being made old</span><span class="alt-text">(=wearing out)</span>, the treasure in <del class="deleted-text">[the]</del> heaven <span class="alt-label">unfailing</span><span class="alt-text">(=that does not fail)</span>, where no thief comes near nor moth destroys.”
+<span class="v-num">33</span> Sell your possessions, and give alms. Make for yourselves purses that do not grow old, a treasure in the heavens that does not fail, where no thief comes near, nor moth destroys.
 
-<span class="v-num">34</span> “For where your treasure is, there your heart will be also.”
+<span class="v-num">34</span> For where your treasure is, there your heart will be also.
 
-<span class="v-num">35</span> “Let your loins <span class="alt-label">having been girded</span><span class="alt-text">(=be girded)</span> and the lamps burning,”
+<span class="v-num">35</span> Let your loins be girded about, and your lamps burning;
 
-<span class="v-num">36</span> “and <del class="deleted-text">[you]</del> be like men waiting for their master, when he <span class="alt-label">might</span><span class="alt-text">(=will)</span> return from the wedding feasts, so that, <span class="alt-label"><span class="added-text">(his)</span> having come and knocked</span><span class="alt-text">(=when he comes and knocks)</span>[^2], immediately they <span class="alt-label">might</span><span class="alt-text">(=can)</span> open to him.”
+<span class="v-num">36</span> and you <span class="added-text">(be)</span> like men waiting for their master, when he will return from the wedding feast, so that when he comes and knocks, they may open to him at once.[^2]
 
-<span class="v-num">37</span> “Blessed <span class="added-text">(are)</span> those slaves, whom the master, having come, will find <span class="added-text">(them)</span> watching. Truly I say <span class="added-text">(to)</span> you that he will gird himself and make them <span class="alt-label">recline</span><span class="alt-text">(=sit at table)</span>, and he, having come up, will serve them.”
+<span class="v-num">37</span> Blessed are those servants, whom the master when he comes will find watching. Truly, I say to you, that he will gird himself and have them recline, and will come and serve them.
 
-<span class="v-num">38</span> “And if he <del class="deleted-text">[might]</del> comes in the second <span class="alt-label">and if</span><span class="alt-text">(=or)</span> in the third watch, and he <del class="deleted-text">[might]</del> finds so, blessed are those <span class="added-text">(slaves)</span>.”
+<span class="v-num">38</span> And if he comes in the second watch, or comes in the third watch, and finds <span class="added-text">(them)</span> so, blessed are those servants.[^3]
 
-<span class="v-num">39</span> “But know this, that if the householder had known at what hour the thief comes, he would not allowed <span class="alt-label">to be dug through</span><span class="alt-text">(=to be broken into)</span> his house.”
+<span class="v-num">39</span> But know this, that if the master of the house had known at what hour the thief was coming, he would have watched, and would not have let his house be broken into.
 
-<span class="v-num">40</span> “You also <span class="added-text">(must)</span> be ready, for at an hour <span class="added-text">(that)</span> you do not expect the Son of Man <span class="added-text">(will)</span> come.”
+<span class="v-num">40</span> You too therefore be ready; for the Son of Man comes at an hour you do not expect."
 
-<span class="v-num">41</span> And <del class="deleted-text">[the]</del> Peter said, “Lord, are you saying this parable to us or even to all?”
+<span class="v-num">41</span> And Peter said to him, "Lord, do you speak this parable to us, or also to all?"
 
-<span class="v-num">42</span> And the Lord said, “Who then is the faithful and wise steward, whom the master <span class="alt-label">will appoint</span><span class="alt-text">(=will make manager)</span> over his household, to give <span class="added-text">(them their)</span> potion of food <span class="alt-label">in season</span><span class="alt-text">(=at the proper time)</span>?”
+<span class="v-num">42</span> And the Lord said, "Who then is the faithful and wise steward, whom his master will set over his household, to give <span class="added-text">(them)</span> their portion of food in due season?
 
-<span class="v-num">43</span> “Blessed <span class="added-text">(is)</span> that slave, whom his master, having come, will find doing so.”
+<span class="v-num">43</span> Blessed is that servant, whom his master when he comes will find so doing.
 
-<span class="v-num">44</span> “Truly I say <span class="added-text">(to)</span> you that he <span class="alt-label">will appoint him</span><span class="alt-text">(=will make manager him)</span> over his all belongings.
+<span class="v-num">44</span> Truly I say to you, that he will set him over all his possessions.
 
-<span class="v-num">45</span> “But if that slave <del class="deleted-text">[might]</del> says in his heart, my master is delaying <span class="alt-label">to come</span><span class="alt-text">(=in coming)</span>, and <del class="deleted-text">[might]</del> begins to beat the menservants and the maidservants, and to eat and drink and get drunk,”
+<span class="v-num">45</span> But if that servant says in his heart, 'My master delays his coming,' and begins to beat the menservants and maidservants, and to eat and drink and be drunk;[^4]
 
-<span class="v-num">46</span> “the master of that slave will come <span class="alt-label">in</span><span class="alt-text">(=on)</span> a day <span class="alt-label">in which</span><span class="alt-text">(=when)</span> he does not expect and <span class="alt-label">in</span><span class="alt-text">(=at)</span> an hour he does not know, and <span class="alt-label">will cut in two</span><span class="alt-text">(=will punish)</span> him, and he will <span class="alt-label">put</span><span class="alt-text">(=appoint)</span> his portion with the unbelievers.”
+<span class="v-num">46</span> the master of that servant will come on a day when he does not expect <span class="added-text">(him)</span>, and at an hour he does not know, and will cut him in two, and will appoint his portion with the unfaithful.
 
-<span class="v-num">47</span> “And that slave, <span class="alt-label">having known</span><span class="alt-text">(=who knew)</span> his master’s will <span class="alt-label">and not having prepared or done</span><span class="alt-text">(=and who did not prepared and act)</span> according to his will, will be beaten <span class="added-text">(with)</span> many <span class="added-text">(blows)</span>.”
+<span class="v-num">47</span> And that servant, who knew his master's will, and did not prepare nor do according to his will, will be beaten with many stripes;
 
-<span class="v-num">48</span> “But the one, <span class="alt-label">not having known</span><span class="alt-text">(=who did not know)</span> but <span class="alt-label">having done</span><span class="alt-text">(=who has done)</span> things <span class="alt-label">worthy</span><span class="alt-text">(=deserving)</span> of <span class="alt-label">stripes</span><span class="alt-text">(=beating)</span>, will be beaten <span class="added-text">(with)</span> few <span class="added-text">(blows)</span>. But <span class="added-text">(from)</span> everyone to whom much is given, much will be demanded from him. And <span class="added-text">(from the one)</span> to whom much has been entrusted, they will ask him <span class="added-text">(the)</span> more.”
+<span class="v-num">48</span> but the one who did not know, and did <span class="added-text">(things)</span> worthy of stripes, will be beaten with few. But to everyone to whom much was given, much will be required from him; and to whom they entrusted much, they will ask more of him.
 
-<span class="v-num">49</span> “I have come to cast fire upon the earth, and how I wish <del class="deleted-text">[if]</del> it were already kindled.”
+<span class="v-num">49</span> I came to cast fire on the earth, and what do I desire if it is already kindled?[^5]
 
-<span class="v-num">50</span> “And I have a baptism to be baptized <span class="added-text">(with)</span>, and how distressed I am until it <del class="deleted-text">[might]</del> is completed!”
+<span class="v-num">50</span> But I have a baptism to be baptized with, and how I am constrained until it is accomplished![^6]
 
-<span class="v-num">51</span> “Do you think that I have come to give peace <span class="alt-label">in</span><span class="alt-text">(=on)</span> <del class="deleted-text">[the]</del> earth? No, I say <span class="added-text">(to)</span> you, but rather division,”
+<span class="v-num">51</span> Do you suppose that I came to give peace on earth? I say to you, no, but rather division.
 
-<span class="v-num">52</span> “for, from <del class="deleted-text">[the]</del> now, there will be five in one house <del class="deleted-text">[having been]</del> divided, three against two and two against three.”
+<span class="v-num">52</span> For from now on there will be five in one house divided, three against two, and two against three.
 
-<span class="v-num">53</span> “They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against the daughter-in-law and daughter-in-law against the mother-in-law.”
+<span class="v-num">53</span> father will be divided against son, and son against father; mother against daughter, and daughter against mother; mother-in-law against her daughter-in-law, and daughter-in-law against her mother-in-law."[^7]
 
-<span class="v-num">54</span> And he also was saying to the crowds, “When you <del class="deleted-text">[might]</del> see a cloud rising <span class="alt-label">over</span><span class="alt-text">(=in the)</span> west, immediately you say, ‘<del class="deleted-text">[that]</del> A shower is coming’; and so it happens.”
+<span class="v-num">54</span> And he said also to the crowds, "When you see a cloud rising from the west, immediately you say, 'A shower is coming'; and so it happens.
 
-<span class="v-num">55</span> “And when <span class="added-text">(you see)</span> blowing <span class="added-text">(the)</span> south <span class="added-text">(wind)</span>, you say ‘<del class="deleted-text">[that]</del> There will be scorching heat’; and <span class="added-text">(so)</span> it happens.”
+<span class="v-num">55</span> And when <span class="added-text">(you see)</span> a south wind blowing, you say, 'There will be heat'; and it happens.
 
-<span class="v-num">56</span> “Hypocrites! You know to discern the face of the earth and of the sky; but how do you not know to discern this time?”
+<span class="v-num">56</span> Hypocrites! You know how to interpret the <span class="alt-label">face</span><span class="alt-text">(=appearance)</span> of the earth and the sky; but how is it that you do not interpret this time?
 
-<span class="v-num">57</span> “And why do you not judge <del class="deleted-text">[even]</del> for yourselves the righteous thing?”
+<span class="v-num">57</span> And why do you not judge for yourselves what is right?
 
-<span class="v-num">58</span> “For as you go with your adversary to <span class="added-text">(the)</span> magistrate, <span class="alt-label">give business</span><span class="alt-text">(=do your best)</span>[^3] <span class="alt-label">to be rid from(=of)</span><span class="alt-text">(=to settle)</span> him on the way, lest he <span class="alt-label">might</span><span class="alt-text">(=may)</span> drag you to the judge, and the judge <del class="deleted-text">[will]</del> deliver you to the officer and the officer <del class="deleted-text">[will]</del> throw you into prison.”
+<span class="v-num">58</span> For as you go with your accuser before the ruler, on the way take pains to be released from him, lest he drag you to the judge, and the judge deliver you to the officer, and the officer throw you into prison.
 
-<span class="v-num">59</span> “I say <span class="added-text">(to)</span> you, you <span class="alt-label">might</span><span class="alt-text">(=will)</span> never come out from there until you <span class="alt-label">might</span><span class="alt-text">(=have)</span> paid the very last <span class="alt-label">lepton</span><span class="alt-text">(=penny)</span>.”
+<span class="v-num">59</span> I say to you, you shall by no means come out from there, until you have paid the very last lepton."
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
-[^3]: ‘operam dare’ in Latin
+[^1]: 성령을 모독함은 성령의 증거를 끝까지 거부하는 완악함을 가리키며, 용서받지 못한다는 것은 스스로 회개의 길을 막는 상태를 의미한다.
+[^2]: ἵνα+가정법(ἀνοίξωσιν) 목적절로, 주인이 왔을 때 '즉시 열어주기 위하여' 기다리는 목적과 의도를 나타낸다. 종들의 깨어 있는 준비 자세의 목표를 강조한다.
+[^3]: ἐάν+가정법(ἔλθῃ, εὕρῃ)은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절이다. 주인이 언제 올지 모르나 '혹 오더라도'라는 불확실한 미래 상황을 가정하며, 그 때에도 깨어있는 종은 복되다는 뜻을 강조한다.
+[^4]: ἐάν+가정법(εἴπῃ, ἄρξηται)은 아직 일어나지 않은 미래의 가능성을 가정하는 3형 조건절이다. 종이 실제로 그렇게 될지는 미정이나, 그럴 경우 뒤따르는 심판이 확실함을 강조한다.
+[^5]: '왔노니'는 부정과거로, 예수께서 오신 목적(불을 던지는 것)이 이미 확정된 사명임을 강조한다.
+[^6]: 여기서 '세례'는 예수께서 받으실 고난과 죽음을 가리키는 은유이다.
+[^7]: 미가 7:6을 배경으로 한 말씀으로, 복음으로 인한 가정의 분열을 예고한다.

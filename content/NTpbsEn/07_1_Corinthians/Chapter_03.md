@@ -4,7 +4,7 @@ description: "1 Corinthians Chapter 3"
 book: "1 Corinthians"
 chapter: 3
 order: 3
-tags: [NTpbsEn, 1_Corinthians]
+tags: [NTpbsEn, 1Corinthians]
 ---
 
 # 1 Corinthians 3
@@ -16,49 +16,58 @@ tags: [NTpbsEn, 1_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> And I, brothers, was not able to speak <span class="added-text">(to)</span> you as to spiritual <span class="added-text">(people)</span>. But as <span class="added-text">(to the people)</span> of the flesh, as to infants in Christ,
+<span class="v-num">1</span> And I, brothers, was not able to speak to you as to spiritual <span class="added-text">(ones)</span>, but as to fleshly <span class="added-text">(ones)</span>, as to infants in Christ.
 
-<span class="v-num">2</span> I gave you milk, not solid food, for you were not able <span class="added-text">(to take the solid food)</span>, and even now you are not able,
+<span class="v-num">2</span> I gave you milk to drink, and not <span class="alt-label">food</span><span class="alt-text">(=solid food)</span>; for you were not yet able, but neither even now are you able,
 
-<span class="v-num">3</span> for you are still of the flesh; because where there is jealousy and strife among you, are you not of the flesh? And are you <span class="added-text">(not)</span> <span class="alt-label">walking</span><span class="alt-text">(=behaving)</span> <span class="alt-label">according to man</span><span class="alt-text">(=like mere men)</span>?
+<span class="v-num">3</span> for you are still fleshly. For where <span class="added-text">(there is)</span> among you jealousy and <span class="alt-label">strife</span><span class="alt-text">(=quarreling)</span> and divisions, are you not fleshly, and walking according to man?
 
-<span class="v-num">4</span> For when one <del class="deleted-text">[may]</del> say, “I am of Paul,” and other, “I <span class="added-text">(am)</span> of Apollos,” are you not <span class="added-text">(merely)</span> men?
+<span class="v-num">4</span> For whenever someone says, "I indeed am of Paul," and another, "I <span class="added-text">(am)</span> of Apollos," are you not fleshly?
 
-<span class="v-num">5</span> What then is Apollos? And what is Paul? Ministers through whom you believed, as the Lord gave to each one.
+<span class="v-num">5</span> Who then is Paul, and who is Apollos, but servants through whom you believed, and to each as the Lord gave?
 
-<span class="v-num">6</span> I planted, Apollos watered, but <del class="deleted-text">[the]</del> God has been making it grow.
+<span class="v-num">6</span> I planted, Apollos watered, but God gave the <span class="alt-label">growth</span><span class="alt-text">(=made it grow)</span>;
 
-<span class="v-num">7</span> So neither the planting one nor the watering one is anything, but the one making it grow <span class="added-text">(is only)</span> God.
+<span class="v-num">7</span> so that neither the one planting is anything, nor the one watering, but God who gives the growth.
 
-<span class="v-num">8</span> And the planting one and the watering one are one, and each one will receive <span class="alt-label">the</span><span class="alt-text">(=his)</span> own reward according to <span class="alt-label">the</span><span class="alt-text">(=his)</span> own labor.
+<span class="v-num">8</span> Now the one planting and the one watering are one, but each will receive his own reward according to his own labor.
 
-<span class="v-num">9</span> For we are God’s fellow workers; you are God field, God’s building.
+<span class="v-num">9</span> For we are God's fellow workers; you are God's field, God's building.
 
-<span class="v-num">10</span> According to the grace of God having been given to me, I laid a foundation as a wise master builder, and another builds on <span class="added-text">(it)</span>. But let each one watch how he builds on <span class="added-text">(it)</span>.
+<span class="v-num">10</span> According to the grace of God given to me, as a wise master builder I laid <span class="added-text">(the)</span> foundation, and another builds upon <span class="added-text">(it)</span>; but let each one watch how he builds upon <span class="added-text">(it)</span>,
 
-<span class="v-num">11</span> For no one is able to lay <span class="added-text">(any)</span> foundation other than the one having been laid, which is Jesus Christ.
+<span class="v-num">11</span> for no one is able to lay another foundation besides the one being laid, which is Jesus <span class="added-text">(the)</span> Christ.[^1]
 
-<span class="v-num">12</span> And if anyone builds on the foundation <span class="added-text">(with)</span> gold, silver, precious stones, wood, hay, straw,
+<span class="v-num">12</span> But if anyone builds upon this foundation gold, silver, precious stones, wood, hay, stubble,
 
-<span class="v-num">13</span> the work of each one will become manifest; for the Day will disclose <span class="added-text">(it)</span>, because it is revealed <span class="alt-label">in</span><span class="alt-text">(=by)</span> fire; and the fire will test what sort of work <del class="deleted-text">[of]</del> each one <span class="alt-label">is</span><span class="alt-text">(=has done)</span>.
+<span class="v-num">13</span> each one's work will become <span class="alt-label">manifest</span><span class="alt-text">(=evident)</span>; for the day will declare <span class="added-text">(it)</span>, because it is revealed by fire; and the fire will test each one's work, of what sort it is.[^2]
 
-<span class="v-num">14</span> If anyone’s work which he built on <span class="added-text">(the foundation)</span> remains, he will receive a reward.
+<span class="v-num">14</span> If anyone's work remains, which he built upon <span class="added-text">(it)</span>, he will receive a reward;
 
-<span class="v-num">15</span> If anyone’s work will be burned up, he will suffer loss, but he himself will be saved, but so as through fire.
+<span class="v-num">15</span> if anyone's work is burned up, he will suffer loss; but he himself will be saved, yet so as through fire.[^3]
 
-<span class="v-num">16</span> Do you not know that you are God’s temple and that <del class="deleted-text">[the]</del> God’s Spirit dwells in you?
+<span class="v-num">16</span> Do you not know that you are <span class="added-text">(the)</span> temple of God, and the Spirit of God dwells in you?[^4]
 
-<span class="v-num">17</span> If anyone destroys <del class="deleted-text">[the]</del> God’s temple, <del class="deleted-text">[the]</del> God will destroy this one. For God’s temple is holy, which temple you are.
+<span class="v-num">17</span> If anyone destroys the temple of God, God will destroy this one; for the temple of God is holy, which <span class="added-text">(temple)</span> you are.
 
-<span class="v-num">18</span> Let no one deceive himself. If anyone among you <span class="alt-label">thinks</span><span class="alt-text">(=seems)</span> to be wise in this age, let him become foolish, that he <span class="alt-label">might</span><span class="alt-text">(=may)</span> become wise.
+<span class="v-num">18</span> Let no one deceive himself; if anyone among you seems to be wise in this age, let him become foolish, that he may become wise.[^5]
 
-<span class="v-num">19</span> For the wisdom of this world is foolishness with God. For it has been written, “<span class="added-text">(He is)</span> the One catching the wise in their craftiness,”
+<span class="v-num">19</span> For the wisdom of this world is foolishness with God. For it is written, "He who catches the wise in their craftiness."[^6]
 
-<span class="v-num">20</span> and again, “<span class="added-text">(The)</span> Lord knows the thoughts of the wise, that they are futile.”
+<span class="v-num">20</span> And again, "The Lord knows the thoughts of the wise, that they are <span class="alt-label">futile</span><span class="alt-text">(=vain)</span>."[^7]
 
-<span class="v-num">21</span> So let no one boast <span class="alt-label">in</span><span class="alt-text">(=about)</span> men. For all things <span class="alt-label">is</span><span class="alt-text">(=are)</span> yours,
+<span class="v-num">21</span> So then let no one boast in men; for all things are yours,
 
-<span class="v-num">22</span> whether Paul or Apollos or Cephas or <span class="added-text">(the)</span> world or life or death or things present or <u> </u>things to come – all things <span class="added-text">(are)</span> yours.
+<span class="v-num">22</span> whether Paul or Apollos or Cephas, whether world or life or death, whether things present or things to come; all are yours,
 
-<span class="v-num">23</span> And you <span class="added-text">(are)</span> of Christ, and Christ <span class="added-text">(is)</span> of God.
+<span class="v-num">23</span> and you <span class="added-text">(are)</span> Christ's; and Christ <span class="added-text">(is)</span> God's.
 
+---
+
+[^1]: θεμέλιον(터)이 관사 없이 쓰여 그리스도 자신이 유일하고 이미 놓인 터임을 부각한다.
+[^2]: ἀποκαλύπτεται(현재시제)는 미래 심판의 날에 있을 일을 생생한 현재로 표현하여 그 확실성을 강조한다.
+[^3]: σωθήσεται(구원받을 것이다)는 행위의 상이 불타 없어져도 그 사람 자신의 구원 자체는 보존됨을 나타낸다.
+[^4]: ναὸς Θεοῦ에 관사가 없이 쓰여 신자 공동체가 지닌 신적 성격을 질적으로 강조한다.
+[^5]: ἵνα+가정법(γένηται)은 목적을 나타내는 구문으로, 어리석은 자 됨의 목적이 참 지혜를 얻는 데 있음을 보여준다.
+[^6]: 욥기 5:13 인용.
+[^7]: 시편 94:11(LXX 93:11) 인용.

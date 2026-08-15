@@ -16,95 +16,102 @@ tags: [NTpbsEn, Luke]
 </div>
 
 
-<span class="v-num">1</span> And he was telling them a parable, <span class="alt-label">for them to need</span><span class="alt-text">(=that they ought)</span> always to pray and not to lose heart,
+<span class="v-num">1</span> And he also told them a parable as to the need always to pray, and not to lose <span class="alt-label">heart</span><span class="alt-text">(=faint)</span>,[^1]
 
-<span class="v-num">2</span> saying, “There was a certain judge in a certain city, not fearing <del class="deleted-text">[the]</del> God and not regarding man.”
+<span class="v-num">2</span> saying, "There was a certain judge in a certain city, not fearing God, and not respecting man.
 
-<span class="v-num">3</span> “And there was a widow in that city. And she <span class="alt-label">was coming</span><span class="alt-text">(=kept coming)</span> to him, saying, ‘Vindicate me <span class="alt-label">from</span><span class="alt-text">(=against)</span> my adversary!’”
+<span class="v-num">3</span> And there was a widow in that city, and she kept coming to him, saying, 'Avenge me of my adversary.'
 
-<span class="v-num">4</span> “And he <span class="alt-label">was not wanting</span><span class="alt-text">(=would not)</span> for a <span class="alt-label">time</span><span class="alt-text">(=while)</span>, but <span class="alt-label">after these things</span><span class="alt-text">(=afterwards)</span> he said <span class="alt-label">in</span><span class="alt-text">(=to)</span> himself, ‘Though I do not fear <del class="deleted-text">[the]</del> God nor regard man,’”
+<span class="v-num">4</span> And he was not willing for a time; but after these things he said within himself, 'Even though I do not fear God, and do not respect man,
 
-<span class="v-num">5</span> “<span class="alt-label">Because of this widow to give me trouble</span><span class="alt-text">(=Because this widow bothers me)</span>, I will vindicate her, lest she may wear <span class="added-text">(me)</span> out <span class="added-text">(by her)</span> coming <span class="alt-label">in end</span><span class="alt-text">(=continuously)</span>.”
+<span class="v-num">5</span> yet because this widow causes me trouble, I will avenge her, lest by coming perpetually she wear me out.'"[^2]
 
-<span class="v-num">6</span> And the Lord said, “Hear what the unrighteous judge says.”
+<span class="v-num">6</span> And the Lord said, "Hear what the unjust judge says.
 
-<span class="v-num">7</span> <span class="alt-label">“Might</span><span class="alt-text">(=Will)</span> not <del class="deleted-text">[the]</del> God make the vindication of his chosen ones crying out to him day and night? <span class="alt-label">Does</span><span class="alt-text">(=Will)</span> he delay long over them?”
+<span class="v-num">7</span> And will not God at all do the avenging of his elect, the ones crying to him day and night, though he is longsuffering over them?[^3]
 
-<span class="v-num">8</span> “I say <span class="added-text">(to)</span> you, <del class="deleted-text">[that]</del> he will make their vindication <span class="alt-label">in speed</span><span class="alt-text">(=quickly)</span>. Nevertheless, will the Son of Man, having come, find <del class="deleted-text">[the]</del> faith on the earth?”
+<span class="v-num">8</span> I say to you that he will do the avenging of them speedily. Nevertheless, when the Son of man comes, will he indeed find faith on the earth?"
 
-<span class="v-num">9</span> And to some having trusted in themselves that they <span class="alt-label">are</span><span class="alt-text">(=were)</span> righteous and despising the others, he said also this parable.
+<span class="v-num">9</span> And he also spoke this parable to some who trusted in themselves that they were righteous, and despised the rest:
 
-<span class="v-num">10</span> “Two men went up to the temple to pray, the one a Pharisee and the other a tax collector.”
+<span class="v-num">10</span> "Two men went up into the temple to pray; the one a Pharisee, and the other a tax collector.
 
-<span class="v-num">11</span> “The Pharisee, having stood, was praying <span class="alt-label">these things</span><span class="alt-text">(=thus)</span> <span class="alt-label">to</span><span class="alt-text">(=about)</span> himself, ‘<del class="deleted-text">[The]</del> God, I thank you that I am not like <span class="alt-label">the rest of</span><span class="alt-text">(=other)</span> men, robbers, unjust, adulterers, or even like this tax collector.’”
+<span class="v-num">11</span> The Pharisee, having stood, prayed thus with himself, 'God, I thank you that I am not as the rest of men, extortioners, unjust, adulterers, or even as this tax collector.
 
-<span class="v-num">12</span> “I fast twice <span class="alt-label">of the week</span><span class="alt-text">(=a week)</span>, I give tithes <span class="added-text">(of)</span> all things that I get.”
+<span class="v-num">12</span> I fast twice <span class="alt-label">of</span><span class="alt-text">(=in)</span> the week, I give tithes of all as much as I acquire.'
 
-<span class="v-num">13</span> “But the tax collector, standing<span class="added-text">(# perfect as present)</span> far off, <span class="alt-label">was not wanting</span><span class="alt-text">(=would not)</span> even <del class="deleted-text">[to]</del> lift up <span class="alt-label">the</span><span class="alt-text">(=his)</span> eyes to <del class="deleted-text">[the]</del> heaven, but was beating his breast, saying, ‘<del class="deleted-text">[The]</del> God, be merciful to me a sinner!’”
+<span class="v-num">13</span> And the tax collector, having stood far off, was not willing even to lift up his eyes to heaven, but was beating his breast, saying, 'God, be <span class="alt-label">propitious</span><span class="alt-text">(=merciful)</span> to me, the sinner.'[^4]
 
-<span class="v-num">14</span> I say <span class="added-text">(to)</span> you, “This <span class="added-text">(man)</span>, having been justified <span class="added-text">(before God)</span>, went down to his house rather than that <span class="added-text">(man)</span>. For everyone exalting himself will be humbled, and the one humbling himself will be exalted.”
+<span class="v-num">14</span> I say to you, this man went down to his house justified rather than that one; for everyone exalting himself will be humbled, and the one humbling himself will be exalted."[^5]
 
-<span class="v-num">15</span> And they were bringing even <del class="deleted-text">[the]</del> infants to him that he <span class="alt-label">may</span><span class="alt-text">(=might)</span> touch them. But the disciples, having seen <span class="added-text">(it)</span>, were rebuking them.
+<span class="v-num">15</span> And they were bringing to him even the infants, that he might touch them; but the disciples, having seen it, rebuked them.[^6]
 
-<span class="v-num">16</span> But <del class="deleted-text">[the]</del> Jesus called them, saying, “Let the children come to me, and do not hinder them. For of such is the kingdom of God.”
+<span class="v-num">16</span> But Jesus, having called them to him, said, "Allow the children to come to me, and do not forbid them, for of such is the kingdom of God.
 
-<span class="v-num">17</span> “Truly I say <span class="added-text">(to)</span> you, ‘Whoever <span class="alt-label">might</span><span class="alt-text">(=does)</span> not receive the kingdom of God like a child <span class="alt-label">might</span><span class="alt-text">(=will)</span> never go into it.’”
+<span class="v-num">17</span> Truly I say to you, whoever does not receive the kingdom of God as a little child shall in no way enter into it."[^7]
 
-<span class="v-num">18</span> And a certain ruler asked him, “Good teacher, what having <span class="alt-label">done</span><span class="alt-text">(=What shall I do)</span> <span class="added-text">(so that)</span> I <span class="alt-label">might</span><span class="alt-text">(=may)</span> inherit eternal life?”
+<span class="v-num">18</span> And a certain ruler questioned him, saying, "Good Teacher, what having done shall I inherit eternal life?"
 
-<span class="v-num">19</span> And <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> him, “Why do you call me good?  No one <span class="added-text">(is)</span> good except One, <del class="deleted-text">[the]</del> God.”
+<span class="v-num">19</span> And Jesus said to him, "Why do you call me good? No one is good, except one, God.
 
-<span class="v-num">20</span> “You know<span class="added-text">(# perfect as present)</span> the commandments: ‘Do not commit adultery, Do not kill, Do not steal, Do not give false testimony, Honor your father and mother.’”
+<span class="v-num">20</span> You know the commandments: 'Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and your mother.'"
 
-<span class="v-num">21</span> And he said, “I have kept all these things from <span class="added-text">(my)</span> youth.”
+<span class="v-num">21</span> And he said, "All these things I have kept from my youth."
 
-<span class="v-num">22</span> And <del class="deleted-text">[the]</del> Jesus, having heard <span class="added-text">(it)</span>, said <span class="added-text">(to)</span> him, “<span class="alt-label">One thing still lacks<span class="added-text">(# impersonal)</span> to you</span><span class="alt-text">(=You still lack one thing)</span>. Sell all things that you have and distribute to the poor, and you will have treasure in <del class="deleted-text">[the]</del> heaven. And come, follow me.”
+<span class="v-num">22</span> And having heard these things, Jesus said to him, "Yet one thing you lack: sell all as much as you have, and distribute to the poor, and you will have treasure in heaven; and come, follow me."
 
-<span class="v-num">23</span> And he, having heard these things, became sad, because he was very rich.
+<span class="v-num">23</span> But he, having heard these things, became very sorrowful; for he was exceedingly rich.
 
-<span class="v-num">24</span> And having seen him, <del class="deleted-text">[the]</del> Jesus said, “How hard it is <span class="added-text">(for)</span> the ones having riches <span class="added-text">(to)</span> go into the kingdom of God!”
+<span class="v-num">24</span> And Jesus, having seen him become very sorrowful, said, "How difficultly the ones having riches will enter into the kingdom of God!
 
-<span class="v-num">25</span> “For it is easier <span class="added-text">(for)</span> a camel to enter through <span class="added-text">(the)</span> eye of a needle than <span class="added-text">(for)</span> a rich man to go into the kingdom of God.”
+<span class="v-num">25</span> For it is easier for a camel to enter through a needle's eye, than for a rich man to enter into the kingdom of God."
 
-<span class="v-num">26</span> And the ones hearing <span class="added-text">(it)</span> said, “And who is able to be saved?”
+<span class="v-num">26</span> And those having heard it said, "And who is able to be saved?"
 
-<span class="v-num">27</span> And he said, “The things <span class="added-text">(which are)</span> impossible with men <span class="alt-label">is</span><span class="alt-text">(=are)</span> possible with <del class="deleted-text">[the]</del> God.”
+<span class="v-num">27</span> And he said, "The things impossible with men are possible with God."
 
-<span class="v-num">28</span> And <del class="deleted-text">[the]</del> Peter said, “Behold, we, having left our own things, have followed you.”
+<span class="v-num">28</span> And Peter said, "Behold, we have left all, and have followed you."
 
-<span class="v-num">29</span> And he said <span class="added-text">(to)</span> them, “Truly I say <span class="added-text">(to)</span> you, that no one who has left house or wife or brothers or parents or children for the sake of the kingdom of God”
+<span class="v-num">29</span> And he said to them, "Truly I say to you that there is no one who has left house, or parents, or brothers, or wife, or children, for the sake of the kingdom of God,
 
-<span class="v-num">30</span> “<del class="deleted-text">[who]</del> <span class="alt-label">might</span><span class="alt-text">(=will)</span> not receive many times over in this times and in the coming age eternal life.”
+<span class="v-num">30</span> who will not receive back many times more in this time, and in the age to come eternal life."
 
-<span class="v-num">31</span> And having taken the twelve, he said <span class="added-text">(to)</span> them, “Behold, we are going up to Jerusalem, and all thing having been written <span class="added-text">(about)</span> the Son of Man by the prophets will be accomplished.”
+<span class="v-num">31</span> And having taken with him the twelve, he said to them, "Behold, we are going up to Jerusalem, and all the things written through the prophets to the Son of man will be accomplished.[^8]
 
-<span class="v-num">32</span> “For he will be delivered to the Gentiles and will be mocked and will be insulted and will be spat upon”
+<span class="v-num">32</span> For he will be delivered up to the Gentiles, and will be mocked, and will be insulted, and will be spit upon,
 
-<span class="v-num">33</span> “And having scourged, they will kill him. And <span class="added-text">(on)</span> the third day, he will rise.”
+<span class="v-num">33</span> and having scourged him, they will kill him; and on the third day he will rise again."
 
-<span class="v-num">34</span> And they understood none of these things. And this saying <u>was <del class="deleted-text">[having been]</del> hidden</u><span class="added-text">(# periphrastic pluperfect)</span> from them, and they did not know the things being said.
+<span class="v-num">34</span> And they understood none of these things, and this saying was hidden from them, and they did not know the things being spoken.
 
-<span class="v-num">35</span> And it happened, <span class="alt-label">in the him to draw near</span><span class="alt-text">(=as he drew near)</span> to Jericho, that a certain blind <span class="added-text">(man)</span> sat by the road begging.
+<span class="v-num">35</span> And it came to pass, as he was drawing near to Jericho, a certain blind man was sitting beside the road begging.
 
-<span class="v-num">36</span> And having heard a crowd’s passing by, he asked what this <span class="alt-label">might be</span><span class="alt-text">(=meant)</span>[^1].
+<span class="v-num">36</span> And having heard a crowd passing by, he inquired what this might be.
 
-<span class="v-num">37</span> And they told him, “<del class="deleted-text">[that]</del> Jesus of Nazareth is passing by.”
+<span class="v-num">37</span> And they told him, "That Jesus the Nazarene is passing by."
 
-<span class="v-num">38</span> And he cried, saying, “Jesus, Son of David, have mercy on me!”
+<span class="v-num">38</span> And he cried out, saying, "Jesus, Son of David, have mercy on me."[^9]
 
-<span class="v-num">39</span> And the ones <span class="added-text">(who are)</span> going before was rebuking him that he should be quiet, but he was shouting all the more, “Son of David, have mercy on me!”
+<span class="v-num">39</span> And those going before were rebuking him, that he should be silent; but he was crying out much more, "Son of David, have mercy on me."[^10]
 
-<span class="v-num">40</span> And having stood, <del class="deleted-text">[the]</del> Jesus ordered him to be brought to him. And <span class="alt-label">his having drawn</span><span class="alt-text">(=when he came near)</span>[^2], he asked him,
+<span class="v-num">40</span> And Jesus, having stood, commanded him to be brought to him; and when he had drawn near, he questioned him,
 
-<span class="v-num">41</span> “What do you want <span class="alt-label">that I might do</span><span class="alt-text">(=me to do)</span> <span class="added-text">(for)</span> you? And he said, ‘Lord, that I <span class="alt-label">might</span><span class="alt-text">(=may)</span> see again.’”
+<span class="v-num">41</span> saying, "What do you want me to do for you?" And he said, "Lord, that I may see again."[^11]
 
-<span class="v-num">42</span> And <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> him, “<span class="alt-label">See again</span><span class="alt-text">(=Receive your sight)</span>, your faith has <span class="alt-label">saved</span><span class="alt-text">(=healed)</span> you.”
+<span class="v-num">42</span> And Jesus said to him, "See <span class="alt-label">again</span><span class="alt-text">(=Receive your sight)</span>; your faith has saved you."
 
-<span class="v-num">43</span> And immediately he <span class="alt-label">saw again</span><span class="alt-text">(=received his sight)</span> and was following him, glorifying <del class="deleted-text">[the]</del> God. And all the people, having seen <span class="added-text">(it)</span>, gave praise to God.
+<span class="v-num">43</span> And immediately he saw again, and was following him, glorifying God; and all the people, having seen it, gave praise to God.
 
 ---
 
-### Study Notes
-
-[^1]: potential optative
-[^2]: genitive absolute
+[^1]: πρὸς τὸ δεῖν은 부정사 목적구문으로 '항상 기도해야 할 필요'를 강조하는 표현이다.
+[^2]: ἵνα μὴ + 가정법은 부정적 목적을 나타내어 '나를 괴롭히지 못하게 하려고'라는 뜻을 담는다.
+[^3]: οὐ μὴ+미래는 강한 부정으로, 하나님께서 반드시 원한을 풀어주실 것을 확언하는 수사의문문이다.
+[^4]: ἱλάσθητί는 '속죄의 은혜를 베푸소서'라는 뜻으로, 단순한 동정이 아니라 죄를 덮는 하나님의 자비를 구하는 표현이다.
+[^5]: δεδικαιωμένος는 완료 수동분사로, 세리가 이미 확정적으로 의롭다 여겨진 상태로 돌아갔음을 나타낸다.
+[^6]: ἵνα+가정법(ἅπτηται)은 목적절로, 아기들을 데려온 '목적'이 예수께 만짐을 받게 하려는 것임을 보여준다. 단순한 소원이 아니라 의도된 행동의 목표를 나타낸다.
+[^7]: ὃς ἐὰν+가정법은 '누구든지 ~하지 않으면'이라는 불특정 대상을 향한 조건절로, 아직 실현되지 않은 미래의 가능성을 열어두고 각 사람에게 적용되는 보편적 원리를 제시한다. 어린아이처럼 하나님 나라를 받아들이는 태도가 없다면 누구도 예외 없이 들어가지 못한다는 단호한 경고다.
+[^8]: γεγραμμένα διὰ τῶν προφητῶν는 구약 예언들이 인자(메시아)에게서 성취될 것을 가리키는 표현이다.
+[^9]: '다윗의 자손'은 메시아 칭호로, 눈먼 자가 예수를 다윗 언약의 성취자로 고백하는 표현이다.
+[^10]: ἵνα+가정법(σιωπήσῃ)은 '잠잠하게 하려고'라는 목적절로, 앞서 가는 자들이 꾸짖은 의도를 나타낸다. 이 목적에도 불구하고 그가 더욱 크게 외친 것은 그의 간절함과 확신을 강조한다.
+[^11]: ἵνα+가정법(ἀναβλέψω)이 θέλεις의 목적어절 역할을 하여 '보게 되는 것'을 원하는 바의 내용으로 제시한다. 여기서 ἵνα절은 명사절처럼 쓰여 소원의 구체적 목적을 나타낸다.

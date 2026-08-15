@@ -16,72 +16,90 @@ tags: [NTpbsEn, Romans]
 </div>
 
 
-<span class="v-num">1</span> I say <span class="added-text">(the)</span> truth in Christ, I am not lying, <span class="alt-label">my conscience’s witnessing</span><span class="alt-text">(=as my conscience witnesses)</span>[^1] with me in <span class="added-text">(the)</span> Holy Spirit,
+<span class="v-num">1</span> I speak <span class="added-text">(the)</span> truth in Christ, I do not lie, my conscience also bearing witness with me in <span class="added-text">(the)</span> Holy Spirit,
 
-<span class="v-num">2</span> that great sorrow is to me and unceasing pain <span class="added-text">(in)</span> my heart.
+<span class="v-num">2</span> that I have great sorrow and unceasing anguish in my heart:
 
-<span class="v-num">3</span> For I was <span class="alt-label">praying</span><span class="alt-text">(=professing)</span> <span class="alt-label">myself to be a curse</span><span class="alt-text">(=that I myself were cursed)</span> from <del class="deleted-text">[the]</del> Christ for my brothers, my kinsmen according to <span class="added-text">(the)</span> flesh,
+<span class="v-num">3</span> For I was wishing that I myself were accursed from Christ for my brothers, my kinsmen according to <span class="added-text">(the)</span> flesh,
 
-<span class="v-num">4</span> who are Israelites, of whom <span class="added-text">(is)</span> the adoption, and the glory, and the covenants, and the giving of <span class="added-text">(the)</span> law, and the worship, and the promises,
+<span class="v-num">4</span> who are Israelites, whose is the <span class="alt-label">adoption</span><span class="alt-text">(=sonship)</span> and the glory and the covenants and the giving of the law and the <span class="alt-label">service</span><span class="alt-text">(=worship)</span> and the promises,[^1]
 
-<span class="v-num">5</span> of whom <span class="added-text">(are)</span> the fathers, and from whom according to the flesh <del class="deleted-text">[the]</del> Christ <span class="added-text">(came)</span>, who being over all, God blessed forever. Amen.
+<span class="v-num">5</span> whose are the fathers, and from whom <span class="added-text">(is)</span> the Christ according to <span class="added-text">(the)</span> flesh, who is over all, God blessed forever. Amen.[^2]
 
-<span class="v-num">6</span> <span class="added-text">(It is)</span> not <span class="alt-label">such as that</span><span class="alt-text">(=as though)</span> the word of God had failed. For not all the ones from Israel <del class="deleted-text">[these]</del> are Israel,
+<span class="v-num">6</span> But <span class="added-text">(it is)</span> not as though the word of God has failed. For not all who are of Israel, these are Israel;[^3]
 
-<span class="v-num">7</span> neither, because they are seed of Abraham, <span class="added-text">(are they)</span> all children. But “in Isaac will <span class="alt-label">seed to you</span><span class="alt-text">(=your seed)</span> be called.”
+<span class="v-num">7</span> nor because they are the seed of Abraham are they all children, but 'in Isaac shall your seed be called.'[^4]
 
-<span class="v-num">8</span> This <span class="alt-label">is</span><span class="alt-text">(=means)</span> <span class="added-text">(that it is)</span> not these children of the flesh <span class="added-text">(who are the)</span> children of God, but the children of the promise <span class="added-text">(are)</span> reckoned as <span class="added-text">(the)</span> seed.
+<span class="v-num">8</span> That is, not the children of the flesh, these <span class="added-text">(are)</span> children of God, but the children of the promise are reckoned for a seed.
 
-<span class="v-num">9</span> For this <span class="added-text">(is)</span> the word of promise. “At<span class="added-text">(#reference of time with accusative)</span> this time I will come and a son will be to Sarah.”
+<span class="v-num">9</span> For this is <span class="added-text">(the)</span> word of promise: 'At this time I will come, and there shall be a son to Sarah.'[^5]
 
-<span class="v-num">10</span> And not only <span class="added-text">(this)</span>, but also Rebecca, <span class="alt-label">having marriage-bed</span><span class="alt-text">(=conceived)</span> <span class="alt-label">from</span><span class="alt-text">(=by)</span> one <span class="added-text">(man)</span>, our father Isaac,
+<span class="v-num">10</span> Not only <span class="added-text">(so)</span>, but also Rebecca, having conceived by one, <span class="added-text">(by)</span> Isaac our father—
 
-<span class="v-num">11</span> <del class="deleted-text">[for]</del> <span class="alt-label">not yet having been born nor having practiced</span><span class="alt-text">(=although they were not yet born nor had done)</span> anything good or bad, in order that God’s purpose according to election might <span class="alt-label">remain</span><span class="alt-text">(=continue)</span>, <span class="added-text">(which is)</span> not from works but from the One <span class="alt-label">calling</span><span class="alt-text">(=who calls)</span>,
+<span class="v-num">11</span> for <span class="added-text">(the children)</span> not yet being born, nor having done anything good or bad, in order that the purpose of God according to election might remain, not of works, but of him who calls,[^6]
 
-<span class="v-num">12</span> it was said <span class="added-text">(to)</span> her, “<del class="deleted-text">[that]</del> The elder will serve the younger.”
+<span class="v-num">12</span> it was said to her, 'The greater shall serve the lesser.'[^7]
 
-<span class="v-num">13</span> as it was written, “<del class="deleted-text">[the]</del> Jacob I loved, but Esau I hated.”
+<span class="v-num">13</span> as it is written, 'Jacob I loved, but Esau I hated.'[^8]
 
-<span class="v-num">14</span> Therefore what shall we say? <span class="added-text">(Is there)</span> <del class="deleted-text">[not<span class="added-text">(#expecting “No”)</span>]</del> unrighteousness with God? <span class="alt-label">May it not be</span><span class="alt-text">(=Not at all)</span>.
+<span class="v-num">14</span> What then shall we say? <span class="added-text">(Is there)</span> unrighteousness with God? Let it not <span class="alt-label">be</span><span class="alt-text">(=God forbid)</span>.
 
-<span class="v-num">15</span> For He says <span class="added-text">(to)</span> Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”
+<span class="v-num">15</span> For he says to Moses, 'I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.'[^9]
 
-<span class="v-num">16</span> So then <span class="added-text">(it is)</span> not of the one <span class="alt-label">wanting</span><span class="alt-text">(=who wants)</span>, nor of the one <span class="alt-label">running</span><span class="alt-text">(=who makes efforts)</span>, but of <del class="deleted-text">[the]</del> God <span class="alt-label">having mercy</span><span class="alt-text">(=who has mercy)</span>.
+<span class="v-num">16</span> So then <span class="added-text">(it is)</span> not of him who wills, nor of him who runs, but of God who has mercy.
 
-<span class="v-num">17</span> For the Scripture says <span class="added-text">(to)</span> Pharaoh, “<del class="deleted-text">[that]</del> For the very <span class="alt-label">thing</span><span class="alt-text">(=purpose)</span> I raised you up that I might show my power in you, and that my name might be proclaimed in all the earth.”
+<span class="v-num">17</span> For the scripture says to Pharaoh, 'For this very thing I raised you up, that I might show in you my power, and that my name might be proclaimed in all the earth.'[^10]
 
-<span class="v-num">18</span> So then He has mercy <span class="added-text">(on)</span> whom He wants, and He hardens whom He wants.
+<span class="v-num">18</span> So then, on whom he wills he has mercy, and whom he wills he hardens.
 
-<span class="v-num">19</span> Therefore you will say to me, “Why does He still find fault? For who resists His will?”
+<span class="v-num">19</span> You will say to me then, 'Why does he still find fault? For who has resisted his will?'
 
-<span class="v-num">20</span> More truly, O man, who are you <span class="alt-label">replying against</span><span class="alt-text">(=to talk back to)</span> <del class="deleted-text">[the]</del> God? Shall <del class="deleted-text">[not<span class="added-text">(#expecting “No”)</span>]</del> the thing formed say to the one having formed <span class="added-text">(it)</span>, “Why did you make me thus?”
+<span class="v-num">20</span> Nay rather, O man, who are you who answers back to God? Shall the thing formed say to him who formed <span class="added-text">(it)</span>, 'Why did you make me thus?'[^11]
 
-<span class="v-num">21</span> Or does not the potter have <span class="added-text">(the)</span> right to make out of the same lump of clay what <span class="added-text">(is)</span> one vessel for <span class="alt-label">honor</span><span class="alt-text">(=noble use)</span> and what <span class="added-text">(is)</span> another for <span class="alt-label">dishonor</span><span class="alt-text">(=menial use)</span>?
+<span class="v-num">21</span> Or does not the potter have authority over the clay, from the same lump to make one vessel for honor, and another for dishonor?
 
-<span class="v-num">22</span> And what if <del class="deleted-text">[the]</del> God, wanting to show the wrath and to make known His power, bore <span class="alt-label">in</span><span class="alt-text">(=with)</span> much long-patience <span class="added-text">(the)</span> vessels of wrath having been prepared for destruction,
+<span class="v-num">22</span> But if God, willing to show <span class="added-text">(his)</span> wrath, and to make known his power, endured with much longsuffering <span class="added-text">(the)</span> vessels of wrath fitted for destruction—[^12]
 
-<span class="v-num">23</span> and in order that he might make known the riches of his glory <span class="alt-label">on</span><span class="alt-text">(=for)</span> <span class="added-text">(the)</span> vessels of mercy, which he prepared beforehand for glory,
+<span class="v-num">23</span> and that he might make known the riches of his glory upon <span class="added-text">(the)</span> vessels of mercy, which he prepared beforehand for glory—[^13]
 
-<span class="v-num">24</span> even us whom He also called, not only from <span class="added-text">(the)</span> Jews but also from the Gentiles?
+<span class="v-num">24</span> whom he also called, us, not only from <span class="added-text">(the)</span> Jews, but also from <span class="added-text">(the)</span> Gentiles?
 
-<span class="v-num">25</span> As He also says in <del class="deleted-text">[the]</del> Hosea, “I will call <span class="added-text">(them)</span> my people, <span class="added-text">(who are)</span> not my people; And her beloved, who was not beloved.”
+<span class="v-num">25</span> As he says also in Hosea, 'I will call them my people, who were not my people, and her beloved, who was not beloved.'[^14]
 
-<span class="v-num">26</span> “And it will be in the place where it was said <span class="added-text">(to)</span> them, ‘You <span class="added-text">(are)</span> not my people.’ There they will be called sons of <span class="added-text">(the)</span> living God.”
+<span class="v-num">26</span> 'And it shall be, in the place where it was said to them, "You are not my people," there they shall be called sons of <span class="added-text">(the)</span> living God.'[^15]
 
-<span class="v-num">27</span> And Isaiah cries out concerning Israel, “Though the number of the sons of Israel may be like the sand of the sea, <span class="added-text">(only)</span> the remnant will be saved;”  
-28 “for <span class="added-text">(the)</span> Lord will <span class="alt-label">do accomplishing</span><span class="alt-text">(=accomplish)</span> <span class="added-text">(his)</span> <span class="alt-label">word</span><span class="alt-text">(=work)</span> and <span class="alt-label">cutting</span><span class="alt-text">(=cut)</span> short on the earth.”
+<span class="v-num">27</span> And Isaiah cries out concerning Israel, "Though the number of the sons of Israel be as the sand of the sea, the remnant shall be saved,[^16]
 
-<span class="v-num">29</span> And as Isaiah said before, “Unless <span class="added-text">(the)</span> Lord of hosts left us a seed, we would have become like Sodom, and we would have been like Gomorrah.”
+<span class="v-num">28</span> for he is finishing and cutting short <span class="added-text">(the)</span> word in righteousness, because <span class="added-text">(the)</span> Lord will make <span class="added-text">(a)</span> word cut short upon the earth."[^17]
 
-<span class="v-num">30</span> What then shall we say? That the Gentiles, not pursuing righteousness, attained righteousness, even righteousness <span class="alt-label">from</span><span class="alt-text">(=by)</span> faith,
+<span class="v-num">29</span> And as Isaiah said before, 'Unless <span class="added-text">(the)</span> Lord of Sabaoth had left us a seed, we would have become as Sodom, and would have been made like Gomorrah.'[^18]
 
-<span class="v-num">31</span> but Israel pursuing a law of righteousness did not arrive <span class="alt-label">to</span><span class="alt-text">(=at)</span> <span class="added-text">(the)</span> law.   
-32 Why? Because <span class="added-text">(they pursued it)</span> not <span class="alt-label">from</span><span class="alt-text">(=by)</span> faith but as if <span class="added-text">(it were)</span> <span class="alt-label">from</span><span class="alt-text">(=by)</span> works. They have stumbled <span class="added-text">(at)</span> the stone of stumbling.
+<span class="v-num">30</span> What then shall we say? That <span class="added-text">(the)</span> Gentiles who did not pursue righteousness, attained righteousness, but <span class="added-text">(the)</span> righteousness which is of faith;
 
-<span class="v-num">33</span> As it have been written, “Behold, I lay in Zion a stone of stumbling and a rock of offense. And the one <span class="alt-label">believing on</span><span class="alt-text">(=who believes in)</span> him will not be put to shame.”
+<span class="v-num">31</span> but Israel, pursuing <span class="added-text">(the)</span> law of righteousness, did not arrive at <span class="added-text">(that)</span> law of righteousness.
+
+<span class="v-num">32</span> Why? Because <span class="added-text">(they pursued it)</span> not by faith, but as if by works of <span class="added-text">(the)</span> law; for they stumbled at the stone of stumbling,
+
+<span class="v-num">33</span> as it is written, 'Behold, I lay in Zion a stone of stumbling and a rock of offense; and whoever believes on him shall not be put to shame.'[^19]
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
+[^1]: υἱοθεσία는 로마의 입양 법제를 배경으로 한 언약적 지위 부여를 뜻하며, 여기서는 이스라엘에게 주어진 하나님의 아들 됨의 특권을 가리킨다.
+[^2]: ὁ ὢν ἐπὶ πάντων Θεὸς는 관사 구조상 그리스도를 가리키는 것으로 읽는 것이 자연스러우며, 이는 신약에서 그리스도의 신성을 명시하는 드문 구절 중 하나이다.
+[^3]: ἐκπέπτωκεν은 완료시제로, 말씀이 과거에 무효화되어 지금까지 그 효력이 없는 상태에 있다는 부정을 강조한다.
+[^4]: 창세기 21:12 인용으로, 육신의 혈통이 아니라 하나님의 약속에 따른 계보가 참 자손을 결정함을 보인다.
+[^5]: 창세기 18:10,14 인용.
+[^6]: ἵνα...μένῃ는 목적을 나타내는 가정법 구문으로, 하나님의 택하심의 계획이 인간의 행위가 아니라 부르심에 근거함을 밝힌다.
+[^7]: 창세기 25:23 인용.
+[^8]: 말라기 1:2-3 인용.
+[^9]: 출애굽기 33:19 인용.
+[^10]: 출애굽기 9:16 인용이며, ὅπως+가정법(ἐνδείξωμαι, διαγγελῇ) 이중 목적절이 하나님의 목적을 강조한다.
+[^11]: 이사야 29:16, 45:9 배경의 토기장이 비유가 시작된다.
+[^12]: εἰ δὲ로 시작하는 조건절이 23절까지 이어지며 본절에는 그에 상응하는 귀결절이 생략된 아나콜루톤(anacoluthon) 구조이다.
+[^13]: ἵνα γνωρίσῃ는 22절의 조건절과 연결되는 목적절로, 진노의 그릇과 긍휼의 그릇이 대조를 이루며 하나님의 영광을 나타내는 목적을 이룬다.
+[^14]: 호세아 2:23 인용.
+[^15]: 호세아 1:10 인용.
+[^16]: 이사야 10:22-23 인용이며 ἐὰν ᾖ는 3급 조건문으로 미래의 가능성을 나타낸다.
+[^17]: 이사야 10:23 계속.
+[^18]: 이사야 1:9 인용.
+[^19]: 이사야 28:16 인용.

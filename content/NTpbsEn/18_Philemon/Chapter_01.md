@@ -16,53 +16,61 @@ tags: [NTpbsEn, Philemon]
 </div>
 
 
-<span class="v-num">1</span> Paul, a prisoner of Christ Jesus, and Timothy <span class="alt-label">the</span><span class="alt-text">(=our)</span> brother, To Philemon our beloved one and fellow worker,
+<span class="v-num">1</span> Paul, a prisoner of Christ Jesus, and Timothy the brother, to Philemon our beloved and fellow worker,
 
-<span class="v-num">2</span> to Apphia <span class="alt-label">the</span><span class="alt-text">(=our)</span> sister, <del class="deleted-text">[and]</del> to Archippus our fellow soldier, and to the church in your house.
+<span class="v-num">2</span> and to Apphia the beloved, and to Archippus our fellow soldier, and to the church in your house:
 
-<span class="v-num">3</span> Grace <span class="added-text">(to)</span> you and peace from God our Father and <span class="added-text">(the)</span> Lord Jesus Christ.
+<span class="v-num">3</span> Grace to you and peace from God our Father and <span class="added-text">(the)</span> Lord Jesus Christ.
 
-<span class="v-num">4</span> I always give thanks to my God, <span class="alt-label">making remembrance of you</span><span class="alt-text">(=as I remember you)</span> in my prayers,
+<span class="v-num">4</span> I give thanks to my God, always making mention of you <span class="alt-label">in</span><span class="alt-text">(=at)</span> my prayers,
 
-<span class="v-num">5</span> hearing of your love and faith which you have toward the Lord Jesus and to all the saints,
+<span class="v-num">5</span> hearing of your love and faith, which you have toward the Lord Jesus and toward all the saints,
 
-<span class="v-num">6</span> in order that the <span class="alt-label">fellowship</span><span class="alt-text">(=sharing)</span> of your faith might be effective <span class="alt-label">in</span><span class="alt-text">(=by)</span> <span class="added-text">(the)</span> knowledge of every good thing <span class="added-text">(which is)</span> in us for Christ.
+<span class="v-num">6</span> so that the fellowship of your faith may become effective in the full knowledge of every good thing which is in you <span class="alt-label">unto</span><span class="alt-text">(=toward)</span> Christ Jesus.[^1]
 
-<span class="v-num">7</span> For I had great joy and consolation from your love, because the <span class="alt-label">bowels</span><span class="alt-text">(=hearts)</span> of the saints have been refreshed through you, brother.
+<span class="v-num">7</span> For we have much joy and comfort <span class="alt-label">in</span><span class="alt-text">(=on account of)</span> your love, because the <span class="alt-label">hearts</span><span class="alt-text">(=affections)</span> of the saints have been refreshed through you, brother.
 
-<span class="v-num">8</span> Therefore, having much boldness in Christ to command you <span class="alt-label">the thing being right</span><span class="alt-text">(=to do what you ought to do)</span>,
+<span class="v-num">8</span> Therefore, though having much boldness in Christ to command you <span class="added-text">(that which is)</span> fitting,
 
-<span class="v-num">9</span> but for love’s sake I rather appeal <span class="added-text">(to you)</span>, being such a one as Paul, <span class="added-text">(the)</span> aged, and now also a prisoner of Christ Jesus,
+<span class="v-num">9</span> for love's sake I rather appeal <span class="added-text">(to you)</span>—being such a one as Paul, an old man, and now also a prisoner of Jesus Christ—
 
-<span class="v-num">10</span> I appeal <span class="added-text">(to)</span> you for my child Onesimus, whom I have begotten in <span class="alt-label">the</span><span class="alt-text">(=my)</span> <span class="alt-label">chains</span><span class="alt-text">(=imprisonment)</span>,
+<span class="v-num">10</span> I appeal to you concerning my child, whom I have begotten in my bonds, Onesimus,[^2]
 
-<span class="v-num">11</span> formerly the one <span class="added-text">(was)</span> useless to you, but now he is useful both <span class="added-text">(to)</span> you and to me,
+<span class="v-num">11</span> who was formerly useless to you, but now <span class="added-text">(is)</span> useful to you and to me,
 
-<span class="v-num">12</span> whom I have sent back to you, him, this is my <span class="alt-label">bowels</span><span class="alt-text">(=hearts)</span>,
+<span class="v-num">12</span> whom I have sent back; and you, receive him, that is, my own <span class="alt-label">heart</span><span class="alt-text">(=affections)</span>,
 
-<span class="v-num">13</span> whom I <span class="alt-label">was desiring</span><span class="alt-text">(=would have liked)</span> to keep with <span class="alt-label">myself</span><span class="alt-text">(=me)</span>, so that on your behalf he may minister to me <span class="alt-label">in</span><span class="alt-text">(=during)</span> <span class="alt-label">the chains</span><span class="alt-text">(=my imprisonment)</span> <span class="alt-label">of</span><span class="alt-text">(=for)</span> the gospel,
+<span class="v-num">13</span> whom I was wishing to keep with myself, so that he might minister to me on your behalf in the bonds of the gospel,[^3]
 
-<span class="v-num">14</span> but without your consent I wanted to do nothing, so that your good <span class="added-text">(deed)</span> may not be as by compulsion but by voluntary.
+<span class="v-num">14</span> but without your consent I willed to do nothing, so that your good <span class="added-text">(deed)</span> might not be as if by compulsion, but of your own free will.[^4]
 
-<span class="v-num">15</span> For perhaps he was separated <span class="added-text">(from you)</span> for a time for this <span class="added-text">(reason)</span>, that you may have him back forever,
+<span class="v-num">15</span> For perhaps for this reason he was parted <span class="added-text">(from you)</span> for an <span class="alt-label">hour</span><span class="alt-text">(=a while)</span>, so that you might have him back forever;[^5]
 
-<span class="v-num">16</span> no longer as a slave but <span class="alt-label">beyond</span><span class="alt-text">(=more than)</span> a slave, a beloved brother, especially to me, but how much more to you, both in <span class="added-text">(the)</span> flesh and in <span class="added-text">(the)</span> Lord.
+<span class="v-num">16</span> no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much more to you, both in <span class="added-text">(the)</span> flesh and in <span class="added-text">(the)</span> Lord?
 
-<span class="v-num">17</span> Therefore if you <span class="alt-label">have</span><span class="alt-text">(=consider)</span> me as a partner, welcome him as <span class="added-text">(you would welcome)</span> me.
+<span class="v-num">17</span> If then you have me as a partner, receive him as <span class="added-text">(you would)</span> me.
 
-<span class="v-num">18</span> And if he wronged you or owes <span class="added-text">(you)</span> anything, charge that to me.
+<span class="v-num">18</span> But if he has wronged you in anything, or owes <span class="added-text">(you anything)</span>, charge this to me;
 
-<span class="v-num">19</span> I, Paul, <span class="alt-label">wrote</span><span class="alt-text">(=am writing)</span> <span class="added-text">(with)</span> my hand, I will repay <span class="added-text">(it)</span>, that I say <span class="alt-label">not</span><span class="alt-text">(=nothing)</span> <span class="added-text">(to)</span> you that you owe me your own self besides.
+<span class="v-num">19</span> I, Paul, have written <span class="added-text">(this)</span> with my own hand, I will repay <span class="added-text">(it)</span>—not to mention to you that you owe to me even your own self besides.[^6]
 
-<span class="v-num">20</span> Yes, brother, <span class="added-text">(I wish that)</span> I <u>may have joy</u><span class="added-text">(# aorist optative middle)</span> of you in <span class="added-text">(the)</span> Lord. Refresh my <span class="alt-label">bowels</span><span class="alt-text">(=hearts)</span> in Christ.
+<span class="v-num">20</span> Yes, brother, let me have <span class="alt-label">profit</span><span class="alt-text">(=joy)</span> from you in <span class="added-text">(the)</span> Lord; refresh my <span class="alt-label">heart</span><span class="alt-text">(=affections)</span> in <span class="added-text">(the)</span> Lord.
 
-<span class="v-num">21</span> Having confidence <span class="added-text">(in)</span> your obedience, I wrote you, knowing that you will do even more than what I say.
+<span class="v-num">21</span> Having confidence in your obedience, I have written to you, knowing that you will do even more than what I say.
 
-<span class="v-num">22</span> And at the same time, prepare a guest room <span class="added-text">(for)</span> me, for I hope that through your prayers I shall be <span class="alt-label">granted</span><span class="alt-text">(=restored)</span> <span class="added-text">(to)</span> you.
+<span class="v-num">22</span> But at the same time also prepare a lodging for me; for I hope that through your prayers I will be granted to you.
 
 <span class="v-num">23</span> Epaphras, my fellow prisoner in Christ Jesus, greets you,
 
-<span class="v-num">24</span> <span class="added-text">(and so do)</span> Mark, Aristarchus, Demas <span class="added-text">(and)</span> Luke, <span class="alt-label">the</span><span class="alt-text">(=my)</span> fellow workers.
+<span class="v-num">24</span> <span class="added-text">(as do)</span> Mark, Aristarchus, Demas, Luke, my fellow workers.
 
-<span class="v-num">25</span> The grace of the Lord Jesus Christ <span class="added-text">(be)</span> with your spirit.
+<span class="v-num">25</span> The grace of our Lord Jesus Christ <span class="added-text">(be)</span> with your spirit. Amen. <span class="added-text">(Written)</span> to Philemon from Rome <span class="alt-label">by</span><span class="alt-text">(=through)</span> Onesimus the servant.
 
+---
+
+[^1]: ὅπως+가정법(γένηται)은 목적절로, 빌레몬의 믿음의 교제가 실제로 효력을 나타내기를 바라는 바울의 의도를 나타낸다.
+[^2]: ἐγέννησα(낳았다)는 영적 아버지 됨을 나타내는 은유로, 오네시모가 옥중에서 바울을 통해 회심했음을 뜻한다.
+[^3]: ἵνα+가정법(διακονῇ)은 바울이 오네시모를 두고자 했던 목적을 나타낸다.
+[^4]: ἵνα μὴ...ᾖ 목적절은 빌레몬의 선행이 강요가 아닌 자원함에서 나오게 하려는 바울의 의도를 밝힌다.
+[^5]: ἵνα+가정법(ἀπέχῃς)은 오네시모의 일시적 떠남이 궁극적으로 영원한 관계를 위함이었다는 하나님의 섭리를 가리킨다.
+[^6]: ἵνα+가정법(μὴ λέγω)이 목적절을 이끌며, '~라고 말하지 않기 위해'라는 뜻으로 완곡하게 상대의 빚(자신을 빚진 것)을 상기시키는 수사적 목적을 나타낸다.

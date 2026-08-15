@@ -16,85 +16,94 @@ tags: [NTpbsEn, John]
 </div>
 
 
-<span class="v-num">1</span> And passing by, he saw a man blind from birth
+<span class="v-num">1</span> <span class="added-text">(Jesus)</span> passing by, saw a man blind from birth.
 
-<span class="v-num">2</span> And his disciples asked him, saying, “Rabbi, who sinned, this man or his parents, that he <span class="alt-label">might be</span><span class="alt-text">(=was)</span> born blind?”
+<span class="v-num">2</span> His disciples asked him, saying, "Rabbi, who sinned, this man or his parents, that he should be born blind?"[^1]
 
-<span class="v-num">3</span> Jesus answered, “Neither this man nor his parents sinned, but that the works of God might be revealed in him.”
+<span class="v-num">3</span> Jesus answered, "Neither did this man sin nor his parents, but that the works of God should be made manifest in him.[^2]
 
-<span class="v-num">4</span> “It is necessary for us to work the works of the One having sent me while it is day; night comes, when no one is able to work.”
+<span class="v-num">4</span> I must work the works of him who sent me while it is day; night comes, when no one can work.
 
-<span class="v-num">5</span> “While I <del class="deleted-text">[may]</del> am in the world, I am the light of the world.”
+<span class="v-num">5</span> As long as I am in the world, I am the light of the world."
 
-<span class="v-num">6</span> Having said these things, he spat on the ground and made mud <span class="alt-label">from</span><span class="alt-text">(=with)</span> the saliva, and spread the mud on his eyes.
+<span class="v-num">6</span> Having said these things, he spat on the ground, and made mud from the spittle, and applied the mud on the eyes of the blind <span class="added-text">(man)</span>,
 
-<span class="v-num">7</span> And he said <span class="added-text">(to)</span> him, “Go, wash in the pool of Siloam” <span class="added-text">(which is translated ‘Sent’)</span>. So he went and washed and came <span class="added-text">(back)</span> seeing.
+<span class="v-num">7</span> and said to him, "Go, wash in the pool of Siloam" <span class="added-text">(which is translated, Sent)</span>. He went, therefore, and washed, and came seeing.
 
-<span class="v-num">8</span> So the neighbours and the ones formerly <span class="alt-label">seeing</span><span class="alt-text">(=having seen)</span> him that he was beggar were saying, “Is not this the one <span class="alt-label">sitting and begging</span><span class="alt-text">(=who used to sit and beg)</span>?”
+<span class="v-num">8</span> The neighbors, therefore, and those who had seen him before that he was blind, said, "Is not this the one who sat and begged?"
 
-<span class="v-num">9</span> Some were saying, “<del class="deleted-text">[that]</del> This is he.” Others were saying, “No, but he is like him.” That one was saying, “<del class="deleted-text">[that]</del> I am <span class="added-text">(he)</span>.”
+<span class="v-num">9</span> Some said, "This is he." Others said, "He is like him." He said, "I am <span class="added-text">(he)</span>."
 
-<span class="v-num">10</span> So they were saying to him, “How were your eyes opened?”
+<span class="v-num">10</span> They said to him, therefore, "How were your eyes opened?"
 
-<span class="v-num">11</span> That one answered, “The man being called Jesus made mud and spread <span class="added-text">(it on)</span> my eyes, and said <span class="added-text">(to)</span> me, ‘<del class="deleted-text">[that]</del> Go to <del class="deleted-text">[the]</del> Siloam and wash.’ So having gone and having washed, I <span class="alt-label">saw</span><span class="alt-text">(=could see)</span>.”
+<span class="v-num">11</span> He answered and said, "A man called Jesus made mud, and applied <span class="added-text">(it)</span> on my eyes, and said to me, 'Go to the pool of Siloam, and wash.' Having gone, therefore, and having washed, I received sight."
 
-<span class="v-num">12</span> And they said <span class="added-text">(to)</span> him, “Where is that one?” He says, “I do not know.”
+<span class="v-num">12</span> They said to him, therefore, "Where is he?" He says, "I do not know."
 
-<span class="v-num">13</span> They lead to the Pharisees him, the blind formerly.
+<span class="v-num">13</span> They bring him to the Pharisees, the one who was once blind.
 
-<span class="v-num">14</span> Now it was a Sabbath, the day on which <del class="deleted-text">[the]</del> Jesus made the mud and opened his eyes.
+<span class="v-num">14</span> Now it was <span class="added-text">(the)</span> Sabbath when Jesus made the mud, and opened his eyes.
 
-<span class="v-num">15</span> So the Pharisees also were asking him again how he <span class="alt-label">saw</span><span class="alt-text">(=could see)</span>. And the one said <span class="added-text">(to)</span> them, “He put mud on my eyes, and I washed, and I see.”
+<span class="v-num">15</span> Again, therefore, the Pharisees also asked him how he received sight. He said to them, "He put mud on my eyes, and I washed, and I see."
 
-<span class="v-num">16</span> So some of the Pharisees were saying, “This man is not from God, because he does not keep the Sabbath.” Others were saying, “How is a man, sinner, able to do such signs?” And there was a division among them.
+<span class="v-num">16</span> Some of the Pharisees, therefore, said, "This man is not from God, because he does not keep the Sabbath." Others said, "How can a sinful man do such signs?" And there was a division among them.
 
-<span class="v-num">17</span> So they say to the blind man again, “What do you say about him, because he opened your eyes?” And he said, “<del class="deleted-text">[that]</del> He is a prophet.”
+<span class="v-num">17</span> They say to the blind <span class="added-text">(man)</span> again, "What do you say about him, since he opened your eyes?" He said, "He is a prophet."
 
-<span class="v-num">18</span> So the Jews did not believe about him that he was blind and <span class="alt-label">saw</span><span class="alt-text">(=had received his sight)</span>, until they called the parents of the one <span class="alt-label">having seen</span><span class="alt-text">(=who had received his sight)</span>.
+<span class="v-num">18</span> The Jews, therefore, did not believe concerning him, that he was blind and received sight, until they called the parents of him who had received sight,
 
-<span class="v-num">19</span> And they asked them, saying, “Is this your son, whom you say that he was born blind? How then does he see now?”
+<span class="v-num">19</span> and asked them, saying, "Is this your son, whom you say was born blind? How then does he now see?"
 
-<span class="v-num">20</span> So his parents answered and said, “We know that this is our son, and that he was born blind.”
+<span class="v-num">20</span> His parents answered them and said, "We know that this is our son, and that he was born blind.
 
-<span class="v-num">21</span> “And we do not know how he sees now, nor do we know who opened his eyes. Ask him; he is of age. He will speak <span class="alt-label">about</span><span class="alt-text">(=for)</span> himself.”
+<span class="v-num">21</span> but how he now sees, we do not know; or who opened his eyes, we do not know. He is of age; ask him, he will speak concerning himself."
 
-<span class="v-num">22</span> His parents said these things, because they were fearing the Jews, for the Jews had already agreed that if anyone <span class="alt-label">might confess</span><span class="alt-text">(=confessed)</span> him <span class="added-text">(to be)</span> Christ, he would be put out of the synagogue.
+<span class="v-num">22</span> These things his parents said, because they feared the Jews; for the Jews had already agreed that if anyone should confess him <span class="added-text">(to be the)</span> Christ, he should become put out of the synagogue.[^3]
 
-<span class="v-num">23</span> So his parents said, “<del class="deleted-text">[that]</del> He is of age, ask him.”
+<span class="v-num">23</span> Because of this, his parents said, "He is of age; ask him."
 
-<span class="v-num">24</span> So <span class="added-text">(for the)</span> second <span class="added-text">(time)</span> they called the man who was blind, and they said <span class="added-text">(to)</span> him, “Give glory to God. We know that this man is a sinner.”
+<span class="v-num">24</span> They called, therefore, the man who was blind a second time, and said to him, "Give glory to God; we know that this man is a sinner."
 
-<span class="v-num">25</span> So that one answered, “I do not know if he is a sinner. One thing I know, that <span class="alt-label">being blind</span><span class="alt-text">(=though I was blind)</span> now I see.”
+<span class="v-num">25</span> He answered, therefore, and said, "Whether he is a sinner, I do not know; one thing I know, that, being blind, now I see."
 
-<span class="v-num">26</span> So they said <span class="added-text">(to)</span> him, “What did he do to you? How did he open your eyes?”
+<span class="v-num">26</span> They said to him again, "What did he do to you? How did he open your eyes?"
 
-<span class="v-num">27</span> He answered them, “I have told you already and you did not listen. Why do you want to hear again? Do <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> you also want to be his disciples?”
+<span class="v-num">27</span> He answered them, "I told you already, and you did not listen. Why do you want to hear <span class="added-text">(it)</span> again? Do you also want to become his disciples?"
 
-<span class="v-num">28</span> And they reviled him and said, “You are a disciple of that <span class="added-text">(man)</span>, but we are disciples of Moses.”
+<span class="v-num">28</span> They reviled him, therefore, and said, "You are his disciple, but we are disciples of Moses.
 
-<span class="v-num">29</span> “We know that <del class="deleted-text">[the]</del> God has spoken to Moses, but <span class="added-text">(as for)</span> this man, we do not know where he <span class="alt-label">is</span><span class="alt-text">(=comes)</span> from.”
+<span class="v-num">29</span> We know that God has spoken to Moses; but as for this <span class="added-text">(man)</span>, we do not know where he is from."
 
-<span class="v-num">30</span> The man answered and said <span class="added-text">(to)</span> them, “Then the marvelous thing is in this, that you do not know where he <span class="alt-label">is</span><span class="alt-text">(=comes)</span> from, and he opened my eyes.”
+<span class="v-num">30</span> The man answered and said to them, "Why, this is a marvelous thing, that you do not know where he is from, and <span class="added-text">(yet)</span> he opened my eyes.
 
-<span class="v-num">31</span> “We know that <del class="deleted-text">[the]</del> God does not hear sinners, but if anyone <del class="deleted-text">[may]</del> is godly and <del class="deleted-text">[may]</del> does his will, he hears this <span class="added-text">(man)</span>.”
+<span class="v-num">31</span> Now we know that God does not hear sinners; but if anyone is God-fearing, and does his will, this one he hears.[^4]
 
-<span class="v-num">32</span> “<span class="alt-label">From the age</span><span class="alt-text">(=Since the world began)</span>, it was not heard that anyone opened the eyes of one having been born blind.”
+<span class="v-num">32</span> From the age <span class="added-text">(it)</span> has not been heard that anyone opened the eyes of one born blind.
 
-<span class="v-num">33</span> “If this <span class="added-text">(man)</span> was not from God, he was not able to do anything.”
+<span class="v-num">33</span> If this <span class="added-text">(man)</span> were not from God, he could do nothing."
 
-<span class="v-num">34</span> They answered and said <span class="added-text">(to)</span> him, “You were altogether born in sins. And do you teach us?” And they cast him out.
+<span class="v-num">34</span> They answered and said to him, "You were born entirely in sins, and you teach us?" And they cast him out.
 
-<span class="v-num">35</span> Jesus heard that they cast him out. And having found him, he said, “Do you believe in the Son of Man?”
+<span class="v-num">35</span> Jesus heard that they had cast him out; and having found him, he said to him, "Do you believe in the Son of God?"
 
-<span class="v-num">36</span> That one answered and said, “And who is he, Lord, that I <span class="alt-label">might</span><span class="alt-text">(=may)</span> believe in him?”
+<span class="v-num">36</span> He answered and said, "Who is he, Lord, that I may believe in him?"[^5]
 
-<span class="v-num">37</span> <del class="deleted-text">[The]</del> Jesus said <span class="added-text">(to)</span> him, “You have seen him, and the one speaking with you is that one.”
+<span class="v-num">37</span> Jesus said to him, "You have both seen him, and the one speaking with you is he."
 
-<span class="v-num">38</span> And he was saying, “I believe, Lord,” and he worshiped him.
+<span class="v-num">38</span> He said, "I believe, Lord;" and he worshiped him.
 
-<span class="v-num">39</span> And <del class="deleted-text">[the]</del> Jesus said, “For judgment I came to this world, that the ones not seeing may see, and the ones seeing <span class="alt-label">might</span><span class="alt-text">(=may)</span> become blind.”
+<span class="v-num">39</span> And Jesus said, "For judgment I came into this world, that those not seeing may see, and those seeing may become blind."[^6]
 
-<span class="v-num">40</span> <span class="added-text">(Some)</span> of the Pharisees being with him heard these things, and they said <span class="added-text">(to)</span> him, “Are <del class="deleted-text">[not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> we also blind?”
+<span class="v-num">40</span> Those of the Pharisees who were with him heard these things, and said to him, "Are we also blind?"
 
-<span class="v-num">41</span> <del class="deleted-text">[The]</del> Jesus said <span class="added-text">(to)</span> them, “If you were blind, you would not have sin. But now you say, ‘<del class="deleted-text">[that]</del> We see,’ your sin remains.”
+<span class="v-num">41</span> Jesus said to them, "If you were blind, you would have no sin; but now you say, 'We see,' therefore your sin remains."[^7]
 
+---
+
+[^1]: ἵνα+가정법(τυφλὸς γεννηθῇ)은 목적절로, 죄의 결과로서 '태어날 때부터 눈멀게 되기 위하여'라는 의도된 목적을 묻는 질문 구조이다. 제자들은 인과응보적 사고로 누구의 죄가 원인이 되어 이 결과(실명)를 목적했는지를 묻고 있다.
+[^2]: ἵνα φανερωθῇ는 목적절로, 눈멂의 원인이 아니라 하나님의 일이 나타날 목적을 가리킨다.
+[^3]: ἵνα+가정법(ὁμολογήσῃ, γένηται)은 유대인들이 사전에 합의한 목적/내용절을 나타낸다.
+[^4]: ἐάν+가정법(ᾖ, ποιῇ)은 아직 실현되지 않은 미래 가능성을 나타내는 조건절로, '누구든지 ~하면'이라는 일반적 조건을 뜻한다. 하나님이 들으시는 조건이 경건함과 순종에 있음을 강조한다.
+[^5]: ἵνα+가정법(πιστεύσω)이 목적절을 이끌어 '내가 그를 믿기 위하여(믿고자)'라는 의도를 나타낸다. 그가 누구인지 알아야 믿을 수 있다는 전제 하의 목적을 표현한다.
+[^6]: ἵνα+가정법(βλέπωσι, γένωνται)의 목적절이며, '보지 못하는 자→보게'와 '보는 자→눈멀게'가 교차대구(키아즘)를 이룬다.
+[^7]: μένει(현재시제)는 지속되는 상태를 강조하여 '죄가 그대로 남아 있음'을 나타낸다.

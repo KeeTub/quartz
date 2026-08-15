@@ -16,165 +16,156 @@ tags: [NTpbsEn, Mark]
 </div>
 
 
-<span class="v-num">1</span> And the Passover and the <span class="added-text">(feast of)</span> Unleavened Bread were after two days. And the high priests and the scribes were seeking how they, having arrested <span class="alt-label">in deceit</span><span class="alt-text">(=by trickery)</span>, might kill him.
+<span class="v-num">1</span> Now the Passover and the unleavened <span class="added-text">(bread)</span> was after two days, and the chief priests and the scribes were seeking how, having seized him by trickery, they might kill <span class="added-text">(him)</span>.
 
-<span class="v-num">2</span> For they were saying, “Not <span class="alt-label">in</span><span class="alt-text">(=during)</span> the feast, lest there <del class="deleted-text">[will]</del> be a riot of the people.”
+<span class="v-num">2</span> But they said, "Not during the feast, lest there be an uproar of the people."
 
-<span class="v-num">3</span> And <span class="alt-label">his being</span><span class="alt-text">(=when he was)</span>[^1] in Bethany in the house of Simon, the leper, <span class="alt-label">his reclining <span class="added-text">(at table)</span></span><span class="alt-text">(=when he was dining)</span>[^2], a woman came having a alabaster jar of perfume, pure nard, very costly. Having broken the alabaster jar, she poured <span class="added-text">(it on)</span> his head.
+<span class="v-num">3</span> And while he was in Bethany, in the house of Simon the leper, as he was reclining, a woman came having an alabaster <span class="added-text">(flask)</span> of ointment of pure nard, very costly; and having broken the alabaster <span class="added-text">(flask)</span>, she poured <span class="added-text">(it)</span> down on his head.
 
-<span class="v-num">4</span> And some <u>were being angry</u><span class="added-text">(# periphrastic imperfect)</span> to themselves. “<span class="alt-label">For what</span><span class="alt-text">(=Why)</span> was the waste of this perfume made?”
+<span class="v-num">4</span> But there were some indignant among themselves, and saying, "For what <span class="added-text">(purpose)</span> has this waste of the ointment happened?
 
-<span class="v-num">5</span> “For this perfume <span class="alt-label">was being able to be sold</span><span class="alt-text">(=could have been sold)</span> <span class="alt-label">over</span><span class="alt-text">(=more than)</span> three hundred denarii and <span class="alt-label">to be given</span><span class="alt-text">(=could have been given)</span> to the poor.” And they <span class="alt-label">were snorting to her</span><span class="alt-text">(=criticized her sharply)</span>.
+<span class="v-num">5</span> For this could have been sold for above three hundred denarii, and given to the poor." And they were indignant against her.
 
-<span class="v-num">6</span> But Jesus said, “Let her alone. Why do you trouble her? She did good work <span class="alt-label">in</span><span class="alt-text">(=for)</span> me.”
+<span class="v-num">6</span> But Jesus said, "Let her alone; why do you cause her <span class="alt-label">trouble</span><span class="alt-text">(=cause her toils)</span>? She has worked a good work upon me.
 
-<span class="v-num">7</span> “For you always have the poor with <span class="alt-label">yourselves</span><span class="alt-text">(=you)</span>. And whenever you <del class="deleted-text">[may]</del> want, you are able to do them good. But you <span class="alt-label">do not always have</span><span class="alt-text">(=will not always have)</span> me.”
+<span class="v-num">7</span> For you always have the poor with yourselves, and whenever you wish, you are able to do good to them; but you do not always have me.
 
-<span class="v-num">8</span> “She did what she <span class="alt-label">had</span><span class="alt-text">(=could)</span>. She <span class="alt-label">anticipated to anoint my body</span><span class="alt-text">(=anointed my body beforehand)</span> for <span class="alt-label">the</span><span class="alt-text">(=my)</span> burial.”
+<span class="v-num">8</span> She has done what she had; she has beforehand anointed my body for the burial.
 
-<span class="v-num">9</span> “And truly I tell you. Wherever the gospel might be proclaimed into the whole world, what this <span class="added-text">(woman)</span> <span class="alt-label">did</span><span class="alt-text">(=has done)</span> will also be told <span class="alt-label">for her memorial</span><span class="alt-text">(=in memory of her)</span>.”
+<span class="v-num">9</span> Truly I say to you, wherever this gospel shall be preached <span class="alt-label">in</span><span class="alt-text">(=into)</span> the whole world, what this <span class="added-text">(woman)</span> has done shall also be spoken of, for a memorial of her."
 
-<span class="v-num">10</span> And Judas Iscariot, the one of the twelve, went to the high priests in order that he might betray him to them.
+<span class="v-num">10</span> And Judas Iscariot, one of the twelve, went away to the chief priests, that he might deliver him to them.[^1]
 
-<span class="v-num">11</span> And having heard, they were glad, and promised to give him <span class="alt-label">silver</span><span class="alt-text">(=money)</span>. And he was seeking how he might conveniently betray him.
+<span class="v-num">11</span> But they, having heard, rejoiced, and promised to give him money; and he was seeking how he might conveniently deliver him.
 
-<span class="v-num">12</span> And <span class="added-text">(on)</span> the first day of Unleavened Bread, when they <span class="alt-label">were sacrificing</span><span class="alt-text">(=used to kill)</span> the Passover lamb, his disciples say <span class="added-text">(to)</span> him, “Where do you want <span class="added-text">(that)</span> we, having gone, might prepare that you might eat the Passover lamb?”
+<span class="v-num">12</span> And on the first day of the unleavened <span class="added-text">(bread)</span>, when they were sacrificing the Passover, his disciples said to him, "Where do you wish, <span class="added-text">(that)</span> having gone, we might prepare that you may eat the Passover?"[^2]
 
-<span class="v-num">13</span> And he sends two of his disciples, and says <span class="added-text">(to)</span> them, “Go into the city, and a man carrying a jar of water will meet you. Follow him.”
+<span class="v-num">13</span> And he sent two of his disciples, and said to them, "Go into the city, and a man carrying a jar of water will meet you; follow him.
 
-<span class="v-num">14</span> “And wherever he might enter, say <span class="added-text">(to)</span> the owner of the house, ‘<del class="deleted-text">[that]</del> The teacher says, Where is my guest room, where I might eat the Passover lamb with my disciples?’”
+<span class="v-num">14</span> And wherever he may enter, say to the master of the house, that 'The teacher says, Where is the guest room, where I may eat the Passover with my disciples?'[^3]
 
-<span class="v-num">15</span> “And he will show you a large upper room having been <span class="alt-label">spread</span><span class="alt-text">(=furnished)</span> <span class="added-text">(and)</span> ready. And there make ready for us.”
+<span class="v-num">15</span> And he himself will show you a large upper room, furnished, ready; prepare for us there."
 
-<span class="v-num">16</span> And the disciples went out, and came into the city, and found <span class="added-text">(it)</span> as he <span class="alt-label">told</span><span class="alt-text">(=had said to)</span> them. And they prepared the Passover lamb.
+<span class="v-num">16</span> And his disciples went out, and came into the city, and found <span class="added-text">(it)</span> just as he had said to them; and they prepared the Passover.
 
-<span class="v-num">17</span> And <span class="alt-label">evening’s having become</span><span class="alt-text">(=when it was evening)</span>[^3], he comes with the twelve.
+<span class="v-num">17</span> And evening having come, he came with the twelve.
 
-<span class="v-num">18</span> And <span class="alt-label">their reclining <span class="added-text">(at table)</span> and eating</span><span class="alt-text">(=when they were reclining and eating)</span>[^4], <del class="deleted-text">[the]</del> Jesus said, “Truly I tell you that one of you will betray me, the one eating with me.”
+<span class="v-num">18</span> And as they were reclining and eating, Jesus said, "Truly I say to you, that one of you, the one eating with me, will deliver me up."
 
-<span class="v-num">19</span> They began to be sorrowful, and to say <span class="added-text">(to)</span> him one by one. “Surely, not I?”
+<span class="v-num">19</span> But they began to be grieved, and to say to him one by one, "Not I, is it?" And another, "Not I, is it?"
 
-<span class="v-num">20</span> And he said <span class="added-text">(to)</span> them, “<span class="added-text">(It is)</span> one of the twelve, the one dipping with me into the dish.”
+<span class="v-num">20</span> But he answering said to them, "<span class="added-text">(It is)</span> one of the twelve, the one dipping with me into the dish.
 
-<span class="v-num">21</span> “For the Son of Man indeed goes just as it has been written about him, but woe to that man through whom the Son of Man is betrayed. <span class="added-text">(It would have been)</span> good thing <span class="added-text">(for)</span> <span class="alt-label">him</span><span class="alt-text">(=that man)</span> if that <span class="alt-label">man</span><span class="alt-text">(=him)</span> <span class="alt-label">was not born</span><span class="alt-text">(=had not been born)</span>.”
+<span class="v-num">21</span> The Son of Man indeed goes, just as it has been written concerning him; but woe to that man, through whom the Son of Man is delivered up; it would have been good for him, if that man had not been born."
 
-<span class="v-num">22</span> And <span class="alt-label">their eating</span><span class="alt-text">(=while they were eating)</span>[^6], having taken bread and having blessed <span class="added-text">(it)</span>, he broke <span class="added-text">(it)</span>, and gave <span class="added-text">(it to)</span> them, and said, “Take, eat[^5]. This is my body.”
+<span class="v-num">22</span> And as they were eating, Jesus, having taken bread, having blessed, broke <span class="added-text">(it)</span>, and gave <span class="added-text">(it)</span> to them, and said, "Take, eat; this is my body."
 
-<span class="v-num">23</span> And having taken a cup, having given thanks, he gave <span class="added-text">(it to)</span> them. And they all drank <span class="alt-label">of</span><span class="alt-text">(=from)</span> it.
+<span class="v-num">23</span> And having taken the cup, having given thanks, he gave <span class="added-text">(it)</span> to them; and they all drank of it.
 
-<span class="v-num">24</span> And he said <span class="added-text">(to)</span> them, “This is my blood of the new[^7] covenant being <span class="alt-label">poured out</span><span class="alt-text">(=shed)</span> for many.”
+<span class="v-num">24</span> And he said to them, "This is my blood, that of the new covenant, that being poured out for many.
 
-<span class="v-num">25</span> “Truly I say <span class="added-text">(to)</span> you, ‘I <span class="alt-label">might</span><span class="alt-text">(=will)</span> not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.’”
+<span class="v-num">25</span> Truly I say to you, that I shall no longer drink of the fruit of the vine, until that day, when I drink it new in the kingdom of God."
 
-<span class="v-num">26</span> And having sung a hymn, they went out to the Mount of Olives.
+<span class="v-num">26</span> And having sung a hymn, they went out to the mount of Olives.
 
-<span class="v-num">27</span> And <del class="deleted-text">[the]</del> Jesus says <span class="added-text">(to)</span> them, “You all will <span class="alt-label">stumble</span><span class="alt-text">(=fall away)</span> because it has been written, ‘I will strike the shepherd, and the sheep will be scattered.’”
+<span class="v-num">27</span> And Jesus says to them, "You will all be made to stumble in me on this night; for it has been written, 'I will strike the shepherd, and the sheep will be scattered.'
 
-<span class="v-num">28</span> “But <span class="alt-label">after for me to be raised</span><span class="alt-text">(=after I am raised up)</span>, I will go before you to Galilee.”
+<span class="v-num">28</span> But after I am raised, I will go before you into Galilee."
 
-<span class="v-num">29</span> And Peter was saying <span class="added-text">(to)</span> him, “Even if all will <span class="alt-label">stumble</span><span class="alt-text">(=fall away)</span>, but I <span class="added-text">(will)</span> not.”
+<span class="v-num">29</span> But Peter said to him, "Even if all shall be made to stumble, yet not I."
 
-<span class="v-num">30</span> And <del class="deleted-text">[the]</del> Jesus says <span class="added-text">(to)</span> him, “Truly I say <span class="added-text">(to)</span> you, that today, <span class="added-text">(in)</span> this night, <span class="alt-label">before a rooster to crow twice</span><span class="alt-text">(=before the rooster crows twice)</span>, you will deny me three times.”
+<span class="v-num">30</span> And Jesus says to him, "Truly I say to you, that today, on this night, before the rooster crows twice, you will deny me three times."
 
-<span class="v-num">31</span> But he was insistently saying, “Even if I must die with you, I will never deny you.” They all were saying likewise.
+<span class="v-num">31</span> But he spoke the more vehemently, "If it should be necessary for me to die with you, I will not deny you." And they all said likewise also.[^4]
 
-<span class="v-num">32</span> And they go to <span class="added-text">(the)</span> place whose name <span class="added-text">(was)</span> Gethsemane. And he says <span class="added-text">(to)</span> his disciples, “Sit here while I <del class="deleted-text">[might]</del> pray.”
+<span class="v-num">32</span> And they came to a place of which the name <span class="added-text">(was)</span> Gethsemane; and he says to his disciples, "Sit here, while I pray."
 
-<span class="v-num">33</span> And he takes <del class="deleted-text">[the]</del> Peter and <del class="deleted-text">[the]</del> James and <del class="deleted-text">[the]</del> John with him. And he began to be much dismayed and to be deeply distressed.
+<span class="v-num">33</span> And he takes Peter and James and John with himself, and he began to be greatly amazed, and to be troubled.
 
-<span class="v-num">34</span> And he says <span class="added-text">(to)</span> them, “My soul is very sorrowful, <span class="added-text">(even)</span> to death. Stay here and watch.”
+<span class="v-num">34</span> And he says to them, "My soul is exceedingly sorrowful, unto death; remain here and watch."
 
-<span class="v-num">35</span> And having gone forward a little, he was falling on the ground, and was praying that, if it <span class="alt-label">is</span><span class="alt-text">(=were)</span> possible, the hour might pass away from him.
+<span class="v-num">35</span> And having gone forward a little, he fell upon the ground, and prayed that, if it were possible, the hour might pass from him.[^5]
 
-<span class="v-num">36</span> And he was saying, “Abba, <del class="deleted-text">[the]</del> Father, all things <span class="added-text">(are)</span> possible <span class="added-text">(to)</span> you. Take away this cup from me. Yet not what I will, but what you <span class="added-text">(will)</span>.”
+<span class="v-num">36</span> And he said, "Abba, Father, all things <span class="added-text">(are)</span> possible to you; take away this cup from me. But not what I will, but what you <span class="added-text">(will)</span>."
 
-<span class="v-num">37</span> And he comes and finds them sleeping. And he says <span class="added-text">(to)</span> <del class="deleted-text">[the]</del> Peter, “Simon, are you asleep? Were you not able to watch one hour?”
+<span class="v-num">37</span> And he comes and finds them sleeping, and says to Peter, "Simon, are you sleeping? Were you not able to watch one hour?
 
-<span class="v-num">38</span> “Watch and pray that you might not <span class="alt-label">enter</span><span class="alt-text">(=fall)</span> into temptation. The spirit indeed <span class="added-text">(is)</span> <span class="alt-label">eager</span><span class="alt-text">(=willing)</span>, but the flesh <span class="added-text">(is)</span> weak.”
+<span class="v-num">38</span> Watch and pray, that you may not enter into temptation. The spirit indeed <span class="added-text">(is)</span> willing, but the flesh <span class="added-text">(is)</span> weak."[^6]
 
-<span class="v-num">39</span> And again having gone away, he prayed <u>having said</u>[^8] the same word.
+<span class="v-num">39</span> And again having gone away, he prayed, having said the same word.
 
-<span class="v-num">40</span> And again having come, he found them sleeping. For their eyes <span class="alt-label">were being heavy</span><span class="alt-text">(=were very heavy)</span>[^9]. And they did not know<span class="added-text">(# pluperfect as imperfect)</span> what they might answer him.
+<span class="v-num">40</span> And having returned, he found them again sleeping; for their eyes were heavy, and they did not know what they might answer him.
 
-<span class="v-num">41</span> And he comes the third time and says <span class="added-text">(to)</span> them, “<span class="alt-label">Sleep from now on and take <span class="added-text">(your)</span> rest</span><span class="alt-text">(=Are you still sleeping and taking your rest?)</span>[^10]. <span class="alt-label">It is enough</span><span class="alt-text">(=Enough!)</span>[^11]. The hour <span class="alt-label">came</span><span class="alt-text">(=has come)</span>. Behold, the Son of Man is betrayed into the hands of sinners.”
+<span class="v-num">41</span> And he comes the third <span class="added-text">(time)</span>, and says to them, "Sleep from now on, and rest. It is <span class="alt-label">enough</span><span class="alt-text">(=far off)</span>; the hour has come; behold, the Son of Man is delivered up into the hands of sinners.
 
-<span class="v-num">42</span> “Rise! Let us go! Behold, the one betraying me <span class="alt-label">has come near</span><span class="alt-text">(=is at hand)</span>.”
+<span class="v-num">42</span> Rise, let us go; behold, the one delivering me up has drawn near."
 
-<span class="v-num">43</span> And immediately, <span class="alt-label">still his speaking</span><span class="alt-text">(=while he is still speaking)</span>[^12], Judas, one of the twelve, comes. And with him <span class="added-text">(is)</span> a crowd with swords and clubs from the high priests and the scribes and the elders.
+<span class="v-num">43</span> And immediately, while he was still speaking, Judas, one of the twelve, arrives, and with him a great crowd with swords and clubs, from the chief priests and the scribes and the elders.
 
-<span class="v-num">44</span> And the one betraying him had given them a sign, saying, “Whomsoever I might kiss, that is he. Seize him and lead <span class="added-text">(him)</span> away safely.”
+<span class="v-num">44</span> Now the one delivering him up had given them a signal, saying, "Whomever I shall kiss, he it is; seize him, and lead <span class="added-text">(him)</span> away safely."
 
-<span class="v-num">45</span> And having come, immediately having approached him, he says, “Rabbi.” And he kissed him.
+<span class="v-num">45</span> And having come, immediately having approached him, he says, "Rabbi, Rabbi"; and he kissed him.
 
-<span class="v-num">46</span> And they laid hands <span class="added-text">(on)</span> him, and seized him.
+<span class="v-num">46</span> But they laid their hands upon him, and seized him.
 
-<span class="v-num">47</span> But a certain one of the ones having stood by, having drawn the sword, struck the slave of the high priest, and cut off his ear.
+<span class="v-num">47</span> But a certain one of those standing by, having drawn the sword, struck the servant of the high priest, and took off his ear.
 
-<span class="v-num">48</span> And having answered, <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> them, “As against a <span class="alt-label">robber</span><span class="alt-text">(=bandit)</span>, have you come out with swords and clubs to capture me?”
+<span class="v-num">48</span> And Jesus answering said to them, "Have you come out with swords and clubs to seize me, as against a robber?
 
-<span class="v-num">49</span> “Day after day I was with you in the temple teaching. And you did not seize me. But <span class="added-text">(this is done)</span> that the Scriptures might be fulfilled.”
+<span class="v-num">49</span> Daily I was with you in the temple teaching, and you did not seize me; but <span class="added-text">(this has come to pass)</span> that the scriptures might be fulfilled."[^7]
 
 <span class="v-num">50</span> And having left him, they all fled.
 
-<span class="v-num">51</span> And a certain young man was following him, having linen garment put around <span class="added-text">(his)</span> naked <span class="added-text">(body)</span>. And <span class="alt-label">they</span><span class="alt-text">(=the young men, !! the different subject added in some manuscripts)</span> seize him.
+<span class="v-num">51</span> And a certain young man followed him, having thrown a linen cloth about <span class="added-text">(his)</span> naked <span class="added-text">(body)</span>; and the young men seize him.
 
-<span class="v-num">52</span> And having abandoned the linen garment, he fled naked.
+<span class="v-num">52</span> But having left the linen cloth, he fled from them naked.
 
-<span class="v-num">53</span> And they led <del class="deleted-text">[the]</del> Jesus away to the high priest. And all the high priests and the elders and the scribes come together.
+<span class="v-num">53</span> And they led Jesus away to the high priest; and all the chief priests and the elders and the scribes gather together to him.
 
-<span class="v-num">54</span> And <del class="deleted-text">[the]</del> Peter followed him <span class="alt-label">from afar</span><span class="alt-text">(=at a distance)</span>, <span class="alt-label">until inside to</span><span class="alt-text">(=right into)</span> the courtyard of the high priest. And he <u>was sitting</u><span class="added-text">(# periphrastic imperfect)</span> with the guards, and warming himself at the fire. 
-55 And the high priests and the whole council were looking for testimony against <del class="deleted-text">[the]</del> Jesus <span class="alt-label">for the to put him to death</span><span class="alt-text">(=so that they could put him to death)</span>. <span class="alt-label">And</span><span class="alt-text">(=But)</span> they were not finding.
+<span class="v-num">54</span> And Peter followed him from afar, even inside into the courtyard of the high priest; and he was sitting with the servants, and warming himself at the <span class="alt-label">fire</span><span class="alt-text">(=light)</span>.
 
-<span class="v-num">56</span> For many were giving false testimony against him. <span class="alt-label">And</span><span class="alt-text">(=But)</span> the testimonies <span class="alt-label">were not same</span><span class="alt-text">(=did not agree)</span>.
+<span class="v-num">55</span> But the chief priests and the whole council were seeking testimony against Jesus, to put him to death; and they were not finding <span class="added-text">(any)</span>.
 
-<span class="v-num">57</span> And some, having stood up, were giving false testimony against him, saying,
+<span class="v-num">56</span> For many were bearing false witness against him, but the testimonies were not alike.
 
-<span class="v-num">58</span> “<del class="deleted-text">[that]</del> We heard him <span class="alt-label">saying</span><span class="alt-text">(=say)</span>, ‘<del class="deleted-text">[that]</del> I will destroy this temple made with hands, and <span class="alt-label">through</span><span class="alt-text">(=within)</span> three days I will build another <span class="added-text">(temple)</span> made without hands.’”
+<span class="v-num">57</span> And some, having stood up, bore false witness against him, saying,
 
-<span class="v-num">59</span> And not even so <span class="alt-label">was their testimony same</span><span class="alt-text">(=did their testimony agree)</span>.
+<span class="v-num">58</span> "We heard him saying, 'I will destroy this temple made with hands, and through three days I will build another made without hands.'"
 
-<span class="v-num">60</span> And having stood up, the high priest in the midst asked <del class="deleted-text">[the]</del> Jesus, saying, “Do you answer nothing? What <span class="added-text">(is it that)</span> these men are testifying against you?”
+<span class="v-num">59</span> And not even so was their testimony alike.
 
-<span class="v-num">61</span> But he <span class="alt-label">was being silent</span><span class="alt-text">(=kept silent)</span> and <del class="deleted-text">[not]</del> answered nothing. Again the high priest was asking him, and says <span class="added-text">(to)</span> him, “Are you the Christ, the son of the Blessed One?”
+<span class="v-num">60</span> And the high priest, having stood up in the midst, questioned Jesus, saying, "Do you answer nothing? What do these witness against you?"
 
-<span class="v-num">62</span> And Jesus said, “I am. And you will see the Son of Man sitting at <span class="added-text">(the)</span> right <span class="added-text">(hand)</span> of the <span class="alt-label">Power</span><span class="alt-text">(=Mighty One)</span>, and coming with the clouds of heaven.”
+<span class="v-num">61</span> But he was silent, and answered nothing. Again the high priest questioned him, and says to him, "Are you the Christ, the Son of the Blessed?"
 
-<span class="v-num">63</span> And the high priest, having torn his tunics, says. “Why do we <del class="deleted-text">[have]</del> need <span class="added-text">(more)</span> <span class="alt-label">testimonies</span><span class="alt-text">(=witnesses)</span>?”
+<span class="v-num">62</span> And Jesus said, "I am; and you will see the Son of Man sitting on <span class="added-text">(the)</span> right hand of power, and coming with the clouds of heaven."
 
-<span class="v-num">64</span> “You <span class="alt-label">heard</span><span class="alt-text">(=have heard)</span> the blasphemy. How does it seem to <span class="alt-label">you</span><span class="alt-text">(=What do you think)</span>?” And they all condemned him <span class="alt-label">to be liable to death</span><span class="alt-text">(=to be deserving of death)</span>.
+<span class="v-num">63</span> But the high priest, having torn his garments, says, "What further need have we of witnesses?
 
-<span class="v-num">65</span> And some began to spit at him, and to cover his face, and to strike him, and to say <span class="added-text">(to)</span> him, “Prophesy!” And the guards took him <span class="alt-label"><span class="added-text">(with)</span> slaps</span><span class="alt-text">(=beat him)</span>.
+<span class="v-num">64</span> You have heard the blasphemy; what does it appear to you?" And they all condemned him to be liable to death.
 
-<span class="v-num">66</span> And <span class="alt-label"><del class="deleted-text">[the]</del> Peter’s being</span><span class="alt-text">(=when Peter was)</span>[^13] below in the courtyard, one of the maids of the high priest comes.
+<span class="v-num">65</span> And some began to spit on him, and to cover his face, and to strike him with fists, and to say to him, "Prophesy"; and the officers struck him with slaps.
 
-<span class="v-num">67</span> And having seen <del class="deleted-text">[the]</del> Peter warming himself, having looked closely at him, she says, “You also were being with the Nazarene, Jesus!”
+<span class="v-num">66</span> And as Peter was below in the courtyard, one of the maidservants of the high priest comes,
 
-<span class="v-num">68</span> But he denied, saying, “I neither know nor understand what you are saying.” And he went out into the <span class="alt-label">front courtyard</span><span class="alt-text">(=entryway)</span>. <u>And a rooster crowed</u>[^14]
+<span class="v-num">67</span> and having seen Peter warming himself, having looked at him, she says, "You also were with Jesus the Nazarene."
 
-<span class="v-num">69</span> And the maid, having seen him, began again to say to the bystanders, “<del class="deleted-text">[that]</del> This is <span class="added-text">(one)</span> of them.”
+<span class="v-num">68</span> But he denied <span class="added-text">(it)</span>, saying, "I do not know, nor do I understand what you are saying." And he went out outside into the forecourt; and a rooster crowed.
 
-<span class="v-num">70</span> But he was denying again. And after a little while, the ones standing by were saying <span class="added-text">(to)</span> <del class="deleted-text">[the]</del> Peter again, “Truly you are <span class="added-text">(one)</span> of them. For you are a Galilean. <u>And your speech is like</u>[^15]”
+<span class="v-num">69</span> And the maidservant, having seen him again, began to say to those standing by, "This one is of them."
 
-<span class="v-num">71</span> And he began to curse and to swear, “<del class="deleted-text">[that]</del> I don't know this man of whom you are speaking.”
+<span class="v-num">70</span> But he denied <span class="added-text">(it)</span> again. And after a little while again those standing by said to Peter, "Truly you are of them; for indeed you are a Galilean, and your speech is alike."
 
-<span class="v-num">72</span> And immediately a rooster crowed the second time. And <del class="deleted-text">[the]</del> Peter remembered the word that <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> him, “<del class="deleted-text">[that]</del> Before a rooster <span class="alt-label">to crow</span><span class="alt-text">(=crows)</span> twice, you will deny me three times.” And <span class="alt-label">having put on</span><span class="alt-text">(=having thought about it, !! uncertain meaning here)</span>, he was crying.
+<span class="v-num">71</span> But he began to curse and to swear, "I do not know this man of whom you speak."
+
+<span class="v-num">72</span> And a second time a rooster crowed. And Peter remembered the word which Jesus had said to him, "Before a rooster crows twice, you will deny me three times." And having reflected upon <span class="added-text">(it)</span>, he wept.
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
-[^3]: genitive absolute
-[^4]: genitive absolute
-[^5]: omitted on some manuscripts
-[^6]: genitive absolute
-[^7]: omitted on some manuscripts
-[^8]: simultaneous action with praying
-[^9]: periphrastic imperfect
-[^10]: possible as both imperative and question
-[^11]: impersonal, !! well known as a formula of receipt ‘received in full’
-[^12]: genitive absolute
-[^13]: genitive absolute
-[^14]: this sentence was inserted in some manuscripts
-[^15]: this sentence was inserted in some manuscripts
+[^1]: ἵνα+가정법(παραδῷ)은 목적절로, 유다가 대제사장들에게 간 목적이 '예수를 넘겨주려는 것'임을 분명히 밝힌다. 이는 우발적 행동이 아니라 의도적이고 계획된 배신 행위였음을 강조한다.
+[^2]: ἵνα+가정법(φάγῃς)은 목적절로, '준비하는' 행위의 목적이 '유월절을 잡수시게 하려는 것'임을 나타낸다. 아직 이루어지지 않은 의도된 결과를 가리킨다.
+[^3]: ὅπου ἐάν+가정법(εἰσέλθῃ)은 '어디든지 들어가면'이라는 뜻으로, 특정 장소를 미리 알 수 없는 미래의 불확정한 상황을 가정하는 조건절이다. 장소를 특정하지 않고 어디가 되든 그대로 따르라는 유연한 지시의 뉘앙스를 담는다.
+[^4]: ἐάν+가정법(δέῃ)은 아직 실현되지 않은 미래의 가능성을 나타내는 조건절로, '만약 ~해야 한다면'이라는 뜻이다. 베드로의 확신에 찬 과장된 다짐을 강조하는 구문이다.
+[^5]: ἵνα+가정법(παρέλθῃ)은 기도의 내용(목적)을 나타내는 목적절로, '~하기를' 구하는 간구의 대상을 제시한다. 아직 이루어지지 않은 일에 대한 소원을 담은 표현이다.
+[^6]: ἵνα+가정법(εἰσέλθητε)은 '깨어 기도하라'는 명령의 목적을 나타내는 목적절로, 시험에 들지 않기 위함이라는 의도를 표현한다. 아직 일어나지 않은 상황을 미연에 방지하려는 뉘앙스이므로 설교에서 '기도의 목적은 시험을 피하기 위함'임을 강조할 수 있다.
+[^7]: ἵνα+가정법(πληρωθῶσιν)은 목적절로, 사건의 배후에 있는 하나님의 뜻과 성경 성취의 목적을 나타낸다. 즉 붙잡히심이 우연이 아니라 성경이 이루어지기 위한 신적 목적임을 강조한다.

@@ -4,7 +4,7 @@ description: "1 Peter Chapter 3"
 book: "1 Peter"
 chapter: 3
 order: 3
-tags: [NTpbsEn, 1_Peter]
+tags: [NTpbsEn, 1Peter]
 ---
 
 # 1 Peter 3
@@ -16,58 +16,57 @@ tags: [NTpbsEn, 1_Peter]
 </div>
 
 
-<span class="v-num">1</span> Likewise, wives, <span class="alt-label">submitting</span><span class="alt-text">(=submit yourselves)</span>[^1] yourselves to <span class="alt-label">the</span><span class="alt-text">(=your)</span> own husbands so that, even if some disobey the word, they <span class="alt-label">will</span><span class="alt-text">(=may)</span> be won over, without a word, through the behavior of <span class="alt-label">the</span><span class="alt-text">(=their)</span> wives,
+<span class="v-num">1</span> Likewise, wives, submitting to your own husbands, so that even if any disobey the word, they may be won without a word through the conduct of the wives,[^1]
 
-<span class="v-num">2</span> having observed your pure behavior <span class="alt-label">in</span><span class="alt-text">(=with)</span> fear.
+<span class="v-num">2</span> having observed your pure conduct in fear.
 
-<span class="v-num">3</span> Do not let <span class="alt-label">whose</span><span class="alt-text">(=wives’)</span> adornment be outward, <span class="alt-label">of</span><span class="alt-text">(=by)</span> braiding of hairs, and <span class="alt-label">of</span><span class="alt-text">(=by)</span> wearing of <span class="alt-label">golds</span><span class="alt-text">(=golden ornaments)</span> or putting on fine clothes,
+<span class="v-num">3</span> let there not be your outward <span class="added-text">(adornment)</span>—braiding of hair, and putting on of gold ornaments, or wearing of garments—the <span class="alt-label">world</span><span class="alt-text">(=adornment)</span>;
 
-<span class="v-num">4</span> but <span class="added-text">(let it be)</span> <span class="alt-label">the hidden person of the heart</span><span class="alt-text">(=the inner self)</span> in the imperishable <span class="added-text">(adornment)</span> of a meek and quiet spirit, which is precious before <del class="deleted-text">[the]</del> God.
+<span class="v-num">4</span> but the hidden man of the heart, in the incorruptible <span class="added-text">(ornament)</span> of a meek and quiet spirit, which is <span class="alt-label">precious</span><span class="alt-text">(=of great price)</span> before God.
 
-<span class="v-num">5</span> For so once the holy women also hoping in God were adorning themselves, submitting themselves to <span class="alt-label">the</span><span class="alt-text">(=their)</span> own husbands,
+<span class="v-num">5</span> For thus formerly the holy women also, who hoped in God, adorned <span class="alt-label">themselves</span><span class="alt-text">(=their own selves)</span>, submitting to their own husbands;
 
-<span class="v-num">6</span> as Sarah obeyed Abraham, calling him lord, whose <span class="alt-label">children</span><span class="alt-text">(=daughters)</span> you became <u>doing good and not fearing any terror</u>(=if you do what is good and are not afraid with any terror.
+<span class="v-num">6</span> as Sarah obeyed Abraham, calling him lord, whose children you <span class="alt-label">became</span><span class="alt-text">(=have become)</span>, doing good and not fearing any terror.
 
-<span class="v-num">7</span> Husbands, likewise, <span class="alt-label">dwelling</span><span class="alt-text">(=dwell)</span>[^2] with <span class="alt-label">the wives</span><span class="alt-text">(=your wives)</span> according to knowledge, giving honor as a weaker vessel and as joint-heirs of <span class="added-text">(the)</span> grace of life, <span class="alt-label">for the your prayers not to be hindered</span><span class="alt-text">(=that your prayers may not be hindered)</span>.
+<span class="v-num">7</span> Husbands, likewise, dwelling with <span class="added-text">(them)</span> according to knowledge, assigning <span class="alt-label">honor</span><span class="alt-text">(=value)</span> as to <span class="added-text">(the)</span> weaker vessel—the female—as also <span class="added-text">(being)</span> fellow-heirs of <span class="added-text">(the)</span> grace of life, so that your prayers may not be cut off.[^2]
 
-<span class="v-num">8</span> <span class="alt-label">And the end</span><span class="alt-text">(=Finally)</span>, all <span class="added-text">(of you)</span>, <span class="added-text">(have)</span> one mind, sympathy, love for the brothers, tender heart <span class="added-text">(and)</span> humble mind,
+<span class="v-num">8</span> Now, <span class="alt-label">finally</span><span class="alt-text">(=the end)</span>, <span class="added-text">(be)</span> all like-minded, sympathetic, brotherly-loving, tender-hearted, <span class="alt-label">humble</span><span class="alt-text">(=courteous)</span>.
 
-<span class="v-num">9</span> <span class="alt-label">not repaying</span><span class="alt-text">(=do not repay)</span> evil with evil or insult with insult; but on the contrary <span class="added-text">(repay with)</span> blessing, because to this you were called so that you might inherit a blessing.
+<span class="v-num">9</span> not paying back evil for evil, or reviling for reviling, but on the contrary blessing, knowing that for this you were called, so that you might inherit a blessing.[^3]
 
-<span class="v-num">10</span> For “The one desiring to love life and to see good days, let him refrain <span class="alt-label">the</span><span class="alt-text">(=his)</span> tongue from evil, and <span class="added-text">(his)</span> lips <span class="alt-label">of not to speak</span><span class="alt-text">(=from speaking)</span> deceit.”
+<span class="v-num">10</span> "For the one who wants to love life and to see good days, let him restrain his tongue from evil, and his lips from speaking deceit.[^4]
 
-<span class="v-num">11</span> “Let him turn away from evil, and let him do good, let him seek peace, and let him pursue it,”
+<span class="v-num">11</span> let him turn away from evil and do good; let him seek peace and pursue it.
 
-<span class="v-num">12</span> “because <span class="added-text">(the)</span> eyes of <span class="added-text">(the)</span> Lord <span class="added-text">(are)</span> on <span class="added-text">(the)</span> righteous, and his ears <span class="added-text">(are open)</span> to their supplication, but <span class="added-text">(the)</span> face of <span class="added-text">(the)</span> Lord <span class="added-text">(is)</span> against the ones doing evil things.”
+<span class="v-num">12</span> because the eyes of the Lord <span class="added-text">(are)</span> upon the righteous, and his ears <span class="added-text">(are open)</span> to their prayer; but the face of the Lord <span class="added-text">(is)</span> against those who do evil."
 
-<span class="v-num">13</span> And who <span class="added-text">(is)</span> the one <span class="alt-label">harming</span><span class="alt-text">(=who will harm)</span>[^3] you if you might be zealots of the good?
+<span class="v-num">13</span> And who is the one who will harm you, if you become imitators of what is good?[^5]
 
-<span class="v-num">14</span> But even if you <span class="alt-label">suffer</span><span class="alt-text">(=should suffer)</span>[^4] for righteousness’ sake, <span class="added-text">(you are)</span> blessed. Do not fear their <span class="alt-label">fear</span><span class="alt-text">(=threats)</span>, nor be troubled,
+<span class="v-num">14</span> But even if you should suffer for righteousness' sake, <span class="added-text">(you are)</span> blessed. "And do not fear their fear, nor be troubled;[^6]
 
-<span class="v-num">15</span> but sanctify the Christ as Lord in your hearts. Always <span class="added-text">(be)</span> ready <span class="alt-label">for defence</span><span class="alt-text">(=to make defense)</span> to everyone asking you a <span class="alt-label">word</span><span class="alt-text">(=reason)</span> about the hope in you; but with meekness and fear,
+<span class="v-num">15</span> but sanctify the Lord God" in your hearts. And <span class="added-text">(be)</span> always ready for a defense to everyone who asks you a <span class="alt-label">word</span><span class="alt-text">(=an account)</span> concerning the hope that is in you, with gentleness and fear;
 
-<span class="v-num">16</span> <span class="alt-label">having</span><span class="alt-text">(=have)</span>[^5] a good conscience, so that the ones abusing you <span class="added-text">(for)</span> your good behavior in Christ, <span class="alt-label">in which you are spoken against</span><span class="alt-text">(=when they speak against you)</span>, might be put to shame.
+<span class="v-num">16</span> having a good conscience, so that in the thing in which they speak against you as evildoers, those who <span class="alt-label">slander</span><span class="alt-text">(=abuse)</span> your good conduct in Christ may be put to shame.
 
-<span class="v-num">17</span> For <span class="added-text">(it is)</span> better, if God’s will wills, to suffer <span class="added-text">(for)</span> doing good than <span class="added-text">(for)</span> doing evil.
+<span class="v-num">17</span> For <span class="added-text">(it is)</span> better, if the will of God should will <span class="added-text">(it)</span>, to suffer for doing good, than for doing evil.
 
-<span class="v-num">18</span> For Christ also suffered once for sins, <span class="added-text">(the)</span> righteous for <span class="added-text">(the)</span> unrighteous, that he might bring you to <del class="deleted-text">[the]</del> God, having been put to death <span class="added-text">(in the)</span> flesh but having made alive <span class="added-text">(in the)</span> spirit,
+<span class="v-num">18</span> because Christ also suffered once for sins, <span class="added-text">(the)</span> righteous for <span class="added-text">(the)</span> unrighteous, so that he might bring us to God, having been put to death indeed in <span class="added-text">(the)</span> flesh, but having been made alive <span class="alt-label">in</span><span class="alt-text">(=by)</span> the Spirit,[^7]
 
-<span class="v-num">19</span> in which also he, having gone, preached <span class="added-text">(to)</span> the spirits in prison,
+<span class="v-num">19</span> in <span class="alt-label">which</span><span class="alt-text">(=by which)</span> also, having gone, he preached to the spirits in prison,[^8]
 
-<span class="v-num">20</span> <span class="alt-label">disobeying</span><span class="alt-text">(=who disobeyed)</span> formerly, when God’s patience was waiting in <span class="added-text">(the)</span> days of Noah, <span class="alt-label">ark’s being built</span><span class="alt-text">(=while the ark was being built)</span>[^6], in which a few, that is, eight <span class="alt-label">souls</span><span class="alt-text">(=persons)</span>, were saved through water,
+<span class="v-num">20</span> who formerly were disobedient, when the patience of God waited <span class="alt-label">once</span><span class="alt-text">(=for a time)</span> in the days of Noah, while <span class="added-text">(the)</span> ark was being prepared, in which few, that is, eight souls, were <span class="alt-label">saved</span><span class="alt-text">(=brought safely)</span> through water,
 
-<span class="v-num">21</span> <span class="alt-label">which</span><span class="alt-text">(=the water)</span> also <span class="added-text">(is)</span> a counterpart which now saves you, <span class="added-text">(that is)</span> baptism, not <span class="added-text">(the)</span> removal of dirt of <span class="added-text">(the)</span> flesh, but <span class="added-text">(the)</span> <span class="alt-label">appeal</span><span class="alt-text">(=pledge)</span> of a good conscience to God; <span class="added-text">(it saves you)</span> through <span class="added-text">(the)</span> resurrection of Jesus Christ,
+<span class="v-num">21</span> which <span class="added-text">(water)</span>, <span class="added-text">(as)</span> an antitype, now saves us also—baptism—not <span class="added-text">(the)</span> removal of <span class="added-text">(the)</span> filth of <span class="added-text">(the)</span> flesh, but the <span class="alt-label">pledge</span><span class="alt-text">(=appeal)</span> of a good conscience toward God, through the resurrection of Jesus Christ,
 
-<span class="v-num">22</span> who, having gone to heaven, is at <span class="added-text">(the)</span> right <span class="added-text">(hand)</span> of God; <span class="alt-label">angels and authorities and powers’ having been subdued</span><span class="alt-text">(=angels and authorities and powers have made subject)</span>[^7] to him.
+<span class="v-num">22</span> who is at <span class="added-text">(the)</span> right hand of God, having gone into heaven, angels and authorities and powers having been subjected to him.
 
 ---
 
-### Study Notes
-
-[^1]: participle in hortatory sense
-[^2]: participle in hortatory sense
-[^3]: future participle
-[^4]: optative
-[^5]: participle in hortatory sense
-[^6]: genitive absolute
-[^7]: genitive absolute
+[^1]: ἵνα+가정법(κερδηθήσωνται)은 목적절로, 아내의 행실이 불신 남편을 얻게 하려는 목적을 나타낸다.
+[^2]: εἰς τὸ μὴ ἐκκόπτεσθαι는 부정사 목적구문으로, 부부관계의 지혜로운 처신이 기도를 방해받지 않게 하는 목적을 나타낸다.
+[^3]: ἵνα+가정법(κληρονομήσητε)으로 부르심의 목적을 나타낸다: 복을 상속받게 하시려는 하나님의 의도된 목표를 강조한다.
+[^4]: 시편 34:12-16(LXX 33편)의 인용으로, 10-12절에 걸쳐 이어진다.
+[^5]: ἐὰν+가정법(γένησθε)은 아직 실현되지 않은 조건을 나타내는 3급 조건문이다.
+[^6]: πάσχοιτε는 희구법으로 실제 발생 여부가 불확실한 가정을 나타내며, 뒤이어 이사야 8:12-13 인용이 시작된다.
+[^7]: ἵνα+가정법(προσαγάγῃ)은 그리스도의 대속적 죽음의 목적을 나타낸다: 우리를 하나님께로 인도하시려는 것이 고난의 궁극적 목표였음을 강조한다.
+[^8]: '옥에 있는 영들'은 노아 시대 불순종한 영적 존재 또는 사람들의 영으로 해석이 갈리는 난해구절이다.

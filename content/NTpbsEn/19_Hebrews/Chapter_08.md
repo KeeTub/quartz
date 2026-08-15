@@ -16,36 +16,34 @@ tags: [NTpbsEn, Hebrews]
 </div>
 
 
-<span class="v-num">1</span> And <span class="added-text">(this is the)</span> main point about the things being said. We have such a high priest, who sat at <span class="added-text">(the)</span> right hand of the throne of the Majesty in <del class="deleted-text">[the]</del> heavens,
+<span class="v-num">1</span> Now <span class="added-text">(the)</span> main point on the things being said <span class="added-text">(is this)</span>: we have such <span class="added-text">(a)</span> high priest, who sat down at <span class="added-text">(the)</span> right <span class="added-text">(hand)</span> of the throne of the majesty in the heavens,
 
-<span class="v-num">2</span> a minister of <span class="alt-label">holy things</span><span class="alt-text">(=the sanctuary)</span> and of the true tabernacle, which the Lord erected, not man.
+<span class="v-num">2</span> <span class="added-text">(a)</span> minister of the holy <span class="alt-label">things</span><span class="alt-text">(=sanctuary)</span>, and of the true tabernacle, which the Lord set <span class="alt-label">up</span><span class="alt-text">(=pitched)</span>, and not man.[^1]
 
-<span class="v-num">3</span> For every high priest is appointed <del class="deleted-text">[for the]</del> to offer both gifts and sacrifices; hence <span class="added-text">(it is)</span> necessary <span class="added-text">(for)</span> this One to have something that he might offer.
+<span class="v-num">3</span> For every high priest is <span class="alt-label">appointed</span><span class="alt-text">(=established)</span> for the offering of gifts and also sacrifices; therefore <span class="added-text">(it is)</span> necessary <span class="added-text">(for)</span> this one also to have something which he may offer.
 
-<span class="v-num">4</span> Therefore if he were on earth, he would not be a priest, <span class="alt-label">being</span><span class="alt-text">(=since there are)</span>[^2] <span class="alt-label">the ones’ offering</span><span class="alt-text">(=the priests who offer)</span>[^1] the gifts according to <span class="added-text">(the)</span> law,
+<span class="v-num">4</span> For if indeed he were on earth, he would not even be a priest, since there are <span class="added-text">(the)</span> priests who offer the gifts according to the law,
 
-<span class="v-num">5</span> who serve a copy and shadow of the heavenly things, as Moses <span class="alt-label">has been</span><span class="alt-text">(=was)</span> warned, <span class="alt-label">being</span><span class="alt-text">(=when he was)</span> about to erect the tabernacle, for He says, “See that you shall make all things according to the pattern having been shown you <span class="alt-label">in</span><span class="alt-text">(=on)</span> the mountain.”
+<span class="v-num">5</span> who serve <span class="added-text">(as)</span> an example and shadow of the heavenly things, just as Moses was divinely instructed when he was about to complete the tabernacle. For he says, "See <span class="added-text">(that)</span> you make all things according to the pattern shown to you on the mountain."[^2]
 
-<span class="v-num">6</span> And now he has obtained a more excellent ministry, <span class="alt-label">and to that degree</span><span class="alt-text">(=by how much also)</span> he is mediator of a better covenant, which has been enacted on better promises.
+<span class="v-num">6</span> But now he has obtained a more excellent ministry, by so much as he is also <span class="added-text">(the)</span> mediator of a better covenant, which has been <span class="alt-label">enacted</span><span class="alt-text">(=legislated)</span> <span class="alt-label">on</span><span class="alt-text">(=based upon)</span> better promises.
 
-<span class="v-num">7</span> For if that first <span class="added-text">(covenant)</span> <span class="alt-label">was</span><span class="alt-text">(=had been)</span> faultless, no place would have been sought <span class="added-text">(for a)</span> second.
+<span class="v-num">7</span> For if that first <span class="added-text">(covenant)</span> had been faultless, no place would have been sought for a second.
 
-<span class="v-num">8</span> For finding fault <span class="added-text">(with)</span> them, he says, “Behold, <span class="added-text">(the)</span> days are coming, says <span class="added-text">(the)</span> Lord, <span class="alt-label">and</span><span class="alt-text">(=when)</span> I will establish a new covenant <span class="alt-label">on</span><span class="alt-text">(=with)</span> the house of Israel and <span class="alt-label">on</span><span class="alt-text">(=with)</span> the house of Judah.”
+<span class="v-num">8</span> For finding fault with them, he says, "Behold, days are coming, says <span class="added-text">(the)</span> Lord, <span class="alt-label">when</span><span class="alt-text">(=and)</span> I will <span class="alt-label">complete</span><span class="alt-text">(=establish)</span> a new covenant <span class="alt-label">with</span><span class="alt-text">(=upon)</span> the house of Israel and <span class="alt-label">with</span><span class="alt-text">(=upon)</span> the house of Judah,[^3]
 
-<span class="v-num">9</span> “not according to the covenant which I made with their fathers in <span class="added-text">(the)</span> day <span class="alt-label">my having taken</span><span class="alt-text">(=when I took)</span>[^3] <span class="alt-label">their hand</span><span class="alt-text">(=them by the hand)</span> to lead them out of <span class="added-text">(the)</span> land of Egypt, because they did not continue in my covenant, and I disregarded them, says <span class="added-text">(the)</span> Lord.”
+<span class="v-num">9</span> not according to the covenant which I made with their fathers in <span class="added-text">(the)</span> day when I took them by the hand to lead them out of <span class="added-text">(the)</span> land of Egypt; because they did not continue in my covenant, and I disregarded them, says <span class="added-text">(the)</span> Lord.
 
-<span class="v-num">10</span> “For this <span class="added-text">(is)</span> the covenant which I will make <span class="added-text">(with)</span> the house of Israel after <del class="deleted-text">[the]</del> those days, says <span class="added-text">(the)</span> Lord; giving my laws into their mind, and on their hearts I will write them; and I will be <span class="alt-label">to them for God</span><span class="alt-text">(=their God)</span>, and they will be <span class="alt-label">to me for a people</span><span class="alt-text">(=my people)</span>.”
+<span class="v-num">10</span> For this <span class="added-text">(is)</span> the covenant which I will make with the house of Israel after those days, says <span class="added-text">(the)</span> Lord: giving my laws into their mind, and I will <span class="alt-label">inscribe</span><span class="alt-text">(=write)</span> them upon their hearts; and I will be to them <span class="added-text">(a)</span> God, and they shall be to me <span class="added-text">(a)</span> people.
 
-<span class="v-num">11</span> “And they <span class="alt-label">might</span><span class="alt-text">(=shall)</span> not teach every one his fellow and every one his brother, saying, ‘Know the Lord,’ for all will know me from <span class="added-text">(the)</span> least of them to the greatest.”
+<span class="v-num">11</span> and they shall by no means teach each one his neighbor, and each one his brother, saying, 'Know the Lord,' because all shall know me, from <span class="added-text">(the)</span> least of them to <span class="added-text">(the)</span> greatest of them.
 
-<span class="v-num">12</span> “For I will be merciful to their unrighteousness, and I <span class="alt-label">might</span><span class="alt-text">(=will)</span> remember their sins no more.”
+<span class="v-num">12</span> For I will be merciful to their unrighteousness, and their sins and their lawless deeds I will by no means remember any longer."
 
-<span class="v-num">13</span> <span class="alt-label">In the to say “new”</span><span class="alt-text">(=When he says “a new covenant”)</span>, he has made the first obsolete. And the thing being made obsolete and growing old <span class="added-text">(is)</span> <span class="alt-label">near disappearing</span><span class="alt-text">(=ready to vanish away)</span>.
+<span class="v-num">13</span> In saying, "new," he has made the first old; but the <span class="added-text">(thing)</span> becoming old and growing aged is near <span class="added-text">(to)</span> <span class="alt-label">disappearing</span><span class="alt-text">(=vanishing)</span>.
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: causal participle
-[^3]: genitive absolute
+[^1]: ἁγίων은 용어상 '성도들의'이나 여기서는 하늘 성소(지성소)를 가리키므로 문맥상 '성소의'로 이해함이 자연스럽다.
+[^2]: 출애굽기 25:40 인용으로, 지상 성막이 하늘 성소의 모형임을 확증한다.
+[^3]: 예레미야 31:31-34(LXX 38:31-34) 인용이 8-12절에 걸쳐 이어진다.

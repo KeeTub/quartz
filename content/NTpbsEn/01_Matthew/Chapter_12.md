@@ -16,107 +16,110 @@ tags: [NTpbsEn, Matthew]
 </div>
 
 
-<span class="v-num">1</span> At that time <del class="deleted-text">[the]</del> Jesus went on the Sabbath<del class="deleted-text">[s]</del> through the grainfields. And his disciples were hungry, and began to pluck ears of grain and to eat.
+<span class="v-num">1</span> At that time Jesus went through the grain fields on the Sabbath <span class="added-text">(days)</span>, and his disciples were hungry and began to pluck ears <span class="added-text">(of grain)</span> and to eat.
 
-<span class="v-num">2</span> And the Pharisees, having seen, said <span class="added-text">(to)</span> him, “Behold, your disciples are doing what it is not lawful to do <span class="alt-label">in</span><span class="alt-text">(=on)</span> <span class="added-text">(the)</span> Sabbath.”
+<span class="v-num">2</span> But the Pharisees, having seen <span class="added-text">(it)</span>, said to him, "Behold, your disciples are doing what is not lawful to do on <span class="added-text">(the)</span> Sabbath."
 
-<span class="v-num">3</span> And he said <span class="added-text">(to)</span> them, “Have you not read what David did when he was hungry and the ones with him?”
+<span class="v-num">3</span> But he said to them, "Have you not read what David did, when he and the ones with him were hungry;
 
-<span class="v-num">4</span> “How he entered into the house of God and ate the breads of the Presence, which it was not lawful for him to eat neither for the ones with him, but only for the priests?”
+<span class="v-num">4</span> how he entered into the house of God, and ate the loaves of <span class="alt-label">presentation</span><span class="alt-text">(=showbread)</span>, which it was not lawful for him to eat, nor for the ones with him, except for the priests alone?
 
-<span class="v-num">5</span> “Or have you not read in the Law that on the Sabbath<del class="deleted-text">[s]</del> the priests in the temple profane the Sabbath, and are guiltless?”
+<span class="v-num">5</span> Or have you not read in the law, that on the Sabbaths the priests in the temple profane the Sabbath, and are guiltless?
 
-<span class="v-num">6</span> “And I say <span class="added-text">(to)</span> you that One greater than temple is here.”
+<span class="v-num">6</span> But I say to you, that <span class="added-text">(one)</span> greater than the temple is here.
 
-<span class="v-num">7</span> “And if you had known what it <span class="alt-label">is</span><span class="alt-text">(=means)</span>, ‘I desire mercy, and not sacrifice,’ you would not have condemned the guiltless.”
+<span class="v-num">7</span> But if you had known what it is, 'I will <span class="added-text">(have)</span> mercy and not sacrifice,' you would not have condemned the guiltless.
 
-<span class="v-num">8</span> “For the Son of Man is Lord of the Sabbath.”
+<span class="v-num">8</span> For the Son of man is Lord even of the Sabbath."
 
-<span class="v-num">9</span> And having gone from there, he came to their synagogue.
+<span class="v-num">9</span> And having departed from there, he went into their synagogue.
 
-<span class="v-num">10</span> And behold, a man having a withered hand. And they asked him, saying, “<del class="deleted-text">[if<span class="added-text">(# indirect interrogative)</span>]</del> Is it lawful on the Sabbath<del class="deleted-text">[s]</del> to heal?,” in order that they might accuse him.
+<span class="v-num">10</span> And behold, there was a man having a withered hand. And they asked him, saying, "Is it lawful to heal on the Sabbaths?" so that they might accuse him.[^1]
 
-<span class="v-num">11</span> And he said <span class="added-text">(to)</span> them, “What man <span class="alt-label">will be</span><span class="alt-text">(=is)</span> there among you, who <span class="alt-label">will have</span><span class="alt-text">(=has)</span> one sheep, and if this might fallen into a pit on the Sabbath<del class="deleted-text">[s]</del>, will he not take hold of it and lift it out?”
+<span class="v-num">11</span> But he said to them, "What man will there be among you, who will have one sheep, and if this falls into a pit on the Sabbaths, will he not lay hold of it and lift <span class="added-text">(it)</span> up?[^2]
 
-<span class="v-num">12</span> “How much more <span class="alt-label">different</span><span class="alt-text">(=valuable)</span> is a man than a sheep! Therefore it is lawful to do good  on the Sabbath<del class="deleted-text">[s]</del>.”
+<span class="v-num">12</span> How much then does a man differ <span class="added-text">(in value)</span> from a sheep? So it is lawful to do well on the Sabbaths."
 
-<span class="v-num">13</span> Then he says <span class="added-text">(to)</span> the man, “Stretch out your hand.” And he stretched it out, and it was restored whole like the other.
-14 And having gone out, the Pharisees took a counsel against him how they might destroy him.
+<span class="v-num">13</span> Then he said to the man, "Stretch out your hand." And he stretched <span class="added-text">(it)</span> out, and it was restored, healthy as the other <span class="added-text">(hand)</span>.
 
-<span class="v-num">15</span> And Jesus, having known, withdrew from there. And many followed him. And he healed them all.
+<span class="v-num">14</span> But the Pharisees, having gone out, took counsel against him, how they might destroy him.
 
-<span class="v-num">16</span> And he warned them that they should not make him known,
+<span class="v-num">15</span> But Jesus, having known <span class="added-text">(it)</span>, withdrew from there. And many crowds followed him, and he healed them all,
 
-<span class="v-num">17</span> that it might be fulfilled the thing spoken through Isaiah the prophet, saying,
+<span class="v-num">16</span> and he warned them, that they should not make him known,[^3]
 
-<span class="v-num">18</span> “Behold, my boy whom I chose, my beloved <span class="added-text">(with)</span> whom my Soul was well pleased. I will put my Spirit upon him, and he will proclaim <span class="alt-label">judgment</span><span class="alt-text">(=justice)</span> to the Gentiles.”
+<span class="v-num">17</span> so that <span class="added-text">(it)</span> might be fulfilled which was spoken through Isaiah the prophet, saying,
 
-<span class="v-num">19</span> “He will not quarrel nor shout, nor will anyone hear his voice in the streets.”
+<span class="v-num">18</span> 'Behold, my servant, whom I have chosen; my beloved, in whom my soul is well pleased; I will put my Spirit upon him, and he will declare judgment to the Gentiles.'
 
-<span class="v-num">20</span> “He will not break a <del class="deleted-text">[having been]</del> bruised reed and he will not quench a smoldering wick, until he might send forth <del class="deleted-text">[the]</del> <span class="alt-label">judgment</span><span class="alt-text">(=justice)</span> to victory.”
+<span class="v-num">19</span> He will not strive, nor cry out; nor will anyone hear his voice in the streets.
 
-<span class="v-num">21</span> “And in his name <span class="added-text">(the)</span> Gentiles will hope.”
+<span class="v-num">20</span> A bruised reed he will not break, and a smoking flax he will not quench, until he brings forth judgment into victory.
 
-<span class="v-num">22</span> Then a demon-possessed man, blind and dumb, was brought to him. And he healed him, so the dumb <span class="alt-label">to speak and to see</span><span class="alt-text">(=spoke and saw)</span>.
+<span class="v-num">21</span> 'And in his name Gentiles will hope.'
 
-<span class="v-num">23</span> And all the crowds were astonished and said, “Is not this the Son of David?”
+<span class="v-num">22</span> Then there was brought to him one demon-possessed, blind and mute, and he healed him, so that the blind and mute <span class="added-text">(man)</span> both spoke and saw.
 
-<span class="v-num">24</span> And the Pharisees, having heard, said, “This <span class="added-text">(man)</span> does not cast out the demons except by Beelzebub, the ruler of demons.”
+<span class="v-num">23</span> And all the crowds were amazed, and said, "Is this not the son of David?"
 
-<span class="v-num">25</span> And knowing<span class="added-text">(#pf. with present meaning)</span> their thoughts, he said <span class="added-text">(to)</span> them, “Every kingdom <del class="deleted-text">[having]</del> divided against itself is ruined, and every city or house divided against itself will not stand.”
+<span class="v-num">24</span> But the Pharisees, having heard <span class="added-text">(it)</span>, said, "This <span class="added-text">(man)</span> does not cast out the demons, except by Beelzebul, ruler of the demons."
 
-<span class="v-num">26</span> “And if <del class="deleted-text">[a]</del> Satan casts out <del class="deleted-text">[the]</del> Satan, he <span class="alt-label">was</span><span class="alt-text">(=is)</span> divided against himself, how then will his kingdom stand?”
+<span class="v-num">25</span> But Jesus, having known their thoughts, said to them, "Every kingdom divided against itself is laid waste, and every city or house divided against itself will not stand.
 
-<span class="v-num">27</span> “And if I cast out the demons by Beelzebub, By what do your sons cast out? Therefore they will be your judges.”
+<span class="v-num">26</span> And if Satan casts out Satan, he is divided against himself; how then will his kingdom stand?
 
-<span class="v-num">28</span> “And if I cast out the demons by <span class="added-text">(the)</span> Spirit of God, then the kingdom of God has come upon you.”
+<span class="v-num">27</span> And if I by Beelzebul cast out the demons, by whom do your sons cast <span class="added-text">(them)</span> out? Therefore they will be your judges.
 
-<span class="v-num">29</span> “Or how can anyone enter into a strong man’s house and plunder his possessions unless he first might bind the strong man? And then he will plunder his house.”
+<span class="v-num">28</span> But if I by <span class="added-text">(the)</span> Spirit of God cast out the demons, then the kingdom of God has come upon you.
 
-<span class="v-num">30</span> “The one not being with me is against me, and the one not gathering with me scatters.”
+<span class="v-num">29</span> Or how can anyone enter into the house of the strong <span class="added-text">(man)</span> and plunder his goods, unless he first binds the strong <span class="added-text">(man)</span>? And then he will plunder his house.[^4]
 
-<span class="v-num">31</span> “Therefore I say <span class="added-text">(to)</span> you, all sin and blasphemy will be forgiven <del class="deleted-text">[to]</del> the men, but the blasphemy of the Spirit will not be forgiven.”
+<span class="v-num">30</span> The one who is not with me is against me; and the one who does not gather with me scatters.
 
-<span class="v-num">32</span> “And whoever <span class="alt-label">might speak</span><span class="alt-text">(=speaks)</span> a word against the Son of Man, it will be forgiven <del class="deleted-text">[to]</del> him, but whoever <span class="alt-label">might speak</span><span class="alt-text">(=speaks)</span> against the Holy Spirit, it will not be forgiven <del class="deleted-text">[to]</del> him, either this age or in the coming <span class="added-text">(age)</span>.”
+<span class="v-num">31</span> Therefore I say to you, 'Every sin and blasphemy will be forgiven to men; but the blasphemy against the Spirit will not be forgiven to men.'
 
-<span class="v-num">33</span> “Either make the tree good and its fruit good, or make the tree rotten and its fruit rotten, for the tree is known from the fruit.”
+<span class="v-num">32</span> And whoever speaks a word against the Son of man, it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, neither in this age, nor in the <span class="added-text">(age)</span> to come.
 
-<span class="v-num">34</span> “<span class="added-text">(You)</span> brood of vipers! How can you, being evil, speak good things? For out of the abundance of the heart the mouth speaks.”
+<span class="v-num">33</span> Either make the tree good, and its fruit good; or make the tree bad, and its fruit bad; for the tree is known by the fruit.
 
-<span class="v-num">35</span> “The good man brings forth good things out of the good treasure, and the evil man brings forth evil things out of the evil treasure.”
+<span class="v-num">34</span> <span class="added-text">(You)</span> offspring of vipers, how can you speak good <span class="added-text">(things)</span>, being evil? For out of the abundance of the heart the mouth speaks.
 
-<span class="v-num">36</span> “And I say <span class="added-text">(to)</span> you that <span class="added-text">(for)</span> every careless word that <del class="deleted-text">[the]</del> men will speak, they shall give account about it in <span class="added-text">(the)</span> day of judgment.”
+<span class="v-num">35</span> The good man out of the good treasure of the heart brings forth good things; and the evil man out of the evil treasure brings forth evil things.
 
-<span class="v-num">37</span> “For <span class="alt-label">from</span><span class="alt-text">(=by)</span> your words you will be justified, and <span class="alt-label">from</span><span class="alt-text">(=by)</span> your words you will be condemned.”
+<span class="v-num">36</span> But I say to you, that every idle word which men speak, they will render an account concerning it in <span class="added-text">(the)</span> day of judgment.[^5]
 
-<span class="v-num">38</span> Then some of scribes and Pharisees answered him, saying, “Teacher, we want to see a sign from you.”
+<span class="v-num">37</span> For by your words you will be justified, and by your words you will be condemned."
 
-<span class="v-num">39</span> And he, having answered, said <span class="added-text">(to)</span> them, “An evil and adulterous generation seeks a sign, and no sign will be given to it except the sign of the prophet Jonah.”
+<span class="v-num">38</span> Then some of the scribes and Pharisees answered, saying, "Teacher, we want to see a sign from you."
 
-<span class="v-num">40</span> “For as Jonah was in the belly of huge fish three days and three nights, so the Son of Man will be in the heart of the earth three days and three nights.”
+<span class="v-num">39</span> But he answered and said to them, "An evil and adulterous generation seeks after a sign, and a sign will not be given to it, except the sign of Jonah the prophet.
 
-<span class="v-num">41</span> “<span class="added-text">(The)</span> men of Nineveh will stand up in the judgment with this generation and will condemn it, for they repented at the preaching of Jonah, and behold, a greater than Jonah <span class="added-text">(is)</span> here.”
+<span class="v-num">40</span> For just as Jonah was in the belly of the great fish three days and three nights, so will the Son of man be in the heart of the earth three days and three nights.
 
-<span class="v-num">42</span> “<span class="added-text">(The)</span> Queen of <span class="added-text">(the)</span> south will be raised in the judgment with this generation and will condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, a greater than Solomon <span class="added-text">(is)</span> here.”
+<span class="v-num">41</span> <span class="added-text">(The)</span> men of Nineveh will rise up in the judgment with this generation, and will condemn it; because they repented at the preaching of Jonah; and behold, more than Jonah is here.
 
-<span class="v-num">43</span> “And when the unclean spirit might go out from <del class="deleted-text">[the]</del> man, he goes through waterless places, seeking rest and does not find,”
+<span class="v-num">42</span> <span class="added-text">(The)</span> queen of <span class="added-text">(the)</span> south will rise up in the judgment with this generation, and will condemn it; because she came from the ends of the earth to hear the wisdom of Solomon; and behold, more than Solomon is here.
 
-<span class="v-num">44</span> “Then he says, ‘I will return into my house where I came out.’ And having come, he finds <span class="added-text">(it)</span> being unoccupied and having been swept clean and having been put in order.”
+<span class="v-num">43</span> But when the unclean spirit has gone out from the man, it passes through waterless places, seeking rest, and does not find <span class="added-text">(it)</span>.
 
-<span class="v-num">45</span> “Then he goes and takes with him seven other spirits more evil than himself, and having gone in, lives there. And the last <span class="added-text">(state<del class="deleted-text">[s]</del>)</span> of that man becomes worse than the first <span class="added-text">(state<del class="deleted-text">[s]</del>)</span>. So shall it also be to this evil generation.”
+<span class="v-num">44</span> Then it says, 'I will return into my house from where I came out.' And having come, it finds <span class="added-text">(it)</span> empty, swept, and adorned.
 
-<span class="v-num">46</span> Yet <span class="alt-label">his speaking</span><span class="alt-text">(=While he was still speaking)</span>[^1] to the crowds, behold, his mother and brothers were standing outside, seeking to speak to him.
+<span class="v-num">45</span> Then it goes and takes with itself seven other spirits more evil than itself, and having entered, they dwell there. And the last <span class="added-text">(state)</span> of that man becomes worse than the first. So will it also be to this evil generation."
 
-<span class="v-num">47</span> And someone said <span class="added-text">(to)</span> him, “Behold, your mother and your brothers are standing outside, seeking to speak to you.”
+<span class="v-num">46</span> While he was still speaking to the crowds, behold, his mother and brothers stood outside, seeking to speak to him.
 
-<span class="v-num">48</span> And having answered, he said <span class="added-text">(to)</span> the one saying to him, “Who is my mother, and who is my brothers?”
+<span class="v-num">47</span> Then someone said to him, "Behold, your mother and your brothers stand outside, seeking to speak to you."
 
-<span class="v-num">49</span> And having stretched out his hand <span class="alt-label">on</span><span class="alt-text">(=toward)</span> his disciples, he said, “Behold, my mother and my brothers.”
+<span class="v-num">48</span> But he answered and said to the one who told him, "Who is my mother? And who are my brothers?"
 
-<span class="v-num">50</span> “For whoever might do the will of my Father in heavens, he is my brother and sister and mother.”
+<span class="v-num">49</span> And having stretched out his hand toward his disciples, he said, "Behold, my mother and my brothers.
+
+<span class="v-num">50</span> For whoever does the will of my Father who is in <span class="added-text">(the)</span> heavens, he is my brother and sister and mother."
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
+[^1]: ἵνα+가정법(κατηγορήσωσιν)은 목적절로, 그들이 예수께 질문한 진짜 의도(고발할 구실을 찾으려는 목적)를 드러낸다. 표면적 질문 뒤에 숨은 악의적 의도를 강조하는 구문이다.
+[^2]: ἐάν+가정법(ἐμπέσῃ)은 아직 일어나지 않았지만 실제로 일어날 수 있는 미래의 가능성을 나타내는 조건절이다. '만약 (실제로) 빠진다면'이라는 뉘앙스로, 예수님은 청중이 당연히 그렇게 행동할 상황을 가정하여 반문하신다.
+[^3]: ἵνα+가정법(ποιήσωσιν) 목적절로, 예수께서 경고하신 목적(자신을 드러내지 못하게 하려 함)을 나타낸다. 아직 일어나지 않은 일을 막으려는 의도를 표현한다.
+[^4]: ἐὰν μὴ+가정법(δήσῃ)은 '먼저 결박하지 않는 한'이라는 조건절로, 아직 실현되지 않은 필수 전제 조건을 나타낸다. 강한 자를 결박하는 것이 집을 늑탈하기 위한 선행 조건임을 강조한다.
+[^5]: ὃ ἐὰν λαλήσωσιν은 관계대명사+ἐάν+가정법 구문으로, '무엇이든 말하는 것은'이라는 불특정 조건(부정 관계절)을 나타낸다. 아직 실현되지 않은 각 사람의 말 하나하나를 가정하여 그 미래의 심판 가능성을 강조하는 표현이다.

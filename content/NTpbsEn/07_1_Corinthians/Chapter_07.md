@@ -4,7 +4,7 @@ description: "1 Corinthians Chapter 7"
 book: "1 Corinthians"
 chapter: 7
 order: 7
-tags: [NTpbsEn, 1_Corinthians]
+tags: [NTpbsEn, 1Corinthians]
 ---
 
 # 1 Corinthians 7
@@ -16,89 +16,95 @@ tags: [NTpbsEn, 1_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> Now concerning <span class="added-text">(the things)</span> of which you wrote, <span class="added-text">(it is)</span> good <span class="added-text">(for)</span> a man not to touch a woman.
+<span class="v-num">1</span> Now concerning the things you wrote to me, <span class="added-text">(it is)</span> good for a man not to touch a woman.
 
-<span class="v-num">2</span> But because of the <span class="alt-label">fornications</span><span class="alt-text">(=the sexual immorality)</span>, let each <span class="added-text">(man)</span> have his own wife, and let each <span class="added-text">(woman)</span> have <span class="alt-label">the</span><span class="alt-text">(=her)</span> own husband.
+<span class="v-num">2</span> But because of fornications, let each man have his own wife, and let each woman have her own husband.
 
-<span class="v-num">3</span> Let the husband give to <span class="added-text">(his)</span> wife the conjugal right, and likewise also the wife to <span class="alt-label">the</span><span class="alt-text">(=her)</span> husband.
+<span class="v-num">3</span> Let the husband render to the wife the owed <span class="alt-label">affection</span><span class="alt-text">(=due benevolence)</span>; and likewise also the wife to the husband.
 
-<span class="v-num">4</span> The wife does not have authority <span class="added-text">(over)</span> <span class="alt-label">the</span><span class="alt-text">(=her)</span> own body, but the husband <span class="added-text">(does)</span>. And likewise the husband does not have authority <span class="added-text">(over)</span> <span class="alt-label">the</span><span class="alt-text">(=his)</span> own body, but the wife <span class="added-text">(does)</span>.
+<span class="v-num">4</span> The wife does not have authority over her own body, but the husband <span class="added-text">(does)</span>; and likewise also the husband does not have authority over his own body, but the wife <span class="added-text">(does)</span>.
 
-<span class="v-num">5</span> Do not deprive each other except perhaps by agreement for a time, that you <span class="alt-label">might</span><span class="alt-text">(=may)</span> devote yourself to prayer; and <span class="alt-label">be</span><span class="alt-text">(=come)</span> together again, so that <del class="deleted-text">[the]</del> Satan may not temp you because of your lack of self-control.
+<span class="v-num">5</span> Do not <span class="alt-label">defraud</span><span class="alt-text">(=deprive)</span> one another, except perhaps by agreement for a time, that you may devote yourselves to fasting and prayer, and come together again, that Satan may not tempt you because of your lack of self-control.[^1]
 
-<span class="v-num">6</span> And I say this by way of concession, not by of command.
+<span class="v-num">6</span> But I say this by way of <span class="alt-label">concession</span><span class="alt-text">(=allowance)</span>, not by way of commandment.
 
-<span class="v-num">7</span> And I wish <span class="alt-label">all men to be</span><span class="alt-text">(=that all men were)</span> even as I myself <span class="added-text">(am)</span>, but each one has <span class="added-text">(his)</span> own gift from God; the one <span class="alt-label">thus</span><span class="alt-text">(=of one kind)</span> and the other <span class="alt-label">thus</span><span class="alt-text">(=of another)</span>.
+<span class="v-num">7</span> For I want all men to be as I myself <span class="added-text">(am)</span>; but each has his own gift from God, one in this way, and another in that.
 
-<span class="v-num">8</span> And I say to unmarried and to the widows. <span class="added-text">(It is)</span> good for them if they remain even as I <span class="added-text">(am)</span>.
+<span class="v-num">8</span> But I say to the unmarried and to the widows, <span class="added-text">(it is)</span> good for them if they remain as I <span class="added-text">(do)</span>.[^2]
 
-<span class="v-num">9</span> And if they do not control themselves, let them marry. For it is better to marry than to burn <span class="added-text">(with passion)</span>.
+<span class="v-num">9</span> But if they cannot exercise self-control, let them marry; for it is better to marry than to burn <span class="added-text">(with passion)</span>.
 
-<span class="v-num">10</span> And to ones having married I command, not I but the Lord, <span class="alt-label">woman not to separate</span><span class="alt-text">(=that wife must not separate)</span> from <span class="added-text">(her)</span> husband.
+<span class="v-num">10</span> But to the married I command, not I, but the Lord, <span class="added-text">(that the)</span> wife is not to be separated from <span class="added-text">(her)</span> husband;
 
-<span class="v-num">11</span> And if she <span class="alt-label">might</span><span class="alt-text">(=does)</span> separate, let her remain unmarried or let <span class="added-text">(her)</span> be reconciled to <span class="alt-label">the</span><span class="alt-text">(=her)</span> husband. And the husband  <span class="alt-label">not to divorce</span><span class="alt-text">(=must not divorce)</span> <span class="added-text">(his)</span> wife.
+<span class="v-num">11</span> But if she is even separated, let her remain unmarried, or be reconciled to <span class="added-text">(her)</span> husband; and <span class="added-text">(let the)</span> husband not send away <span class="added-text">(his)</span> wife.[^3]
 
-<span class="v-num">12</span> And to the rest I, not the Lord, say <span class="added-text">(that)</span> if any brother has wife <span class="alt-label">unbelieving</span><span class="alt-text">(=who is not a believer)</span>, and she herself consents to live with him, let him not divorce her.
+<span class="v-num">12</span> But to the rest I say, not the Lord, if any brother has an unbelieving wife, and she consents to dwell with him, let him not send her away.
 
-<span class="v-num">13</span> And if a woman has a husband <span class="alt-label">unbelieving</span><span class="alt-text">(=who is not a believer)</span>, and this <span class="added-text">(man)</span> consents to live with her, let her not divorce <span class="alt-label">the</span><span class="alt-text">(=her)</span> husband.
+<span class="v-num">13</span> And a woman who has an unbelieving husband, and he consents to dwell with her, let her not send him away.
 
-<span class="v-num">14</span> For the husband <span class="alt-label">unbelieving</span><span class="alt-text">(=who is unbeliever)</span> has been sanctified <span class="alt-label">in</span><span class="alt-text">(=by)</span> the wife, and the wife <span class="alt-label">unbelieving</span><span class="alt-text">(=who is unbeliever)</span> has been sanctified <span class="alt-label">in</span><span class="alt-text">(=by)</span> the brother; <span class="alt-label">since then</span><span class="alt-text">(=otherwise)</span> your children <span class="alt-label">is</span><span class="alt-text">(=are)</span> unclean, but now they are holy.
+<span class="v-num">14</span> For the unbelieving husband is sanctified <span class="alt-label">by</span><span class="alt-text">(=in)</span> the wife, and the unbelieving wife is sanctified <span class="alt-label">by</span><span class="alt-text">(=in)</span> the husband; otherwise your children would be unclean, but now they are holy.
 
-<span class="v-num">15</span> And if the unbelieving <span class="added-text">(husband)</span> <span class="added-text">(wants to)</span> separate, let him be separated. The brother or <del class="deleted-text">[the]</del> sister has not been enslaved in such <span class="alt-label">things</span><span class="alt-text">(=cases)</span>. But <del class="deleted-text">[the]</del> God has called us[^1] in peace.
+<span class="v-num">15</span> But if the unbeliever departs, let him depart. The brother or the sister is not <span class="alt-label">enslaved</span><span class="alt-text">(=bound)</span> in such cases; but God has called us <span class="alt-label">in</span><span class="alt-text">(=to)</span> peace.
 
-<span class="v-num">16</span> For how do you know, O wife,  whether you will save <span class="alt-label">the</span><span class="alt-text">(=your)</span> husband? Or how do you know, O husband, whether you will save <span class="alt-label">the</span><span class="alt-text">(=your)</span> wife?
+<span class="v-num">16</span> For how do you know, wife, whether you will save <span class="added-text">(your)</span> husband? Or how do you know, husband, whether you will save <span class="added-text">(your)</span> wife?
 
-<span class="v-num">17</span> <span class="alt-label">If not</span><span class="alt-text">(=Only)</span>, as the Lord has assigned to each one, as <del class="deleted-text">[the]</del> God has called each one, so let him walk. And so I <span class="alt-label">ordain</span><span class="alt-text">(=give rule)</span> in all the churches.
+<span class="v-num">17</span> Only as God has distributed to each, as the Lord has called each, so let him walk; and thus I ordain in all the churches.
 
-<span class="v-num">18</span> Was anyone called <span class="alt-label">having been circumcised</span><span class="alt-text">(=while circumcised)</span>? Let him not become uncircumcised. Was anyone called in uncircumcision? Let him not be circumcised.
+<span class="v-num">18</span> Was anyone called <span class="added-text">(being)</span> circumcised? Let him not become uncircumcised. Was anyone called in uncircumcision? Let him not be circumcised.
 
-<span class="v-num">19</span> <del class="deleted-text">[The]</del> Circumcision is nothing, and <del class="deleted-text">[the]</del> uncircumcision is nothing, but observance of the commandments of God <span class="added-text">(is what matters)</span>.
+<span class="v-num">19</span> Circumcision is nothing, and uncircumcision is nothing, but keeping <span class="added-text">(the)</span> commandments of God <span class="added-text">(matters)</span>.
 
-<span class="v-num">20</span> Let each one remain in <span class="alt-label">this</span><span class="alt-text">(=the same)</span> calling in which he was called.
+<span class="v-num">20</span> Let each remain in the calling in which he was called.
 
-<span class="v-num">21</span> Were you called <span class="added-text">(while)</span> a slave? Don’t let it matter to you, but if you are able <span class="alt-label">to be free</span><span class="alt-text">(=to gain your freedom)</span>, rather use <span class="added-text">(it)</span>.
+<span class="v-num">21</span> Were you called <span class="added-text">(being)</span> a slave? Let it not <span class="alt-label">concern</span><span class="alt-text">(=trouble)</span> you; but if you are also able to become free, rather use <span class="added-text">(it)</span>.
 
-<span class="v-num">22</span> For the one having been called in <span class="added-text">(the)</span> Lord <span class="added-text">(while)</span> a slave is a freedman of the Lord. Likewise the one, having called <span class="added-text">(while)</span> a freedman, is a slave of Christ.
+<span class="v-num">22</span> For he who was called in the Lord <span class="added-text">(being)</span> a slave is the Lord's freedman; likewise also he who was called <span class="added-text">(being)</span> free is Christ's slave.
 
-<span class="v-num">23</span> You were bought <span class="added-text">(at)</span> a price; do not become slaves of men.
+<span class="v-num">23</span> You were bought with a <span class="alt-label">price</span><span class="alt-text">(=value)</span>; do not become slaves of men.
 
-<span class="v-num">24</span> Brothers, let each one remain with God in this <span class="added-text">(state)</span> in which he was called.
+<span class="v-num">24</span> Brothers, let each remain with God in that <span class="added-text">(state)</span> in which he was called.
 
-<span class="v-num">25</span> Now concerning virgins, I have no command of <span class="added-text">(the)</span> Lord, but I give an opinion as one <u>having found mercy by <span class="added-text">(the)</span> Lord to be faithful</u>(=who by the Lord’s mercy is trustworthy.
+<span class="v-num">25</span> Now concerning virgins, I have no commandment of <span class="added-text">(the)</span> Lord; but I give <span class="added-text">(my)</span> opinion as one who has obtained mercy from <span class="added-text">(the)</span> Lord to be <span class="alt-label">trustworthy</span><span class="alt-text">(=faithful)</span>.
 
-<span class="v-num">26</span> Therefore I think <span class="alt-label">this to be good</span><span class="alt-text">(=that this is good)</span> because of present<span class="added-text">(# perfect participle as present meaning)</span> distress, that <span class="added-text">(it is)</span> good for a man <span class="alt-label">the to be so</span><span class="alt-text">(=to remain as he is)</span>.
+<span class="v-num">26</span> I think then that this is good because of the present <span class="alt-label">distress</span><span class="alt-text">(=necessity)</span>, that <span class="added-text">(it is)</span> good for a man to be <span class="alt-label">so</span><span class="alt-text">(=as he is)</span>.
 
-<span class="v-num">27</span> <span class="alt-label">Have you been bound</span><span class="alt-text">(=Are you bound)</span> to a wife? Do not seek a divorce. <span class="alt-label">Have you been released</span><span class="alt-text">(=Are you loosed)</span> from a wife? Do not seek a wife.
+<span class="v-num">27</span> Are you bound to a wife? Do not seek <span class="alt-label">release</span><span class="alt-text">(=to be loosed)</span>. Are you loosed from a wife? Do not seek a wife.
 
-<span class="v-num">28</span> But if you <del class="deleted-text">[might]</del> do marry, you <u>have not sinned</u><span class="added-text">(# proleptic aorist)</span>; and if the virgin <del class="deleted-text">[might]</del> marries, she has not sinned. But such will have tribulation <span class="added-text">(in)</span> the flesh, and I <span class="added-text">(would)</span> spare you <span class="added-text">(that)</span>.
+<span class="v-num">28</span> But even if you marry, you have not sinned; and if a virgin marries, she has not sinned; but such <span class="added-text">(people)</span> will have trouble in the flesh, and I would spare you.[^4]
 
-<span class="v-num">29</span> But I say this, brothers, the time <span class="alt-label">is having been shortened</span><span class="alt-text">(=is short)</span>[^2], from now on, that the ones having wives <span class="alt-label">may</span><span class="alt-text">(=should)</span> be as if <span class="alt-label">ones not having</span><span class="alt-text">(=they had none)</span>,
+<span class="v-num">29</span> But this I say, brothers, the time <span class="added-text">(is)</span> <span class="alt-label">short</span><span class="alt-text">(=has been shortened)</span>; it remains that even those having wives should be as those not having <span class="added-text">(any)</span>,[^5]
 
-<span class="v-num">30</span> and the mourning ones <span class="added-text">(should be)</span> as if <span class="added-text">(they were)</span> not mourning, and the rejoicing ones <span class="added-text">(should be)</span> as if <span class="added-text">(they were)</span> not rejoicing. And the buying ones <span class="added-text">(should be)</span> as if <span class="added-text">(they were)</span> not possessing,
+<span class="v-num">30</span> and those weeping, as not weeping; and those rejoicing, as not rejoicing; and those buying, as not possessing;
 
-<span class="v-num">31</span> and the ones using <span class="added-text">(the things of)</span> the world <span class="added-text">(should be)</span> as if <span class="added-text">(they were)</span> not using <span class="added-text">(them)</span>. For the form of this world is passing away.
+<span class="v-num">31</span> and those using this world, as not abusing <span class="added-text">(it)</span>. For the <span class="alt-label">form</span><span class="alt-text">(=fashion)</span> of this world is passing away.
 
-<span class="v-num">32</span> I want you to be <span class="alt-label">care-free</span><span class="alt-text">(=free from anxieties)</span>. The unmarried <span class="added-text">(man)</span> cares for the things of the Lord – how he may please the Lord;
+<span class="v-num">32</span> But I want you to be without <span class="alt-label">care</span><span class="alt-text">(=anxiety)</span>. The unmarried <span class="added-text">(man)</span> cares for the things of the Lord, how he may please the Lord;
 
-<span class="v-num">33</span> but the one having married cares for the things of the world – how he may please <span class="alt-label">the</span><span class="alt-text">(=his)</span> wife,
+<span class="v-num">33</span> but he who has married cares for the things of the world, how he may please <span class="added-text">(his)</span> wife.
 
-<span class="v-num">34</span> and <span class="alt-label">it</span><span class="alt-text">(=his interests)</span> <span class="alt-label">has</span><span class="alt-text">(=have)</span> been divided. And the unmarried woman and the virgin cares for the things of the Lord, that she may be holy both <span class="added-text">(in)</span> <del class="deleted-text">[the]</del> body and <span class="added-text">(in)</span> <del class="deleted-text">[the]</del> spirit. But the one having married cares for the things of the world – how she may please <span class="alt-label">the</span><span class="alt-text">(=her)</span> husband.
+<span class="v-num">34</span> There is a <span class="alt-label">difference</span><span class="alt-text">(=division)</span> <span class="added-text">(between)</span> the wife and the virgin. The unmarried <span class="added-text">(woman)</span> cares for the things of the Lord, that she may be holy both in body and in spirit; but she who has married cares for the things of the world, how she may please <span class="added-text">(her)</span> husband.[^6]
 
-<span class="v-num">35</span> And I say this for your own benefit, not that I <span class="alt-label">might</span><span class="alt-text">(=may)</span> put <span class="added-text">(any)</span> restraint upon you, but <span class="added-text">(for)</span> <span class="alt-label">the dignified thing</span><span class="alt-text">(=what is proper)</span>, and devotion to the Lord <span class="alt-label">undistractedly</span><span class="alt-text">(=without distraction)</span>.
+<span class="v-num">35</span> But this I say for your own <span class="alt-label">benefit</span><span class="alt-text">(=profit)</span>; not that I may cast a snare upon you, but for what is <span class="alt-label">proper</span><span class="alt-text">(=seemly)</span> and <span class="added-text">(for your)</span> undistracted devotion to the Lord.[^7]
 
-<span class="v-num">36</span> And if anyone thinks <span class="alt-label">to behave</span><span class="alt-text">(=he is behaving)</span> improperly toward his virgin, if <span class="alt-label">he</span><span class="alt-text">(=she)</span> <del class="deleted-text">[may]</del> is <span class="alt-label">past maturity</span><span class="alt-text">(=over passionate)</span>, and so it ought to be, let him do what he wants. He does not sin. Let them marry.
+<span class="v-num">36</span> But if anyone thinks he is behaving improperly toward his virgin, if she is past <span class="added-text">(her)</span> <span class="alt-label">prime</span><span class="alt-text">(=marriageable age)</span>, and thus it ought to be, let him do what he wishes; he does not sin; let them marry.[^8]
 
-<span class="v-num">37</span> And he who stands<span class="added-text">(# perfect as present)</span> firm in his heart, having no necessity, but has power over <span class="alt-label">the</span><span class="alt-text">(=his)</span> own will, and has determined this in <span class="alt-label">the</span><span class="alt-text">(=his)</span> own heart, to keep <span class="alt-label">the virgin of himself</span><span class="alt-text">(=his virgin)</span>, does well.
+<span class="v-num">37</span> But he who stands steadfast in <span class="added-text">(his)</span> heart, having no <span class="alt-label">necessity</span><span class="alt-text">(=compulsion)</span>, but has authority over his own will, and has decided this in his own heart, to keep his own virgin, does well.
 
-<span class="v-num">38</span> So then, the one marrying <span class="alt-label">the virgin of himself</span><span class="alt-text">(=his virgin, !! deleted in some manuscripts)</span> does well, and the one not marrying <span class="added-text">(her)</span> will do better.
+<span class="v-num">38</span> So then he who gives <span class="added-text">(her)</span> in marriage does well; but he who does not give <span class="added-text">(her)</span> in marriage does better.
 
-<span class="v-num">39</span> A wife <span class="alt-label">has been bound</span><span class="alt-text">(=is bound)</span> <del class="deleted-text">[for]</del> as long as her husband lives. But if the husband <span class="alt-label">might sleep</span><span class="alt-text">(=dies)</span>, she is free to be married to whom she wishes, only in <span class="added-text">(the)</span> Lord.
+<span class="v-num">39</span> A wife is bound by law as long <span class="alt-label">as</span><span class="alt-text">(=for such time as)</span> her husband lives; but if her husband falls <span class="alt-label">asleep</span><span class="alt-text">(=dies)</span>, she is free to be married to whom she wishes, only in <span class="added-text">(the)</span> Lord.[^9]
 
-<span class="v-num">40</span> But she is happier if she <del class="deleted-text">[might]</del> remains <span class="alt-label">so</span><span class="alt-text">(=as she is)</span>, according to my opinion. And I think I also <del class="deleted-text">[to]</del> have the Spirit of God.
+<span class="v-num">40</span> But she is more blessed if she remains so, according to my opinion; and I think I also have <span class="added-text">(the)</span> Spirit of God.[^10]
 
 ---
 
-### Study Notes
-
-[^1]: “you” in some manuscripts
-[^2]: periphrastic perfect
+[^1]: ἵνα+가정법 목적절 두 개(기도에 전념함, 사탄이 시험 못하게 함)로 결혼생활의 목적을 나타낸다.
+[^2]: ἐὰν+가정법 조건절로, 아직 결정되지 않은 상태에 대한 권고를 나타낸다.
+[^3]: ἐὰν+가정법 조건절로 이미 떠난 경우를 가정한다.
+[^4]: ἐὰν+가정법 조건절 두 번으로 결혼이 죄가 아님을 강조하되 육체의 환난을 경고한다.
+[^5]: ἵνα절이 목적보다 결과적 당위(마땅히 그러해야 함)를 나타낸다.
+[^6]: ἵνα+가정법 목적절로 몸과 영의 거룩함을 추구하는 목적을 나타낸다.
+[^7]: οὐχ ἵνα~ἀλλὰ πρὸς τὸ 구문으로 목적의 대조(올가미가 아니라 전념)를 나타낸다.
+[^8]: ἐὰν+가정법 조건절로 혼기가 지난 상황을 가정한다.
+[^9]: ἐὰν+가정법 조건절로 남편의 죽음이라는 실현 가능한 미래를 가정한다.
+[^10]: ἐὰν+가정법 조건절로 과부의 재혼하지 않는 선택을 가정한다.

@@ -16,74 +16,74 @@ tags: [NTpbsEn, Acts]
 </div>
 
 
-<span class="v-num">1</span> And Agrippa was saying to <del class="deleted-text">[the]</del> Paul, “It is permitted <span class="added-text">(to)</span> you to speak on behalf of yourself.” Then <del class="deleted-text">[the]</del> Paul, having stretched out <span class="alt-label">the</span><span class="alt-text">(=his)</span> hand, was defending <span class="added-text">(himself)</span>.
+<span class="v-num">1</span> Agrippa said to Paul, "It is permitted for you to speak on behalf of yourself." Then Paul defended <span class="added-text">(himself)</span>, having stretched out <span class="added-text">(his)</span> hand,
 
-<span class="v-num">2</span> “About all things of which I am being accused by the Jews, King Agrippa, I consider myself happy, being about to defend <span class="added-text">(myself)</span> before you today.”
+<span class="v-num">2</span> "Concerning all <span class="added-text">(the things)</span> of which I am accused by <span class="added-text">(the)</span> Jews, king Agrippa, I have considered myself blessed, being about to defend <span class="added-text">(myself)</span> before you today,
 
-<span class="v-num">3</span> “Especially <span class="alt-label">you being</span><span class="alt-text">(=because you are)</span> an expert of all customs and questions among <span class="added-text">(the)</span> Jews, therefore I beg <span class="added-text">(you)</span> to hear me patiently.”
+<span class="v-num">3</span> especially <span class="added-text">(because)</span> you are (= being) a knower of all the customs and controversies among <span class="added-text">(the)</span> Jews; therefore I beg you to hear me patiently.
 
-<span class="v-num">4</span> “All the Jews know my manner of life <span class="alt-label">from youth</span><span class="alt-text">(=since my youth)</span>, <span class="alt-label">having been</span><span class="alt-text">(=which has been)</span> from <span class="added-text">(the)</span> beginning among my nation and at Jerusalem.”
+<span class="v-num">4</span> So then, my manner of life from <span class="added-text">(my)</span> youth, which was from <span class="added-text">(the)</span> beginning among my nation in Jerusalem, all the Jews know,
 
-<span class="v-num">5</span> “<span class="alt-label">Knowing</span><span class="alt-text">(=They have known)</span> me for a long time, if they are willing to testify, that according to the strictest sect of our religion I have lived <span class="added-text">(as)</span> a Pharisee.”
+<span class="v-num">5</span> having known me beforehand from the first, if they are willing to testify, that according to the most exact sect of our religion I lived a Pharisee;[^1]
 
-<span class="v-num">6</span> “And now I stand, being judged, <span class="alt-label">on</span><span class="alt-text">(=because of)</span> hope of the promise <span class="alt-label">having been</span><span class="alt-text">(=made)</span> by <del class="deleted-text">[the]</del> God to our fathers,”
+<span class="v-num">6</span> and now I stand being judged for <span class="added-text">(the)</span> hope of the promise made by God to the fathers,
 
-<span class="v-num">7</span> “to which our twelve tribes hope to attain, worshipping <span class="alt-label">in</span><span class="alt-text">(=with)</span> earnestness <u>night and day</u><span class="added-text">(#accusative of duration)</span>, about which hope I am accused by Jews, O King!”
+<span class="v-num">7</span> to which our twelve tribes, serving <span class="added-text">(God)</span> intently night and day, hope to attain; concerning this hope, king Agrippa, I am accused by the Jews.
 
-<span class="v-num">8</span> “Why is it <span class="alt-label">judged</span><span class="alt-text">(=thought)</span> incredible with you, <span class="alt-label">if</span><span class="alt-text">(=that)</span> <del class="deleted-text">[the]</del> God raises <span class="added-text">(the)</span> dead?”
+<span class="v-num">8</span> Why is it judged incredible among you, that God raises <span class="added-text">(the)</span> dead?
 
-<span class="v-num">9</span> “I myself indeed <del class="deleted-text">[therefore]</del> thought <span class="alt-label">to have to</span><span class="alt-text">(=that I must)</span> do many things contrary to the name of Jesus of Nazareth,”
+<span class="v-num">9</span> I myself, then, thought to myself that I ought to do many things contrary to the name of Jesus the Nazarene;
 
-<span class="v-num">10</span> “which indeed I did in Jerusalem. I shut up many of the saints in prisons, having received the authority from the high priests. And <span class="alt-label">their being killed</span><span class="alt-text">(=when they were killed)</span>[^1] I cast <span class="alt-label">pebble</span><span class="alt-text">(=vote)</span> against <span class="added-text">(them)</span>.”
+<span class="v-num">10</span> which I also did in Jerusalem, and I shut up many of the saints in prisons, having received authority from the chief priests; and when they were being put to death, I cast <span class="added-text">(my)</span> vote against <span class="added-text">(them)</span>.
 
-<span class="v-num">11</span> “And often punishing them throughout all the synagogues, I <span class="alt-label">was compelling</span><span class="alt-text">(=used to force)</span> <span class="added-text">(them)</span> to blaspheme. And exceedingly raging against them, I <span class="alt-label">was persecuting</span><span class="alt-text">(=used to persecute)</span> even <span class="alt-label">as far as</span><span class="alt-text">(=to)</span> <span class="alt-label">outside</span><span class="alt-text">(=foreign)</span> cities,”
+<span class="v-num">11</span> And punishing them often throughout all the synagogues, I compelled <span class="added-text">(them)</span> to blaspheme; and being exceedingly enraged against them, I persecuted <span class="added-text">(them)</span> even to foreign cities.
 
-<span class="v-num">12</span> “among which, going to <del class="deleted-text">[the]</del> Damascus with the authority and commission of the high priests,”
+<span class="v-num">12</span> In <span class="added-text">(the course of)</span> these <span class="added-text">(things)</span>, also going to Damascus with authority and commission from the chief priests,
 
-<span class="v-num">13</span> “At midday <span class="alt-label">along</span><span class="alt-text">(=on)</span> the way I saw, O King, a light from heaven <span class="alt-label">above</span><span class="alt-text">(=beyond)</span> the brightness of the sun, shining round me and the ones going with me.”
+<span class="v-num">13</span> at midday, on the road, I saw, O king, a light from heaven, above the brightness of the sun, shining around me and those going with me.
 
-<span class="v-num">14</span> “And <span class="alt-label">all our having fallen down</span><span class="alt-text">(=when we had all fallen)</span>[^2] to the <span class="alt-label">earth</span><span class="alt-text">(=ground)</span>, I heard a voice saying to me in Hebrew language, ‘Saul, Saul, why do you persecute me? It is hard for you to kick against goads.’”
+<span class="v-num">14</span> And when we had all fallen to the ground, I heard a voice speaking to me and saying in the Hebrew dialect, 'Saul, Saul, why do you persecute me? <span class="added-text">(It is)</span> hard for you to kick against <span class="added-text">(the)</span> goads.'
 
-<span class="v-num">15</span> “And I said, ‘Who are you, Lord?’ And the Lord said, ‘I am Jesus whom you persecute.’”
+<span class="v-num">15</span> And I said, 'Who are you, Lord?' And he said, 'I am Jesus whom you persecute.
 
-<span class="v-num">16</span> “But get up and stand upon your feet. For I appeared <span class="added-text">(to)</span> you for this <span class="added-text">(purpose)</span>, to appoint you <span class="added-text">(as)</span> an servant and <span class="added-text">(as)</span> a witness both of the things which you have seen me and of the things which I will appear to you,”
+<span class="v-num">16</span> But rise and stand upon your feet; for I appeared to you for this <span class="added-text">(purpose)</span>, to appoint you a servant and a witness both of the things you have seen and of the things in which I will appear to you,[^2]
 
-<span class="v-num">17</span> “delivering you from the people and from the Gentiles, to whom I send you,”
+<span class="v-num">17</span> delivering you from the people and from the Gentiles, to whom I now send you,
 
-<span class="v-num">18</span> “to open their eyes, in order to return from darkness to light and <span class="added-text">(from)</span> the authority of Satan to <del class="deleted-text">[the]</del> God, in order for them to receive forgiveness of sins and portion among the ones having been sanctified by faith in me.”
+<span class="v-num">18</span> to open their eyes, <span class="added-text">(in order)</span> to turn <span class="added-text">(them)</span> from darkness to light and from the authority of Satan to God, that they may receive forgiveness of sins and an inheritance among those who have been sanctified by faith in me.'[^3]
 
-<span class="v-num">19</span> “King Agrippa, therefore, I was not disobedient to the heavenly vision.”
+<span class="v-num">19</span> Therefore, king Agrippa, I was not disobedient to the heavenly vision,
 
-<span class="v-num">20</span> “But to the ones in Damascus firstly, and also <span class="added-text">(at)</span> Jerusalem, and all the country of Judaea, and to the Gentiles, I was preaching to repent and to return to <del class="deleted-text">[the]</del> God, doing works worthy of the repentance.”
+<span class="v-num">20</span> but declared, first to those in Damascus and <span class="added-text">(at)</span> Jerusalem, and <span class="added-text">(to)</span> all the region of Judea, and <span class="added-text">(to)</span> the Gentiles, that they should repent and turn to God, doing works worthy of repentance.
 
-<span class="v-num">21</span> “On these accounts, the Jews, having seized me in the temple, were trying to kill <span class="added-text">(me)</span>.”
+<span class="v-num">21</span> For these reasons the Jews, having seized me in the temple, attempted to kill <span class="added-text">(me)</span>.
 
-<span class="v-num">22</span> “Therefore having attained the help from <del class="deleted-text">[the]</del> God until this day, I stand, witnessing both to small and great, saying nothing beyond the things which both the prophets and Moses said <span class="alt-label">being about to</span><span class="alt-text">(=would)</span> happen,”
+<span class="v-num">22</span> Having therefore obtained help from God, I stand to this day, testifying both to small and great, saying nothing except what the prophets and Moses said would come to pass:[^4]
 
-<span class="v-num">23</span> <span class="alt-label">“if</span><span class="alt-text">(=that)</span> the Christ must suffer, <span class="added-text">(and)</span> <span class="alt-label">if</span><span class="alt-text">(=that)</span> <span class="added-text">(being)</span> the first by resurrection from the dead, he <span class="alt-label">is about to</span><span class="alt-text">(=would)</span> proclaim light both to the people and the Gentiles.”
+<span class="v-num">23</span> that the Christ would suffer, <span class="added-text">(and)</span> that, being first from <span class="added-text">(the)</span> resurrection of <span class="added-text">(the)</span> dead, he would proclaim light both to the people and to the Gentiles."[^5]
 
-<span class="v-num">24</span> And <span class="alt-label">his defending</span><span class="alt-text">(=as he was defending himself)</span>[^3] <span class="alt-label">these things</span><span class="alt-text">(=thus)</span>, <del class="deleted-text">[the]</del> Festus says with a loud voice, “You are mad, Paul, <span class="alt-label">The many letters</span><span class="alt-text">(=Too much learning)</span> change you into madness.”
+<span class="v-num">24</span> Now as he was thus defending himself, Festus said with a loud voice, "You are mad, Paul; <span class="added-text">(your)</span> much learning is turning you to madness."
 
-<span class="v-num">25</span> But <del class="deleted-text">[the]</del> Paul says, “I am not mad, most excellent Felix, but I am speaking the words of truth and soberness.”
+<span class="v-num">25</span> But he said, "I am not mad, most excellent Festus, but I speak words of truth and soundness of mind.
 
-<span class="v-num">26</span> “For the King understands about these things, to whom I also <span class="alt-label">say speaking confidently</span><span class="alt-text">(=speak freely)</span>. For I am <del class="deleted-text">[not]</del> convinced <span class="alt-label">of nothing of these things to be escaped notice <span class="added-text">(from)</span> him</span><span class="alt-text">(=that none of these things has escaped his notice)</span>. For this thing <span class="alt-label">is not having been done</span><span class="alt-text">(=was not done)</span> in a corner.”
+<span class="v-num">26</span> For the king knows about these things, before whom also I speak boldly; for I am persuaded that none of these things escapes his <span class="added-text">(notice)</span>, for this has not been done in a corner.
 
-<span class="v-num">27</span> “King Agrippa, do you believe the prophets? I know that you believe.”
+<span class="v-num">27</span> Do you believe the prophets, king Agrippa? I know that you believe."
 
-<span class="v-num">28</span> And <del class="deleted-text">[the]</del> Agrippa said <span class="added-text">(to)</span> <del class="deleted-text">[the]</del> Paul. “In a few <span class="added-text">(words)</span> you persuade me to make a Christian.”
+<span class="v-num">28</span> And Agrippa said to Paul, "In a little <span class="added-text">(you)</span> persuade me to become a Christian."
 
-<span class="v-num">29</span> And <del class="deleted-text">[the]</del> Paul said, “I <u>would pray</u><span class="added-text">(# optative)</span> to God, both in a few or many <span class="added-text">(words, time)</span>, not only you but also all the ones hearing me today <span class="alt-label">to become</span><span class="alt-text">(=might become)</span>  such as I am, except for these <span class="alt-label">bonds</span><span class="alt-text">(=chains)</span>.”
+<span class="v-num">29</span> And Paul said, "I would wish to God, both in a little and in much, that not only you, but also all who hear me today, might become such as I am, except for these bonds."
 
-<span class="v-num">30</span> The King rose, and the governor and Bernice and the ones sitting with them.
+<span class="v-num">30</span> And when he had said these things, the king rose up, and the governor, and Bernice, and those sitting with them,
 
-<span class="v-num">31</span> And having withdrawn, they were saying to one anther, saying, “This man is doing nothing worthy of death or bonds.”
+<span class="v-num">31</span> and having withdrawn, they spoke to one another, saying, "This man does nothing worthy of death or of bonds."
 
-<span class="v-num">32</span> And Agrippa said <span class="added-text">(to)</span> <del class="deleted-text">[the]</del> Festus, “This man <span class="alt-label">was able to</span><span class="alt-text">(=could)</span> have been set free if he had not appealed to Caesar.”
+<span class="v-num">32</span> And Agrippa said to Festus, "This man could have been released, if he had not appealed to Caesar."
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
-[^2]: genitive absolute
-[^3]: genitive absolute
+[^1]: ἐὰν+가정법(θέλωσι)은 아직 실현되지 않은 미래의 가능성을 나타내는 3류 조건문으로, '만일 그들이 기꺼이 증언하려 한다면'이라는 열린 조건을 뜻한다. 화자는 그 증언의 실현 여부를 단정하지 않고 상대의 의지에 맡기는 뉘앙스를 준다.
+[^2]: εἰς τοῦτο...προχειρίσασθαι는 목적을 나타내는 부정사 구문으로, 예수께서 나타나신 목적을 강조한다.
+[^3]: τοῦ ἐπιστρέψαι, τοῦ λαβεῖν은 τοῦ+부정사로 목적을 나타내는 구문이다.
+[^4]: μελλόντων γίνεσθαι는 μέλλω+부정사로 장차 반드시 일어날 일을 강조하는 표현이다.
+[^5]: 여기서 εἰ는 조건이 아니라 간접 서술절('~라는 것')로 쓰였다.

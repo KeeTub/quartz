@@ -16,114 +16,108 @@ tags: [NTpbsEn, Luke]
 </div>
 
 
-<span class="v-num">1</span> When he finished all his sayings in the ears of the <span class="alt-label">people</span><span class="alt-text">(=in the hearing of the people)</span>[^1], he entered <del class="deleted-text">[into]</del> Capernaum.
+<span class="v-num">1</span> After he had finished all his words in the hearing of the people, he entered into Capernaum.
 
-<span class="v-num">2</span> And a centurion’s slave <span class="alt-label">having</span><span class="alt-text">(=being)</span> sick was about to die, who was dear to him.
+<span class="v-num">2</span> And a certain centurion's servant, being sick, was about to die, who was dear to him.
 
-<span class="v-num">3</span> And having heard of Jesus, he sent to him elders of the Jews, asking him that he, having come, might heal his slave.
+<span class="v-num">3</span> And having heard concerning Jesus, he sent to him elders of the Jews, asking him that having come he would save <span class="alt-label">through</span><span class="alt-text">(=heal)</span> his servant.
 
-<span class="v-num">4</span> And they, having come to <del class="deleted-text">[the]</del> Jesus, were beseeching him earnestly, saying, “<del class="deleted-text">[that]</del> He is worthy for whom you <span class="alt-label">will</span><span class="alt-text">(=should)</span> do this.”
+<span class="v-num">4</span> And they, having come to Jesus, begged him earnestly, saying, "He is worthy to whom you should grant this,"
 
-<span class="v-num">5</span> “For he loves our nation, and he built the synagogue for us.”
+<span class="v-num">5</span> "for he loves our nation, and he himself built us the synagogue."
 
-<span class="v-num">6</span> And <del class="deleted-text">[the]</del> Jesus was going with them. And <span class="alt-label">his not being far</span><span class="alt-text">(=when he was not far)</span>[^2] from the house, the centurion sent friends, saying to him, “Lord, don’t trouble yourself, for I am not worthy <span class="alt-label">that you might come</span><span class="alt-text">(=to have you come)</span> under my roof.”
+<span class="v-num">6</span> And Jesus went with them. And already, he not being far from the house, the centurion sent friends to him, saying to him, "Lord, do not trouble yourself, for I am not sufficient that you should enter under my roof,"[^1]
 
-<span class="v-num">7</span> “Therefore, I did not consider myself worthy to come <span class="added-text">(to)</span> you. But say <span class="added-text">(in)</span> a word, and let my servant be <span class="alt-label">healed</span><span class="alt-text">(=my servant will be healed)</span>[^3].”
+<span class="v-num">7</span> "therefore I did not think myself worthy even to come to you. But say <span class="added-text">(the)</span> word, and my servant will be healed."
 
-<span class="v-num">8</span> “For I also am a man being set under authority, having soldiers under myself, and I say to this one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my slave, ‘Do this,’ and he does.”
+<span class="v-num">8</span> "For I also am a man set under authority, having under myself soldiers, and I say to this one, 'Go,' and he goes; and to another, 'Come,' and he comes; and to my servant, 'Do this,' and he does <span class="added-text">(it)</span>."
 
-<span class="v-num">9</span> And having heard these <span class="added-text">(words)</span>, <del class="deleted-text">[the]</del> Jesus marveled <span class="added-text">(at)</span> him, and having turned to the crowd following him, said, “I say <span class="added-text">(to)</span> you, I have not found such <span class="added-text">(great)</span> faith in <del class="deleted-text">[the]</del> Israel.”
+<span class="v-num">9</span> And Jesus, having heard these things, marveled at him. And having turned to the crowd following him, he said, "I say to you, not even in Israel have I found so great faith."
 
-<span class="v-num">10</span> And having returned to the house, the ones having been sent found the slave being well.
+<span class="v-num">10</span> And those who had been sent, having returned to the house, found the servant who had been sick, healthy.
 
-<span class="v-num">11</span> And it happened, <span class="alt-label">in</span><span class="alt-text">(=on)</span> the next <span class="added-text">(time)</span>, that he went into a city being called Nain. And his disciples and a great crowd were going with him.
+<span class="v-num">11</span> And it came to pass on the next <span class="added-text">(day)</span>, he went into a city called Nain; and his disciples in considerable number went with him, and a great crowd.
 
-<span class="v-num">12</span> And as he came near to the gate of the city, <del class="deleted-text">[and]</del> behold, a dead <span class="added-text">(man)</span> was being carried out, an only son <span class="alt-label">to</span><span class="alt-text">(=of)</span> his mother, and this <span class="added-text">(mother)</span> was a widow, and a large crowd of the city was with her.
+<span class="v-num">12</span> Now as he drew near to the gate of the city, behold, a dead man was being carried out, an only son to his mother, and she was a widow; and a considerable crowd of the city was with her.
 
-<span class="v-num">13</span> And having seen her, the Lord <span class="alt-label">was moved</span><span class="alt-text">(=had compassion)</span> on her and said <span class="added-text">(to)</span> her, “Don’t cry.”
+<span class="v-num">13</span> And the Lord, having seen her, was moved with compassion for her, and said to her, "Do not weep."
 
-<span class="v-num">14</span> And having approached, he touched the coffin. And the carrying ones stood. And he said, “Young man, I say <span class="added-text">(to)</span> you, arise!”
+<span class="v-num">14</span> And having come near, he touched the bier; and those bearing <span class="added-text">(it)</span> stood still. And he said, "Young man, I say to you, arise."
 
-<span class="v-num">15</span> And the dead man sat up and began to speak. And he gave him to his mother.
+<span class="v-num">15</span> And the dead <span class="added-text">(man)</span> sat up and began to speak; and he gave him to his mother.
 
-<span class="v-num">16</span> And fear took <span class="added-text">(them)</span> all. And they were glorifying <del class="deleted-text">[the]</del> God, saying “<del class="deleted-text">[that]</del> A great prophet has been raised among us,” and “<del class="deleted-text">[that the]</del> God has visited his people.”
+<span class="v-num">16</span> And fear took hold of all, and they glorified God, saying, "A great prophet has risen among us," and, "God has visited his people."
 
-<span class="v-num">17</span> And this word about him spread in all <del class="deleted-text">[the]</del> Judea and all the surrounding country.
+<span class="v-num">17</span> And this report went out concerning him in all Judea, and in all the surrounding region.
 
-<span class="v-num">18</span> And <span class="alt-label">his</span><span class="alt-text">(=John’s)</span> disciples reported to John about all these things. And John, having called <del class="deleted-text">[certain]</del> two of his disciples,
+<span class="v-num">18</span> And his disciples reported to John concerning all these things.
 
-<span class="v-num">19</span> sent to the Lord, <span class="alt-label">saying</span><span class="alt-text">(=to ask)</span>, “Are you the One <span class="alt-label">coming</span><span class="alt-text">(=to come)</span>[^4], or <span class="alt-label">may</span><span class="alt-text">(=shall)</span> we expect another?”
+<span class="v-num">19</span> And John, having called to himself a certain two of his disciples, sent <span class="added-text">(them)</span> to Jesus, saying, "Are you the one who is coming, or should we look for another?"
 
-<span class="v-num">20</span> And the men, having come to him, said, “John the Baptist sent us <span class="added-text">(to)</span> you <span class="alt-label">saying</span><span class="alt-text">(=to ask)</span>, ‘Are you the One <span class="alt-label">coming</span><span class="alt-text">(=to come)</span>[^5], or <span class="alt-label">may</span><span class="alt-text">(=shall)</span> we expect another?’”
+<span class="v-num">20</span> And the men, having come to him, said, "John the Baptist has sent us to you, saying, 'Are you the one who is coming, or should we look for another?'"
 
-<span class="v-num">21</span> In that hour he cured many <span class="alt-label">from</span><span class="alt-text">(=of)</span> diseases and plagues and evil spirits. And to many blind <span class="added-text">(men)</span> he gave <span class="alt-label">to see</span><span class="alt-text">(=sight)</span>.
+<span class="v-num">21</span> In that hour he healed many from diseases and afflictions and evil spirits, and to many blind <span class="added-text">(people)</span> he granted the <span class="alt-label">seeing</span><span class="alt-text">(=sight)</span>.
 
-<span class="v-num">22</span> And having answered, he said <span class="added-text">(to)</span> them, “Having gone, report to John what you have seen and heard. The blind <span class="alt-label">see</span><span class="alt-text">(=receive sight)</span>, the lame walk, lepers are being cleansed, and the deaf hear, the dead are raised, <span class="alt-label">the poor are being evangelized</span><span class="alt-text">(=the gospel is preached to the poor)</span>.”
+<span class="v-num">22</span> And Jesus, having answered, said to them, "Having gone, report to John what you have seen and heard: that <span class="added-text">(the)</span> blind see again, <span class="added-text">(the)</span> lame walk, lepers are cleansed, <span class="added-text">(the)</span> deaf hear, <span class="added-text">(the)</span> dead are raised, <span class="added-text">(the)</span> poor have good news preached to them;"
 
-<span class="v-num">23</span> “And blessed is whoever might not stumble <span class="alt-label">in</span><span class="alt-text">(=at)</span> me.”
+<span class="v-num">23</span> "and blessed is whoever should not be offended in me."[^2]
 
-<span class="v-num">24</span> And <span class="alt-label">John’s messengers’ having gone away</span><span class="alt-text">(=when John’s messengers had gone)</span>[^6], he began to say to the crowds about John, “What did you go out into the desert to see? A reed being shaken by <span class="added-text">(the)</span> wind?”
+<span class="v-num">24</span> And when the messengers of John had departed, he began to say to the crowds concerning John, "What did you go out into the wilderness to see? A reed shaken by <span class="added-text">(the)</span> wind?"
 
-<span class="v-num">25</span> <span class="alt-label">“But</span><span class="alt-text">(=If not)</span> what did you go out to see? A man having been clothed in soft clothes? Behold, the ones <span class="added-text">(being clothed)</span> in gorgeous clothing and being in luxury are in <del class="deleted-text">[the]</del> king’s courts.”
+<span class="v-num">25</span> "But what did you go out to see? A man clothed in soft garments? Behold, those who are in splendid clothing and <span class="added-text">(in)</span> luxury are in kings' courts."
 
-<span class="v-num">26</span> “But what did you go out to see? A prophet? Yes, I say <span class="added-text">(to)</span> you, and more <span class="added-text">(than)</span> a prophet.”
+<span class="v-num">26</span> "But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet."
 
-<span class="v-num">27</span> “This is he about whom it has been written, ‘Behold, I send my messenger before your face, who will prepare your way before you.’”
+<span class="v-num">27</span> "This is he concerning whom it is written, 'Behold, I send my messenger before your face, who will prepare your way before you.'"
 
-<span class="v-num">28</span> “I say <span class="added-text">(to)</span> you, <span class="alt-label">‘In</span><span class="alt-text">(=among)</span> <span class="added-text">(those)</span> born of women there is no one greater <span class="added-text">(than)</span> John, but the one <span class="added-text">(who is)</span> least in the kingdom of God is greater <span class="added-text">(than)</span> he.’”
+<span class="v-num">28</span> "For I say to you, among those born of women there is no prophet greater than John the Baptist. But the least in the kingdom of God is greater than he."
 
-<span class="v-num">29</span> And all the people having heard and the tax collectors justified <del class="deleted-text">[the]</del> God, having been baptized <span class="added-text">(with)</span> the baptism of John.
+<span class="v-num">29</span> And all the people, having heard, and the tax collectors, justified God, having been baptized with the baptism of John;
 
-<span class="v-num">30</span> But the Pharisees and the lawyers rejected the <span class="alt-label">counsel</span><span class="alt-text">(=purpose)</span> of God for themselves, having not been baptized by him.
+<span class="v-num">30</span> but the Pharisees and the lawyers rejected the counsel of God for themselves, not having been baptized by him.
 
-<span class="v-num">31</span> “To what, then, shall I compare the men of this generation, and what are they like?”
+<span class="v-num">31</span> And the Lord said, "To what then shall I compare the men of this generation? And to what are they similar?"
 
-<span class="v-num">32</span> “They are like children sitting in <span class="added-text">(the)</span> marketplace and calling to one another, who says, ‘We piped to you, and you did not dance. We wailed, and you did not cry.’”
+<span class="v-num">32</span> "They are like children sitting in the marketplace, and calling to one another, and saying, 'We have piped to you, and you did not dance; we have mourned to you, and you did not weep.'"
 
-<span class="v-num">33</span> “For John the Baptist has come, not eating bread nor drinking wine. And you say, ‘He has a demon.’”
+<span class="v-num">33</span> "For John the Baptist has come neither eating bread nor drinking wine, and you say, 'He has a demon.'"
 
-<span class="v-num">34</span> “The Son of Man has come, eating and drinking. And you say, ‘Behold, a glutton <del class="deleted-text">[man]</del> and a drunkard, a friend of tax collectors and of sinners!’”
+<span class="v-num">34</span> "The Son of Man has come eating and drinking, and you say, 'Behold, a gluttonous man and a winebibber, a friend of tax collectors and sinners!'"
 
-<span class="v-num">35</span> <span class="alt-label">“And</span><span class="alt-text">(=But)</span> <del class="deleted-text">[the]</del> wisdom <span class="alt-label">was</span><span class="alt-text">(=is)</span> justified by all her children.”
+<span class="v-num">35</span> "And wisdom is justified by all her children."
 
-<span class="v-num">36</span> And one of the Pharisees was asking <span class="alt-label">that</span><span class="alt-text">(=if)</span> he could eat with him. And having gone into the Pharisee’s house, he reclined <span class="added-text">(at table)</span>.
+<span class="v-num">36</span> Now a certain one of the Pharisees was asking him to eat with him; and having entered into the house of the Pharisee, he reclined at table.[^3]
 
-<span class="v-num">37</span> And behold, a woman who was a sinner in the city, <del class="deleted-text">[and]</del> having learned that he <span class="alt-label">reclines</span><span class="alt-text">(=was eating)</span> at the Pharisee’s house, having brought an alabaster jar of perfumed ointment,
+<span class="v-num">37</span> And behold, a woman in the city, who was a sinner, having learned that he was reclining at table in the house of the Pharisee, having brought an alabaster flask of ointment,
 
-<span class="v-num">38</span> having stood behind <span class="added-text">(him)</span> at his feet, weeping, she began to wet his feet <span class="added-text">(with)</span> <span class="added-text">(her)</span> tears, and was wiping <span class="added-text">(them)</span> with the hairs of her head, and was kissing his feet, and was anointing <span class="added-text">(with)</span> the ointment.
+<span class="v-num">38</span> and having stood behind at his feet weeping, began to wet his feet with her tears, and wiped <span class="added-text">(them)</span> with the hairs of her head, and kissed his feet, and anointed <span class="added-text">(them)</span> with the ointment.
 
-<span class="v-num">39</span> And having seen, the Pharisee having invited him said <span class="alt-label">in</span><span class="alt-text">(=to)</span> himself, saying, “If this <span class="added-text">(man)</span> were a prophet, he would have known who and what sort of the woman <span class="added-text">(this is)</span> who is touching him for she is a sinner.”
+<span class="v-num">39</span> But the Pharisee who had invited him, having seen <span class="added-text">(this)</span>, spoke within himself, saying, "This <span class="added-text">(man)</span>, if he were a prophet, would have known who and what kind of woman <span class="added-text">(this is)</span> who touches him, for she is a sinner."
 
-<span class="v-num">40</span> And <del class="deleted-text">[the]</del> Jesus, having answered, said <span class="added-text">(to)</span> him, “Simon, I have something to say <span class="added-text">(to)</span> you.” And he says, “Teacher, tell <span class="added-text">(me)</span>.”
+<span class="v-num">40</span> And Jesus, having answered, said to him, "Simon, I have something to say to you." And he says, "Teacher, say <span class="added-text">(it)</span>."
 
-<span class="v-num">41</span> “There were two debtors to a certain creditor. One was owing five hundred denarii, and the other fifty.”
+<span class="v-num">41</span> "There were two debtors to a certain moneylender. The one owed five hundred denarii, and the other fifty."
 
-<span class="v-num">42</span> “<span class="alt-label">Their having not<span class="added-text">(thing)</span> to pay</span><span class="alt-text">(=When they had nothing to pay)</span>[^7], he forgave <span class="added-text">(them)</span> both. ‘Now which of them will love him more?’”
+<span class="v-num">42</span> "And they not having <span class="added-text">(anything)</span> to repay, he graciously forgave both. Say, therefore, which of them will love him more?"
 
-<span class="v-num">43</span> Having answered, Simon said, “I suppose, <del class="deleted-text">[that]</del> to whom he forgave more.” And he said <span class="added-text">(to)</span> him, “You have judged rightly.”
+<span class="v-num">43</span> And Simon, having answered, said, "I suppose that <span class="added-text">(it is)</span> he to whom he forgave the more." And he said to him, "You have judged rightly."
 
-<span class="v-num">44</span> And having turned to the woman, he was saying to Simon, “Do you see this woman? I came into your house, you did not give any water to me <span class="alt-label">on</span><span class="alt-text">(=for)</span> <span class="added-text">(my)</span> feet. But this woman wetted my feet <span class="added-text">(with her)</span> tears, and wiped <span class="added-text">(them with)</span> her hairs.”
+<span class="v-num">44</span> And having turned to the woman, he said to Simon, "Do you see this woman? I entered into your house; you did not give <span class="added-text">(any)</span> water for my feet, but she has wet my feet with her tears, and wiped <span class="added-text">(them)</span> with the hairs of her head."
 
-<span class="v-num">45</span> “You did not give a kiss to me, but this <span class="added-text">(woman)</span>, from <span class="added-text">(the time)</span> that I entered, has not ceased to kiss my feet.”
+<span class="v-num">45</span> "You gave me no kiss, but she, from the <span class="added-text">(time)</span> I came in, has not ceased kissing my feet."
 
-<span class="v-num">46</span> “You did not anoint my head <span class="added-text">(with)</span> oil, but this <span class="added-text">(woman)</span> anointed my feet <span class="added-text">(with)</span> ointment.”
+<span class="v-num">46</span> "You did not anoint my head with oil, but she has anointed my feet with ointment."
 
-<span class="v-num">47</span> “<span class="alt-label">For the sake of this</span><span class="alt-text">(=For this reason)</span>, I say <span class="added-text">(to)</span> you, her many sins have been forgiven, for she loved much. But he who is forgiven little loves little.”
+<span class="v-num">47</span> "For which reason, I say to you, her many sins are forgiven, for she loved much; but to whom little is forgiven, <span class="added-text">(he)</span> loves little."
 
-<span class="v-num">48</span> And he said <span class="added-text">(to)</span> her, “Your sins have been forgiven.”
+<span class="v-num">48</span> And he said to her, "Your sins are forgiven."
 
-<span class="v-num">49</span> And the ones reclining with <span class="added-text">(him)</span> began to say among themselves, “Who is this who even forgives sins?”
+<span class="v-num">49</span> And those reclining at table with him began to say within themselves, "Who is this who even forgives sins?"
 
-<span class="v-num">50</span> And he said <span class="added-text">(to)</span> the woman, “Your faith has saved you, go in peace.”
+<span class="v-num">50</span> And he said to the woman, "Your faith has saved you; go into peace."
 
 ---
 
-### Study Notes
-
-[^1]: Semitic usage
-[^2]: genitive absolute
-[^3]: Hebraic usage
-[^4]: present participle for future
-[^5]: present participle for future
-[^6]: genitive absolute
-[^7]: genitive absolute
+[^1]: ἵνα+가정법(εἰσέλθῃς)이 이끄는 목적절로, '~하기에 합당하다'는 표현 뒤에서 내용절 역할을 겸함. 백부장이 예수를 자기 집에 모실 자격이 없다는 겸손한 고백을 강조한다.
+[^2]: ὃς ἐὰν μὴ σκανδαλισθῇ는 '누구든지 실족하지 않는다면'이라는 미래 가능성을 여는 조건절로, 아직 결정되지 않은 각 사람의 반응에 달린 열린 조건을 나타낸다. 예수를 걸림돌로 삼지 않는 자에게 복이 있다는 조건적 축복 선언이다.
+[^3]: ἵνα+가정법(φάγῃ)은 청함(Ἠρώτα)의 목적절로, '함께 식사하기 위해'라는 의도를 나타낸다. 아직 이루어지지 않은 바람의 내용을 가정법으로 표현한 것이다.

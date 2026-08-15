@@ -16,33 +16,37 @@ tags: [NTpbsEn, Revelation]
 </div>
 
 
-<span class="v-num">1</span> And I saw an angel coming down from <del class="deleted-text">[the]</del> heaven, <span class="added-text">(who)</span> having the key of the <span class="alt-label">Abyss</span><span class="alt-text">(=bottomless pit)</span> and a great chain on his hand.
+<span class="v-num">1</span> And I saw an angel coming down out of <span class="added-text">(the)</span> heaven, having the key of the <span class="alt-label">abyss</span><span class="alt-text">(=bottomless pit)</span>, and a great chain upon his hand.
 
-<span class="v-num">2</span> And he seized the dragon, the ancient serpent, who is Devil and <del class="deleted-text">[the]</del> Satan, and bound him <span class="added-text">(for)</span> a thousand years.
+<span class="v-num">2</span> And he seized the dragon, the ancient serpent, who is <span class="added-text">(the)</span> devil and Satan, and bound him a thousand years,
 
-<span class="v-num">3</span> And he threw him into the <span class="alt-label">Abyss</span><span class="alt-text">(=bottomless pit)</span>, and shut <span class="added-text">(it)</span> and sealed <span class="added-text">(it)</span> over him, that he should not deceive the nations anymore, until the thousand years <span class="alt-label">might be ended</span><span class="alt-text">(=were ended)</span>. After these things <span class="alt-label">it is necessary for him to be loosed</span><span class="alt-text">(=he must be released)</span> <span class="added-text">(for)</span> a little <span class="alt-label">time</span><span class="alt-text">(=while)</span>.
+<span class="v-num">3</span> And he cast him into the abyss, and shut him <span class="added-text">(up)</span>, and set a seal upon him, so that he should not deceive the nations any more, until the thousand years should be <span class="alt-label">finished</span><span class="alt-text">(=completed)</span>; and after these things he must be loosed a little <span class="alt-label">time</span><span class="alt-text">(=for a short time)</span>.[^1]
 
-<span class="v-num">4</span> And I saw thrones, and they sat on them, and judgment was given to them. And <span class="added-text">(I saw)</span> the souls of the ones having been beheaded because of the testimony of Jesus and because of the word of <del class="deleted-text">[the]</del> God, and who did not worship the beast or his image, and did not receive the mark on the forehead <span class="alt-label">and</span><span class="alt-text">(=or)</span> on their hand. And they <span class="alt-label">lived</span><span class="alt-text">(=came to life)</span> and reigned with <del class="deleted-text">[the]</del> Christ <span class="added-text">(for)</span> a thousand years.
+<span class="v-num">4</span> And I saw thrones, and they sat upon them, and judgment was given to them; and <span class="added-text">(I saw)</span> the souls of those having been beheaded because of the testimony of Jesus, and because of the word of God, and those who did not worship the beast, nor his image, and did not receive the mark upon their forehead, and upon their hand; and they lived, and reigned with Christ <span class="added-text">(for)</span> the thousand years.
 
-<span class="v-num">5</span> The rest of the dead did not <span class="alt-label">live</span><span class="alt-text">(=come to life)</span> until the thousand years <span class="alt-label">might be ended</span><span class="alt-text">(=were ended)</span>. This <span class="added-text">(is)</span> the first resurrection.
+<span class="v-num">5</span> But the rest of the dead did not live again until the thousand years should be <span class="alt-label">finished</span><span class="alt-text">(=completed)</span>. This <span class="added-text">(is)</span> the first resurrection.
 
-<span class="v-num">6</span> Blessed and holy <span class="added-text">(is)</span> the one having part in the first resurrection. The second death has no authority over them, but they will be priests of <del class="deleted-text">[the]</del> God and of Christ, and will reign with him a thousand years.
+<span class="v-num">6</span> Blessed and holy <span class="added-text">(is)</span> the one having part in the first resurrection; over <span class="alt-label">these</span><span class="alt-text">(=upon these)</span> the second death has no <span class="alt-label">power</span><span class="alt-text">(=authority)</span>, but they will be priests of God and of Christ, and will reign with him a thousand years.[^2]
 
-<span class="v-num">7</span> And when the thousand years <span class="alt-label">might be ended</span><span class="alt-text">(=are ended)</span>, <del class="deleted-text">[the]</del> Satan will be released from his prison,
+<span class="v-num">7</span> And when the thousand years should be <span class="alt-label">finished</span><span class="alt-text">(=completed)</span>, Satan will be loosed out of his prison,
 
-<span class="v-num">8</span> and he will go out to deceive the nations <span class="added-text">(which are)</span> in the four corners of the earth, the Gog and Magog, to gather them for the battle, whose number <del class="deleted-text">[of them]</del> <span class="added-text">(is)</span> as the sand of the sea.
+<span class="v-num">8</span> and will go out to deceive the nations which <span class="added-text">(are)</span> in the four corners of the earth, Gog and Magog, to gather them to <span class="alt-label">war</span><span class="alt-text">(=battle)</span>, of whom the number <span class="added-text">(is)</span> as the sand of the sea.
 
-<span class="v-num">9</span> And they went up on the breadth of the earth, and surrounded the camp of the saints and the city having been loved. And fire came down from <del class="deleted-text">[the]</del> heaven and devoured them.
+<span class="v-num">9</span> And they went up over the breadth of the earth, and surrounded the camp of the saints, and the beloved city; and fire came down from God out of <span class="added-text">(the)</span> heaven, and consumed them;
 
-<span class="v-num">10</span> And the devil deceiving them was thrown into the lake of <del class="deleted-text">[the]</del> fire and sulfur, where both the beast and the false prophet <span class="added-text">(are)</span>. And they will be tormented day and night <span class="alt-label">unto the ages of the ages</span><span class="alt-text">(=for ever and ever)</span>.
+<span class="v-num">10</span> And the devil who was deceiving them was cast into the lake of fire and <span class="alt-label">sulphur</span><span class="alt-text">(=brimstone)</span>, where the beast and the false prophet <span class="added-text">(are)</span>; and they will be tormented day and night, <span class="alt-label">to</span><span class="alt-text">(=for)</span> the ages of the <span class="alt-label">ages</span><span class="alt-text">(=forever and ever)</span>.
 
-<span class="v-num">11</span> And I saw a great white throne and the One sitting on it, from whose face the earth and the heaven fled, and there was found no place <span class="added-text">(for)</span> them.
+<span class="v-num">11</span> And I saw a great white throne, and the one sitting upon it, from whose face the earth and the heaven fled, and <span class="added-text">(a)</span> place was not found for them.
 
-<span class="v-num">12</span> And I saw the dead, <del class="deleted-text">[the]</del> great and <del class="deleted-text">[the]</del> small, standing<span class="added-text">(# perfect as present)</span> before the throne. And books were opened. And another book was opened, which is <span class="added-text">(the book)</span> of life. And the dead were judged <span class="alt-label">from</span><span class="alt-text">(=by)</span> the things having been written in the books, according to their works.
+<span class="v-num">12</span> And I saw the dead, small and great, standing before God, and books were opened; and another book was opened, which is <span class="added-text">(the book)</span> of life; and the dead were judged out of the things having been written in the books, according to their works.
 
-<span class="v-num">13</span> And the sea gave up the dead in it, and <del class="deleted-text">[the]</del> death and <del class="deleted-text">[the]</del> Hades gave up the dead in them. And they were judged, each one according to their works.
+<span class="v-num">13</span> And the sea gave up the dead in it, and death and <span class="alt-label">Hades</span><span class="alt-text">(=hell)</span> gave up the dead in them; and each one was judged according to their works.
 
-<span class="v-num">14</span> And the death and the Hades were thrown into the lake of <del class="deleted-text">[the]</del> fire. This is the second death, the lake of <del class="deleted-text">[the]</del> fire.
+<span class="v-num">14</span> And death and <span class="alt-label">Hades</span><span class="alt-text">(=hell)</span> were cast into the lake of fire. This is the second death.
 
-<span class="v-num">15</span> And if anyone was not found <del class="deleted-text">[having been]</del> written in the book of <del class="deleted-text">[the]</del> life, he was thrown into the lake of <del class="deleted-text">[the]</del> fire.
+<span class="v-num">15</span> And if anyone was not found written in the book of life, he was cast into the lake of fire.
 
+---
+
+[^1]: ἵνα μὴ πλανήσῃ는 목적을 나타내는 가정법 구문으로, 용을 결박한 목적이 이방인들을 미혹하지 못하게 함에 있음을 보여준다.
+[^2]: '둘째 사망'은 최후 심판의 불못을 가리키는 계시록 특유의 종말론적 용어로, 첫째 부활에 참여한 자들에게는 그 권세가 미치지 못함을 강조한다.

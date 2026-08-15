@@ -16,110 +16,123 @@ tags: [NTpbsEn, Mark]
 </div>
 
 
-<span class="v-num">1</span> And he was saying <span class="added-text">(to)</span> them, “Truly I tell you that there are some of the ones standing here who <span class="alt-label">might</span><span class="alt-text">(=will)</span> not taste death until they <del class="deleted-text">[might]</del> see the kingdom of God <span class="alt-label">having come</span><span class="alt-text">(=come)</span> with power.”
+<span class="v-num">1</span> And he said to them, "Truly I say to you, that there are some of the ones standing here who shall not taste of death, until they see the kingdom of God having come <span class="alt-label">in</span><span class="alt-text">(=with)</span> power."[^1]
 
-<span class="v-num">2</span> And after six days <del class="deleted-text">[the]</del> Jesus takes <del class="deleted-text">[the]</del> Peter, <del class="deleted-text">[and the]</del> James, and <del class="deleted-text">[the]</del> John, and leads them up into a high mountain apart <span class="alt-label">privately</span><span class="alt-text">(=by themselves)</span>. And he was transfigured before them.
+<span class="v-num">2</span> And after six days Jesus took Peter and James and John, and brought them up into a high mountain apart, alone by themselves; and he was transfigured before them,[^2]
 
-<span class="v-num">3</span> And his garments became shining, exceeding white, such as no fuller on <del class="deleted-text">[the]</del> earth is able to whiten <span class="added-text">(them)</span>.
+<span class="v-num">3</span> and his garments became shining, exceedingly white as snow, such as a fuller upon the earth is not able to whiten <span class="added-text">(them)</span>.
 
-<span class="v-num">4</span> And Elijah appeared to them with Moses. And they were talking <span class="added-text">(with)</span> Jesus.
+<span class="v-num">4</span> And Elijah appeared to them with Moses, and they were talking together with Jesus.
 
-<span class="v-num">5</span> And <del class="deleted-text">[the]</del> Peter, having answered, says <span class="added-text">(to)</span> Jesus, “Rabbi, it is good for us to be here. And let us make three tabernacles, one <span class="added-text">(for)</span> you, and one <span class="added-text">(for)</span> Moses, and one <span class="added-text">(for)</span> Elijah.”
+<span class="v-num">5</span> And answering, Peter said to Jesus, "Rabbi, it is good <span class="added-text">(for)</span> us to be here; and let us make three tabernacles, one for you, and one for Moses, and one for Elijah."
 
-<span class="v-num">6</span> For he <span class="alt-label">had not known</span><span class="alt-text">(=did not know)</span>[^1] <span class="alt-label">what he might answer</span><span class="alt-text">(=what to answer)</span>. For they became terrified.
+<span class="v-num">6</span> For he did not know what he should say; for they were exceedingly afraid.
 
-<span class="v-num">7</span> And there was a cloud overshadowing them, and there was a voice from the cloud, “This is my beloved son. Hear him.”
+<span class="v-num">7</span> And a cloud came, overshadowing them; and a voice came out of the cloud, saying, "This is my beloved Son; hear him."[^3]
 
-<span class="v-num">8</span> And suddenly having looked around, they saw no one anymore, but only Jesus with themselves.
+<span class="v-num">8</span> And suddenly, having looked around, they no longer saw anyone, but Jesus only with themselves.
 
-<span class="v-num">9</span> And <span class="alt-label">their coming down</span><span class="alt-text">(=as they were coming down)</span>[^2] from the mountain, he ordered them that they should <span class="alt-label">recount</span><span class="alt-text">(=tell)</span> no one what they <span class="alt-label">saw</span><span class="alt-text">(=had seen)</span>, <span class="alt-label">except when</span><span class="alt-text">(=until)</span> the Son of Man <span class="alt-label">might rise</span><span class="alt-text">(=had risen)</span> from <span class="added-text">(the)</span> dead.
+<span class="v-num">9</span> And as they were coming down from the mountain, he commanded them that they should relate to no one what they saw, except when the Son of man should rise from <span class="added-text">(the)</span> dead.[^4]
 
-<span class="v-num">10</span> And they <span class="alt-label">held</span><span class="alt-text">(=kept)</span> the <span class="alt-label">word</span><span class="alt-text">(=matter)</span> to themselves, <span class="alt-label">questioning</span><span class="alt-text">(=discussing)</span> what <span class="alt-label">the to rise</span><span class="alt-text">(=the rising)</span> from the dead <span class="alt-label">is</span><span class="alt-text">(=meant)</span>.
+<span class="v-num">10</span> And they kept the matter to themselves, discussing what the rising from <span class="added-text">(the)</span> dead was.
 
-<span class="v-num">11</span> And they were asking him, saying, “Why do the scribes say that <span class="alt-label">it is necessary for Elijah to come</span><span class="alt-text">(=Elijah must come)</span> first?”
+<span class="v-num">11</span> And they questioned him, saying, "<span class="added-text">(Why)</span> do the scribes say that Elijah must come first?"
 
-<span class="v-num">12</span> And he was saying <span class="added-text">(to)</span> them, “Indeed Elijah, having come first, restores all things. And how <span class="added-text">(is)</span> it <del class="deleted-text">[has been]</del> written about the Son of Man, that he should suffer many things and be despised?”
+<span class="v-num">12</span> And answering, he said to them, "Elijah indeed, having come first, restores all things; and how is it written concerning the Son of man, that he should suffer many things, and be set at <span class="alt-label">nought</span><span class="alt-text">(=despised)</span>?[^5]
 
-<span class="v-num">13</span> “But I say <span class="added-text">(to)</span> you, ‘<del class="deleted-text">[that]</del> Elijah has also come. And they did to him whatever they <span class="alt-label">were willing</span><span class="alt-text">(=wanted)</span>, as it has been written about him.’”
+<span class="v-num">13</span> But I say to you, that Elijah has also come, and they did to him whatever they wished, just as it is written concerning him."
 
-<span class="v-num">14</span> And having come to the disciples, they saw a great crowd around them and scribes arguing with them.
+<span class="v-num">14</span> And having come to the disciples, he saw a great crowd around them, and scribes disputing with them.
 
-<span class="v-num">15</span> And all the crowd, immediately having seen him, were greatly amazed. And running, they were greeting him.
+<span class="v-num">15</span> And immediately all the crowd, having seen him, were greatly amazed, and running to <span class="added-text">(him)</span>, greeted him.
 
-<span class="v-num">16</span> And he asked them, “What are you arguing with them?”
+<span class="v-num">16</span> And he questioned the scribes, "What are you disputing with them?"
 
-<span class="v-num">17</span> And one of the crowd answered him, “Teacher, I brought <del class="deleted-text">[to]</del> you my son having a dumb spirit.”
+<span class="v-num">17</span> And one of the crowd, answering, said, "Teacher, I brought my son to you, having a <span class="alt-label">mute</span><span class="alt-text">(=dumb)</span> spirit;
 
-<span class="v-num">18</span> “And wherever it <del class="deleted-text">[might]</del> seizes him, it dashes him down. And he foams, and grinds <span class="alt-label">the</span><span class="alt-text">(=his)</span> teeth, and becomes rigid. And I spoke your disciples that they should cast it out. And they could not.”
+<span class="v-num">18</span> and wherever it seizes him, it tears him; and he foams, and gnashes his teeth, and becomes <span class="alt-label">rigid</span><span class="alt-text">(=withers away)</span>; and I spoke to your disciples that they should cast it out, and they were not able."[^6]
 
-<span class="v-num">19</span> And having answered them, he says. “O faithless generation. <span class="alt-label">Until when</span><span class="alt-text">(=How long)</span> shall I be with you? <span class="alt-label">Until when</span><span class="alt-text">(=How long)</span> shall I endure you? Bring him to me.”
+<span class="v-num">19</span> And answering him, he said, "O faithless generation, how long shall I be with you? How long shall I bear with you? Bring him to me."
 
-<span class="v-num">20</span> And they brought him to him. And having seen him, the spirit immediately convulsed him. And having fallen on the earth, he was rolling, foaming.
+<span class="v-num">20</span> And they brought him to him; and having seen him, immediately the spirit <span class="alt-label">convulsed</span><span class="alt-text">(=threw into a fit)</span> him; and having fallen on the ground, he wallowed, foaming.
 
-<span class="v-num">21</span> And he asked his father, “<span class="alt-label">How much time</span><span class="alt-text">(=How long)</span> is it since this <del class="deleted-text">[has]</del> happened to him?” And he said, “From childhood.”
+<span class="v-num">21</span> And he questioned his father, "How much time is it, since this happened to him?" And he said, "From childhood.
 
-<span class="v-num">22</span> “And often both into fire and into waters it threw him so that it might destroy him. But If you can do anything, help us, having compassion on us.”
+<span class="v-num">22</span> And often it has cast him both into fire and into waters, that it might destroy him; but if you can <span class="added-text">(do)</span> anything, help us, having compassion on us."[^7]
 
-<span class="v-num">23</span> And Jesus said <span class="added-text">(to)</span> him, “If you can! All things <span class="added-text">(are)</span> possible to the one believing.”
+<span class="v-num">23</span> And Jesus said to him, "<span class="added-text">(As for)</span> the <span class="added-text">(word)</span>, 'If you can believe,'—all things <span class="added-text">(are)</span> possible to the one believing."[^8]
 
-<span class="v-num">24</span> Immediately having cried out, the father of the child was saying, “I believe. Help my unbelief.”
+<span class="v-num">24</span> And immediately, having cried out, the father of the child said with tears, "I believe, Lord; help my unbelief."
 
-<span class="v-num">25</span> And having seen that a crowd is running together, <del class="deleted-text">[the]</del> Jesus rebuked the unclean spirit, saying <span class="added-text">(to)</span> it, “Dumb and deaf spirit! I command you, come out of him, and no more <del class="deleted-text">[might]</del> enter into him.”
+<span class="v-num">25</span> And Jesus, having seen that a crowd was running together, rebuked the unclean spirit, saying to it, "<span class="added-text">(You)</span> mute and deaf spirit, I command you, come out of him, and no more enter into him."
 
-<span class="v-num">26</span> And having cried out and having convulsed <span class="added-text">(him)</span> <span class="alt-label">much</span><span class="alt-text">(=terribly)</span>, it came out. And he became as <span class="added-text">(one)</span> dead, <span class="alt-label">so as the many to say</span><span class="alt-text">(=so that many said)</span>, “<del class="deleted-text">[that]</del> He is dead.”
+<span class="v-num">26</span> And having cried out, and having convulsed him greatly, it came out; and he became as <span class="added-text">(if)</span> dead, so that many said that he was dead.
 
-<span class="v-num">27</span> But having taken him by the hand, <del class="deleted-text">[the]</del> Jesus lifted him up. And he stood up.
+<span class="v-num">27</span> But Jesus, having taken hold of his hand, raised him; and he arose.
 
-<span class="v-num">28</span> And <span class="alt-label">his having come</span><span class="alt-text">(=when he had come)</span>[^3] into a house, his disciples were asking him privately, “Why were we not able to cast it out?”
+<span class="v-num">28</span> And when he had entered into a house, his disciples questioned him privately, "Why were we not able to cast it out?"
 
-<span class="v-num">29</span> And he said <span class="added-text">(to)</span> them, “This kind is able to come out by nothing <span class="alt-label">except</span><span class="alt-text">(=but)</span> by prayer.”
+<span class="v-num">29</span> And he said to them, "This kind can come out by nothing, except by prayer and fasting."
 
-<span class="v-num">30</span> And <span class="alt-label">having gone out</span><span class="alt-text">(=after they went on)</span> from there, they were passing through <del class="deleted-text">[the]</del> Galilee. And he <span class="alt-label">was not willing</span><span class="alt-text">(=did not want)</span> <span class="alt-label">that anyone might know</span><span class="alt-text">(=anyone to know)</span>.
+<span class="v-num">30</span> And having gone out from there, they passed through Galilee; and he did not want that anyone should know <span class="added-text">(it)</span>.[^9]
 
-<span class="v-num">31</span> For he was teaching his disciples. And he was saying <span class="added-text">(to)</span> them, “<del class="deleted-text">[that]</del> The Son of Man is <span class="alt-label">delivered</span><span class="alt-text">(=betrayed)</span> into the hands of men, and they will kill him. And having been killed, after three days, he will rise.”
+<span class="v-num">31</span> For he was teaching his disciples, and saying to them, "The Son of man is being delivered up into <span class="added-text">(the)</span> hands of men, and they will kill him; and having been killed, on the third day he will rise."[^10]
 
-<span class="v-num">32</span> But they <span class="alt-label">were not knowing</span><span class="alt-text">(=did not understand)</span> the saying, and were <del class="deleted-text">[being]</del> afraid to ask him.
+<span class="v-num">32</span> But they did not understand the saying, and were afraid to ask him.
 
-<span class="v-num">33</span> And they came to Capernaum. And having been in the house, he was asking them, “What were you arguing about on the way?”
+<span class="v-num">33</span> And he came to Capernaum; and being in the house, he questioned them, "What were you discussing among yourselves on the way?"
 
-<span class="v-num">34</span> And they <span class="alt-label">were being silent</span><span class="alt-text">(=kept silent)</span>. For on the way they <span class="added-text">(had)</span> argued with one another who <span class="added-text">(was)</span> <span class="alt-label">greater</span><span class="alt-text">(=the greatest)</span>.
+<span class="v-num">34</span> But they were silent; for on the way they had disputed with one another, who <span class="added-text">(was)</span> greater.
 
-<span class="v-num">35</span> And having sat down, he called the twelve. And he says <span class="added-text">(to)</span> them, “If anyone wants to be first, he shall be last of all and servant of all.”
+<span class="v-num">35</span> And having sat down, he called the twelve, and said to them, "If anyone wants to be first, he shall be last of all, and servant of all."
 
-<span class="v-num">36</span> And having taken a child, he had him stand in <span class="added-text">(the)</span> midst of them. And <span class="alt-label">having embraced him</span><span class="alt-text">(=having taken him in his arms)</span>, he said <span class="added-text">(to)</span> them,
+<span class="v-num">36</span> And having taken a child, he set it in the midst of them; and having taken it in his arms, he said to them,
 
-<span class="v-num">37</span> “Whoever <del class="deleted-text">[might]</del> receives one of these children in my name receives me. And whoever receives me does not receive me but the One having sent me.”
+<span class="v-num">37</span> "Whoever receives one of such children in my name, receives me; and whoever receives me, does not receive me, but him who sent me."[^11]
 
-<span class="v-num">38</span> <del class="deleted-text">[The]</del> John was saying <span class="added-text">(to)</span> him, “Teacher, we saw someone casting out demons in your name. And we <span class="alt-label">were forbidding</span><span class="alt-text">(=tried to stop)</span> him, because he was not following us.”
+<span class="v-num">38</span> And John answered him, saying, "Teacher, we saw someone casting out demons in your name, who does not follow us; and we forbade him, because he does not follow us."
 
-<span class="v-num">39</span> And <del class="deleted-text">[the]</del> Jesus said, “Do not forbid him. For no one who <span class="alt-label">shall do</span><span class="alt-text">(=does)</span> <span class="alt-label">power</span><span class="alt-text">(=a mighty work)</span> <span class="alt-label">on</span><span class="alt-text">(=in)</span> my name <del class="deleted-text">[and]</del> will be able <span class="alt-label">quickly</span><span class="alt-text">(=soon afterward)</span> to speak evil of me.”
+<span class="v-num">39</span> "But Jesus said, 'Do not forbid him; for there is no one who will do a miracle in my name, and will be able quickly to speak evil of me.
 
-<span class="v-num">40</span> “For he who is not against us is for us.”
+<span class="v-num">40</span> For whoever is not against you is for you.
 
-<span class="v-num">41</span> “For whoever <del class="deleted-text">[might]</del> gives you a cup of water to drink in <span class="added-text">(my)</span> name, because you <span class="alt-label">are of Christ</span><span class="alt-text">(=belong to Christ)</span>, truly I say <span class="added-text">(to)</span> you, that he <span class="alt-label">might</span><span class="alt-text">(=will)</span> by no means lose his reward.”
+<span class="v-num">41</span> For whoever gives you a cup of water to drink in <span class="added-text">(my)</span> name, because you belong to Christ, truly I say to you, he shall by no means lose his reward.
 
-<span class="v-num">42</span> “And whoever <del class="deleted-text">[might]</del> causes one of these little ones <span class="added-text">(who are)</span> believing in me to stumble, it <span class="alt-label">is</span><span class="alt-text">(=would be)</span> better <span class="added-text">(for)</span> him if <span class="alt-label">donkey’s millstone</span><span class="alt-text">(=a great millstone)</span> <span class="alt-label">is</span><span class="alt-text">(=were)</span> hanged around his neck, and he <span class="alt-label">had been</span><span class="alt-text">(=were)</span> thrown into the sea.”
+<span class="v-num">42</span> And whoever causes one of these little ones believing in me to stumble, it is better for him rather, if a millstone is hung about his neck, and he is cast into the sea.[^12]
 
-<span class="v-num">43</span> “And if your hand <del class="deleted-text">[may]</del> causes you to stumble, cut it off. It is better <span class="added-text">(for)</span> you to enter into <del class="deleted-text">[the]</del> life maimed than <span class="added-text">(for you)</span> having two hands to go into the <span class="alt-label">Gehenna</span><span class="alt-text">(=hell)</span>, into the unquenchable fire.”
+<span class="v-num">43</span> And if your hand causes you to stumble, cut it off; it is better for you to enter into life maimed, than having the two hands to go away into <span class="alt-label">hell</span><span class="alt-text">(=Gehenna)</span>, into the fire <span class="added-text">(that is)</span> unquenchable,[^13]
 
-<span class="v-num">44</span> <span class="added-text">(where their worm does not die, and the fire is not quenched.)</span>
+<span class="v-num">44</span> where their worm does not die, and the fire is not quenched.[^14]
 
-<span class="v-num">45</span> “And if your foot <del class="deleted-text">[may]</del> causes you to stumble, cut it off. It is better <span class="added-text">(for)</span> you to enter into <del class="deleted-text">[the]</del> life lame than <span class="added-text">(for you)</span> having two feet to be thrown into <span class="alt-label">Gehenna</span><span class="alt-text">(=hell)</span>.”
+<span class="v-num">45</span> And if your foot causes you to stumble, cut it off; it is better for you to enter into life lame, than having the two feet to be cast into <span class="alt-label">hell</span><span class="alt-text">(=Gehenna)</span>, into the fire <span class="added-text">(that is)</span> unquenchable,[^15]
 
-<span class="v-num">46</span> <span class="added-text">(where their worm does not die, and the fire is not quenched.)</span>
+<span class="v-num">46</span> where their worm does not die, and the fire is not quenched.[^16]
 
-<span class="v-num">47</span> “And if your eye <del class="deleted-text">[may]</del> causes you to stumble, pluck it out. It is better <span class="added-text">(for)</span> you to enter into the kingdom of God <span class="added-text">(with)</span> one eye than <span class="added-text">(for you)</span> having two eyes to be thrown into <span class="alt-label">Gehenna</span><span class="alt-text">(=hell)</span>,”
+<span class="v-num">47</span> And if your eye causes you to stumble, cast it out; it is better for you to enter into the kingdom of God with one eye, than having two eyes to be cast into the <span class="alt-label">hell</span><span class="alt-text">(=Gehenna)</span> of fire,
 
-<span class="v-num">48</span> “where their worm does not die, and the fire is not quenched.”
+<span class="v-num">48</span> where their worm does not die, and the fire is not quenched.
 
-<span class="v-num">49</span> “For everyone shall be salted <span class="added-text">(with)</span> fire. <span class="added-text">(And every sacrifice will be salted (with)</span> salt)”
+<span class="v-num">49</span> For everyone will be salted with fire, and every sacrifice will be salted with salt.[^17]
 
-<span class="v-num">50</span> “<del class="deleted-text">[The]</del> Salt <span class="added-text">(is)</span> good. But if the salt <del class="deleted-text">[might]</del> becomes saltless, <span class="alt-label">by what</span><span class="alt-text">(=how)</span> will you season it? Have salt in yourselves, and be at peace with one another.”
+<span class="v-num">50</span> Salt <span class="added-text">(is)</span> good; but if the salt becomes <span class="alt-label">saltless</span><span class="alt-text">(=tasteless)</span>, with what will you season it? Have salt in yourselves, and be at peace with one another.'"[^18]
 
 ---
 
-### Study Notes
-
-[^1]: pluperfect
-[^2]: genitive absolute
-[^3]: genitive absolute
+[^1]: ἐληλυθυῖαν은 완료분사로 '이미 임하여 있는 상태'를 강조하며, 변화산 사건(9:2 이하)이 그 성취의 예표로 이어진다.
+[^2]: μετεμορφώθη(변형되다)는 겉모습이 아니라 본질의 영광이 드러난 것을 가리키는 말로, 예수의 신성이 순간적으로 계시된 사건이다.
+[^3]: 이 음성은 마가 1:11의 세례 시 음성과 동일한 형태로, 예수의 정체를 다시 확증하는 하나님의 선언이다.
+[^4]: ἀναστῇ는 부정과거 가정법으로, ἕως ὅταν과 함께 아직 일어나지 않은 미래 사건(부활)을 조건으로 제시한다.
+[^5]: ἵνα+가정법(πάθῃ)은 기록된 말씀의 목적/내용을 나타내며, 인자가 반드시 고난받아야 함을 하나님의 뜻과 성경 성취의 관점에서 제시한다.
+[^6]: ἵνα+가정법(ἐκβάλωσι)은 εἶπον의 목적어 역할을 하는 목적절로, '쫓아내도록' 요청한 내용을 나타낸다. 아직 이루어지지 않은 바람이나 요구를 표현하는 구문이다.
+[^7]: ἵνα+가정법(ἀπολέσῃ)은 목적절로, 영이 아이를 불과 물에 던진 '의도'가 죽이려는 것이었음을 보여준다. 설교 적용: 사탄의 공격에는 파괴하려는 명확한 목적이 있음을 강조할 수 있다.
+[^8]: εἰ δύνασαι πιστεῦσαι는 아버지의 조건적 의심을 예수께서 되받아, 가능성의 근거를 아버지의 능력이 아니라 믿음에 두시는 구조이다.
+[^9]: ἵνα+가정법(γνῷ)이 이끄는 목적절로, '~하기를 원하다'의 내용을 나타냄. 예수께서 자신의 행적이 알려지는 것을 원치 않으신 의도를 강조한다.
+[^10]: παραδίδοται는 현재시제이나 미래에 일어날 배신 사건을 생생히 현재화하여 표현한 예언적 현재이다.
+[^11]: ὃς ἐάν+가정법은 '누구든지 ~하면'이라는 불특정 대상의 미래 가능 조건절로, 아직 실현되지 않았지만 언제든 실현 가능한 일반적 조건을 나타낸다. 특정인이 아닌 조건을 충족하는 모든 사람에게 적용되는 보편적 원리를 강조한다.
+[^12]: σκανδαλίσῃ는 부정과거 가정법으로 실족의 실제성보다는 그러한 행위 일반을 조건적으로 상정한다.
+[^13]: ἐὰν+가정법(σκανδαλίζῃ)은 아직 실현되지 않았으나 실제로 일어날 수 있는 상황을 가정하는 3급 조건문이다.
+[^14]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 사본 증거 부족(43절의 반복으로 인한 후대 삽입 가능성)으로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^15]: 동일한 3급 조건문 구조(ἐὰν+가정법)가 반복되어 신체 지체마다 동일한 경고를 강조한다.
+[^16]: 이 구절은 TR(공인본문) 전통에 포함되나 대다수 현대 비평본(NA/UBS)은 사본 증거 부족(48절의 반복으로 인한 후대 삽입 가능성)으로 제외한다. 이 프로젝트는 TR 원문을 기준으로 삼는 원칙에 따라 그대로 유지한다.
+[^17]: πυρὶ ἁλισθήσεται는 앞선 불 심판(43-48절)과 소금(제물의 정결) 이미지를 연결하여, 제자의 고난이 정결케 하는 과정임을 암시한다.
+[^18]: ἐάν+가정법(γένηται)은 아직 실현되지 않은 미래 가능성을 나타내는 조건절로, '혹시라도 소금이 짠맛을 잃게 된다면'이라는 가정을 표현한다. 실제로 일어날 수도 있는 상황을 전제로 경고하는 뉘앙스이다.

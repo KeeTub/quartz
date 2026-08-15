@@ -4,7 +4,7 @@ description: "1 Corinthians Chapter 5"
 book: "1 Corinthians"
 chapter: 5
 order: 5
-tags: [NTpbsEn, 1_Corinthians]
+tags: [NTpbsEn, 1Corinthians]
 ---
 
 # 1 Corinthians 5
@@ -16,36 +16,36 @@ tags: [NTpbsEn, 1_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> It is actually reported <span class="added-text">(that there is)</span> fornication among you, and such fornication as <span class="added-text">(is)</span> not among the <span class="alt-label">Gentiles</span><span class="alt-text">(=pagans)</span>, <span class="alt-label">so as someone to have father’s wife</span><span class="alt-text">(=that a man has his father’s wife)</span>.
+<span class="v-num">1</span> It is actually heard among you <span class="added-text">(that there is)</span> fornication, and such fornication as is not even named among the Gentiles, so that someone has his father's wife.
 
-<span class="v-num">2</span> And you <span class="alt-label">are having been puffed up</span><span class="alt-text">(=are arrogant)</span>[^1]! And <span class="added-text">(Should)</span> you not rather have mourned, so that the one having done this deed might be taken away from among you?
+<span class="v-num">2</span> And you are puffed up, and did not rather mourn, that he who did this deed might be <span class="alt-label">removed</span><span class="alt-text">(=taken away)</span> out of your midst?[^1]
 
-<span class="v-num">3</span> For I indeed, being absent <span class="added-text">(in)</span> <del class="deleted-text">[the]</del> body but being present <span class="added-text">(in)</span> <del class="deleted-text">[the]</del> spirit, have already judged, as being present, the one having so done this <span class="added-text">(deed)</span>.
+<span class="v-num">3</span> For I indeed, as absent in body but present in spirit, have already judged, as present, the one having so <span class="alt-label">done</span><span class="alt-text">(=worked)</span> this thing,[^2]
 
-<span class="v-num">4</span> In the name of the Lord Jesus, <span class="alt-label">your being assembled</span><span class="alt-text">(=when you are assembled)</span>[^2], and <span class="alt-label">my spirit’s <span class="added-text">(being assembled)</span></span><span class="alt-text">(=my spirit is present)</span>[^3], with the power of our Lord Jesus,
+<span class="v-num">4</span> in the name of our Lord Jesus Christ, you and my spirit having been gathered together, with the power of our Lord Jesus Christ,
 
-<span class="v-num">5</span> to deliver such a one to Satan for destruction of the flesh, that the spirit <span class="alt-label">might</span><span class="alt-text">(=may)</span> be saved in the day of the Lord.
+<span class="v-num">5</span> to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.[^3]
 
-<span class="v-num">6</span> Your boast <span class="added-text">(is)</span> not good. Do you not know that a little leaven leavens the whole lump?
+<span class="v-num">6</span> Your boasting <span class="added-text">(is)</span> not good. Do you not know that a little leaven leavens the whole lump?
 
-<span class="v-num">7</span> Cleanse out the old leaven, that you may be a new lump, as you are unleavened. For Christ, our Passover <span class="added-text">(lamb)</span>, has been sacrificed.
+<span class="v-num">7</span> Therefore purge out the old leaven, that you may be a new lump, as you are unleavened. For indeed our Passover, Christ, was sacrificed for us.[^4]
 
-<span class="v-num">8</span> Therefore let us keep the feast, not <span class="alt-label">in</span><span class="alt-text">(=with)</span> old leaven, nor <span class="alt-label">in</span><span class="alt-text">(=with)</span> <span class="added-text">(the)</span> leaven of malice and evil, but <span class="alt-label">in</span><span class="alt-text">(=with)</span>  the unleavened <span class="added-text">(breads)</span> of sincerity and truth.
+<span class="v-num">8</span> So then let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened <span class="added-text">(bread)</span> of sincerity and truth.
 
-<span class="v-num">9</span> I wrote you in the epistle not to associate <span class="added-text">(with)</span> <span class="alt-label">fornicators</span><span class="alt-text">(=sexually immoral men)</span>,
+<span class="v-num">9</span> I wrote to you in the epistle, not to <span class="alt-label">associate</span><span class="alt-text">(=keep company)</span> with fornicators;
 
-<span class="v-num">10</span> not at all <span class="added-text">(meaning)</span> the fornicators of this world, or <span class="added-text">(with)</span> the greedy and robbers, or idolaters, since then you would have to go out of the world.
+<span class="v-num">10</span> yet not at all <span class="added-text">(meaning)</span> with the fornicators of this world, or the covetous, or extortioners, or idolaters; since then you would have to go out of the world.
 
-<span class="v-num">11</span> But now I wrote to you not to associate with anyone being named a brother if he <span class="alt-label">may be</span><span class="alt-text">(=is)</span> a fornicator, or greedy <span class="added-text">(man)</span>, or an idolater, or reviler, or drunkard, or robber - not even to eat with such a person.
+<span class="v-num">11</span> But now I wrote to you not to associate <span class="added-text">(with him)</span>, if any <span class="added-text">(one)</span> named a brother is a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a one not even to eat.[^5]
 
-<span class="v-num">12</span> For <span class="alt-label">what <span class="added-text">(is it)</span> to me to judge</span><span class="alt-text">(=what have I to do with judging)</span> the ones outside? Do you not judge the ones inside?
+<span class="v-num">12</span> For what have I to do with judging those outside? Do you not judge those inside?
 
-<span class="v-num">13</span> And <del class="deleted-text">[the]</del> God will judge the ones outside. Drive out the evil one from yourselves.
+<span class="v-num">13</span> But those outside God judges. And you shall put away the wicked <span class="added-text">(person)</span> from among yourselves.
 
 ---
 
-### Study Notes
-
-[^1]: periphrastic perfect
-[^2]: genitive absolute
-[^3]: genitive absolute
+[^1]: ἵνα ἐξαρθῇ는 목적을 나타내는 부정사구가 아니라 가정법 목적절로, 슬퍼함이 있었어야 할 실제 목적(제거)을 가리킨다.
+[^2]: κέκρικα는 완료시제로 이미 내려진 판단이 지금도 유효함을 강조한다.
+[^3]: ἵνα τὸ πνεῦμα σωθῇ는 사탄에게 내어줌의 궁극 목적(영의 구원)을 나타내는 가정법 목적절이다.
+[^4]: ἵνα ἦτε는 누룩을 없애는 행위의 목적(새 반죽이 됨)을 나타내는 가정법 목적절이다.
+[^5]: ἐάν+가정법(ᾖ)은 아직 확정되지 않은 구체적 사례를 가정하는 조건절로, 형제라 불리는 자의 실제 행위 여부를 전제한다.

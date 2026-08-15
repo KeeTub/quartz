@@ -4,7 +4,7 @@ description: "2 Corinthians Chapter 12"
 book: "2 Corinthians"
 chapter: 12
 order: 12
-tags: [NTpbsEn, 2_Corinthians]
+tags: [NTpbsEn, 2Corinthians]
 ---
 
 # 2 Corinthians 12
@@ -16,50 +16,51 @@ tags: [NTpbsEn, 2_Corinthians]
 </div>
 
 
-<span class="v-num">1</span> It is necessary to boast; it is not profitable <span class="added-text">(for me)</span>, but I will go on to visions and revelations of <span class="added-text">(the)</span> Lord.
+<span class="v-num">1</span> Boasting indeed is not profitable for me; for I will go on to visions and revelations of <span class="added-text">(the)</span> Lord.
 
-<span class="v-num">2</span> I know a man in Christ, such a man, fourteen years ago, <span class="alt-label">having been caught up</span><span class="alt-text">(=who was caught up)</span> to <span class="added-text">(the)</span> third heaven– I do not know whether in <span class="added-text">(the)</span> body or out of the body – <del class="deleted-text">[the]</del> God knows.
+<span class="v-num">2</span> I know a man in Christ, fourteen years ago - whether in <span class="added-text">(the)</span> body, I do not know, or whether out of the body, I do not know, God knows - such a one having been caught up to <span class="added-text">(the)</span> third heaven.
 
-<span class="v-num">3</span> I know such a man – whether in <span class="added-text">(the)</span> body or without the body I do not know, God knows -
+<span class="v-num">3</span> And I know such a man - whether in <span class="added-text">(the)</span> body, or apart from the body, I do not know, God knows -
 
-<span class="v-num">4</span> was caught into the paradise and heard inexpressible words, which it is not permitted for a man to tell.
+<span class="v-num">4</span> that he was caught up into paradise, and heard unspeakable words, which it is not permitted for a man to speak.
 
-<span class="v-num">5</span> On behalf of such a <span class="added-text">(man)</span> I will boast, but on my own behalf I will not boast except in <span class="alt-label">the</span><span class="alt-text">(=my)</span> weaknesses.
+<span class="v-num">5</span> On behalf of such a one I will boast; but on behalf of myself I will not boast, except in my weaknesses.
 
-<span class="v-num">6</span> <span class="alt-label">For if</span><span class="alt-text">(=Even if)</span> I might want to boast, I will not be foolish, for I will speak <span class="added-text">(the)</span> truth. But I refrain, so that no one <span class="alt-label">might</span><span class="alt-text">(=may)</span> think of me beyond what he sees me or hears from me.
+<span class="v-num">6</span> For if I should wish to boast, I will not be foolish, for I will say <span class="added-text">(the)</span> truth; but I refrain, lest anyone should think of me above what he sees <span class="added-text">(in)</span> me, or hears anything from me.[^1]
 
-<span class="v-num">7</span> And <span class="added-text">(because of)</span> the abundance of the revelations, therefore, lest I may be exalted, there was given to me a thorn <span class="added-text">(in)</span> the flesh, a messenger of Satan, that he may buffet me, lest I may be exalted.
+<span class="v-num">7</span> And by the abundance of the revelations, lest I should be exalted above measure, there was given to me a thorn in the flesh, a messenger of Satan to buffet me, lest I should be exalted above measure.[^2]
 
-<span class="v-num">8</span> For this thing, I pleaded <span class="added-text">(with)</span> the Lord three times that it might depart from me.
+<span class="v-num">8</span> Concerning this, three times I besought the Lord, that it might depart from me.[^3]
 
-<span class="v-num">9</span> And he has said <span class="added-text">(to)</span> me, “My grace is sufficient <span class="added-text">(for)</span> you, For <span class="alt-label">the</span><span class="alt-text">(=my)</span> power is made perfect in weakness.” Therefore the most gladly I will boast in <span class="alt-label">the</span><span class="alt-text">(=my)</span> weaknesses, so that the power of Christ <span class="alt-label">might</span><span class="alt-text">(=may)</span> rest upon me.
+<span class="v-num">9</span> And He said to me, "My grace is sufficient for you, for my power is made perfect in weakness." Most gladly therefore will I rather boast in my weaknesses, that the power of Christ may rest upon me.[^4]
 
-<span class="v-num">10</span> Therefore I delight in weaknesses, in insults, in hardships, in persecutions and distresses, for Christ’s sake. For when I <del class="deleted-text">[may]</del> am weak, then I am strong.
+<span class="v-num">10</span> Therefore I take pleasure in weaknesses, in insults, in necessities, in persecutions, in distresses, for Christ's sake; for when I am weak, then I am strong.
 
-<span class="v-num">11</span> I have become foolish. You forced me <span class="added-text">(to it)</span>. For I ought to have been commended by you; for <span class="alt-label">I lacked nothing of</span><span class="alt-text">(=I am not at all inferior to)</span> the super-apostles, even if I am nothing.
+<span class="v-num">11</span> I have become foolish <span class="added-text">(in)</span> boasting; you compelled me. For I ought to have been commended by you, for in nothing was I inferior to the most exceedingly great apostles, though I am nothing.
 
-<span class="v-num">12</span> Indeed the signs of the apostle were performed among you in all endurance, <span class="added-text">(in)</span> signs and wonders and mighty works.
+<span class="v-num">12</span> Truly the signs of <span class="alt-label">an</span><span class="alt-text">(=the)</span> apostle were performed among you in all patience, in signs and wonders and mighty deeds.
 
-<span class="v-num">13</span> For what is it <span class="added-text">(in)</span> which you were inferior to the <span class="alt-label">remaining</span><span class="alt-text">(=other)</span> churches, except that I myself was not a burden to you? Forgive me this wrong!
+<span class="v-num">13</span> For what is it in which you were inferior to the rest of the churches, except that I myself was not <span class="added-text">(a)</span> burden to you? Forgive me this wrong.
 
-<span class="v-num">14</span> Behold, <span class="added-text">(for)</span> this third time I am ready to come <span class="added-text">(to)</span> you. And I will not be a burden <span class="added-text">(to you)</span>; for I do not seek <span class="alt-label">your things</span><span class="alt-text">(=yours)</span>, but you. For the children ought not to lay up <span class="added-text">(for)</span> the parents, but the parents <span class="added-text">(for)</span> the children.
+<span class="v-num">14</span> Behold, <span class="added-text">(this is the)</span> third <span class="added-text">(time)</span> I am ready to come to you, and I will not burden you; for I do not seek what is yours, but you. For the children ought not to lay up treasure for the parents, but the parents for the children.
 
-<span class="v-num">15</span> But I will most gladly spend and <del class="deleted-text">[will]</del> be spent for your souls. If I love you more abundantly, am I loved <span class="added-text">(the)</span> less?
+<span class="v-num">15</span> And I will most gladly spend and be spent for your souls; though loving you more abundantly, I am loved less.
 
-<span class="v-num">16</span> But so be it, I did not burden you. But being crafty, I took you <span class="added-text">(with)</span> deceit!
+<span class="v-num">16</span> But let it be so, I did not burden you; nevertheless, being crafty, I caught you with guile.
 
-<span class="v-num">17</span> <del class="deleted-text">[Not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> <span class="added-text">(Is there)</span> any of those whom I sent you, through <span class="alt-label">him</span><span class="alt-text">(=whom)</span> I took advantage of you?
+<span class="v-num">17</span> Did I take advantage of you through any of those whom I have sent to you?
 
-<span class="v-num">18</span> I urged Titus <span class="added-text">(to go)</span>, and sent the brother with <span class="added-text">(him)</span>. <del class="deleted-text">[Not<span class="added-text">(# expecting the answer ‘No’)</span>]</del> Did Titus take advantage of you? Did we not walk <span class="added-text">(in)</span> the same spirit? <span class="added-text">(Did we not walk in)</span> the same step?
+<span class="v-num">18</span> I urged Titus, and sent the brother with <span class="added-text">(him)</span>. Did Titus take advantage of you in anything? Did we not walk in the same spirit? <span class="added-text">(Did we)</span> not <span class="added-text">(walk)</span> in the same steps?
 
-<span class="v-num">19</span> Up to now, do you think that we have been defending <span class="added-text">(ourselves before)</span> you? We speak before God in Christ. All things, beloved, <span class="added-text">(are)</span> for your edification.
+<span class="v-num">19</span> Again, do you think that we are defending ourselves to you? We speak before God in Christ; but all things, beloved, for your edification.
 
-<span class="v-num">20</span> For I fear that I, coming, <span class="alt-label">might</span><span class="alt-text">(=may)</span> not find you such as I wish, and that I <span class="alt-label">might</span><span class="alt-text">(=may)</span> be found <span class="added-text">(by)</span> you such as you do not wish. <span class="added-text">(I fear that there may be)</span> quarreling, jealousy, angers, selfish ambitions, backbitings, gossips, arrogance and disturbances.
+<span class="v-num">20</span> For I fear, lest perhaps when I come I might find you not such as I wish, and I might be found by you such as you do not wish; lest <span class="added-text">(there be)</span> strife, jealousies, angers, <span class="alt-label">factions</span><span class="alt-text">(=selfish ambitions)</span>, evil speakings, whisperings, arrogances, disorders;
 
-<span class="v-num">21</span> <span class="added-text">(I fear that)</span>, <span class="alt-label">my having come again</span><span class="alt-text">(=when I come again)</span>[^1], my God <span class="alt-label">might</span><span class="alt-text">(=will)</span> humble me before you, and I will mourn <span class="added-text">(for)</span> many of the ones having previously sinned and having not repented of the uncleanness, <del class="deleted-text">[and]</del> fornication, and debauchery which they have practiced.
+<span class="v-num">21</span> lest, when I come again, my God should humble me among you, and I should mourn for many of those who have sinned before, and have not repented of the uncleanness and fornication and licentiousness which they have practiced.
 
 ---
 
-### Study Notes
-
-[^1]: genitive absolute
+[^1]: ἐὰν+가정법(θελήσω)은 아직 실현되지 않은 미래 가능성을 나타내는 3형식 조건절로, '내가 만일 자랑하고자 한다면'이라는 가정적 상황을 설정한다. 바울이 실제로 자랑할 마음이 있는지 여부와 무관하게, 가정적 전제 위에서 자신의 논리를 전개하는 수사적 장치다.
+[^2]: ἵνα μὴ ὑπεραίρωμαι가 두 번 반복되어 교만을 막으시려는 하나님의 목적을 강조하는 가정법 목적절이다.
+[^3]: ἵνα+가정법(ἀποστῇ)은 목적절로, 바울이 주께 간구한 목적(가시가 떠나기를)을 나타낸다. 아직 이루어지지 않은 바람을 향한 기도의 지향점을 보여준다.
+[^4]: ἵνα+가정법(ἐπισκηνώσῃ)으로 목적절을 이끌며, 바울이 약함 속에서 자랑하는 목적이 그리스도의 능력이 자신에게 머물게 하려는 데 있음을 보여준다.

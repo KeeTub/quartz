@@ -16,42 +16,44 @@ tags: [NTpbsEn, Matthew]
 </div>
 
 
-<span class="v-num">1</span> And in those days John the Baptist <span class="alt-label">comes</span><span class="alt-text">(=came)</span>, proclaiming in the wilderness of Judea,
+<span class="v-num">1</span> And in those days John the Baptist came, preaching in the wilderness of Judea,[^1]
 
-<span class="v-num">2</span> saying, “Repent, for the kingdom of heavens has come near.”
+<span class="v-num">2</span> and saying, “Repent, for the kingdom of the heavens has come near.”[^2]
 
-<span class="v-num">3</span> For this is the one <del class="deleted-text">[having been]</del> spoken through Isaiah the prophet, saying, “A voice of one crying in the wilderness, ‘Prepare the way of <span class="added-text">(the)</span> Lord, Make his paths straight.’”
+<span class="v-num">3</span> For this is the one spoken of <span class="alt-label">by</span><span class="alt-text">(=through)</span> Isaiah the prophet, saying, “<span class="added-text">(The)</span> voice of one crying in the wilderness, ‘Prepare the way of the Lord; make his paths straight.’”[^3]
 
-<span class="v-num">4</span> And John himself was having his clothing <span class="alt-label">from</span><span class="alt-text">(=of)</span> hairs of camel and a leather belt around his waist. And his food was locusts and wild honey.
+<span class="v-num">4</span> Now John himself had his clothing from camel's hair, and a leather belt around his waist; and his food was locusts and wild honey.
 
-<span class="v-num">5</span> Then Jerusalem and all <del class="deleted-text">[the]</del> Judea and all the neighborhood of the Jordan went out to him.
+<span class="v-num">5</span> Then Jerusalem and all Judea and all the region around the Jordan went out to him,
 
-<span class="v-num">6</span> And they were being baptized by him in the Jordan River, confessing their sins.
+<span class="v-num">6</span> and they were being baptized by him in the Jordan, confessing their sins.
 
-<span class="v-num">7</span> And having seen many of the Pharisees and Sadducees coming for <del class="deleted-text">[the]</del> baptism, he said <span class="added-text">(to)</span> them, “Brood of vipers! Who warned you to flee from the wrath <span class="alt-label">being about to</span><span class="alt-text">(=to come)</span>?”
+<span class="v-num">7</span> But having seen many of the Pharisees and Sadducees coming to his baptism, he said to them, “<span class="added-text">(You)</span> offspring of vipers, who warned you to flee from the coming wrath?
 
-<span class="v-num">8</span> “Therefore, bear fruit worthy of repentance.”
+<span class="v-num">8</span> Therefore produce fruit worthy of repentance,
 
-<span class="v-num">9</span> “And do not think to say in yourselves, ‘We have <del class="deleted-text">[the]</del> Abraham <span class="added-text">(as our)</span> father.’ For I tell you that <del class="deleted-text">[the]</del> God is able from these stones to raise up children <span class="added-text">(for)</span> <del class="deleted-text">[the]</del> Abraham.”
+<span class="v-num">9</span> and do not think to say within yourselves, ‘We have Abraham <span class="added-text">(as our)</span> father’; for I say to you that God is able out of these stones to raise up children to Abraham.
 
-<span class="v-num">10</span> “And the ax is already laid to the root of the trees. Therefore every tree not bearing good fruit is cut down and <del class="deleted-text">[is]</del> thrown into <span class="added-text">(the)</span> fire.”
+<span class="v-num">10</span> And already the axe is laid at the root of the trees; therefore every tree not producing good fruit is cut down and thrown into <span class="added-text">(the)</span> fire.
 
-<span class="v-num">11</span> “I indeed baptize you in water for repentance, but the One coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you <span class="alt-label">in</span><span class="alt-text">(=with)</span> <span class="added-text">(the)</span> Holy Spirit and fire,”
+<span class="v-num">11</span> I indeed baptize you in water <span class="alt-label">for</span><span class="alt-text">(=unto)</span> repentance, but the one coming after me is stronger than I, whose sandals I am not <span class="alt-label">worthy</span><span class="alt-text">(=fit)</span> to carry; he will baptize you in <span class="added-text">(the)</span> Holy Spirit and fire.
 
-<span class="v-num">12</span> “whose winnowing fork <span class="added-text">(is)</span> in his hand, and he will thoroughly clear his threshing floor and will gather his wheat into the barn, and will burn up the chaff <span class="added-text">(with)</span> unquenchable fire.”
+<span class="v-num">12</span> whose winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor, and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.”
 
-<span class="v-num">13</span> Then <del class="deleted-text">[the]</del> Jesus comes from <del class="deleted-text">[the]</del> Galilee to <del class="deleted-text">[the]</del> John at the Jordan to be baptized by him.
+<span class="v-num">13</span> Then Jesus came from Galilee to the Jordan to John, to be baptized by him.[^4]
 
-<span class="v-num">14</span> And <del class="deleted-text">[the]</del> John was preventing him, saying, “I have need to be baptized by you, and do you come to me?”
+<span class="v-num">14</span> But John was <span class="alt-label">preventing</span><span class="alt-text">(=trying to prevent)</span> him, saying, “I have need to be baptized by you, and you come to me?”[^5]
 
-<span class="v-num">15</span> And having answered, <del class="deleted-text">[the]</del> Jesus said <span class="added-text">(to)</span> him, “Allow now, for thus it is proper for us to fulfill all righteousness.” Then he allows him.
+<span class="v-num">15</span> But Jesus answering said to him, “Permit <span class="added-text">(it)</span> now, for thus it is fitting for us to fulfill all righteousness.” Then he permitted him.
 
-<span class="v-num">16</span> And having been baptized, <del class="deleted-text">[the]</del> Jesus immediately went up from the water. And, behold, the heavens were opened <u>to him</u>[^1]. And he saw <span class="added-text">(the)</span> Spirit of God descending as a dove and coming upon him.
+<span class="v-num">16</span> And Jesus, having been baptized, went up immediately from the water; and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove, and coming upon him.
 
-<span class="v-num">17</span> And behold, a voice from the heavens, saying, “This is my beloved son, <span class="alt-label">in</span><span class="alt-text">(=with)</span> whom I was well pleased.”
+<span class="v-num">17</span> And behold, a voice from the heavens, saying, “This is my beloved Son, in whom I am well pleased.”
 
 ---
 
-### Study Notes
-
-[^1]: deleted in some manuscripts
+[^1]: παραγίνεται는 역사적 현재이나 개역체 관례에 따라 과거형 '나타나'로 옮겼다.
+[^2]: ἤγγικε는 완료시제로 나라가 이미 가까이 임한 상태를 강조한다.
+[^3]: 이사야 40:3의 인용으로 세례요한의 사역을 예언 성취로 제시한다.
+[^4]: τοῦ βαπτισθῆναι는 목적을 나타내는 관사+부정사 구문이다.
+[^5]: διεκώλυεν은 미완료로 '말리려 하였다'는 시도·지속의 뉘앙스를 담는다.

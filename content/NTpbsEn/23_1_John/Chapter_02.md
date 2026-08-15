@@ -4,7 +4,7 @@ description: "1 John Chapter 2"
 book: "1 John"
 chapter: 2
 order: 2
-tags: [NTpbsEn, 1_John]
+tags: [NTpbsEn, 1John]
 ---
 
 # 1 John 2
@@ -16,61 +16,70 @@ tags: [NTpbsEn, 1_John]
 </div>
 
 
-<span class="v-num">1</span> My children, I write you these things so that you might not sin. And if anyone <del class="deleted-text">[might]</del> sins, we have an advocate with the Father, Jesus Christ the righteous.
+<span class="v-num">1</span> My little children, these things I write to you, that (= so that) you may not sin. And if anyone sins, we have an <span class="alt-label">Advocate</span><span class="alt-text">(=Paraclete)</span> with (=before) the Father, Jesus Christ <span class="added-text">(the)</span> righteous <span class="added-text">(one)</span>.[^1]
 
-<span class="v-num">2</span> And he is <span class="added-text">(the)</span> <span class="alt-label">propitiation</span><span class="alt-text">(=atoning sacrifice)</span> for our sins, not for ours only but also for the whole world.
+<span class="v-num">2</span> And he himself is <span class="added-text">(the)</span> <span class="alt-label">propitiation</span><span class="alt-text">(=atoning sacrifice)</span> for our sins, and not for ours only, but also for <span class="added-text">(the)</span> whole world.[^2]
 
-<span class="v-num">3</span> And <span class="alt-label">in</span><span class="alt-text">(=by)</span> this we know that we have known Him, if we <del class="deleted-text">[may]</del> keep His commandments.
+<span class="v-num">3</span> And by this we know that we have known him, if we keep his commandments.
 
-<span class="v-num">4</span> The one saying, “<del class="deleted-text">[that]</del> I have known Him,” and not keeping His commandments, is a liar, and the truth is not in this <span class="added-text">(man)</span>,
+<span class="v-num">4</span> The one saying, "I have known him," and not keeping his commandments, is a liar, and the truth is not in <span class="alt-label">him</span><span class="alt-text">(=this one)</span>.
 
-<span class="v-num">5</span> but whoever <del class="deleted-text">[may]</del> keeps His word, truly the love of God has been perfected in this <span class="added-text">(man)</span>. By this we know that we are in Him.
+<span class="v-num">5</span> But whoever keeps his word, truly in <span class="alt-label">him</span><span class="alt-text">(=this one)</span> the love of God has been perfected. By this we know that we are in him.
 
-<span class="v-num">6</span> The one saying <span class="alt-label">to abide</span><span class="alt-text">(=that he abides)</span> in Him ought himself also to walk just as <span class="alt-label">that one</span><span class="alt-text">(=Jesus)</span> walked.
+<span class="v-num">6</span> The one saying he abides in him ought himself also to walk <span class="added-text">(in the same way)</span> just as that <span class="alt-label">one</span><span class="alt-text">(=he, Christ)</span> walked.
 
-<span class="v-num">7</span> Beloved, I am not writing you a new commandment, but an old commandment which you <span class="alt-label">were having</span><span class="alt-text">(=have had)</span> from <span class="added-text">(the)</span> beginning. The old commandment is the word which you have heard.
+<span class="v-num">7</span> Brothers, I write to you not a new commandment, but an old commandment which you had from <span class="added-text">(the)</span> beginning. The old commandment is the word which you heard from <span class="added-text">(the)</span> beginning.
 
-<span class="v-num">8</span> Again I am writing you a new commandment, that is true in Him and in you, because the darkness is passing away and the true light is already shining.
+<span class="v-num">8</span> Again, a new commandment I write to you, which is true in him and in you, because the darkness is passing away, and the true light already shines.
 
-<span class="v-num">9</span> The one saying <span class="alt-label">to be</span><span class="alt-text">(=that he is)</span> in the light and hating his brother is in the darkness until now.
+<span class="v-num">9</span> The one saying he is in the light, and hating his brother, is in the darkness until now.
 
-<span class="v-num">10</span> The one loving his brother abides in the light, and stumbling block is not in him.
+<span class="v-num">10</span> The one loving his brother abides in the light, and there is no cause of stumbling in him.
 
-<span class="v-num">11</span> But the one hating his brother is in the darkness, <del class="deleted-text">[and]</del> walks in the darkness, and does not know<span class="added-text">(# perfect as present)</span> where he is going, because the darkness has blinded his eyes.
+<span class="v-num">11</span> But the one hating his brother is in the darkness, and walks in the darkness, and does not know where he goes, because the darkness has blinded his eyes.
 
-<span class="v-num">12</span> I write to you, children, because <span class="alt-label">the</span><span class="alt-text">(=your)</span> sins having been <span class="alt-label">forgiven</span><span class="alt-text">(=has been forgiven)</span> you for his name’s sake.
+<span class="v-num">12</span> I write to you, little children, because your sins are forgiven you for his name's sake.
 
-<span class="v-num">13</span> I write to you, fathers, because you have known the One <span class="added-text">(who is)</span> from <span class="added-text">(the)</span> beginning. I write to you, young men, because you have overcome the evil one.
+<span class="v-num">13</span> I write to you, fathers, because you have known him <span class="added-text">(who is)</span> from <span class="added-text">(the)</span> beginning. I write to you, young men, because you have overcome the evil one. I write to you, children, because you have known the Father.[^3]
 
-<span class="v-num">14</span> I have written to you, children, because you have known the Father. I have written to you, fathers, because you have known the One <span class="added-text">(who is)</span> from the beginning. I have written to you, young men, because you are strong, <del class="deleted-text">[and]</del> the word of God abides in you, and you have overcome the evil one.
+<span class="v-num">14</span> I wrote to you, fathers, because you have known him <span class="added-text">(who is)</span> from <span class="added-text">(the)</span> beginning. I wrote to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one.[^4]
 
-<span class="v-num">15</span> Do not love the world or the things in the world. If anyone <del class="deleted-text">[may]</del> loves the world, the love of the Father is not in him,
+<span class="v-num">15</span> Do not love the world, nor the things in the world. If anyone loves the world, the love of the Father is not in him.
 
-<span class="v-num">16</span> because all that <span class="added-text">(is)</span> in the world - the lust of the flesh and the lust of the eyes and the pride of <del class="deleted-text">[the]</del> life - is not from the Father, but is from the world.
+<span class="v-num">16</span> For all that is in the world—the desire (=lust) of the flesh, and the desire (=lust) of the eyes, and the pride (=boastfulness) of life—is not from the Father, but is from the world.
 
-<span class="v-num">17</span> And the world passes away, and the lust of it <span class="added-text">(passes away)</span>, but the one doing the will of God abides <span class="alt-label">unto the age</span><span class="alt-text">(=forever)</span>.
+<span class="v-num">17</span> And the world is passing away, and its desire (=lust); but the one doing the will of God abides forever.
 
-<span class="v-num">18</span> Children, it is <span class="added-text">(the)</span> last hour; and as you have heard that antichrist is coming, even now many antichrists have come, from which fact we know that it is <span class="added-text">(the)</span> last hour.
+<span class="v-num">18</span> Little children, it is <span class="added-text">(the)</span> last hour. And just as you heard that the antichrist is coming, even now many antichrists have <span class="alt-label">arisen</span><span class="alt-text">(=come)</span>; by which we know that it is <span class="added-text">(the)</span> last hour.
 
-<span class="v-num">19</span> They went out from us, but they were not of us, for if they <u>had been</u><span class="added-text">(# unreal condition)</span> of us, they would have remained with us; but <span class="added-text">(they went out)</span>, that they might be made manifest that they all are not of us.
+<span class="v-num">19</span> They went out from us, but they were not of us; for if they had been of us, they would have remained with us. But <span class="added-text">(they went out)</span> that they might be revealed that they are not all of us.[^5]
 
-<span class="v-num">20</span> And you have an anointing from the Holy One, and you all know.
+<span class="v-num">20</span> But you have an anointing from the Holy One, and you know all things.
 
-<span class="v-num">21</span> I have not written <span class="added-text">(to)</span> you because you do not know the truth, but because you know it and because every lie is not of the truth.
+<span class="v-num">21</span> I did not write to you because you do not know the truth, but because you know it, and because no lie is of the truth.
 
-<span class="v-num">22</span> Who is the liar but the one denying that Jesus is <del class="deleted-text">[not]</del> the Christ? This is the antichrist, the one denying the Father and the Son.
+<span class="v-num">22</span> Who is the liar, if not the one denying that Jesus is the Christ? This one is the antichrist, the one denying the Father and the Son.
 
-<span class="v-num">23</span> No one denying the Son has the Father. The one confessing the Son has the Father also.
+<span class="v-num">23</span> Whoever denies the Son does not have the Father either.
 
-<span class="v-num">24</span> Let what you have heard from <span class="added-text">(the)</span> beginning abide in you. If what you have heard from <span class="added-text">(the)</span> beginning <del class="deleted-text">[might]</del> abides in you, you also will abide in the Son and in the Father.
+<span class="v-num">24</span> You, therefore, let what you heard from <span class="added-text">(the)</span> beginning abide in you. If what you heard from <span class="added-text">(the)</span> beginning abides in you, you also will abide in the Son and in the Father.
 
-<span class="v-num">25</span> And this is the promise which He has promised us - the eternal life.
+<span class="v-num">25</span> And this is the promise which he himself promised us: eternal life.
 
-<span class="v-num">26</span> I have written these things <span class="added-text">(to)</span> you about the ones misleading you.
+<span class="v-num">26</span> These things I wrote to you concerning the ones deceiving you.
 
-<span class="v-num">27</span> And the anointing which you received from Him abides in you, and you have no need that anyone <del class="deleted-text">[may]</del> teach you, but as his anointing teaches you about all things, and is true and is not a lie, and just as it has taught you, abide in Him.
+<span class="v-num">27</span> And you, the anointing which you received from him abides in you, and you have no need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it taught you, you will abide in him.[^6]
 
-<span class="v-num">28</span> And now, children, abide in Him, so that <span class="alt-label">if</span><span class="alt-text">(=when)</span> He <del class="deleted-text">[might]</del> appears we might have confidence and might not be ashamed <span class="alt-label">from</span><span class="alt-text">(=before)</span> Him at his coming.
+<span class="v-num">28</span> And now, little children, abide in him, so that when he is revealed we may have <span class="alt-label">confidence</span><span class="alt-text">(=boldness)</span>, and may not be ashamed before him at his <span class="alt-label">coming</span><span class="alt-text">(=presence)</span>.[^7]
 
-<span class="v-num">29</span> If you <del class="deleted-text">[may]</del> know that He is righteous, you know that everyone doing the righteousness has been born of Him.
+<span class="v-num">29</span> If you know that he is righteous, you know that everyone doing righteousness has been born of him.
 
+---
+
+[^1]: ἵνα+가정법 목적절(죄짓지 않게 하려 함)과 ἐάν+가정법 조건절(만일 죄를 지으면)이 이어져 목적과 대책을 함께 제시한다.
+[^2]: ἱλασμός는 하나님의 진노를 그치게 하는 화목제물로, 그리스도의 대속의 보편성(온 세상을 위함)을 강조한다.
+[^3]: γράφω(현재형)가 세 대상(아비들·청년들·어린아이들)에게 반복되어 지금 쓰는 행위를 생생하게 강조한다.
+[^4]: ἔγραψα(부정과거)로 바뀌어 앞서 쓴 편지(또는 이 서신 자체)를 돌아보는 시점을 나타내나, 본문은 개역체 과거형으로 통일한다.
+[^5]: εἰ+직설법 과거·ἂν+과거완료로 이루어진 반사실적 조건문이며, ἵνα φανερωθῶσιν은 그들이 나간 목적(가정법)을 밝힌다.
+[^6]: οὐ χρείαν ἔχετε ἵνα τις διδάσκῃ에서 ἵνα절은 목적이 아니라 χρεία의 내용을 나타내는 부정사적 용법으로 쓰였다.
+[^7]: ἵνα...ἔχωμεν...καὶ μὴ αἰσχυνθῶμεν은 재림 때 담대함을 얻고 부끄럽지 않게 되려는 목적을 나타내는 가정법 목적절이다.
